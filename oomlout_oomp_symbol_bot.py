@@ -34,4 +34,51 @@ def go_through_directories():
                     filename = os.path.join(root, name, file)
 
                     oom_kicad.generate_outputs_symbol(filename=filename)
-            
+
+def make_readmes():
+    # go through all directories in footprints
+    for root, dirs, files in os.walk("symbols"):
+        #for each directory
+        for name in dirs:
+            #go through the files in this directory just one level
+            name = name.replace("\\", "/")
+            name = f'{name}/working'
+            for file in os.listdir(os.path.join(root, name)):
+                #if kicad_mod file
+                if file.endswith("working.yaml"):
+                    filename = os.path.join(root, name, file)
+                    #make readme
+                    make_readme(yaml_file=filename)                 
+
+
+def make_readme(**kwargs):
+    yaml_file = kwargs.get('yaml_file', None)
+    #load yanml file into symb
+    with open(yaml_file, 'r') as stream:
+        symb = yaml.safe_load(stream)
+    symbol = symb['symbol']
+    repo = symb['repo']
+    
+    #adding oomp_deets
+    oomp_deets = oom_kicad.get_oomp_deets_symbol(symb=symb)
+
+
+    symb["oomp_deets"] = oomp_deets
+
+    #rename yaml_file from .yaml to _original.yaml
+    os.rename(yaml_file, yaml_file.replace(".yaml", "_original.yaml"))
+    #dump symb to yaml_file
+    with open(yaml_file, 'w') as outfile:
+        yaml.dump(symb, outfile, default_flow_style=False)
+
+
+
+    
+
+
+
+
+
+
+
+    
