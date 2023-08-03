@@ -4,6 +4,7 @@ import os
 
 def go_through_directories():
     # go through all directories in footprints
+    count = 0
     for root, dirs, files in os.walk("symbols"):
         #for each directory
         for name in dirs:
@@ -15,7 +16,12 @@ def go_through_directories():
                 if file.endswith(".kicad_sym"):
                     filename = os.path.join(root, name, file)
 
-                    oom_kicad.generate_outputs_symbol(filename=filename)
+                    counter = oom_kicad.generate_outputs_symbol(filename=filename)
+
+                    count += counter
+                    #commit to github using oom_kicad after 250 files
+                    if count % 250 == 0:
+                        oom_kicad.push_to_git()
 
 
 
