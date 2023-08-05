@@ -26,7 +26,7 @@ def go_through_directories():
 
                         count += counter
                         #commit to github using oom_kicad after 250 files
-                        if count % 250 == 0:
+                        if count % 500 == 0:
                             oom_kicad.push_to_git(count=count)
 
 
