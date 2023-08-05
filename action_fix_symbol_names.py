@@ -3,7 +3,7 @@ import os
 
 
 def main():
-    #rename_folders()
+    rename_folders()
     lower_case_folders()
 
 
@@ -26,7 +26,7 @@ def rename_folders():
         #for each directory
         for name in dirs:
             #go through the files in this directory just one level
-            remove_strings = ["kicad_library_","libraries_kicad_symbols_"]
+            remove_strings = ["kicad_library_","libraries_kicad_symbols_", "libraries_symbols_"]
             for remove_string in remove_strings:
                 #rename the directory by remoiving remove_string
                 if remove_string in name:

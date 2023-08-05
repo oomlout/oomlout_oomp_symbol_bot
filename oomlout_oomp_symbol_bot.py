@@ -18,6 +18,18 @@ def copy_data():
     #copy with directory tree with shutil
     import shutil
     shutil.copytree(directory_src, directory_dst, dirs_exist_ok=True)
+
+    #go through all readme.md in symbols and reanem readme_src.md
+    for root, dirs, files in os.walk("symbols"):
+        for file in files:
+            #if kicad_mod file
+            if file.endswith("readme.md"):
+                filename = os.path.join(root, file)
+                #rename readme.md to readme_src.md
+                os.rename(filename, filename.replace("readme.md", "readme_src.md"))
+
+
+
     print("Data copied")
 
 def go_through_directories():
