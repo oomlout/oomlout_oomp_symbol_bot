@@ -25,7 +25,9 @@ def copy_data():
             #if kicad_mod file
             if file.endswith("readme.md"):
                 filename = os.path.join(root, file)
-                #rename readme.md to readme_src.md
+                #rename readme.md to readme_src.md delete any prexisting readme_src first
+                if os.path.exists(filename.replace("readme.md", "readme_src.md")):
+                    os.remove(filename.replace("readme.md", "readme_src.md"))                
                 os.rename(filename, filename.replace("readme.md", "readme_src.md"))
 
 
