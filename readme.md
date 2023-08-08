@@ -14,6 +14,9 @@
 * action_generate_symbol_outputs.py -- generate all the outputs for every kicad_sym file
 * action_fix_symbol_names.py -- remove accidental inclusions in the directory names
 * action_generate_image_resolutions.py -- generates different resolutions of images
+* action_create_doc.py -- copy all the flat folders over to doc folder right now just replace _ with /
+* action_generate_readmes.py -- generate all the readmes
+
 
 ## knowin issues
 
