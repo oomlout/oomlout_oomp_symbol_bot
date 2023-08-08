@@ -13,11 +13,14 @@ def go_through_directories():
             name = f'{name}/working'
             for file in os.listdir(os.path.join(root, name)):
                 #if kicad_mod file
-                if file.endswith(".kicad_sym"):
+                #
+                # if file.endswith(".kicad_sym"):  ### was missing ones with depndancies
+                if file.endswith(".yaml"):
                     #exclude filter array
                     filter_exclude = "fpga"
                     #if not in filter
                     filename = os.path.join(root, name, file)
+                    filename = filename.replace(".yaml", ".kicad_sym")
                     if filter_exclude not in filename.lower():
                         
                         
