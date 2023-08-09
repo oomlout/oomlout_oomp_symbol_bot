@@ -17,6 +17,7 @@ def go_through_directories():
                 # if file.endswith(".kicad_sym"):  ### was missing ones with depndancies
                 if file.endswith(".yaml"):
                     filter = "atmega328"
+                    filter = ""
                     #exclude filter array
                     filter_exclude = "fpga"
                     #if not in filter
