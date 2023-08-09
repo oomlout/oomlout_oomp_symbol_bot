@@ -16,6 +16,7 @@ def go_through_directories():
                 #
                 # if file.endswith(".kicad_sym"):  ### was missing ones with depndancies
                 if file.endswith(".yaml"):
+                    filter = "atmega328"
                     #exclude filter array
                     filter_exclude = "fpga"
                     #if not in filter
@@ -23,14 +24,14 @@ def go_through_directories():
                     filename = filename.replace(".yaml", ".kicad_sym")
                     if filter_exclude not in filename.lower():
                         
-                        
+                        if filter in filename.lower():
 
-                        counter = oom_kicad.generate_outputs_symbol(filename=filename)
+                            counter = oom_kicad.generate_outputs_symbol(filename=filename)
 
-                        count += counter
-                        #commit to github using oom_kicad after 250 files
-                        if count % 250 == 0:
-                            oom_kicad.push_to_git(count=count)
+                            count += counter
+                            #commit to github using oom_kicad after 250 files
+                            if count % 250 == 0:
+                                oom_kicad.push_to_git(count=count)
 
 
 
