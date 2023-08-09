@@ -23,7 +23,16 @@ def main():
                 import yaml
                 with open(yaml_file) as f:
                     yaml_dict = yaml.load(f, Loader=yaml.FullLoader)
-                owner = yaml_dict.get("owner", "")
+                
+                owner = ""
+                repo = yaml_dict.get("repo", "")
+                if repo != "":
+                    owner = repo.get("owner", "")
+                    owner = owner.lower()
+                    #replace special characters using oom_base
+                    owner = oom_base.remove_special_characters(owner)
+                
+                
                 library = yaml_dict.get("library_name", "")
                 library = library.lower()
                 #replace special characters using oom_base
@@ -31,6 +40,13 @@ def main():
                 
                 symbol_name = yaml_dict.get("name", "")
                 symbol_name = symbol_name.replace(f"{library}_", "")
+
+                if symbol_name == "":
+                    symbol_name = root
+                    symbol_name = symbol_name.replace("symbols\\", "")
+                    symbol_name = symbol_name.replace("\\working", "")
+                    symbol_name = symbol_name.replace(f"{owner}_{library}_", "")
+                    pass
 
                 dst = f"c:/gh/oomlout_oomp_symbol_doc/symbols/{owner}/{library}/{symbol_name}"
 
