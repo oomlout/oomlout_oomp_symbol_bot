@@ -1,6 +1,6 @@
 import oom_base
 
-
+import oom_kicad
 
 def main():
     #go through all files in symbols/
@@ -19,13 +19,14 @@ def main():
                         filename = os.path.join(root, name, file)
                         #print(filename)
                         oom_base.generate_image(filename=filename, resolution=resolution)
-                    pass
-                    count += 1
-                    #print a dot every 1000 files
-                    if count % 100 == 0:
-                        print(".", end="", flush=True)
-                    
-
+                        pass
+                        count += 1
+                        #print a dot every 1000 files
+                        if count % 100 == 0:
+                            print(".", end="", flush=True)
+                        if count % 2500 == 0:
+                            oom_kicad.push_to_git(count=count)
+    oom_kicad.push_to_git(count=count)
 
 
 
