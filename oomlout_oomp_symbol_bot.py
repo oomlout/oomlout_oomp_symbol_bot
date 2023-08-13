@@ -5,13 +5,17 @@ import oom_kicad
 import oom_markdown
 
 def load_data():
-    github_data = "https://github.com/oomlout/oomlout_oomp_symbol_src"
+    github_datas = []
+    github_datas.append("https://github.com/oomlout/oomlout_oomp_symbol_src")
+    github_datas.append("https://github.com/oomlout/oomlout_oomp_symbol_all_the_kicad_symbols")
 
-    #make tmp/data directory if it doesn't already exist
-    if not os.path.exists("tmp\\data\\"):
-        os.makedirs("tmp\\data\\")
-    #clone to tmp/
-    os.system("git clone " + github_data + " tmp\\data\\")   
+    for github_data in github_datas:
+
+        #make tmp/data directory if it doesn't already exist
+        if not os.path.exists("tmp\\data\\"):
+            os.makedirs("tmp\\data\\")
+        #clone to tmp/
+        os.system("git clone " + github_data + " tmp\\data\\")   
 
 def copy_data():
     print("Copying data")
