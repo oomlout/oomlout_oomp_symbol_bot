@@ -17,7 +17,7 @@ def go_through_directories():
                     #
                     # if file.endswith(".kicad_sym"):  ### was missing ones with depndancies
                     if file.endswith(".yaml"):
-                        filter = "regulator"
+                        filter = "nettie"
                         #filter = ""
                         #exclude filter array
                         filter_exclude = "fpga"
