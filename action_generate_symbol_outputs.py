@@ -17,14 +17,15 @@ def go_through_directories():
                     #
                     # if file.endswith(".kicad_sym"):  ### was missing ones with depndancies
                     if file.endswith(".yaml"):
-                        filter = "nettie"
+                        filter = "kicad"
                         #filter = ""
                         #exclude filter array
-                        filter_exclude = "fpga"
+                        filter_exclude = ["fpga","isolator"]
                         #if not in filter
                         filename = os.path.join(root, name, file)
                         filename = filename.replace(".yaml", ".kicad_sym")
-                        if filter_exclude not in filename.lower():
+                        # if none of the exclude filters are in the filename
+                        if not any(x in filename.lower() for x in filter_exclude):                        
                             
                             if filter in filename.lower():
 
