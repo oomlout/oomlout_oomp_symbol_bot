@@ -14,7 +14,7 @@ def go_through_directories():
                 name = f'{name}/working'
                 for file in os.listdir(os.path.join(root, name)):
                     #if kicad_mod file
-                    #
+                    #                                
                     # if file.endswith(".kicad_sym"):  ### was missing ones with depndancies
                     if file.endswith(".yaml"):
                         filter = "kicad"
