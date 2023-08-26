@@ -1,8 +1,11 @@
 import oom_kicad
 import os
+import oomBase
 
 
 def go_through_directories():
+    oomBase.oomSendAltTab()
+    oomBase.delay(2)
     # go through all directories in footprints
     count = 1
     for root, dirs, files in os.walk("symbols"):
@@ -29,7 +32,7 @@ def go_through_directories():
                             
                             if filter in filename.lower():
 
-                                counter = oom_kicad.generate_outputs_symbol(filename=filename)
+                                counter = oom_kicad.generate_outputs_symbol(filename=filename, computer = "surface")
 
                                 count += counter
                                 #commit to github using oom_kicad after 250 files
