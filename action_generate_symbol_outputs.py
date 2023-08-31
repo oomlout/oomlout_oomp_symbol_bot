@@ -23,7 +23,7 @@ def go_through_directories():
                         filter = "kicad"
                         #filter = ""
                         #exclude filter array
-                        filter_exclude = ["fpga","isolator"]
+                        filter_exclude = ["isolator"]
                         #if not in filter
                         filename = os.path.join(root, name, file)
                         filename = filename.replace(".yaml", ".kicad_sym")
