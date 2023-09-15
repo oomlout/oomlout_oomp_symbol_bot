@@ -9,9 +9,21 @@ links:
   oomp_src_flat: symbols_flat/kicad_switch_sw_dpst/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_switch_sw_dpst/working
 name: switch_sw_dpst
+oomp:
+  library_name: switch
+  md5: af4b49a433843ae6f07bf84709e6d3df
+  md5_10: af4b49a433
+  md5_5: af4b4
+  md5_6: af4b49
+  oomp_key: oomp_switch_sw_dpst
+  oomp_key_extra: oomp_symbol_switch_sw_dpst
+  oomp_key_full: oomp_symbol_switch_sw_dpst_af4b49
+  oomp_key_simple: switch_sw_dpst
+  owner_name: kicad
+  symbol_name: switch_sw_dpst
 oomp_key: oomp_kicad_switch_sw_dpst
 oomp_key_simple: kicad_switch_sw_dpst
-owner: arturo182
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: libraries/kicad-symbols

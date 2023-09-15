@@ -9,9 +9,21 @@ links:
   oomp_src_flat: symbols_flat/kicad_power_ac/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_ac/working
 name: power_ac
+oomp:
+  library_name: power
+  md5: 62465d0bb037270c26da80e343081932
+  md5_10: 62465d0bb0
+  md5_5: '62465'
+  md5_6: 62465d
+  oomp_key: oomp_power_ac
+  oomp_key_extra: oomp_symbol_power_ac
+  oomp_key_full: oomp_symbol_power_ac_62465d
+  oomp_key_simple: power_ac
+  owner_name: kicad
+  symbol_name: power_ac
 oomp_key: oomp_kicad_power_ac
 oomp_key_simple: kicad_power_ac
-owner: arturo182
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: libraries/kicad-symbols

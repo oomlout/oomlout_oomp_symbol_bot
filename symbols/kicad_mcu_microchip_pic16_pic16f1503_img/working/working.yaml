@@ -9,9 +9,21 @@ links:
   oomp_src_flat: symbols_flat/kicad_mcu_microchip_pic16_pic16f1503_img/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_microchip_pic16_pic16f1503_img/working
 name: mcu_microchip_pic16_pic16f1503_img
+oomp:
+  library_name: mcu_microchip_pic16
+  md5: cbdb7943095d4f83c50fbc7c40f360f8
+  md5_10: cbdb794309
+  md5_5: cbdb7
+  md5_6: cbdb79
+  oomp_key: oomp_mcu_microchip_pic16_pic16f1503_img
+  oomp_key_extra: oomp_symbol_mcu_microchip_pic16_pic16f1503_img
+  oomp_key_full: oomp_symbol_mcu_microchip_pic16_pic16f1503_img_cbdb79
+  oomp_key_simple: mcu_microchip_pic16_pic16f1503_img
+  owner_name: kicad
+  symbol_name: mcu_microchip_pic16_pic16f1503_img
 oomp_key: oomp_kicad_mcu_microchip_pic16_pic16f1503_img
 oomp_key_simple: kicad_mcu_microchip_pic16_pic16f1503_img
-owner: arturo182
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: libraries/kicad-symbols

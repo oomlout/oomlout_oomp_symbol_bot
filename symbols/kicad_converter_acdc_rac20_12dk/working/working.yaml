@@ -9,9 +9,21 @@ links:
   oomp_src_flat: symbols_flat/kicad_converter_acdc_rac20_12dk/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_converter_acdc_rac20_12dk/working
 name: converter_acdc_rac20_12dk
+oomp:
+  library_name: converter_acdc
+  md5: b877b9e7a83c49ecab204109c8c7803b
+  md5_10: b877b9e7a8
+  md5_5: b877b
+  md5_6: b877b9
+  oomp_key: oomp_converter_acdc_rac20_12dk
+  oomp_key_extra: oomp_symbol_converter_acdc_rac20_12dk
+  oomp_key_full: oomp_symbol_converter_acdc_rac20_12dk_b877b9
+  oomp_key_simple: converter_acdc_rac20_12dk
+  owner_name: kicad
+  symbol_name: converter_acdc_rac20_12dk
 oomp_key: oomp_kicad_converter_acdc_rac20_12dk
 oomp_key_simple: kicad_converter_acdc_rac20_12dk
-owner: arturo182
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: libraries/kicad-symbols

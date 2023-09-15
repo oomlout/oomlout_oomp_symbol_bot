@@ -9,9 +9,21 @@ links:
   oomp_src_flat: symbols_flat/kicad_device_q_nmos_dsg/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_q_nmos_dsg/working
 name: device_q_nmos_dsg
+oomp:
+  library_name: device
+  md5: e560e4db08f23c59b124dfb12c07ad91
+  md5_10: e560e4db08
+  md5_5: e560e
+  md5_6: e560e4
+  oomp_key: oomp_device_q_nmos_dsg
+  oomp_key_extra: oomp_symbol_device_q_nmos_dsg
+  oomp_key_full: oomp_symbol_device_q_nmos_dsg_e560e4
+  oomp_key_simple: device_q_nmos_dsg
+  owner_name: kicad
+  symbol_name: device_q_nmos_dsg
 oomp_key: oomp_kicad_device_q_nmos_dsg
 oomp_key_simple: kicad_device_q_nmos_dsg
-owner: arturo182
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: libraries/kicad-symbols

@@ -1,4 +1,16 @@
 library_name: Regulator_Switching
+oomp:
+  library_name: regulator_switching
+  md5: edd9b75065c8831ee8d750a4cc5d93cf
+  md5_10: edd9b75065
+  md5_5: edd9b
+  md5_6: edd9b7
+  oomp_key: oomp_regulator_switching_tny278g
+  oomp_key_extra: oomp_symbol_regulator_switching_tny278g
+  oomp_key_full: oomp_symbol_regulator_switching_tny278g_edd9b7
+  oomp_key_simple: regulator_switching_tny278g
+  owner_name: kicad
+  symbol_name: regulator_switching_tny278g
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: libraries/kicad-symbols

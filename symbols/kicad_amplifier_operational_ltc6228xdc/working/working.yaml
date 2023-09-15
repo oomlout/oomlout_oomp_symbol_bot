@@ -9,9 +9,21 @@ links:
   oomp_src_flat: symbols_flat/kicad_amplifier_operational_ltc6228xdc/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_operational_ltc6228xdc/working
 name: amplifier_operational_ltc6228xdc
+oomp:
+  library_name: amplifier_operational
+  md5: e02e3b0d19d5b36a656ca220fceb24b9
+  md5_10: e02e3b0d19
+  md5_5: e02e3
+  md5_6: e02e3b
+  oomp_key: oomp_amplifier_operational_ltc6228xdc
+  oomp_key_extra: oomp_symbol_amplifier_operational_ltc6228xdc
+  oomp_key_full: oomp_symbol_amplifier_operational_ltc6228xdc_e02e3b
+  oomp_key_simple: amplifier_operational_ltc6228xdc
+  owner_name: kicad
+  symbol_name: amplifier_operational_ltc6228xdc
 oomp_key: oomp_kicad_amplifier_operational_ltc6228xdc
 oomp_key_simple: kicad_amplifier_operational_ltc6228xdc
-owner: arturo182
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: libraries/kicad-symbols

@@ -1,4 +1,16 @@
 library_name: Connector
+oomp:
+  library_name: connector
+  md5: 0c1aeeef78f2da20ff879b6edcfd5458
+  md5_10: 0c1aeeef78
+  md5_5: 0c1ae
+  md5_6: 0c1aee
+  oomp_key: oomp_connector_rj38_shielded
+  oomp_key_extra: oomp_symbol_connector_rj38_shielded
+  oomp_key_full: oomp_symbol_connector_rj38_shielded_0c1aee
+  oomp_key_simple: connector_rj38_shielded
+  owner_name: kicad
+  symbol_name: connector_rj38_shielded
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: libraries/kicad-symbols

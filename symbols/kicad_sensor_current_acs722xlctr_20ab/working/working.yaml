@@ -1,4 +1,16 @@
 library_name: Sensor_Current
+oomp:
+  library_name: sensor_current
+  md5: 9a6a087ae923154f6b8780b259e9dd0c
+  md5_10: 9a6a087ae9
+  md5_5: 9a6a0
+  md5_6: 9a6a08
+  oomp_key: oomp_sensor_current_acs722xlctr_20ab
+  oomp_key_extra: oomp_symbol_sensor_current_acs722xlctr_20ab
+  oomp_key_full: oomp_symbol_sensor_current_acs722xlctr_20ab_9a6a08
+  oomp_key_simple: sensor_current_acs722xlctr_20ab
+  owner_name: kicad
+  symbol_name: sensor_current_acs722xlctr_20ab
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: libraries/kicad-symbols

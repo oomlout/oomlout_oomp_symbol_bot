@@ -9,9 +9,21 @@ links:
   oomp_src_flat: symbols_flat/kicad_power_36v/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_36v/working
 name: power_36v
+oomp:
+  library_name: power
+  md5: ccd2ca0b4d1b88486a6239295b6a9d63
+  md5_10: ccd2ca0b4d
+  md5_5: ccd2c
+  md5_6: ccd2ca
+  oomp_key: oomp_power_36v
+  oomp_key_extra: oomp_symbol_power_36v
+  oomp_key_full: oomp_symbol_power_36v_ccd2ca
+  oomp_key_simple: power_36v
+  owner_name: kicad
+  symbol_name: power_36v
 oomp_key: oomp_kicad_power_36v
 oomp_key_simple: kicad_power_36v
-owner: arturo182
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: libraries/kicad-symbols

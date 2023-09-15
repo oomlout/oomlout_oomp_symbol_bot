@@ -9,9 +9,21 @@ links:
   oomp_src_flat: symbols_flat/kicad_connector_generic_conn_02x27_odd_even/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_generic_conn_02x27_odd_even/working
 name: connector_generic_conn_02x27_odd_even
+oomp:
+  library_name: connector_generic
+  md5: 229fea169db813a2bb10ed30186b6b81
+  md5_10: 229fea169d
+  md5_5: 229fe
+  md5_6: 229fea
+  oomp_key: oomp_connector_generic_conn_02x27_odd_even
+  oomp_key_extra: oomp_symbol_connector_generic_conn_02x27_odd_even
+  oomp_key_full: oomp_symbol_connector_generic_conn_02x27_odd_even_229fea
+  oomp_key_simple: connector_generic_conn_02x27_odd_even
+  owner_name: kicad
+  symbol_name: connector_generic_conn_02x27_odd_even
 oomp_key: oomp_kicad_connector_generic_conn_02x27_odd_even
 oomp_key_simple: kicad_connector_generic_conn_02x27_odd_even
-owner: arturo182
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: libraries/kicad-symbols

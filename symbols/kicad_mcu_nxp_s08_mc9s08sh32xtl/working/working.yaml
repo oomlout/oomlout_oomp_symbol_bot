@@ -9,9 +9,21 @@ links:
   oomp_src_flat: symbols_flat/kicad_mcu_nxp_s08_mc9s08sh32xtl/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_nxp_s08_mc9s08sh32xtl/working
 name: mcu_nxp_s08_mc9s08sh32xtl
+oomp:
+  library_name: mcu_nxp_s08
+  md5: d0d555ded2f5bb68075dee5a985e37b7
+  md5_10: d0d555ded2
+  md5_5: d0d55
+  md5_6: d0d555
+  oomp_key: oomp_mcu_nxp_s08_mc9s08sh32xtl
+  oomp_key_extra: oomp_symbol_mcu_nxp_s08_mc9s08sh32xtl
+  oomp_key_full: oomp_symbol_mcu_nxp_s08_mc9s08sh32xtl_d0d555
+  oomp_key_simple: mcu_nxp_s08_mc9s08sh32xtl
+  owner_name: kicad
+  symbol_name: mcu_nxp_s08_mc9s08sh32xtl
 oomp_key: oomp_kicad_mcu_nxp_s08_mc9s08sh32xtl
 oomp_key_simple: kicad_mcu_nxp_s08_mc9s08sh32xtl
-owner: arturo182
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: libraries/kicad-symbols

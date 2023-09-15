@@ -9,9 +9,21 @@ links:
   oomp_src_flat: symbols_flat/kicad_connector_usb_a_stacked/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_usb_a_stacked/working
 name: connector_usb_a_stacked
+oomp:
+  library_name: connector
+  md5: 2ae0d217b697254e6372bb50a6789299
+  md5_10: 2ae0d217b6
+  md5_5: 2ae0d
+  md5_6: 2ae0d2
+  oomp_key: oomp_connector_usb_a_stacked
+  oomp_key_extra: oomp_symbol_connector_usb_a_stacked
+  oomp_key_full: oomp_symbol_connector_usb_a_stacked_2ae0d2
+  oomp_key_simple: connector_usb_a_stacked
+  owner_name: kicad
+  symbol_name: connector_usb_a_stacked
 oomp_key: oomp_kicad_connector_usb_a_stacked
 oomp_key_simple: kicad_connector_usb_a_stacked
-owner: arturo182
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: libraries/kicad-symbols

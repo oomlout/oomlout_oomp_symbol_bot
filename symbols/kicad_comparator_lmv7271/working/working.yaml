@@ -9,9 +9,21 @@ links:
   oomp_src_flat: symbols_flat/kicad_comparator_lmv7271/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_comparator_lmv7271/working
 name: comparator_lmv7271
+oomp:
+  library_name: comparator
+  md5: aabd66ff990cd49a373798af2fd2d3b8
+  md5_10: aabd66ff99
+  md5_5: aabd6
+  md5_6: aabd66
+  oomp_key: oomp_comparator_lmv7271
+  oomp_key_extra: oomp_symbol_comparator_lmv7271
+  oomp_key_full: oomp_symbol_comparator_lmv7271_aabd66
+  oomp_key_simple: comparator_lmv7271
+  owner_name: kicad
+  symbol_name: comparator_lmv7271
 oomp_key: oomp_kicad_comparator_lmv7271
 oomp_key_simple: kicad_comparator_lmv7271
-owner: arturo182
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: libraries/kicad-symbols

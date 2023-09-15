@@ -9,9 +9,21 @@ links:
   oomp_src_flat: symbols_flat/kicad_power_gnd/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_gnd/working
 name: power_gnd
+oomp:
+  library_name: power
+  md5: 9d3be1f77b9d0723fd049779404b87bb
+  md5_10: 9d3be1f77b
+  md5_5: 9d3be
+  md5_6: 9d3be1
+  oomp_key: oomp_power_gnd
+  oomp_key_extra: oomp_symbol_power_gnd
+  oomp_key_full: oomp_symbol_power_gnd_9d3be1
+  oomp_key_simple: power_gnd
+  owner_name: kicad
+  symbol_name: power_gnd
 oomp_key: oomp_kicad_power_gnd
 oomp_key_simple: kicad_power_gnd
-owner: arturo182
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: libraries/kicad-symbols

@@ -9,9 +9,21 @@ links:
   oomp_src_flat: symbols_flat/kicad_transformer_transf2/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_transformer_transf2/working
 name: transformer_transf2
+oomp:
+  library_name: transformer
+  md5: 38da3ff8a50e7c118c5b91320f957218
+  md5_10: 38da3ff8a5
+  md5_5: 38da3
+  md5_6: 38da3f
+  oomp_key: oomp_transformer_transf2
+  oomp_key_extra: oomp_symbol_transformer_transf2
+  oomp_key_full: oomp_symbol_transformer_transf2_38da3f
+  oomp_key_simple: transformer_transf2
+  owner_name: kicad
+  symbol_name: transformer_transf2
 oomp_key: oomp_kicad_transformer_transf2
 oomp_key_simple: kicad_transformer_transf2
-owner: arturo182
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: libraries/kicad-symbols

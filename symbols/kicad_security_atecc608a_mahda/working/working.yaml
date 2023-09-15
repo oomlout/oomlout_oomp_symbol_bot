@@ -9,9 +9,21 @@ links:
   oomp_src_flat: symbols_flat/kicad_security_atecc608a_mahda/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_security_atecc608a_mahda/working
 name: security_atecc608a_mahda
+oomp:
+  library_name: security
+  md5: 162f5940097d956dbcbca504ca6ba705
+  md5_10: 162f594009
+  md5_5: 162f5
+  md5_6: 162f59
+  oomp_key: oomp_security_atecc608a_mahda
+  oomp_key_extra: oomp_symbol_security_atecc608a_mahda
+  oomp_key_full: oomp_symbol_security_atecc608a_mahda_162f59
+  oomp_key_simple: security_atecc608a_mahda
+  owner_name: kicad
+  symbol_name: security_atecc608a_mahda
 oomp_key: oomp_kicad_security_atecc608a_mahda
 oomp_key_simple: kicad_security_atecc608a_mahda
-owner: arturo182
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: libraries/kicad-symbols

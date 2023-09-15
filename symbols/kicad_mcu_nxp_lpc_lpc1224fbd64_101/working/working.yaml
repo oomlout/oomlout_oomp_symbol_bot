@@ -9,9 +9,21 @@ links:
   oomp_src_flat: symbols_flat/kicad_mcu_nxp_lpc_lpc1224fbd64_101/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_nxp_lpc_lpc1224fbd64_101/working
 name: mcu_nxp_lpc_lpc1224fbd64_101
+oomp:
+  library_name: mcu_nxp_lpc
+  md5: 14b1732ddf378ad245e7bb25dce69728
+  md5_10: 14b1732ddf
+  md5_5: 14b17
+  md5_6: 14b173
+  oomp_key: oomp_mcu_nxp_lpc_lpc1224fbd64_101
+  oomp_key_extra: oomp_symbol_mcu_nxp_lpc_lpc1224fbd64_101
+  oomp_key_full: oomp_symbol_mcu_nxp_lpc_lpc1224fbd64_101_14b173
+  oomp_key_simple: mcu_nxp_lpc_lpc1224fbd64_101
+  owner_name: kicad
+  symbol_name: mcu_nxp_lpc_lpc1224fbd64_101
 oomp_key: oomp_kicad_mcu_nxp_lpc_lpc1224fbd64_101
 oomp_key_simple: kicad_mcu_nxp_lpc_lpc1224fbd64_101
-owner: arturo182
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: libraries/kicad-symbols

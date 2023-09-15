@@ -9,9 +9,21 @@ links:
   oomp_src_flat: symbols_flat/kicad_rf_zigbee_mc13192/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_rf_zigbee_mc13192/working
 name: rf_zigbee_mc13192
+oomp:
+  library_name: rf_zigbee
+  md5: 995abc8cdaebac23776af91cdd41881c
+  md5_10: 995abc8cda
+  md5_5: 995ab
+  md5_6: 995abc
+  oomp_key: oomp_rf_zigbee_mc13192
+  oomp_key_extra: oomp_symbol_rf_zigbee_mc13192
+  oomp_key_full: oomp_symbol_rf_zigbee_mc13192_995abc
+  oomp_key_simple: rf_zigbee_mc13192
+  owner_name: kicad
+  symbol_name: rf_zigbee_mc13192
 oomp_key: oomp_kicad_rf_zigbee_mc13192
 oomp_key_simple: kicad_rf_zigbee_mc13192
-owner: arturo182
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: libraries/kicad-symbols

@@ -9,9 +9,21 @@ links:
   oomp_src_flat: symbols_flat/kicad_connector_generic_conn_01x11/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_generic_conn_01x11/working
 name: connector_generic_conn_01x11
+oomp:
+  library_name: connector_generic
+  md5: 4352b1e491dcfbf08bc50ef4a65aad84
+  md5_10: 4352b1e491
+  md5_5: 4352b
+  md5_6: 4352b1
+  oomp_key: oomp_connector_generic_conn_01x11
+  oomp_key_extra: oomp_symbol_connector_generic_conn_01x11
+  oomp_key_full: oomp_symbol_connector_generic_conn_01x11_4352b1
+  oomp_key_simple: connector_generic_conn_01x11
+  owner_name: kicad
+  symbol_name: connector_generic_conn_01x11
 oomp_key: oomp_kicad_connector_generic_conn_01x11
 oomp_key_simple: kicad_connector_generic_conn_01x11
-owner: arturo182
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: libraries/kicad-symbols

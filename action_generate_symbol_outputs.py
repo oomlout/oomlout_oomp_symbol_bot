@@ -2,11 +2,14 @@ import oom_kicad
 import os
 import oomBase
 
+def main():
+    go_through_directories()
 
 def go_through_directories():
     oomBase.oomSendAltTab()
     oomBase.delay(2)
     # go through all directories in footprints
+    
     count = 1
     for root, dirs, files in os.walk("symbols"):
         #for each directory
@@ -36,8 +39,9 @@ def go_through_directories():
 
                                 count += counter
                                 #commit to github using oom_kicad after 250 files
-                                if count % 250 == 0:
-                                    oom_kicad.push_to_git(count=count)
+                                if count % 1 == 0:                                   
+                                    import oom_git
+                                    oom_git.push_to_git(count=count)
     oom_kicad.push_to_git(count=count)
 
 

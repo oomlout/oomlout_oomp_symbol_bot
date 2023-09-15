@@ -9,9 +9,21 @@ links:
   oomp_src_flat: symbols_flat/kicad_rf_module_rak4200/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_rf_module_rak4200/working
 name: rf_module_rak4200
+oomp:
+  library_name: rf_module
+  md5: 88a3a415151f68db3ea699597e5264ca
+  md5_10: 88a3a41515
+  md5_5: 88a3a
+  md5_6: 88a3a4
+  oomp_key: oomp_rf_module_rak4200
+  oomp_key_extra: oomp_symbol_rf_module_rak4200
+  oomp_key_full: oomp_symbol_rf_module_rak4200_88a3a4
+  oomp_key_simple: rf_module_rak4200
+  owner_name: kicad
+  symbol_name: rf_module_rak4200
 oomp_key: oomp_kicad_rf_module_rak4200
 oomp_key_simple: kicad_rf_module_rak4200
-owner: arturo182
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: libraries/kicad-symbols

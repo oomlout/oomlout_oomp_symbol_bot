@@ -1,6 +1,7 @@
 import os
 import yaml
 import oom_kicad
+import oom_git
 
 import oom_markdown
 
@@ -15,11 +16,13 @@ def load_data():
         if not os.path.exists("tmp\\data\\"):
             os.makedirs("tmp\\data\\")
         #clone to tmp/
-        os.system("git clone " + github_data + " tmp\\data\\")   
+        oom_git.clone(repo=github_data, directory="tmp\\data\\")
+        dir_full  = os.path.join("tmp\\data\\", github_data.split("/")[-1])
+        oom_git.pull(directory=dir_full)
 
 def copy_data():
     print("Copying data")
-    directory_src = rf"tmp\data\symbols_flat"
+    directory_src = rf"tmp\data\oomlout_oomp_symbol_src\symbols_flat"
     directory_dst = rf"symbols"
     #copy with directory tree with shutil
     import shutil

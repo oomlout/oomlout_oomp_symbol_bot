@@ -9,9 +9,21 @@ links:
   oomp_src_flat: symbols_flat/kicad_amplifier_audio_ssm2211s/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_audio_ssm2211s/working
 name: amplifier_audio_ssm2211s
+oomp:
+  library_name: amplifier_audio
+  md5: b6b7261873cfcf7cc764d10277fbb558
+  md5_10: b6b7261873
+  md5_5: b6b72
+  md5_6: b6b726
+  oomp_key: oomp_amplifier_audio_ssm2211s
+  oomp_key_extra: oomp_symbol_amplifier_audio_ssm2211s
+  oomp_key_full: oomp_symbol_amplifier_audio_ssm2211s_b6b726
+  oomp_key_simple: amplifier_audio_ssm2211s
+  owner_name: kicad
+  symbol_name: amplifier_audio_ssm2211s
 oomp_key: oomp_kicad_amplifier_audio_ssm2211s
 oomp_key_simple: kicad_amplifier_audio_ssm2211s
-owner: arturo182
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: libraries/kicad-symbols

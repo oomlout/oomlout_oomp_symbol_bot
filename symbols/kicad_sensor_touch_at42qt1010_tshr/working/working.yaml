@@ -9,9 +9,21 @@ links:
   oomp_src_flat: symbols_flat/kicad_sensor_touch_at42qt1010_tshr/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_touch_at42qt1010_tshr/working
 name: sensor_touch_at42qt1010_tshr
+oomp:
+  library_name: sensor_touch
+  md5: 76ecc1fcd4845db7d543ec7cb54bdd9f
+  md5_10: 76ecc1fcd4
+  md5_5: 76ecc
+  md5_6: 76ecc1
+  oomp_key: oomp_sensor_touch_at42qt1010_tshr
+  oomp_key_extra: oomp_symbol_sensor_touch_at42qt1010_tshr
+  oomp_key_full: oomp_symbol_sensor_touch_at42qt1010_tshr_76ecc1
+  oomp_key_simple: sensor_touch_at42qt1010_tshr
+  owner_name: kicad
+  symbol_name: sensor_touch_at42qt1010_tshr
 oomp_key: oomp_kicad_sensor_touch_at42qt1010_tshr
 oomp_key_simple: kicad_sensor_touch_at42qt1010_tshr
-owner: arturo182
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: libraries/kicad-symbols

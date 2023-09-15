@@ -9,9 +9,21 @@ links:
   oomp_src_flat: symbols_flat/kicad_device_sparkgap/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_sparkgap/working
 name: device_sparkgap
+oomp:
+  library_name: device
+  md5: ccec38219873efb555133cede9b31f71
+  md5_10: ccec382198
+  md5_5: ccec3
+  md5_6: ccec38
+  oomp_key: oomp_device_sparkgap
+  oomp_key_extra: oomp_symbol_device_sparkgap
+  oomp_key_full: oomp_symbol_device_sparkgap_ccec38
+  oomp_key_simple: device_sparkgap
+  owner_name: kicad
+  symbol_name: device_sparkgap
 oomp_key: oomp_kicad_device_sparkgap
 oomp_key_simple: kicad_device_sparkgap
-owner: arturo182
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: libraries/kicad-symbols

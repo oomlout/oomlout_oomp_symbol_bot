@@ -9,9 +9,21 @@ links:
   oomp_src_flat: symbols_flat/kicad_switch_sw_dip_x11/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_switch_sw_dip_x11/working
 name: switch_sw_dip_x11
+oomp:
+  library_name: switch
+  md5: c2d8045937855228f495d22e7ce999e0
+  md5_10: c2d8045937
+  md5_5: c2d80
+  md5_6: c2d804
+  oomp_key: oomp_switch_sw_dip_x11
+  oomp_key_extra: oomp_symbol_switch_sw_dip_x11
+  oomp_key_full: oomp_symbol_switch_sw_dip_x11_c2d804
+  oomp_key_simple: switch_sw_dip_x11
+  owner_name: kicad
+  symbol_name: switch_sw_dip_x11
 oomp_key: oomp_kicad_switch_sw_dip_x11
 oomp_key_simple: kicad_switch_sw_dip_x11
-owner: arturo182
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: libraries/kicad-symbols

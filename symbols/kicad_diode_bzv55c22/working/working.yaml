@@ -1,4 +1,16 @@
 library_name: Diode
+oomp:
+  library_name: diode
+  md5: 307dc085b8e87da73e69ca2e04046147
+  md5_10: 307dc085b8
+  md5_5: 307dc
+  md5_6: 307dc0
+  oomp_key: oomp_diode_bzv55c22
+  oomp_key_extra: oomp_symbol_diode_bzv55c22
+  oomp_key_full: oomp_symbol_diode_bzv55c22_307dc0
+  oomp_key_simple: diode_bzv55c22
+  owner_name: kicad
+  symbol_name: diode_bzv55c22
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: libraries/kicad-symbols

@@ -1,4 +1,16 @@
 library_name: Diode
+oomp:
+  library_name: diode
+  md5: efbf0e3d38db97f6ef55314948ed76d6
+  md5_10: efbf0e3d38
+  md5_5: efbf0
+  md5_6: efbf0e
+  oomp_key: oomp_diode_1n47xxa
+  oomp_key_extra: oomp_symbol_diode_1n47xxa
+  oomp_key_full: oomp_symbol_diode_1n47xxa_efbf0e
+  oomp_key_simple: diode_1n47xxa
+  owner_name: kicad
+  symbol_name: diode_1n47xxa
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: libraries/kicad-symbols

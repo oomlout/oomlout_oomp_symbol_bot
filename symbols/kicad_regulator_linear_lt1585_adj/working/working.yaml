@@ -9,9 +9,21 @@ links:
   oomp_src_flat: symbols_flat/kicad_regulator_linear_lt1585_adj/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_linear_lt1585_adj/working
 name: regulator_linear_lt1585_adj
+oomp:
+  library_name: regulator_linear
+  md5: 30939f60fc23de5e3e7ae4a769fa5a01
+  md5_10: 30939f60fc
+  md5_5: '30939'
+  md5_6: 30939f
+  oomp_key: oomp_regulator_linear_lt1585_adj
+  oomp_key_extra: oomp_symbol_regulator_linear_lt1585_adj
+  oomp_key_full: oomp_symbol_regulator_linear_lt1585_adj_30939f
+  oomp_key_simple: regulator_linear_lt1585_adj
+  owner_name: kicad
+  symbol_name: regulator_linear_lt1585_adj
 oomp_key: oomp_kicad_regulator_linear_lt1585_adj
 oomp_key_simple: kicad_regulator_linear_lt1585_adj
-owner: arturo182
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: libraries/kicad-symbols

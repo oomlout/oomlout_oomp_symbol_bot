@@ -9,9 +9,21 @@ links:
   oomp_src_flat: symbols_flat/kicad_power_vcom/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_vcom/working
 name: power_vcom
+oomp:
+  library_name: power
+  md5: 49c62f7b04d19df790c339a06ab65b4d
+  md5_10: 49c62f7b04
+  md5_5: 49c62
+  md5_6: 49c62f
+  oomp_key: oomp_power_vcom
+  oomp_key_extra: oomp_symbol_power_vcom
+  oomp_key_full: oomp_symbol_power_vcom_49c62f
+  oomp_key_simple: power_vcom
+  owner_name: kicad
+  symbol_name: power_vcom
 oomp_key: oomp_kicad_power_vcom
 oomp_key_simple: kicad_power_vcom
-owner: arturo182
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: libraries/kicad-symbols

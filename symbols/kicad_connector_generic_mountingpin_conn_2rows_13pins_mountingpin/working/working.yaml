@@ -9,9 +9,21 @@ links:
   oomp_src_flat: symbols_flat/kicad_connector_generic_mountingpin_conn_2rows_13pins_mountingpin/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_generic_mountingpin_conn_2rows_13pins_mountingpin/working
 name: connector_generic_mountingpin_conn_2rows_13pins_mountingpin
+oomp:
+  library_name: connector_generic_mountingpin
+  md5: 5647dae71e5b10b2369eb6adc7b0afed
+  md5_10: 5647dae71e
+  md5_5: 5647d
+  md5_6: 5647da
+  oomp_key: oomp_connector_generic_mountingpin_conn_2rows_13pins_mountingpin
+  oomp_key_extra: oomp_symbol_connector_generic_mountingpin_conn_2rows_13pins_mountingpin
+  oomp_key_full: oomp_symbol_connector_generic_mountingpin_conn_2rows_13pins_mountingpin_5647da
+  oomp_key_simple: connector_generic_mountingpin_conn_2rows_13pins_mountingpin
+  owner_name: kicad
+  symbol_name: connector_generic_mountingpin_conn_2rows_13pins_mountingpin
 oomp_key: oomp_kicad_connector_generic_mountingpin_conn_2rows_13pins_mountingpin
 oomp_key_simple: kicad_connector_generic_mountingpin_conn_2rows_13pins_mountingpin
-owner: arturo182
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: libraries/kicad-symbols

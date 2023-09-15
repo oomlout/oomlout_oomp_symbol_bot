@@ -9,9 +9,21 @@ links:
   oomp_src_flat: symbols_flat/kicad_potentiometer_digital_mcp4019_xxxxlt/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_potentiometer_digital_mcp4019_xxxxlt/working
 name: potentiometer_digital_mcp4019_xxxxlt
+oomp:
+  library_name: potentiometer_digital
+  md5: 86854f15f22c7198c0efa412f8ab3797
+  md5_10: 86854f15f2
+  md5_5: '86854'
+  md5_6: 86854f
+  oomp_key: oomp_potentiometer_digital_mcp4019_xxxxlt
+  oomp_key_extra: oomp_symbol_potentiometer_digital_mcp4019_xxxxlt
+  oomp_key_full: oomp_symbol_potentiometer_digital_mcp4019_xxxxlt_86854f
+  oomp_key_simple: potentiometer_digital_mcp4019_xxxxlt
+  owner_name: kicad
+  symbol_name: potentiometer_digital_mcp4019_xxxxlt
 oomp_key: oomp_kicad_potentiometer_digital_mcp4019_xxxxlt
 oomp_key_simple: kicad_potentiometer_digital_mcp4019_xxxxlt
-owner: arturo182
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: libraries/kicad-symbols

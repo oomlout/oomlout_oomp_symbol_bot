@@ -9,9 +9,21 @@ links:
   oomp_src_flat: symbols_flat/kicad_regulator_switching_lt3472/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_lt3472/working
 name: regulator_switching_lt3472
+oomp:
+  library_name: regulator_switching
+  md5: 31f13d801cc9493f75b2eecce67a30f5
+  md5_10: 31f13d801c
+  md5_5: 31f13
+  md5_6: 31f13d
+  oomp_key: oomp_regulator_switching_lt3472
+  oomp_key_extra: oomp_symbol_regulator_switching_lt3472
+  oomp_key_full: oomp_symbol_regulator_switching_lt3472_31f13d
+  oomp_key_simple: regulator_switching_lt3472
+  owner_name: kicad
+  symbol_name: regulator_switching_lt3472
 oomp_key: oomp_kicad_regulator_switching_lt3472
 oomp_key_simple: kicad_regulator_switching_lt3472
-owner: arturo182
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: libraries/kicad-symbols

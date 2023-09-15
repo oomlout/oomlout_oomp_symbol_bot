@@ -9,9 +9,21 @@ links:
   oomp_src_flat: symbols_flat/kicad_connector_conn_wallplug_earth/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_conn_wallplug_earth/working
 name: connector_conn_wallplug_earth
+oomp:
+  library_name: connector
+  md5: c38e58ec1047e09e18d1e259e7f45596
+  md5_10: c38e58ec10
+  md5_5: c38e5
+  md5_6: c38e58
+  oomp_key: oomp_connector_conn_wallplug_earth
+  oomp_key_extra: oomp_symbol_connector_conn_wallplug_earth
+  oomp_key_full: oomp_symbol_connector_conn_wallplug_earth_c38e58
+  oomp_key_simple: connector_conn_wallplug_earth
+  owner_name: kicad
+  symbol_name: connector_conn_wallplug_earth
 oomp_key: oomp_kicad_connector_conn_wallplug_earth
 oomp_key_simple: kicad_connector_conn_wallplug_earth
-owner: arturo182
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: libraries/kicad-symbols

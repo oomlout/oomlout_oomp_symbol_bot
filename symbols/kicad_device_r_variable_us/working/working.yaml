@@ -9,9 +9,21 @@ links:
   oomp_src_flat: symbols_flat/kicad_device_r_variable_us/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_r_variable_us/working
 name: device_r_variable_us
+oomp:
+  library_name: device
+  md5: 8aa7fe81a4ed30dec0a8115d4768896d
+  md5_10: 8aa7fe81a4
+  md5_5: 8aa7f
+  md5_6: 8aa7fe
+  oomp_key: oomp_device_r_variable_us
+  oomp_key_extra: oomp_symbol_device_r_variable_us
+  oomp_key_full: oomp_symbol_device_r_variable_us_8aa7fe
+  oomp_key_simple: device_r_variable_us
+  owner_name: kicad
+  symbol_name: device_r_variable_us
 oomp_key: oomp_kicad_device_r_variable_us
 oomp_key_simple: kicad_device_r_variable_us
-owner: arturo182
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: libraries/kicad-symbols

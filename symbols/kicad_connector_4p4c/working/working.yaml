@@ -9,9 +9,21 @@ links:
   oomp_src_flat: symbols_flat/kicad_connector_4p4c/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_4p4c/working
 name: connector_4p4c
+oomp:
+  library_name: connector
+  md5: 4ecfe0c384df148dfba214571ce5d071
+  md5_10: 4ecfe0c384
+  md5_5: 4ecfe
+  md5_6: 4ecfe0
+  oomp_key: oomp_connector_4p4c
+  oomp_key_extra: oomp_symbol_connector_4p4c
+  oomp_key_full: oomp_symbol_connector_4p4c_4ecfe0
+  oomp_key_simple: connector_4p4c
+  owner_name: kicad
+  symbol_name: connector_4p4c
 oomp_key: oomp_kicad_connector_4p4c
 oomp_key_simple: kicad_connector_4p4c
-owner: arturo182
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: libraries/kicad-symbols

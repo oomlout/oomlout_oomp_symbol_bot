@@ -9,9 +9,21 @@ links:
   oomp_src_flat: symbols_flat/kicad_device_d_tvs/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_d_tvs/working
 name: device_d_tvs
+oomp:
+  library_name: device
+  md5: 90e21b97359c67ad99049133832e09ff
+  md5_10: 90e21b9735
+  md5_5: 90e21
+  md5_6: 90e21b
+  oomp_key: oomp_device_d_tvs
+  oomp_key_extra: oomp_symbol_device_d_tvs
+  oomp_key_full: oomp_symbol_device_d_tvs_90e21b
+  oomp_key_simple: device_d_tvs
+  owner_name: kicad
+  symbol_name: device_d_tvs
 oomp_key: oomp_kicad_device_d_tvs
 oomp_key_simple: kicad_device_d_tvs
-owner: arturo182
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: libraries/kicad-symbols

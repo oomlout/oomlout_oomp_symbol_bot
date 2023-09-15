@@ -9,9 +9,21 @@ links:
   oomp_src_flat: symbols_flat/kicad_regulator_linear_tps70202_htssop20/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_linear_tps70202_htssop20/working
 name: regulator_linear_tps70202_htssop20
+oomp:
+  library_name: regulator_linear
+  md5: e7aba9a30f9e9bde4169a1375b11f23e
+  md5_10: e7aba9a30f
+  md5_5: e7aba
+  md5_6: e7aba9
+  oomp_key: oomp_regulator_linear_tps70202_htssop20
+  oomp_key_extra: oomp_symbol_regulator_linear_tps70202_htssop20
+  oomp_key_full: oomp_symbol_regulator_linear_tps70202_htssop20_e7aba9
+  oomp_key_simple: regulator_linear_tps70202_htssop20
+  owner_name: kicad
+  symbol_name: regulator_linear_tps70202_htssop20
 oomp_key: oomp_kicad_regulator_linear_tps70202_htssop20
 oomp_key_simple: kicad_regulator_linear_tps70202_htssop20
-owner: arturo182
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: libraries/kicad-symbols

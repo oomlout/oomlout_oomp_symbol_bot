@@ -9,9 +9,21 @@ links:
   oomp_src_flat: symbols_flat/kicad_graphic_logo_open_hardware_small/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_graphic_logo_open_hardware_small/working
 name: graphic_logo_open_hardware_small
+oomp:
+  library_name: graphic
+  md5: 6b842970384d9ee86d1221c724bf1fc3
+  md5_10: 6b84297038
+  md5_5: 6b842
+  md5_6: 6b8429
+  oomp_key: oomp_graphic_logo_open_hardware_small
+  oomp_key_extra: oomp_symbol_graphic_logo_open_hardware_small
+  oomp_key_full: oomp_symbol_graphic_logo_open_hardware_small_6b8429
+  oomp_key_simple: graphic_logo_open_hardware_small
+  owner_name: kicad
+  symbol_name: graphic_logo_open_hardware_small
 oomp_key: oomp_kicad_graphic_logo_open_hardware_small
 oomp_key_simple: kicad_graphic_logo_open_hardware_small
-owner: arturo182
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: libraries/kicad-symbols

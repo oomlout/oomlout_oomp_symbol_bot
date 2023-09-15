@@ -9,9 +9,21 @@ links:
   oomp_src_flat: symbols_flat/kicad_amplifier_operational_op179grt/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_operational_op179grt/working
 name: amplifier_operational_op179grt
+oomp:
+  library_name: amplifier_operational
+  md5: f8764f3dd67bbb421921f5191bf4818e
+  md5_10: f8764f3dd6
+  md5_5: f8764
+  md5_6: f8764f
+  oomp_key: oomp_amplifier_operational_op179grt
+  oomp_key_extra: oomp_symbol_amplifier_operational_op179grt
+  oomp_key_full: oomp_symbol_amplifier_operational_op179grt_f8764f
+  oomp_key_simple: amplifier_operational_op179grt
+  owner_name: kicad
+  symbol_name: amplifier_operational_op179grt
 oomp_key: oomp_kicad_amplifier_operational_op179grt
 oomp_key_simple: kicad_amplifier_operational_op179grt
-owner: arturo182
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: libraries/kicad-symbols

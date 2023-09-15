@@ -9,9 +9,21 @@ links:
   oomp_src_flat: symbols_flat/kicad_amplifier_audio_tda1308/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_audio_tda1308/working
 name: amplifier_audio_tda1308
+oomp:
+  library_name: amplifier_audio
+  md5: aefd9bd5cb3e1d26b2f10b805b795efb
+  md5_10: aefd9bd5cb
+  md5_5: aefd9
+  md5_6: aefd9b
+  oomp_key: oomp_amplifier_audio_tda1308
+  oomp_key_extra: oomp_symbol_amplifier_audio_tda1308
+  oomp_key_full: oomp_symbol_amplifier_audio_tda1308_aefd9b
+  oomp_key_simple: amplifier_audio_tda1308
+  owner_name: kicad
+  symbol_name: amplifier_audio_tda1308
 oomp_key: oomp_kicad_amplifier_audio_tda1308
 oomp_key_simple: kicad_amplifier_audio_tda1308
-owner: arturo182
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: libraries/kicad-symbols

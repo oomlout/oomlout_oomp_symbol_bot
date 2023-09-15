@@ -9,9 +9,21 @@ links:
   oomp_src_flat: symbols_flat/kicad_connector_audio_xlr3_audiojack3_combo_groundswitch_switch/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_audio_xlr3_audiojack3_combo_groundswitch_switch/working
 name: connector_audio_xlr3_audiojack3_combo_groundswitch_switch
+oomp:
+  library_name: connector_audio
+  md5: 809aa3ae2f09ac8325e5baba0cce7ecd
+  md5_10: 809aa3ae2f
+  md5_5: 809aa
+  md5_6: 809aa3
+  oomp_key: oomp_connector_audio_xlr3_audiojack3_combo_groundswitch_switch
+  oomp_key_extra: oomp_symbol_connector_audio_xlr3_audiojack3_combo_groundswitch_switch
+  oomp_key_full: oomp_symbol_connector_audio_xlr3_audiojack3_combo_groundswitch_switch_809aa3
+  oomp_key_simple: connector_audio_xlr3_audiojack3_combo_groundswitch_switch
+  owner_name: kicad
+  symbol_name: connector_audio_xlr3_audiojack3_combo_groundswitch_switch
 oomp_key: oomp_kicad_connector_audio_xlr3_audiojack3_combo_groundswitch_switch
 oomp_key_simple: kicad_connector_audio_xlr3_audiojack3_combo_groundswitch_switch
-owner: arturo182
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: libraries/kicad-symbols

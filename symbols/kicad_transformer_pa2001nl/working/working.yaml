@@ -9,9 +9,21 @@ links:
   oomp_src_flat: symbols_flat/kicad_transformer_pa2001nl/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_transformer_pa2001nl/working
 name: transformer_pa2001nl
+oomp:
+  library_name: transformer
+  md5: 31760d6bc825560310dbe342552353b0
+  md5_10: 31760d6bc8
+  md5_5: '31760'
+  md5_6: 31760d
+  oomp_key: oomp_transformer_pa2001nl
+  oomp_key_extra: oomp_symbol_transformer_pa2001nl
+  oomp_key_full: oomp_symbol_transformer_pa2001nl_31760d
+  oomp_key_simple: transformer_pa2001nl
+  owner_name: kicad
+  symbol_name: transformer_pa2001nl
 oomp_key: oomp_kicad_transformer_pa2001nl
 oomp_key_simple: kicad_transformer_pa2001nl
-owner: arturo182
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: libraries/kicad-symbols

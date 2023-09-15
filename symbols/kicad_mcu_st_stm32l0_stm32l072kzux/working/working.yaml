@@ -1,4 +1,16 @@
 library_name: MCU_ST_STM32L0
+oomp:
+  library_name: mcu_st_stm32l0
+  md5: 60d9b90cbc79c1829c475d7ab10cc728
+  md5_10: 60d9b90cbc
+  md5_5: 60d9b
+  md5_6: 60d9b9
+  oomp_key: oomp_mcu_st_stm32l0_stm32l072kzux
+  oomp_key_extra: oomp_symbol_mcu_st_stm32l0_stm32l072kzux
+  oomp_key_full: oomp_symbol_mcu_st_stm32l0_stm32l072kzux_60d9b9
+  oomp_key_simple: mcu_st_stm32l0_stm32l072kzux
+  owner_name: kicad
+  symbol_name: mcu_st_stm32l0_stm32l072kzux
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: libraries/kicad-symbols

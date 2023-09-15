@@ -9,9 +9,21 @@ links:
   oomp_src_flat: symbols_flat/kicad_regulator_switching_tps61230drc/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_tps61230drc/working
 name: regulator_switching_tps61230drc
+oomp:
+  library_name: regulator_switching
+  md5: 447ae8a44a04ee535459030487099520
+  md5_10: 447ae8a44a
+  md5_5: 447ae
+  md5_6: 447ae8
+  oomp_key: oomp_regulator_switching_tps61230drc
+  oomp_key_extra: oomp_symbol_regulator_switching_tps61230drc
+  oomp_key_full: oomp_symbol_regulator_switching_tps61230drc_447ae8
+  oomp_key_simple: regulator_switching_tps61230drc
+  owner_name: kicad
+  symbol_name: regulator_switching_tps61230drc
 oomp_key: oomp_kicad_regulator_switching_tps61230drc
 oomp_key_simple: kicad_regulator_switching_tps61230drc
-owner: arturo182
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: libraries/kicad-symbols

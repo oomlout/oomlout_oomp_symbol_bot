@@ -9,9 +9,21 @@ links:
   oomp_src_flat: symbols_flat/kicad_interface_optical_is471f/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_optical_is471f/working
 name: interface_optical_is471f
+oomp:
+  library_name: interface_optical
+  md5: 5752512d3173535b7fd5b35fb04bb550
+  md5_10: 5752512d31
+  md5_5: '57525'
+  md5_6: '575251'
+  oomp_key: oomp_interface_optical_is471f
+  oomp_key_extra: oomp_symbol_interface_optical_is471f
+  oomp_key_full: oomp_symbol_interface_optical_is471f_575251
+  oomp_key_simple: interface_optical_is471f
+  owner_name: kicad
+  symbol_name: interface_optical_is471f
 oomp_key: oomp_kicad_interface_optical_is471f
 oomp_key_simple: kicad_interface_optical_is471f
-owner: arturo182
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: libraries/kicad-symbols

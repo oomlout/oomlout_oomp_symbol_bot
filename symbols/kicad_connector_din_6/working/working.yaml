@@ -9,9 +9,21 @@ links:
   oomp_src_flat: symbols_flat/kicad_connector_din_6/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_din_6/working
 name: connector_din_6
+oomp:
+  library_name: connector
+  md5: bcb1bf18f4b3fc2dad0a6a8f5d82775a
+  md5_10: bcb1bf18f4
+  md5_5: bcb1b
+  md5_6: bcb1bf
+  oomp_key: oomp_connector_din_6
+  oomp_key_extra: oomp_symbol_connector_din_6
+  oomp_key_full: oomp_symbol_connector_din_6_bcb1bf
+  oomp_key_simple: connector_din_6
+  owner_name: kicad
+  symbol_name: connector_din_6
 oomp_key: oomp_kicad_connector_din_6
 oomp_key_simple: kicad_connector_din_6
-owner: arturo182
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: libraries/kicad-symbols
