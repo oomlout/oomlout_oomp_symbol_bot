@@ -39,10 +39,14 @@ def go_through_directories():
 
                                 count += counter
                                 #commit to github using oom_kicad after 250 files
-                                if count % 5 == 0:                                   
+                                if count % 250 == 0:                                   
                                     import oom_git
-                                    oom_git.push_to_git(count=count)
-    oom_kicad.push_to_git(count=count)
+                                    directory = 'C:\\gh\\oomlout_oomp_symbol_bot\\tmp\\data\\oomlout_oomp_symbol_src'
+                                    #if running inside bot
+                                    oom_git.push_to_git(count=count, directory=directory)
+                                    #if running standalone
+                                    #oom_git.push_to_git(count=count)
+    oom_git.push_to_git(count=count)
 
 
 if __name__ == '__main__':
