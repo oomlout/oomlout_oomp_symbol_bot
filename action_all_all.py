@@ -6,6 +6,7 @@ import action_generate_readmes
 import oom_git
 
 
+
 def main(**kwargs):
     import time
     #time_start 
@@ -17,6 +18,7 @@ def main(**kwargs):
     dir_all_symbols = "tmp/data/oomlout_oomp_symbol_all_the_kicad_symbols"
     #oom_git.push_to_git(directory=dir_all_symbols)
     action_setup.main()
+
     action_generate_symbol_outputs.main()
     action_generate_readmes.main()
     action_generate_image_resolutions.main()

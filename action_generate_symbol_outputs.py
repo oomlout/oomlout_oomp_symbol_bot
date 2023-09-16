@@ -1,6 +1,7 @@
 import oom_kicad
 import os
 import oomBase
+import oom_git
 
 def main():
     go_through_directories()
