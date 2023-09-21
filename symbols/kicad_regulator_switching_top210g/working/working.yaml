@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_top210g
+library: regulator_switching
 library_name: Regulator_Switching
+name: top210g
 oomp:
   library_name: regulator_switching
-  md5: 39988f9f652758268df096f1cd7c488e
-  md5_10: 39988f9f65
-  md5_5: '39988'
-  md5_6: 39988f
-  oomp_key: oomp_regulator_switching_top210g
-  oomp_key_extra: oomp_symbol_regulator_switching_top210g
-  oomp_key_full: oomp_symbol_regulator_switching_top210g_39988f
-  oomp_key_simple: regulator_switching_top210g
+  md5: b17cb5e631c8a676633b2d3d240964bf
+  md5_10: b17cb5e631
+  md5_5: b17cb
+  md5_6: b17cb5
+  oomp_key: oomp_top210g
+  oomp_key_extra: oomp_symbol_top210g
+  oomp_key_full: oomp_symbol_top210g_b17cb5
+  oomp_key_simple: top210g
   owner_name: kicad
-  symbol_name: regulator_switching_top210g
+  symbol_name: top210g
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

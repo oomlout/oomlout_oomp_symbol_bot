@@ -1,3 +1,5 @@
+id: kicad_device_d_zener
+library: device
 library_name: Device
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_d_zener/working
   oomp_src_flat: symbols_flat/kicad_device_d_zener/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_d_zener/working
-name: device_d_zener
+name: d_zener
 oomp:
   library_name: device
-  md5: c546fa404722d1cd774dfb25598398cf
-  md5_10: c546fa4047
-  md5_5: c546f
-  md5_6: c546fa
-  oomp_key: oomp_device_d_zener
-  oomp_key_extra: oomp_symbol_device_d_zener
-  oomp_key_full: oomp_symbol_device_d_zener_c546fa
-  oomp_key_simple: device_d_zener
+  md5: 4271462028f71f2848a877cb0ea3978b
+  md5_10: '4271462028'
+  md5_5: '42714'
+  md5_6: '427146'
+  oomp_key: oomp_d_zener
+  oomp_key_extra: oomp_symbol_d_zener
+  oomp_key_full: oomp_symbol_d_zener_427146
+  oomp_key_simple: d_zener
   owner_name: kicad
-  symbol_name: device_d_zener
+  symbol_name: d_zener
 oomp_key: oomp_kicad_device_d_zener
 oomp_key_simple: kicad_device_d_zener
 owner: kicad

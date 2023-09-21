@@ -1,16 +1,20 @@
+id: kicad_analog_adc_max11128xti
+library: analog_adc
 library_name: Analog_ADC
+name: max11128xti
 oomp:
   library_name: analog_adc
-  md5: d88e0d60e89e90a3e3cbde3d2a934cb7
-  md5_10: d88e0d60e8
-  md5_5: d88e0
-  md5_6: d88e0d
-  oomp_key: oomp_analog_adc_max11128xti
-  oomp_key_extra: oomp_symbol_analog_adc_max11128xti
-  oomp_key_full: oomp_symbol_analog_adc_max11128xti_d88e0d
-  oomp_key_simple: analog_adc_max11128xti
+  md5: 3782d0c37386f3994120642ffdae4267
+  md5_10: 3782d0c373
+  md5_5: 3782d
+  md5_6: 3782d0
+  oomp_key: oomp_max11128xti
+  oomp_key_extra: oomp_symbol_max11128xti
+  oomp_key_full: oomp_symbol_max11128xti_3782d0
+  oomp_key_simple: max11128xti
   owner_name: kicad
-  symbol_name: analog_adc_max11128xti
+  symbol_name: max11128xti
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

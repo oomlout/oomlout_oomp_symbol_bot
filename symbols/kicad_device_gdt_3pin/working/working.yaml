@@ -1,3 +1,5 @@
+id: kicad_device_gdt_3pin
+library: device
 library_name: Device
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_gdt_3pin/working
   oomp_src_flat: symbols_flat/kicad_device_gdt_3pin/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_gdt_3pin/working
-name: device_gdt_3pin
+name: gdt_3pin
 oomp:
   library_name: device
-  md5: 4326195310678bfd01b0783a55e15072
-  md5_10: '4326195310'
-  md5_5: '43261'
-  md5_6: '432619'
-  oomp_key: oomp_device_gdt_3pin
-  oomp_key_extra: oomp_symbol_device_gdt_3pin
-  oomp_key_full: oomp_symbol_device_gdt_3pin_432619
-  oomp_key_simple: device_gdt_3pin
+  md5: 3295125714b9007f057ca9f7b1daa93b
+  md5_10: '3295125714'
+  md5_5: '32951'
+  md5_6: '329512'
+  oomp_key: oomp_gdt_3pin
+  oomp_key_extra: oomp_symbol_gdt_3pin
+  oomp_key_full: oomp_symbol_gdt_3pin_329512
+  oomp_key_simple: gdt_3pin
   owner_name: kicad
-  symbol_name: device_gdt_3pin
+  symbol_name: gdt_3pin
 oomp_key: oomp_kicad_device_gdt_3pin
 oomp_key_simple: kicad_device_gdt_3pin
 owner: kicad

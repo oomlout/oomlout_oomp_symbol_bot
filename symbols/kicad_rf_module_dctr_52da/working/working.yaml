@@ -1,16 +1,20 @@
+id: kicad_rf_module_dctr_52da
+library: rf_module
 library_name: RF_Module
+name: dctr_52da
 oomp:
   library_name: rf_module
-  md5: a4b9abe3c6a19abdb66aef59566986c9
-  md5_10: a4b9abe3c6
-  md5_5: a4b9a
-  md5_6: a4b9ab
-  oomp_key: oomp_rf_module_dctr_52da
-  oomp_key_extra: oomp_symbol_rf_module_dctr_52da
-  oomp_key_full: oomp_symbol_rf_module_dctr_52da_a4b9ab
-  oomp_key_simple: rf_module_dctr_52da
+  md5: 2d4424d23e226de5f5bc95e5c55fc019
+  md5_10: 2d4424d23e
+  md5_5: 2d442
+  md5_6: 2d4424
+  oomp_key: oomp_dctr_52da
+  oomp_key_extra: oomp_symbol_dctr_52da
+  oomp_key_full: oomp_symbol_dctr_52da_2d4424
+  oomp_key_simple: dctr_52da
   owner_name: kicad
-  symbol_name: rf_module_dctr_52da
+  symbol_name: dctr_52da
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

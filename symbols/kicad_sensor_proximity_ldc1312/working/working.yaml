@@ -1,3 +1,5 @@
+id: kicad_sensor_proximity_ldc1312
+library: sensor_proximity
 library_name: Sensor_Proximity
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_proximity_ldc1312/working
   oomp_src_flat: symbols_flat/kicad_sensor_proximity_ldc1312/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_proximity_ldc1312/working
-name: sensor_proximity_ldc1312
+name: ldc1312
 oomp:
   library_name: sensor_proximity
-  md5: a80663e1a6fba209ce3de742db0195d4
-  md5_10: a80663e1a6
-  md5_5: a8066
-  md5_6: a80663
-  oomp_key: oomp_sensor_proximity_ldc1312
-  oomp_key_extra: oomp_symbol_sensor_proximity_ldc1312
-  oomp_key_full: oomp_symbol_sensor_proximity_ldc1312_a80663
-  oomp_key_simple: sensor_proximity_ldc1312
+  md5: 938d44da9989c2d27381b7405581a99a
+  md5_10: 938d44da99
+  md5_5: 938d4
+  md5_6: 938d44
+  oomp_key: oomp_ldc1312
+  oomp_key_extra: oomp_symbol_ldc1312
+  oomp_key_full: oomp_symbol_ldc1312_938d44
+  oomp_key_simple: ldc1312
   owner_name: kicad
-  symbol_name: sensor_proximity_ldc1312
+  symbol_name: ldc1312
 oomp_key: oomp_kicad_sensor_proximity_ldc1312
 oomp_key_simple: kicad_sensor_proximity_ldc1312
 owner: kicad

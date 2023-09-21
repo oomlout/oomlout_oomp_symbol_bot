@@ -1,16 +1,20 @@
+id: kicad_transistor_power_module_a2c35s12m3
+library: transistor_power_module
 library_name: Transistor_Power_Module
+name: a2c35s12m3
 oomp:
   library_name: transistor_power_module
-  md5: 23ee1ce98ae1dd4e7ec008d5b62276c7
-  md5_10: 23ee1ce98a
-  md5_5: 23ee1
-  md5_6: 23ee1c
-  oomp_key: oomp_transistor_power_module_a2c35s12m3
-  oomp_key_extra: oomp_symbol_transistor_power_module_a2c35s12m3
-  oomp_key_full: oomp_symbol_transistor_power_module_a2c35s12m3_23ee1c
-  oomp_key_simple: transistor_power_module_a2c35s12m3
+  md5: 0976175a971c757d1fb7616607a10292
+  md5_10: 0976175a97
+  md5_5: 09761
+  md5_6: 097617
+  oomp_key: oomp_a2c35s12m3
+  oomp_key_extra: oomp_symbol_a2c35s12m3
+  oomp_key_full: oomp_symbol_a2c35s12m3_097617
+  oomp_key_simple: a2c35s12m3
   owner_name: kicad
-  symbol_name: transistor_power_module_a2c35s12m3
+  symbol_name: a2c35s12m3
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

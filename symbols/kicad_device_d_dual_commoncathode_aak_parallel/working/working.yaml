@@ -1,3 +1,5 @@
+id: kicad_device_d_dual_commoncathode_aak_parallel
+library: device
 library_name: Device
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_d_dual_commoncathode_aak_parallel/working
   oomp_src_flat: symbols_flat/kicad_device_d_dual_commoncathode_aak_parallel/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_d_dual_commoncathode_aak_parallel/working
-name: device_d_dual_commoncathode_aak_parallel
+name: d_dual_commoncathode_aak_parallel
 oomp:
   library_name: device
-  md5: 130cb1ec0d0650c462ded2fd9e095342
-  md5_10: 130cb1ec0d
-  md5_5: 130cb
-  md5_6: 130cb1
-  oomp_key: oomp_device_d_dual_commoncathode_aak_parallel
-  oomp_key_extra: oomp_symbol_device_d_dual_commoncathode_aak_parallel
-  oomp_key_full: oomp_symbol_device_d_dual_commoncathode_aak_parallel_130cb1
-  oomp_key_simple: device_d_dual_commoncathode_aak_parallel
+  md5: df1007cd0ad82b920ae5b65c554b85cd
+  md5_10: df1007cd0a
+  md5_5: df100
+  md5_6: df1007
+  oomp_key: oomp_d_dual_commoncathode_aak_parallel
+  oomp_key_extra: oomp_symbol_d_dual_commoncathode_aak_parallel
+  oomp_key_full: oomp_symbol_d_dual_commoncathode_aak_parallel_df1007
+  oomp_key_simple: d_dual_commoncathode_aak_parallel
   owner_name: kicad
-  symbol_name: device_d_dual_commoncathode_aak_parallel
+  symbol_name: d_dual_commoncathode_aak_parallel
 oomp_key: oomp_kicad_device_d_dual_commoncathode_aak_parallel
 oomp_key_simple: kicad_device_d_dual_commoncathode_aak_parallel
 owner: kicad

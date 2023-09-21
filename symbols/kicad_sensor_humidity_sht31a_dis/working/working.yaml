@@ -1,16 +1,20 @@
+id: kicad_sensor_humidity_sht31a_dis
+library: sensor_humidity
 library_name: Sensor_Humidity
+name: sht31a_dis
 oomp:
   library_name: sensor_humidity
-  md5: dc2acea4b5bbf7058c4b303d765c00f2
-  md5_10: dc2acea4b5
-  md5_5: dc2ac
-  md5_6: dc2ace
-  oomp_key: oomp_sensor_humidity_sht31a_dis
-  oomp_key_extra: oomp_symbol_sensor_humidity_sht31a_dis
-  oomp_key_full: oomp_symbol_sensor_humidity_sht31a_dis_dc2ace
-  oomp_key_simple: sensor_humidity_sht31a_dis
+  md5: 7c9f4239889d8dd7968fa520c12b20a2
+  md5_10: 7c9f423988
+  md5_5: 7c9f4
+  md5_6: 7c9f42
+  oomp_key: oomp_sht31a_dis
+  oomp_key_extra: oomp_symbol_sht31a_dis
+  oomp_key_full: oomp_symbol_sht31a_dis_7c9f42
+  oomp_key_simple: sht31a_dis
   owner_name: kicad
-  symbol_name: sensor_humidity_sht31a_dis
+  symbol_name: sht31a_dis
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,3 +1,5 @@
+id: kicad_connector_usb_c_plug
+library: connector
 library_name: Connector
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_usb_c_plug/working
   oomp_src_flat: symbols_flat/kicad_connector_usb_c_plug/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_usb_c_plug/working
-name: connector_usb_c_plug
+name: usb_c_plug
 oomp:
   library_name: connector
-  md5: 4e67947dfeb9f9860d2ed77aefb11966
-  md5_10: 4e67947dfe
-  md5_5: 4e679
-  md5_6: 4e6794
-  oomp_key: oomp_connector_usb_c_plug
-  oomp_key_extra: oomp_symbol_connector_usb_c_plug
-  oomp_key_full: oomp_symbol_connector_usb_c_plug_4e6794
-  oomp_key_simple: connector_usb_c_plug
+  md5: d3d47dc63712007638b9f089c624cfd8
+  md5_10: d3d47dc637
+  md5_5: d3d47
+  md5_6: d3d47d
+  oomp_key: oomp_usb_c_plug
+  oomp_key_extra: oomp_symbol_usb_c_plug
+  oomp_key_full: oomp_symbol_usb_c_plug_d3d47d
+  oomp_key_simple: usb_c_plug
   owner_name: kicad
-  symbol_name: connector_usb_c_plug
+  symbol_name: usb_c_plug
 oomp_key: oomp_kicad_connector_usb_c_plug
 oomp_key_simple: kicad_connector_usb_c_plug
 owner: kicad

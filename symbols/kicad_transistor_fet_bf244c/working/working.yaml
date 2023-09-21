@@ -1,16 +1,20 @@
+id: kicad_transistor_fet_bf244c
+library: transistor_fet
 library_name: Transistor_FET
+name: bf244c
 oomp:
   library_name: transistor_fet
-  md5: c0d630e3628b050a0aa22c72fe5361e8
-  md5_10: c0d630e362
-  md5_5: c0d63
-  md5_6: c0d630
-  oomp_key: oomp_transistor_fet_bf244c
-  oomp_key_extra: oomp_symbol_transistor_fet_bf244c
-  oomp_key_full: oomp_symbol_transistor_fet_bf244c_c0d630
-  oomp_key_simple: transistor_fet_bf244c
+  md5: 16b3e61fb03dcf65114728f54eaaae9e
+  md5_10: 16b3e61fb0
+  md5_5: 16b3e
+  md5_6: 16b3e6
+  oomp_key: oomp_bf244c
+  oomp_key_extra: oomp_symbol_bf244c
+  oomp_key_full: oomp_symbol_bf244c_16b3e6
+  oomp_key_simple: bf244c
   owner_name: kicad
-  symbol_name: transistor_fet_bf244c
+  symbol_name: bf244c
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

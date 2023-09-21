@@ -1,3 +1,5 @@
+id: kicad_converter_dcdc_tc7662bxpa
+library: converter_dcdc
 library_name: Converter_DCDC
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_converter_dcdc_tc7662bxpa/working
   oomp_src_flat: symbols_flat/kicad_converter_dcdc_tc7662bxpa/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_converter_dcdc_tc7662bxpa/working
-name: converter_dcdc_tc7662bxpa
+name: tc7662bxpa
 oomp:
   library_name: converter_dcdc
-  md5: 6d31acddcd8961e34bd6cf836b9af525
-  md5_10: 6d31acddcd
-  md5_5: 6d31a
-  md5_6: 6d31ac
-  oomp_key: oomp_converter_dcdc_tc7662bxpa
-  oomp_key_extra: oomp_symbol_converter_dcdc_tc7662bxpa
-  oomp_key_full: oomp_symbol_converter_dcdc_tc7662bxpa_6d31ac
-  oomp_key_simple: converter_dcdc_tc7662bxpa
+  md5: 258a317c597fe6420ae4019167ff9c16
+  md5_10: 258a317c59
+  md5_5: 258a3
+  md5_6: 258a31
+  oomp_key: oomp_tc7662bxpa
+  oomp_key_extra: oomp_symbol_tc7662bxpa
+  oomp_key_full: oomp_symbol_tc7662bxpa_258a31
+  oomp_key_simple: tc7662bxpa
   owner_name: kicad
-  symbol_name: converter_dcdc_tc7662bxpa
+  symbol_name: tc7662bxpa
 oomp_key: oomp_kicad_converter_dcdc_tc7662bxpa
 oomp_key_simple: kicad_converter_dcdc_tc7662bxpa
 owner: kicad

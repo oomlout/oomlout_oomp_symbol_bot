@@ -1,3 +1,5 @@
+id: kicad_sensor_proximity_sg_105f
+library: sensor_proximity
 library_name: Sensor_Proximity
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_proximity_sg_105f/working
   oomp_src_flat: symbols_flat/kicad_sensor_proximity_sg_105f/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_proximity_sg_105f/working
-name: sensor_proximity_sg_105f
+name: sg_105f
 oomp:
   library_name: sensor_proximity
-  md5: 14a596a6e94eeec2fead16ef36d663bd
-  md5_10: 14a596a6e9
-  md5_5: 14a59
-  md5_6: 14a596
-  oomp_key: oomp_sensor_proximity_sg_105f
-  oomp_key_extra: oomp_symbol_sensor_proximity_sg_105f
-  oomp_key_full: oomp_symbol_sensor_proximity_sg_105f_14a596
-  oomp_key_simple: sensor_proximity_sg_105f
+  md5: e5c402ffca72babac4daeae654f19323
+  md5_10: e5c402ffca
+  md5_5: e5c40
+  md5_6: e5c402
+  oomp_key: oomp_sg_105f
+  oomp_key_extra: oomp_symbol_sg_105f
+  oomp_key_full: oomp_symbol_sg_105f_e5c402
+  oomp_key_simple: sg_105f
   owner_name: kicad
-  symbol_name: sensor_proximity_sg_105f
+  symbol_name: sg_105f
 oomp_key: oomp_kicad_sensor_proximity_sg_105f
 oomp_key_simple: kicad_sensor_proximity_sg_105f
 owner: kicad

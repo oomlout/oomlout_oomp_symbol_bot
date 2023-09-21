@@ -1,16 +1,20 @@
+id: kicad_timer_icm7555xb
+library: timer
 library_name: Timer
+name: icm7555xb
 oomp:
   library_name: timer
-  md5: b5eac83f9983012c72946564148fc42f
-  md5_10: b5eac83f99
-  md5_5: b5eac
-  md5_6: b5eac8
-  oomp_key: oomp_timer_icm7555xb
-  oomp_key_extra: oomp_symbol_timer_icm7555xb
-  oomp_key_full: oomp_symbol_timer_icm7555xb_b5eac8
-  oomp_key_simple: timer_icm7555xb
+  md5: 492aa42f9ae60a8357b4207e7857a325
+  md5_10: 492aa42f9a
+  md5_5: 492aa
+  md5_6: 492aa4
+  oomp_key: oomp_icm7555xb
+  oomp_key_extra: oomp_symbol_icm7555xb
+  oomp_key_full: oomp_symbol_icm7555xb_492aa4
+  oomp_key_simple: icm7555xb
   owner_name: kicad
-  symbol_name: timer_icm7555xb
+  symbol_name: icm7555xb
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

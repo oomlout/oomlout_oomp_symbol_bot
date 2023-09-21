@@ -1,3 +1,5 @@
+id: kicad_amplifier_operational_lf351d
+library: amplifier_operational
 library_name: Amplifier_Operational
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_operational_lf351d/working
   oomp_src_flat: symbols_flat/kicad_amplifier_operational_lf351d/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_operational_lf351d/working
-name: amplifier_operational_lf351d
+name: lf351d
 oomp:
   library_name: amplifier_operational
-  md5: 407c5ba02789e805fb1a5ba327f2ca0e
-  md5_10: 407c5ba027
-  md5_5: 407c5
-  md5_6: 407c5b
-  oomp_key: oomp_amplifier_operational_lf351d
-  oomp_key_extra: oomp_symbol_amplifier_operational_lf351d
-  oomp_key_full: oomp_symbol_amplifier_operational_lf351d_407c5b
-  oomp_key_simple: amplifier_operational_lf351d
+  md5: 97dec661e8c024a0d3ed9fae5536d659
+  md5_10: 97dec661e8
+  md5_5: 97dec
+  md5_6: 97dec6
+  oomp_key: oomp_lf351d
+  oomp_key_extra: oomp_symbol_lf351d
+  oomp_key_full: oomp_symbol_lf351d_97dec6
+  oomp_key_simple: lf351d
   owner_name: kicad
-  symbol_name: amplifier_operational_lf351d
+  symbol_name: lf351d
 oomp_key: oomp_kicad_amplifier_operational_lf351d
 oomp_key_simple: kicad_amplifier_operational_lf351d
 owner: kicad

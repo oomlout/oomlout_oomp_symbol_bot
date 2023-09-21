@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_tps78236ddc
+library: regulator_linear
 library_name: Regulator_Linear
+name: tps78236ddc
 oomp:
   library_name: regulator_linear
-  md5: ddc583cffb406ae985cec9fbc99958a3
-  md5_10: ddc583cffb
-  md5_5: ddc58
-  md5_6: ddc583
-  oomp_key: oomp_regulator_linear_tps78236ddc
-  oomp_key_extra: oomp_symbol_regulator_linear_tps78236ddc
-  oomp_key_full: oomp_symbol_regulator_linear_tps78236ddc_ddc583
-  oomp_key_simple: regulator_linear_tps78236ddc
+  md5: 753b731ea2530f6083460a67b90b9e1d
+  md5_10: 753b731ea2
+  md5_5: 753b7
+  md5_6: 753b73
+  oomp_key: oomp_tps78236ddc
+  oomp_key_extra: oomp_symbol_tps78236ddc
+  oomp_key_full: oomp_symbol_tps78236ddc_753b73
+  oomp_key_simple: tps78236ddc
   owner_name: kicad
-  symbol_name: regulator_linear_tps78236ddc
+  symbol_name: tps78236ddc
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

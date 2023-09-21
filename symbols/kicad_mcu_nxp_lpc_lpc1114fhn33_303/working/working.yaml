@@ -1,16 +1,20 @@
+id: kicad_mcu_nxp_lpc_lpc1114fhn33_303
+library: mcu_nxp_lpc
 library_name: MCU_NXP_LPC
+name: lpc1114fhn33_303
 oomp:
   library_name: mcu_nxp_lpc
-  md5: d408b7e833b227b698e2fbb47c6a8855
-  md5_10: d408b7e833
-  md5_5: d408b
-  md5_6: d408b7
-  oomp_key: oomp_mcu_nxp_lpc_lpc1114fhn33_303
-  oomp_key_extra: oomp_symbol_mcu_nxp_lpc_lpc1114fhn33_303
-  oomp_key_full: oomp_symbol_mcu_nxp_lpc_lpc1114fhn33_303_d408b7
-  oomp_key_simple: mcu_nxp_lpc_lpc1114fhn33_303
+  md5: ec31868eac6064deca052ecc8e389eda
+  md5_10: ec31868eac
+  md5_5: ec318
+  md5_6: ec3186
+  oomp_key: oomp_lpc1114fhn33_303
+  oomp_key_extra: oomp_symbol_lpc1114fhn33_303
+  oomp_key_full: oomp_symbol_lpc1114fhn33_303_ec3186
+  oomp_key_simple: lpc1114fhn33_303
   owner_name: kicad
-  symbol_name: mcu_nxp_lpc_lpc1114fhn33_303
+  symbol_name: lpc1114fhn33_303
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,3 +1,5 @@
+id: kicad_interface_expansion_mcp23s17_ss
+library: interface_expansion
 library_name: Interface_Expansion
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_expansion_mcp23s17_ss/working
   oomp_src_flat: symbols_flat/kicad_interface_expansion_mcp23s17_ss/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_expansion_mcp23s17_ss/working
-name: interface_expansion_mcp23s17_ss
+name: mcp23s17_ss
 oomp:
   library_name: interface_expansion
-  md5: a98e2482b75b4057eac6aabe00b4116b
-  md5_10: a98e2482b7
-  md5_5: a98e2
-  md5_6: a98e24
-  oomp_key: oomp_interface_expansion_mcp23s17_ss
-  oomp_key_extra: oomp_symbol_interface_expansion_mcp23s17_ss
-  oomp_key_full: oomp_symbol_interface_expansion_mcp23s17_ss_a98e24
-  oomp_key_simple: interface_expansion_mcp23s17_ss
+  md5: d424dfa803c62e436916d642d5ff57a5
+  md5_10: d424dfa803
+  md5_5: d424d
+  md5_6: d424df
+  oomp_key: oomp_mcp23s17_ss
+  oomp_key_extra: oomp_symbol_mcp23s17_ss
+  oomp_key_full: oomp_symbol_mcp23s17_ss_d424df
+  oomp_key_simple: mcp23s17_ss
   owner_name: kicad
-  symbol_name: interface_expansion_mcp23s17_ss
+  symbol_name: mcp23s17_ss
 oomp_key: oomp_kicad_interface_expansion_mcp23s17_ss
 oomp_key_simple: kicad_interface_expansion_mcp23s17_ss
 owner: kicad

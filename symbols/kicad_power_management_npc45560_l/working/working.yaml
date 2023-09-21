@@ -1,16 +1,20 @@
+id: kicad_power_management_npc45560_l
+library: power_management
 library_name: Power_Management
+name: npc45560_l
 oomp:
   library_name: power_management
-  md5: 33bcb264beb943a7162cee6bfd735090
-  md5_10: 33bcb264be
-  md5_5: 33bcb
-  md5_6: 33bcb2
-  oomp_key: oomp_power_management_npc45560_l
-  oomp_key_extra: oomp_symbol_power_management_npc45560_l
-  oomp_key_full: oomp_symbol_power_management_npc45560_l_33bcb2
-  oomp_key_simple: power_management_npc45560_l
+  md5: ef31c2d4fdd503fb3e40f8ff6b4b6e41
+  md5_10: ef31c2d4fd
+  md5_5: ef31c
+  md5_6: ef31c2
+  oomp_key: oomp_npc45560_l
+  oomp_key_extra: oomp_symbol_npc45560_l
+  oomp_key_full: oomp_symbol_npc45560_l_ef31c2
+  oomp_key_simple: npc45560_l
   owner_name: kicad
-  symbol_name: power_management_npc45560_l
+  symbol_name: npc45560_l
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_sensor_current_acs781xlrtr_150u
+library: sensor_current
 library_name: Sensor_Current
+name: acs781xlrtr_150u
 oomp:
   library_name: sensor_current
-  md5: f028ff1ec72c13a3e94c0e6592ded625
-  md5_10: f028ff1ec7
-  md5_5: f028f
-  md5_6: f028ff
-  oomp_key: oomp_sensor_current_acs781xlrtr_150u
-  oomp_key_extra: oomp_symbol_sensor_current_acs781xlrtr_150u
-  oomp_key_full: oomp_symbol_sensor_current_acs781xlrtr_150u_f028ff
-  oomp_key_simple: sensor_current_acs781xlrtr_150u
+  md5: a03ae2899af0a31b0345bfa399ff97cd
+  md5_10: a03ae2899a
+  md5_5: a03ae
+  md5_6: a03ae2
+  oomp_key: oomp_acs781xlrtr_150u
+  oomp_key_extra: oomp_symbol_acs781xlrtr_150u
+  oomp_key_full: oomp_symbol_acs781xlrtr_150u_a03ae2
+  oomp_key_simple: acs781xlrtr_150u
   owner_name: kicad
-  symbol_name: sensor_current_acs781xlrtr_150u
+  symbol_name: acs781xlrtr_150u
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

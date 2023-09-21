@@ -1,16 +1,20 @@
+id: kicad_interface_uart_az75232g
+library: interface_uart
 library_name: Interface_UART
+name: az75232g
 oomp:
   library_name: interface_uart
-  md5: 732825628b42984c0729779151794a59
-  md5_10: 732825628b
-  md5_5: '73282'
-  md5_6: '732825'
-  oomp_key: oomp_interface_uart_az75232g
-  oomp_key_extra: oomp_symbol_interface_uart_az75232g
-  oomp_key_full: oomp_symbol_interface_uart_az75232g_732825
-  oomp_key_simple: interface_uart_az75232g
+  md5: 415354ccbf0a0aeedc202274e9474554
+  md5_10: 415354ccbf
+  md5_5: '41535'
+  md5_6: '415354'
+  oomp_key: oomp_az75232g
+  oomp_key_extra: oomp_symbol_az75232g
+  oomp_key_full: oomp_symbol_az75232g_415354
+  oomp_key_simple: az75232g
   owner_name: kicad
-  symbol_name: interface_uart_az75232g
+  symbol_name: az75232g
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

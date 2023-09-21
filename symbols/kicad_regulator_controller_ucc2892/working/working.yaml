@@ -1,3 +1,5 @@
+id: kicad_regulator_controller_ucc2892
+library: regulator_controller
 library_name: Regulator_Controller
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_controller_ucc2892/working
   oomp_src_flat: symbols_flat/kicad_regulator_controller_ucc2892/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_controller_ucc2892/working
-name: regulator_controller_ucc2892
+name: ucc2892
 oomp:
   library_name: regulator_controller
-  md5: 8855592762ef945b7c1c1ba34034af38
-  md5_10: '8855592762'
-  md5_5: '88555'
-  md5_6: '885559'
-  oomp_key: oomp_regulator_controller_ucc2892
-  oomp_key_extra: oomp_symbol_regulator_controller_ucc2892
-  oomp_key_full: oomp_symbol_regulator_controller_ucc2892_885559
-  oomp_key_simple: regulator_controller_ucc2892
+  md5: c2ece75f94381aa28f008e83d7eee72b
+  md5_10: c2ece75f94
+  md5_5: c2ece
+  md5_6: c2ece7
+  oomp_key: oomp_ucc2892
+  oomp_key_extra: oomp_symbol_ucc2892
+  oomp_key_full: oomp_symbol_ucc2892_c2ece7
+  oomp_key_simple: ucc2892
   owner_name: kicad
-  symbol_name: regulator_controller_ucc2892
+  symbol_name: ucc2892
 oomp_key: oomp_kicad_regulator_controller_ucc2892
 oomp_key_simple: kicad_regulator_controller_ucc2892
 owner: kicad

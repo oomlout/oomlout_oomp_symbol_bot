@@ -1,3 +1,5 @@
+id: kicad_74xx_74ls90
+library: 74xx
 library_name: 74xx
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_74xx_74ls90/working
   oomp_src_flat: symbols_flat/kicad_74xx_74ls90/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_74xx_74ls90/working
-name: 74xx_74ls90
+name: 74ls90
 oomp:
   library_name: 74xx
-  md5: 9b6fd15652ae278631b23c32507ba2bf
-  md5_10: 9b6fd15652
-  md5_5: 9b6fd
-  md5_6: 9b6fd1
-  oomp_key: oomp_74xx_74ls90
-  oomp_key_extra: oomp_symbol_74xx_74ls90
-  oomp_key_full: oomp_symbol_74xx_74ls90_9b6fd1
-  oomp_key_simple: 74xx_74ls90
+  md5: 5843d17c7d884d336dfba5df5cbf7850
+  md5_10: 5843d17c7d
+  md5_5: 5843d
+  md5_6: 5843d1
+  oomp_key: oomp_74ls90
+  oomp_key_extra: oomp_symbol_74ls90
+  oomp_key_full: oomp_symbol_74ls90_5843d1
+  oomp_key_simple: 74ls90
   owner_name: kicad
-  symbol_name: 74xx_74ls90
+  symbol_name: 74ls90
 oomp_key: oomp_kicad_74xx_74ls90
 oomp_key_simple: kicad_74xx_74ls90
 owner: kicad

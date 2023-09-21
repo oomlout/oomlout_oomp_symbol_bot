@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_ncv8114bsn180t1g
+library: regulator_linear
 library_name: Regulator_Linear
+name: ncv8114bsn180t1g
 oomp:
   library_name: regulator_linear
-  md5: 05c03a4bf46a70b5e2dd30ff17e7af96
-  md5_10: 05c03a4bf4
-  md5_5: 05c03
-  md5_6: 05c03a
-  oomp_key: oomp_regulator_linear_ncv8114bsn180t1g
-  oomp_key_extra: oomp_symbol_regulator_linear_ncv8114bsn180t1g
-  oomp_key_full: oomp_symbol_regulator_linear_ncv8114bsn180t1g_05c03a
-  oomp_key_simple: regulator_linear_ncv8114bsn180t1g
+  md5: 7982711689b0b170d32c18fa18f86474
+  md5_10: '7982711689'
+  md5_5: '79827'
+  md5_6: '798271'
+  oomp_key: oomp_ncv8114bsn180t1g
+  oomp_key_extra: oomp_symbol_ncv8114bsn180t1g
+  oomp_key_full: oomp_symbol_ncv8114bsn180t1g_798271
+  oomp_key_simple: ncv8114bsn180t1g
   owner_name: kicad
-  symbol_name: regulator_linear_ncv8114bsn180t1g
+  symbol_name: ncv8114bsn180t1g
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

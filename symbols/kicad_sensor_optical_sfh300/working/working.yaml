@@ -1,16 +1,20 @@
+id: kicad_sensor_optical_sfh300
+library: sensor_optical
 library_name: Sensor_Optical
+name: sfh300
 oomp:
   library_name: sensor_optical
-  md5: 079b4f74b3993a6865b14920da0f0973
-  md5_10: 079b4f74b3
-  md5_5: 079b4
-  md5_6: 079b4f
-  oomp_key: oomp_sensor_optical_sfh300
-  oomp_key_extra: oomp_symbol_sensor_optical_sfh300
-  oomp_key_full: oomp_symbol_sensor_optical_sfh300_079b4f
-  oomp_key_simple: sensor_optical_sfh300
+  md5: 601b0bffd7a82015d20e7335ec368346
+  md5_10: 601b0bffd7
+  md5_5: 601b0
+  md5_6: 601b0b
+  oomp_key: oomp_sfh300
+  oomp_key_extra: oomp_symbol_sfh300
+  oomp_key_full: oomp_symbol_sfh300_601b0b
+  oomp_key_simple: sfh300
   owner_name: kicad
-  symbol_name: sensor_optical_sfh300
+  symbol_name: sfh300
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

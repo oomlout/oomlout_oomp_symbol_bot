@@ -1,3 +1,5 @@
+id: kicad_power_protection_sp0505baht
+library: power_protection
 library_name: Power_Protection
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_power_protection_sp0505baht/working
   oomp_src_flat: symbols_flat/kicad_power_protection_sp0505baht/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_protection_sp0505baht/working
-name: power_protection_sp0505baht
+name: sp0505baht
 oomp:
   library_name: power_protection
-  md5: 3aed92f4429af4932d6e32191e5be4b6
-  md5_10: 3aed92f442
-  md5_5: 3aed9
-  md5_6: 3aed92
-  oomp_key: oomp_power_protection_sp0505baht
-  oomp_key_extra: oomp_symbol_power_protection_sp0505baht
-  oomp_key_full: oomp_symbol_power_protection_sp0505baht_3aed92
-  oomp_key_simple: power_protection_sp0505baht
+  md5: 7bc0d083fd74d3cfa1ae69cd101690da
+  md5_10: 7bc0d083fd
+  md5_5: 7bc0d
+  md5_6: 7bc0d0
+  oomp_key: oomp_sp0505baht
+  oomp_key_extra: oomp_symbol_sp0505baht
+  oomp_key_full: oomp_symbol_sp0505baht_7bc0d0
+  oomp_key_simple: sp0505baht
   owner_name: kicad
-  symbol_name: power_protection_sp0505baht
+  symbol_name: sp0505baht
 oomp_key: oomp_kicad_power_protection_sp0505baht
 oomp_key_simple: kicad_power_protection_sp0505baht
 owner: kicad

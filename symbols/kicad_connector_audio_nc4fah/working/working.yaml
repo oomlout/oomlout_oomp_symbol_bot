@@ -1,16 +1,20 @@
+id: kicad_connector_audio_nc4fah
+library: connector_audio
 library_name: Connector_Audio
+name: nc4fah
 oomp:
   library_name: connector_audio
-  md5: 686c8f8b18da199c45da8ed2c6a94fac
-  md5_10: 686c8f8b18
-  md5_5: 686c8
-  md5_6: 686c8f
-  oomp_key: oomp_connector_audio_nc4fah
-  oomp_key_extra: oomp_symbol_connector_audio_nc4fah
-  oomp_key_full: oomp_symbol_connector_audio_nc4fah_686c8f
-  oomp_key_simple: connector_audio_nc4fah
+  md5: d1a2a0a8fab2516a95a8e4450d35fc94
+  md5_10: d1a2a0a8fa
+  md5_5: d1a2a
+  md5_6: d1a2a0
+  oomp_key: oomp_nc4fah
+  oomp_key_extra: oomp_symbol_nc4fah
+  oomp_key_full: oomp_symbol_nc4fah_d1a2a0
+  oomp_key_simple: nc4fah
   owner_name: kicad
-  symbol_name: connector_audio_nc4fah
+  symbol_name: nc4fah
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

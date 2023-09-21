@@ -1,16 +1,20 @@
+id: kicad_mcu_st_stm32l1_stm32l152c6uxa
+library: mcu_st_stm32l1
 library_name: MCU_ST_STM32L1
+name: stm32l152c6uxa
 oomp:
   library_name: mcu_st_stm32l1
-  md5: e4e9125ac3a8e478e810177ebfc75972
-  md5_10: e4e9125ac3
-  md5_5: e4e91
-  md5_6: e4e912
-  oomp_key: oomp_mcu_st_stm32l1_stm32l152c6uxa
-  oomp_key_extra: oomp_symbol_mcu_st_stm32l1_stm32l152c6uxa
-  oomp_key_full: oomp_symbol_mcu_st_stm32l1_stm32l152c6uxa_e4e912
-  oomp_key_simple: mcu_st_stm32l1_stm32l152c6uxa
+  md5: 03415ec6f7a4300c51817c8d2e06c600
+  md5_10: 03415ec6f7
+  md5_5: '03415'
+  md5_6: 03415e
+  oomp_key: oomp_stm32l152c6uxa
+  oomp_key_extra: oomp_symbol_stm32l152c6uxa
+  oomp_key_full: oomp_symbol_stm32l152c6uxa_03415e
+  oomp_key_simple: stm32l152c6uxa
   owner_name: kicad
-  symbol_name: mcu_st_stm32l1_stm32l152c6uxa
+  symbol_name: stm32l152c6uxa
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

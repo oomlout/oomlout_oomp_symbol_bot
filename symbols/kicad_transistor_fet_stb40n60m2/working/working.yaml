@@ -1,16 +1,20 @@
+id: kicad_transistor_fet_stb40n60m2
+library: transistor_fet
 library_name: Transistor_FET
+name: stb40n60m2
 oomp:
   library_name: transistor_fet
-  md5: bf6c0c48a2e5fbc6c6402cc193fb3353
-  md5_10: bf6c0c48a2
-  md5_5: bf6c0
-  md5_6: bf6c0c
-  oomp_key: oomp_transistor_fet_stb40n60m2
-  oomp_key_extra: oomp_symbol_transistor_fet_stb40n60m2
-  oomp_key_full: oomp_symbol_transistor_fet_stb40n60m2_bf6c0c
-  oomp_key_simple: transistor_fet_stb40n60m2
+  md5: e060d83737e7e54c2cdf6fda86e2e4dc
+  md5_10: e060d83737
+  md5_5: e060d
+  md5_6: e060d8
+  oomp_key: oomp_stb40n60m2
+  oomp_key_extra: oomp_symbol_stb40n60m2
+  oomp_key_full: oomp_symbol_stb40n60m2_e060d8
+  oomp_key_simple: stb40n60m2
   owner_name: kicad
-  symbol_name: transistor_fet_stb40n60m2
+  symbol_name: stb40n60m2
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,3 +1,5 @@
+id: arturo182_led_extra_ws2812b_2020
+library: led_extra
 library_name: LED_Extra
 links:
   github_owner: arturo182
@@ -10,19 +12,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/arturo182_led_extra_ws2812b_2020/working
   oomp_src_flat: symbols_flat/arturo182_led_extra_ws2812b_2020/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/arturo182_led_extra_ws2812b_2020/working
-name: led_extra_ws2812b_2020
+name: ws2812b_2020
 oomp:
   library_name: led_extra
-  md5: b5a4ebbfb87b7b7e1e39eea0698a66f6
-  md5_10: b5a4ebbfb8
-  md5_5: b5a4e
-  md5_6: b5a4eb
-  oomp_key: oomp_led_extra_ws2812b_2020
-  oomp_key_extra: oomp_symbol_led_extra_ws2812b_2020
-  oomp_key_full: oomp_symbol_led_extra_ws2812b_2020_b5a4eb
-  oomp_key_simple: led_extra_ws2812b_2020
+  md5: fc128ae41ba371f1bdc44201ba0a2bea
+  md5_10: fc128ae41b
+  md5_5: fc128
+  md5_6: fc128a
+  oomp_key: oomp_ws2812b_2020
+  oomp_key_extra: oomp_symbol_ws2812b_2020
+  oomp_key_full: oomp_symbol_ws2812b_2020_fc128a
+  oomp_key_simple: ws2812b_2020
   owner_name: arturo182
-  symbol_name: led_extra_ws2812b_2020
+  symbol_name: ws2812b_2020
 oomp_key: oomp_arturo182_led_extra_ws2812b_2020
 oomp_key_simple: arturo182_led_extra_ws2812b_2020
 owner: arturo182

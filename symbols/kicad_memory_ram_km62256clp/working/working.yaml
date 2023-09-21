@@ -1,3 +1,5 @@
+id: kicad_memory_ram_km62256clp
+library: memory_ram
 library_name: Memory_RAM
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_memory_ram_km62256clp/working
   oomp_src_flat: symbols_flat/kicad_memory_ram_km62256clp/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_memory_ram_km62256clp/working
-name: memory_ram_km62256clp
+name: km62256clp
 oomp:
   library_name: memory_ram
-  md5: bf0d847e78c1d2acc223ef49411a8912
-  md5_10: bf0d847e78
-  md5_5: bf0d8
-  md5_6: bf0d84
-  oomp_key: oomp_memory_ram_km62256clp
-  oomp_key_extra: oomp_symbol_memory_ram_km62256clp
-  oomp_key_full: oomp_symbol_memory_ram_km62256clp_bf0d84
-  oomp_key_simple: memory_ram_km62256clp
+  md5: d3fc48c749e7ecdf87af7029dd955cb7
+  md5_10: d3fc48c749
+  md5_5: d3fc4
+  md5_6: d3fc48
+  oomp_key: oomp_km62256clp
+  oomp_key_extra: oomp_symbol_km62256clp
+  oomp_key_full: oomp_symbol_km62256clp_d3fc48
+  oomp_key_simple: km62256clp
   owner_name: kicad
-  symbol_name: memory_ram_km62256clp
+  symbol_name: km62256clp
 oomp_key: oomp_kicad_memory_ram_km62256clp
 oomp_key_simple: kicad_memory_ram_km62256clp
 owner: kicad

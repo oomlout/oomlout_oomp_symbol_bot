@@ -1,16 +1,20 @@
+id: kicad_power_supervisor_mic811juy
+library: power_supervisor
 library_name: Power_Supervisor
+name: mic811juy
 oomp:
   library_name: power_supervisor
-  md5: 6a665bb98f59d87a78bfa658a759dfd7
-  md5_10: 6a665bb98f
-  md5_5: 6a665
-  md5_6: 6a665b
-  oomp_key: oomp_power_supervisor_mic811juy
-  oomp_key_extra: oomp_symbol_power_supervisor_mic811juy
-  oomp_key_full: oomp_symbol_power_supervisor_mic811juy_6a665b
-  oomp_key_simple: power_supervisor_mic811juy
+  md5: bc3f83548f9d89e532e645d144c2649e
+  md5_10: bc3f83548f
+  md5_5: bc3f8
+  md5_6: bc3f83
+  oomp_key: oomp_mic811juy
+  oomp_key_extra: oomp_symbol_mic811juy
+  oomp_key_full: oomp_symbol_mic811juy_bc3f83
+  oomp_key_simple: mic811juy
   owner_name: kicad
-  symbol_name: power_supervisor_mic811juy
+  symbol_name: mic811juy
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

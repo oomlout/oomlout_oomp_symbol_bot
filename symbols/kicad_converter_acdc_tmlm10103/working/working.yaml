@@ -1,3 +1,5 @@
+id: kicad_converter_acdc_tmlm10103
+library: converter_acdc
 library_name: Converter_ACDC
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_converter_acdc_tmlm10103/working
   oomp_src_flat: symbols_flat/kicad_converter_acdc_tmlm10103/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_converter_acdc_tmlm10103/working
-name: converter_acdc_tmlm10103
+name: tmlm10103
 oomp:
   library_name: converter_acdc
-  md5: 0ccbbb322703c67babe2e58a32422682
-  md5_10: 0ccbbb3227
-  md5_5: 0ccbb
-  md5_6: 0ccbbb
-  oomp_key: oomp_converter_acdc_tmlm10103
-  oomp_key_extra: oomp_symbol_converter_acdc_tmlm10103
-  oomp_key_full: oomp_symbol_converter_acdc_tmlm10103_0ccbbb
-  oomp_key_simple: converter_acdc_tmlm10103
+  md5: a3ee5e8038d3eff648c13d52d97559b6
+  md5_10: a3ee5e8038
+  md5_5: a3ee5
+  md5_6: a3ee5e
+  oomp_key: oomp_tmlm10103
+  oomp_key_extra: oomp_symbol_tmlm10103
+  oomp_key_full: oomp_symbol_tmlm10103_a3ee5e
+  oomp_key_simple: tmlm10103
   owner_name: kicad
-  symbol_name: converter_acdc_tmlm10103
+  symbol_name: tmlm10103
 oomp_key: oomp_kicad_converter_acdc_tmlm10103
 oomp_key_simple: kicad_converter_acdc_tmlm10103
 owner: kicad

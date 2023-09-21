@@ -1,3 +1,5 @@
+id: kicad_device_circuitbreaker_1p_us
+library: device
 library_name: Device
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_circuitbreaker_1p_us/working
   oomp_src_flat: symbols_flat/kicad_device_circuitbreaker_1p_us/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_circuitbreaker_1p_us/working
-name: device_circuitbreaker_1p_us
+name: circuitbreaker_1p_us
 oomp:
   library_name: device
-  md5: 8088a770d92faba6b71ceb537b9628ae
-  md5_10: 8088a770d9
-  md5_5: 8088a
-  md5_6: 8088a7
-  oomp_key: oomp_device_circuitbreaker_1p_us
-  oomp_key_extra: oomp_symbol_device_circuitbreaker_1p_us
-  oomp_key_full: oomp_symbol_device_circuitbreaker_1p_us_8088a7
-  oomp_key_simple: device_circuitbreaker_1p_us
+  md5: 2502da6df3df9a43f5d620479c380b6d
+  md5_10: 2502da6df3
+  md5_5: 2502d
+  md5_6: 2502da
+  oomp_key: oomp_circuitbreaker_1p_us
+  oomp_key_extra: oomp_symbol_circuitbreaker_1p_us
+  oomp_key_full: oomp_symbol_circuitbreaker_1p_us_2502da
+  oomp_key_simple: circuitbreaker_1p_us
   owner_name: kicad
-  symbol_name: device_circuitbreaker_1p_us
+  symbol_name: circuitbreaker_1p_us
 oomp_key: oomp_kicad_device_circuitbreaker_1p_us
 oomp_key_simple: kicad_device_circuitbreaker_1p_us
 owner: kicad

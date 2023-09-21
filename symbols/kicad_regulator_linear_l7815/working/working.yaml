@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_l7815
+library: regulator_linear
 library_name: Regulator_Linear
+name: l7815
 oomp:
   library_name: regulator_linear
-  md5: bd158fc7e4f91c08a1fd36b977a99866
-  md5_10: bd158fc7e4
-  md5_5: bd158
-  md5_6: bd158f
-  oomp_key: oomp_regulator_linear_l7815
-  oomp_key_extra: oomp_symbol_regulator_linear_l7815
-  oomp_key_full: oomp_symbol_regulator_linear_l7815_bd158f
-  oomp_key_simple: regulator_linear_l7815
+  md5: 54dddfaf8487bf6d63a9af28265e1b1c
+  md5_10: 54dddfaf84
+  md5_5: 54ddd
+  md5_6: 54dddf
+  oomp_key: oomp_l7815
+  oomp_key_extra: oomp_symbol_l7815
+  oomp_key_full: oomp_symbol_l7815_54dddf
+  oomp_key_simple: l7815
   owner_name: kicad
-  symbol_name: regulator_linear_l7815
+  symbol_name: l7815
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

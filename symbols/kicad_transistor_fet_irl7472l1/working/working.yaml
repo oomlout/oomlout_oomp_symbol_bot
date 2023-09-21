@@ -1,16 +1,20 @@
+id: kicad_transistor_fet_irl7472l1
+library: transistor_fet
 library_name: Transistor_FET
+name: irl7472l1
 oomp:
   library_name: transistor_fet
-  md5: fec09d5120d02ae3ef2ac68fe7e023c2
-  md5_10: fec09d5120
-  md5_5: fec09
-  md5_6: fec09d
-  oomp_key: oomp_transistor_fet_irl7472l1
-  oomp_key_extra: oomp_symbol_transistor_fet_irl7472l1
-  oomp_key_full: oomp_symbol_transistor_fet_irl7472l1_fec09d
-  oomp_key_simple: transistor_fet_irl7472l1
+  md5: 1eec75401c352f2774882a4044dd509a
+  md5_10: 1eec75401c
+  md5_5: 1eec7
+  md5_6: 1eec75
+  oomp_key: oomp_irl7472l1
+  oomp_key_extra: oomp_symbol_irl7472l1
+  oomp_key_full: oomp_symbol_irl7472l1_1eec75
+  oomp_key_simple: irl7472l1
   owner_name: kicad
-  symbol_name: transistor_fet_irl7472l1
+  symbol_name: irl7472l1
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_converter_dcdc_ih1212dh
+library: converter_dcdc
 library_name: Converter_DCDC
+name: ih1212dh
 oomp:
   library_name: converter_dcdc
-  md5: 6458bf5a060b34d6cb7a4e8143ae9ad9
-  md5_10: 6458bf5a06
-  md5_5: 6458b
-  md5_6: 6458bf
-  oomp_key: oomp_converter_dcdc_ih1212dh
-  oomp_key_extra: oomp_symbol_converter_dcdc_ih1212dh
-  oomp_key_full: oomp_symbol_converter_dcdc_ih1212dh_6458bf
-  oomp_key_simple: converter_dcdc_ih1212dh
+  md5: e4302585469caff1daa2fb84d1a2823f
+  md5_10: e430258546
+  md5_5: e4302
+  md5_6: e43025
+  oomp_key: oomp_ih1212dh
+  oomp_key_extra: oomp_symbol_ih1212dh
+  oomp_key_full: oomp_symbol_ih1212dh_e43025
+  oomp_key_simple: ih1212dh
   owner_name: kicad
-  symbol_name: converter_dcdc_ih1212dh
+  symbol_name: ih1212dh
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

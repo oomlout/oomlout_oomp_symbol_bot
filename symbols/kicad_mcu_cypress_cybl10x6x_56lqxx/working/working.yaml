@@ -1,3 +1,5 @@
+id: kicad_mcu_cypress_cybl10x6x_56lqxx
+library: mcu_cypress
 library_name: MCU_Cypress
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_cypress_cybl10x6x_56lqxx/working
   oomp_src_flat: symbols_flat/kicad_mcu_cypress_cybl10x6x_56lqxx/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_cypress_cybl10x6x_56lqxx/working
-name: mcu_cypress_cybl10x6x_56lqxx
+name: cybl10x6x_56lqxx
 oomp:
   library_name: mcu_cypress
-  md5: 1c040a8b3651db5e9521823a453bbffe
-  md5_10: 1c040a8b36
-  md5_5: 1c040
-  md5_6: 1c040a
-  oomp_key: oomp_mcu_cypress_cybl10x6x_56lqxx
-  oomp_key_extra: oomp_symbol_mcu_cypress_cybl10x6x_56lqxx
-  oomp_key_full: oomp_symbol_mcu_cypress_cybl10x6x_56lqxx_1c040a
-  oomp_key_simple: mcu_cypress_cybl10x6x_56lqxx
+  md5: 100ad86fd4542c1ef5ca49860c06590b
+  md5_10: 100ad86fd4
+  md5_5: 100ad
+  md5_6: 100ad8
+  oomp_key: oomp_cybl10x6x_56lqxx
+  oomp_key_extra: oomp_symbol_cybl10x6x_56lqxx
+  oomp_key_full: oomp_symbol_cybl10x6x_56lqxx_100ad8
+  oomp_key_simple: cybl10x6x_56lqxx
   owner_name: kicad
-  symbol_name: mcu_cypress_cybl10x6x_56lqxx
+  symbol_name: cybl10x6x_56lqxx
 oomp_key: oomp_kicad_mcu_cypress_cybl10x6x_56lqxx
 oomp_key_simple: kicad_mcu_cypress_cybl10x6x_56lqxx
 owner: kicad

@@ -1,3 +1,5 @@
+id: kicad_relay_im00
+library: relay
 library_name: Relay
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_relay_im00/working
   oomp_src_flat: symbols_flat/kicad_relay_im00/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_relay_im00/working
-name: relay_im00
+name: im00
 oomp:
   library_name: relay
-  md5: 03c8ef595fa16b0a45ae52d655d17dc5
-  md5_10: 03c8ef595f
-  md5_5: 03c8e
-  md5_6: 03c8ef
-  oomp_key: oomp_relay_im00
-  oomp_key_extra: oomp_symbol_relay_im00
-  oomp_key_full: oomp_symbol_relay_im00_03c8ef
-  oomp_key_simple: relay_im00
+  md5: 0894491308ddedb01f10f836fd0acf0b
+  md5_10: 0894491308
+  md5_5: 08944
+  md5_6: 089449
+  oomp_key: oomp_im00
+  oomp_key_extra: oomp_symbol_im00
+  oomp_key_full: oomp_symbol_im00_089449
+  oomp_key_simple: im00
   owner_name: kicad
-  symbol_name: relay_im00
+  symbol_name: im00
 oomp_key: oomp_kicad_relay_im00
 oomp_key_simple: kicad_relay_im00
 owner: kicad

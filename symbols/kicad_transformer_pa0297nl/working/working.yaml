@@ -1,16 +1,20 @@
+id: kicad_transformer_pa0297nl
+library: transformer
 library_name: Transformer
+name: pa0297nl
 oomp:
   library_name: transformer
-  md5: 859b6533a42ddebe87c7a4a1ea9cf33b
-  md5_10: 859b6533a4
-  md5_5: 859b6
-  md5_6: 859b65
-  oomp_key: oomp_transformer_pa0297nl
-  oomp_key_extra: oomp_symbol_transformer_pa0297nl
-  oomp_key_full: oomp_symbol_transformer_pa0297nl_859b65
-  oomp_key_simple: transformer_pa0297nl
+  md5: 9912f4ad47287867f2c8fd5428c7bf9f
+  md5_10: 9912f4ad47
+  md5_5: 9912f
+  md5_6: 9912f4
+  oomp_key: oomp_pa0297nl
+  oomp_key_extra: oomp_symbol_pa0297nl
+  oomp_key_full: oomp_symbol_pa0297nl_9912f4
+  oomp_key_simple: pa0297nl
   owner_name: kicad
-  symbol_name: transformer_pa0297nl
+  symbol_name: pa0297nl
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

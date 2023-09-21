@@ -1,16 +1,20 @@
+id: kicad_connector_rj45_shielded
+library: connector
 library_name: Connector
+name: rj45_shielded
 oomp:
   library_name: connector
-  md5: 736190257a456179c41639f00c20291a
-  md5_10: 736190257a
-  md5_5: '73619'
-  md5_6: '736190'
-  oomp_key: oomp_connector_rj45_shielded
-  oomp_key_extra: oomp_symbol_connector_rj45_shielded
-  oomp_key_full: oomp_symbol_connector_rj45_shielded_736190
-  oomp_key_simple: connector_rj45_shielded
+  md5: 5a839137bd4ae7e863f118d918489088
+  md5_10: 5a839137bd
+  md5_5: 5a839
+  md5_6: 5a8391
+  oomp_key: oomp_rj45_shielded
+  oomp_key_extra: oomp_symbol_rj45_shielded
+  oomp_key_full: oomp_symbol_rj45_shielded_5a8391
+  oomp_key_simple: rj45_shielded
   owner_name: kicad
-  symbol_name: connector_rj45_shielded
+  symbol_name: rj45_shielded
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

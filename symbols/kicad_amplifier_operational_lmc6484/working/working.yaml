@@ -1,16 +1,20 @@
+id: kicad_amplifier_operational_lmc6484
+library: amplifier_operational
 library_name: Amplifier_Operational
+name: lmc6484
 oomp:
   library_name: amplifier_operational
-  md5: 47a4a4c13104d24fd52bf849b658c856
-  md5_10: 47a4a4c131
-  md5_5: 47a4a
-  md5_6: 47a4a4
-  oomp_key: oomp_amplifier_operational_lmc6484
-  oomp_key_extra: oomp_symbol_amplifier_operational_lmc6484
-  oomp_key_full: oomp_symbol_amplifier_operational_lmc6484_47a4a4
-  oomp_key_simple: amplifier_operational_lmc6484
+  md5: f1922ec6466c65fa6bb0e307e70639e2
+  md5_10: f1922ec646
+  md5_5: f1922
+  md5_6: f1922e
+  oomp_key: oomp_lmc6484
+  oomp_key_extra: oomp_symbol_lmc6484
+  oomp_key_full: oomp_symbol_lmc6484_f1922e
+  oomp_key_simple: lmc6484
   owner_name: kicad
-  symbol_name: amplifier_operational_lmc6484
+  symbol_name: lmc6484
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_lp3982imm_3_0
+library: regulator_linear
 library_name: Regulator_Linear
+name: lp3982imm_3_0
 oomp:
   library_name: regulator_linear
-  md5: 00e873e3ad42191f5910cc8975f71685
-  md5_10: 00e873e3ad
-  md5_5: 00e87
-  md5_6: 00e873
-  oomp_key: oomp_regulator_linear_lp3982imm_3_0
-  oomp_key_extra: oomp_symbol_regulator_linear_lp3982imm_3_0
-  oomp_key_full: oomp_symbol_regulator_linear_lp3982imm_3_0_00e873
-  oomp_key_simple: regulator_linear_lp3982imm_3_0
+  md5: aa921508d42c57f7db8d9add191b343f
+  md5_10: aa921508d4
+  md5_5: aa921
+  md5_6: aa9215
+  oomp_key: oomp_lp3982imm_3_0
+  oomp_key_extra: oomp_symbol_lp3982imm_3_0
+  oomp_key_full: oomp_symbol_lp3982imm_3_0_aa9215
+  oomp_key_simple: lp3982imm_3_0
   owner_name: kicad
-  symbol_name: regulator_linear_lp3982imm_3_0
+  symbol_name: lp3982imm_3_0
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_mcu_st_stm32l0_stm32l072rbix
+library: mcu_st_stm32l0
 library_name: MCU_ST_STM32L0
+name: stm32l072rbix
 oomp:
   library_name: mcu_st_stm32l0
-  md5: 0848dacc6949bee16cfc524f2fbc58d7
-  md5_10: 0848dacc69
-  md5_5: 0848d
-  md5_6: 0848da
-  oomp_key: oomp_mcu_st_stm32l0_stm32l072rbix
-  oomp_key_extra: oomp_symbol_mcu_st_stm32l0_stm32l072rbix
-  oomp_key_full: oomp_symbol_mcu_st_stm32l0_stm32l072rbix_0848da
-  oomp_key_simple: mcu_st_stm32l0_stm32l072rbix
+  md5: 3f20eaa3130f314e8d46da60f73e99b7
+  md5_10: 3f20eaa313
+  md5_5: 3f20e
+  md5_6: 3f20ea
+  oomp_key: oomp_stm32l072rbix
+  oomp_key_extra: oomp_symbol_stm32l072rbix
+  oomp_key_full: oomp_symbol_stm32l072rbix_3f20ea
+  oomp_key_simple: stm32l072rbix
   owner_name: kicad
-  symbol_name: mcu_st_stm32l0_stm32l072rbix
+  symbol_name: stm32l072rbix
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

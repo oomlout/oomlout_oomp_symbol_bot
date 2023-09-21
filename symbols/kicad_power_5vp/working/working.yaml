@@ -1,3 +1,5 @@
+id: kicad_power_5vp
+library: power
 library_name: power
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_power_5vp/working
   oomp_src_flat: symbols_flat/kicad_power_5vp/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_5vp/working
-name: power_5vp
+name: 5vp
 oomp:
   library_name: power
-  md5: 96887a542b6e949440519fc65950cf21
-  md5_10: 96887a542b
-  md5_5: '96887'
-  md5_6: 96887a
-  oomp_key: oomp_power_5vp
-  oomp_key_extra: oomp_symbol_power_5vp
-  oomp_key_full: oomp_symbol_power_5vp_96887a
-  oomp_key_simple: power_5vp
+  md5: a6a156e277ebf6759aeeb5ce36a7dae8
+  md5_10: a6a156e277
+  md5_5: a6a15
+  md5_6: a6a156
+  oomp_key: oomp_5vp
+  oomp_key_extra: oomp_symbol_5vp
+  oomp_key_full: oomp_symbol_5vp_a6a156
+  oomp_key_simple: 5vp
   owner_name: kicad
-  symbol_name: power_5vp
+  symbol_name: 5vp
 oomp_key: oomp_kicad_power_5vp
 oomp_key_simple: kicad_power_5vp
 owner: kicad

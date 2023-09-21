@@ -1,16 +1,20 @@
+id: kicad_analog_switch_cd4066bm
+library: analog_switch
 library_name: Analog_Switch
+name: cd4066bm
 oomp:
   library_name: analog_switch
-  md5: 30035c70ef42b8b344ecdaeaf490646a
-  md5_10: 30035c70ef
-  md5_5: '30035'
-  md5_6: 30035c
-  oomp_key: oomp_analog_switch_cd4066bm
-  oomp_key_extra: oomp_symbol_analog_switch_cd4066bm
-  oomp_key_full: oomp_symbol_analog_switch_cd4066bm_30035c
-  oomp_key_simple: analog_switch_cd4066bm
+  md5: a82f986aed192948adbe7577b09002f7
+  md5_10: a82f986aed
+  md5_5: a82f9
+  md5_6: a82f98
+  oomp_key: oomp_cd4066bm
+  oomp_key_extra: oomp_symbol_cd4066bm
+  oomp_key_full: oomp_symbol_cd4066bm_a82f98
+  oomp_key_simple: cd4066bm
   owner_name: kicad
-  symbol_name: analog_switch_cd4066bm
+  symbol_name: cd4066bm
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

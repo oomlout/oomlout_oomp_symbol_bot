@@ -1,3 +1,5 @@
+id: kicad_comparator_ad8561
+library: comparator
 library_name: Comparator
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_comparator_ad8561/working
   oomp_src_flat: symbols_flat/kicad_comparator_ad8561/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_comparator_ad8561/working
-name: comparator_ad8561
+name: ad8561
 oomp:
   library_name: comparator
-  md5: 891319f51ea2278a945b8d6ae8cf32c5
-  md5_10: 891319f51e
-  md5_5: '89131'
-  md5_6: '891319'
-  oomp_key: oomp_comparator_ad8561
-  oomp_key_extra: oomp_symbol_comparator_ad8561
-  oomp_key_full: oomp_symbol_comparator_ad8561_891319
-  oomp_key_simple: comparator_ad8561
+  md5: bc07df78ebb1938a65a297531c8c5942
+  md5_10: bc07df78eb
+  md5_5: bc07d
+  md5_6: bc07df
+  oomp_key: oomp_ad8561
+  oomp_key_extra: oomp_symbol_ad8561
+  oomp_key_full: oomp_symbol_ad8561_bc07df
+  oomp_key_simple: ad8561
   owner_name: kicad
-  symbol_name: comparator_ad8561
+  symbol_name: ad8561
 oomp_key: oomp_kicad_comparator_ad8561
 oomp_key_simple: kicad_comparator_ad8561
 owner: kicad

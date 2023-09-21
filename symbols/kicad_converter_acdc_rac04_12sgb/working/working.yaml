@@ -1,16 +1,20 @@
+id: kicad_converter_acdc_rac04_12sgb
+library: converter_acdc
 library_name: Converter_ACDC
+name: rac04_12sgb
 oomp:
   library_name: converter_acdc
-  md5: 9f6a6e97b8b54c4716b407fa6dcc0212
-  md5_10: 9f6a6e97b8
-  md5_5: 9f6a6
-  md5_6: 9f6a6e
-  oomp_key: oomp_converter_acdc_rac04_12sgb
-  oomp_key_extra: oomp_symbol_converter_acdc_rac04_12sgb
-  oomp_key_full: oomp_symbol_converter_acdc_rac04_12sgb_9f6a6e
-  oomp_key_simple: converter_acdc_rac04_12sgb
+  md5: 95f34315df8e17eba29d6177b74c0fe2
+  md5_10: 95f34315df
+  md5_5: 95f34
+  md5_6: 95f343
+  oomp_key: oomp_rac04_12sgb
+  oomp_key_extra: oomp_symbol_rac04_12sgb
+  oomp_key_full: oomp_symbol_rac04_12sgb_95f343
+  oomp_key_simple: rac04_12sgb
   owner_name: kicad
-  symbol_name: converter_acdc_rac04_12sgb
+  symbol_name: rac04_12sgb
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

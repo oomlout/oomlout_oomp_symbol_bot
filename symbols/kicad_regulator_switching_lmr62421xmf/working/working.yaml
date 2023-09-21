@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_lmr62421xmf
+library: regulator_switching
 library_name: Regulator_Switching
+name: lmr62421xmf
 oomp:
   library_name: regulator_switching
-  md5: 9078011cdc666f05522419ec6b2bdcd7
-  md5_10: 9078011cdc
-  md5_5: '90780'
-  md5_6: '907801'
-  oomp_key: oomp_regulator_switching_lmr62421xmf
-  oomp_key_extra: oomp_symbol_regulator_switching_lmr62421xmf
-  oomp_key_full: oomp_symbol_regulator_switching_lmr62421xmf_907801
-  oomp_key_simple: regulator_switching_lmr62421xmf
+  md5: 036e0310c5fc6cdb1e90e74b830caf29
+  md5_10: 036e0310c5
+  md5_5: 036e0
+  md5_6: 036e03
+  oomp_key: oomp_lmr62421xmf
+  oomp_key_extra: oomp_symbol_lmr62421xmf
+  oomp_key_full: oomp_symbol_lmr62421xmf_036e03
+  oomp_key_simple: lmr62421xmf
   owner_name: kicad
-  symbol_name: regulator_switching_lmr62421xmf
+  symbol_name: lmr62421xmf
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_sensor_magnetic_tmag5111c2xxdbv
+library: sensor_magnetic
 library_name: Sensor_Magnetic
+name: tmag5111c2xxdbv
 oomp:
   library_name: sensor_magnetic
-  md5: b4c5a01a84843b120fef95c37d190ef6
-  md5_10: b4c5a01a84
-  md5_5: b4c5a
-  md5_6: b4c5a0
-  oomp_key: oomp_sensor_magnetic_tmag5111c2xxdbv
-  oomp_key_extra: oomp_symbol_sensor_magnetic_tmag5111c2xxdbv
-  oomp_key_full: oomp_symbol_sensor_magnetic_tmag5111c2xxdbv_b4c5a0
-  oomp_key_simple: sensor_magnetic_tmag5111c2xxdbv
+  md5: a2af9cca9fe3317270d72132c1751ea6
+  md5_10: a2af9cca9f
+  md5_5: a2af9
+  md5_6: a2af9c
+  oomp_key: oomp_tmag5111c2xxdbv
+  oomp_key_extra: oomp_symbol_tmag5111c2xxdbv
+  oomp_key_full: oomp_symbol_tmag5111c2xxdbv_a2af9c
+  oomp_key_simple: tmag5111c2xxdbv
   owner_name: kicad
-  symbol_name: sensor_magnetic_tmag5111c2xxdbv
+  symbol_name: tmag5111c2xxdbv
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

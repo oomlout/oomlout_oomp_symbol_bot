@@ -1,16 +1,20 @@
+id: kicad_reference_voltage_ref6041xdgk
+library: reference_voltage
 library_name: Reference_Voltage
+name: ref6041xdgk
 oomp:
   library_name: reference_voltage
-  md5: 6e6ab3e59eda00c7bffe3d6bc6be4302
-  md5_10: 6e6ab3e59e
-  md5_5: 6e6ab
-  md5_6: 6e6ab3
-  oomp_key: oomp_reference_voltage_ref6041xdgk
-  oomp_key_extra: oomp_symbol_reference_voltage_ref6041xdgk
-  oomp_key_full: oomp_symbol_reference_voltage_ref6041xdgk_6e6ab3
-  oomp_key_simple: reference_voltage_ref6041xdgk
+  md5: 0c485bede07a9ac87f05d2f5b62e5837
+  md5_10: 0c485bede0
+  md5_5: 0c485
+  md5_6: 0c485b
+  oomp_key: oomp_ref6041xdgk
+  oomp_key_extra: oomp_symbol_ref6041xdgk
+  oomp_key_full: oomp_symbol_ref6041xdgk_0c485b
+  oomp_key_simple: ref6041xdgk
   owner_name: kicad
-  symbol_name: reference_voltage_ref6041xdgk
+  symbol_name: ref6041xdgk
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

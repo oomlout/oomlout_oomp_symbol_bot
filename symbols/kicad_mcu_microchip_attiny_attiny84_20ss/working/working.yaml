@@ -1,16 +1,20 @@
+id: kicad_mcu_microchip_attiny_attiny84_20ss
+library: mcu_microchip_attiny
 library_name: MCU_Microchip_ATtiny
+name: attiny84_20ss
 oomp:
   library_name: mcu_microchip_attiny
-  md5: 6ac19c4ff40227d877a9b2ed646b956a
-  md5_10: 6ac19c4ff4
-  md5_5: 6ac19
-  md5_6: 6ac19c
-  oomp_key: oomp_mcu_microchip_attiny_attiny84_20ss
-  oomp_key_extra: oomp_symbol_mcu_microchip_attiny_attiny84_20ss
-  oomp_key_full: oomp_symbol_mcu_microchip_attiny_attiny84_20ss_6ac19c
-  oomp_key_simple: mcu_microchip_attiny_attiny84_20ss
+  md5: d3a1f082f5a888c743386bc1e741b766
+  md5_10: d3a1f082f5
+  md5_5: d3a1f
+  md5_6: d3a1f0
+  oomp_key: oomp_attiny84_20ss
+  oomp_key_extra: oomp_symbol_attiny84_20ss
+  oomp_key_full: oomp_symbol_attiny84_20ss_d3a1f0
+  oomp_key_simple: attiny84_20ss
   owner_name: kicad
-  symbol_name: mcu_microchip_attiny_attiny84_20ss
+  symbol_name: attiny84_20ss
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

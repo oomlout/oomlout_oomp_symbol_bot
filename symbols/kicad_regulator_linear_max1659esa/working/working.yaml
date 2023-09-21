@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_max1659esa
+library: regulator_linear
 library_name: Regulator_Linear
+name: max1659esa
 oomp:
   library_name: regulator_linear
-  md5: ae8d149eea35e0cc02ff8d12aa40a341
-  md5_10: ae8d149eea
-  md5_5: ae8d1
-  md5_6: ae8d14
-  oomp_key: oomp_regulator_linear_max1659esa
-  oomp_key_extra: oomp_symbol_regulator_linear_max1659esa
-  oomp_key_full: oomp_symbol_regulator_linear_max1659esa_ae8d14
-  oomp_key_simple: regulator_linear_max1659esa
+  md5: 82922f323c990b73c67d7f102a25f72d
+  md5_10: 82922f323c
+  md5_5: '82922'
+  md5_6: 82922f
+  oomp_key: oomp_max1659esa
+  oomp_key_extra: oomp_symbol_max1659esa
+  oomp_key_full: oomp_symbol_max1659esa_82922f
+  oomp_key_simple: max1659esa
   owner_name: kicad
-  symbol_name: regulator_linear_max1659esa
+  symbol_name: max1659esa
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

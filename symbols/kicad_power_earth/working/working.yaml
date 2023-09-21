@@ -1,3 +1,5 @@
+id: kicad_power_earth
+library: power
 library_name: power
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_power_earth/working
   oomp_src_flat: symbols_flat/kicad_power_earth/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_earth/working
-name: power_earth
+name: earth
 oomp:
   library_name: power
-  md5: 4e17667963223635ea942b2cfa036e49
-  md5_10: 4e17667963
-  md5_5: 4e176
-  md5_6: 4e1766
-  oomp_key: oomp_power_earth
-  oomp_key_extra: oomp_symbol_power_earth
-  oomp_key_full: oomp_symbol_power_earth_4e1766
-  oomp_key_simple: power_earth
+  md5: 852488ddd9570bc877783bf4397563e0
+  md5_10: 852488ddd9
+  md5_5: '85248'
+  md5_6: '852488'
+  oomp_key: oomp_earth
+  oomp_key_extra: oomp_symbol_earth
+  oomp_key_full: oomp_symbol_earth_852488
+  oomp_key_simple: earth
   owner_name: kicad
-  symbol_name: power_earth
+  symbol_name: earth
 oomp_key: oomp_kicad_power_earth
 oomp_key_simple: kicad_power_earth
 owner: kicad

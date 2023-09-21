@@ -1,16 +1,20 @@
+id: kicad_switch_sw_e3_sa3624
+library: switch
 library_name: Switch
+name: sw_e3_sa3624
 oomp:
   library_name: switch
-  md5: f0c3484ba540f1356032cd89484c6a54
-  md5_10: f0c3484ba5
-  md5_5: f0c34
-  md5_6: f0c348
-  oomp_key: oomp_switch_sw_e3_sa3624
-  oomp_key_extra: oomp_symbol_switch_sw_e3_sa3624
-  oomp_key_full: oomp_symbol_switch_sw_e3_sa3624_f0c348
-  oomp_key_simple: switch_sw_e3_sa3624
+  md5: 7863d3d73a7ae41ca95237693df7654e
+  md5_10: 7863d3d73a
+  md5_5: 7863d
+  md5_6: 7863d3
+  oomp_key: oomp_sw_e3_sa3624
+  oomp_key_extra: oomp_symbol_sw_e3_sa3624
+  oomp_key_full: oomp_symbol_sw_e3_sa3624_7863d3
+  oomp_key_simple: sw_e3_sa3624
   owner_name: kicad
-  symbol_name: switch_sw_e3_sa3624
+  symbol_name: sw_e3_sa3624
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

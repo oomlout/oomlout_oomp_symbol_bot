@@ -1,16 +1,20 @@
+id: kicad_filter_ltc1562xg_2
+library: filter
 library_name: Filter
+name: ltc1562xg_2
 oomp:
   library_name: filter
-  md5: aa69c91f8468a28abc5e4097a4baf944
-  md5_10: aa69c91f84
-  md5_5: aa69c
-  md5_6: aa69c9
-  oomp_key: oomp_filter_ltc1562xg_2
-  oomp_key_extra: oomp_symbol_filter_ltc1562xg_2
-  oomp_key_full: oomp_symbol_filter_ltc1562xg_2_aa69c9
-  oomp_key_simple: filter_ltc1562xg_2
+  md5: 2ef2f49d042b53c625bd13d554c157e9
+  md5_10: 2ef2f49d04
+  md5_5: 2ef2f
+  md5_6: 2ef2f4
+  oomp_key: oomp_ltc1562xg_2
+  oomp_key_extra: oomp_symbol_ltc1562xg_2
+  oomp_key_full: oomp_symbol_ltc1562xg_2_2ef2f4
+  oomp_key_simple: ltc1562xg_2
   owner_name: kicad
-  symbol_name: filter_ltc1562xg_2
+  symbol_name: ltc1562xg_2
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

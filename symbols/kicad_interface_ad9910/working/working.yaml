@@ -1,3 +1,5 @@
+id: kicad_interface_ad9910
+library: interface
 library_name: Interface
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_ad9910/working
   oomp_src_flat: symbols_flat/kicad_interface_ad9910/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_ad9910/working
-name: interface_ad9910
+name: ad9910
 oomp:
   library_name: interface
-  md5: a3269a21c4aff3b783b814869d871e98
-  md5_10: a3269a21c4
-  md5_5: a3269
-  md5_6: a3269a
-  oomp_key: oomp_interface_ad9910
-  oomp_key_extra: oomp_symbol_interface_ad9910
-  oomp_key_full: oomp_symbol_interface_ad9910_a3269a
-  oomp_key_simple: interface_ad9910
+  md5: a4cdb1676de5008cd333c151adb36af1
+  md5_10: a4cdb1676d
+  md5_5: a4cdb
+  md5_6: a4cdb1
+  oomp_key: oomp_ad9910
+  oomp_key_extra: oomp_symbol_ad9910
+  oomp_key_full: oomp_symbol_ad9910_a4cdb1
+  oomp_key_simple: ad9910
   owner_name: kicad
-  symbol_name: interface_ad9910
+  symbol_name: ad9910
 oomp_key: oomp_kicad_interface_ad9910
 oomp_key_simple: kicad_interface_ad9910
 owner: kicad

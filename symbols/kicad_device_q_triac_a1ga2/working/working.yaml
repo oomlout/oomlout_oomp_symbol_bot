@@ -1,3 +1,5 @@
+id: kicad_device_q_triac_a1ga2
+library: device
 library_name: Device
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_q_triac_a1ga2/working
   oomp_src_flat: symbols_flat/kicad_device_q_triac_a1ga2/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_q_triac_a1ga2/working
-name: device_q_triac_a1ga2
+name: q_triac_a1ga2
 oomp:
   library_name: device
-  md5: 871f2151326fb2a816f275401dd9e76c
-  md5_10: 871f215132
-  md5_5: 871f2
-  md5_6: 871f21
-  oomp_key: oomp_device_q_triac_a1ga2
-  oomp_key_extra: oomp_symbol_device_q_triac_a1ga2
-  oomp_key_full: oomp_symbol_device_q_triac_a1ga2_871f21
-  oomp_key_simple: device_q_triac_a1ga2
+  md5: 49f0974f59eb400cbe2c0e5ff90c30dd
+  md5_10: 49f0974f59
+  md5_5: 49f09
+  md5_6: 49f097
+  oomp_key: oomp_q_triac_a1ga2
+  oomp_key_extra: oomp_symbol_q_triac_a1ga2
+  oomp_key_full: oomp_symbol_q_triac_a1ga2_49f097
+  oomp_key_simple: q_triac_a1ga2
   owner_name: kicad
-  symbol_name: device_q_triac_a1ga2
+  symbol_name: q_triac_a1ga2
 oomp_key: oomp_kicad_device_q_triac_a1ga2
 oomp_key_simple: kicad_device_q_triac_a1ga2
 owner: kicad

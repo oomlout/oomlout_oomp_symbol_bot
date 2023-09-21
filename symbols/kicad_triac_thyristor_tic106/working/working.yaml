@@ -1,3 +1,5 @@
+id: kicad_triac_thyristor_tic106
+library: triac_thyristor
 library_name: Triac_Thyristor
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_triac_thyristor_tic106/working
   oomp_src_flat: symbols_flat/kicad_triac_thyristor_tic106/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_triac_thyristor_tic106/working
-name: triac_thyristor_tic106
+name: tic106
 oomp:
   library_name: triac_thyristor
-  md5: b5d4ff93d1f421557d9f81c7dc27da62
-  md5_10: b5d4ff93d1
-  md5_5: b5d4f
-  md5_6: b5d4ff
-  oomp_key: oomp_triac_thyristor_tic106
-  oomp_key_extra: oomp_symbol_triac_thyristor_tic106
-  oomp_key_full: oomp_symbol_triac_thyristor_tic106_b5d4ff
-  oomp_key_simple: triac_thyristor_tic106
+  md5: c38f0341005d6f2f239aa51612f706ce
+  md5_10: c38f034100
+  md5_5: c38f0
+  md5_6: c38f03
+  oomp_key: oomp_tic106
+  oomp_key_extra: oomp_symbol_tic106
+  oomp_key_full: oomp_symbol_tic106_c38f03
+  oomp_key_simple: tic106
   owner_name: kicad
-  symbol_name: triac_thyristor_tic106
+  symbol_name: tic106
 oomp_key: oomp_kicad_triac_thyristor_tic106
 oomp_key_simple: kicad_triac_thyristor_tic106
 owner: kicad

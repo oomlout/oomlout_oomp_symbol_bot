@@ -1,3 +1,5 @@
+id: kicad_amplifier_operational_opa1641
+library: amplifier_operational
 library_name: Amplifier_Operational
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_operational_opa1641/working
   oomp_src_flat: symbols_flat/kicad_amplifier_operational_opa1641/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_operational_opa1641/working
-name: amplifier_operational_opa1641
+name: opa1641
 oomp:
   library_name: amplifier_operational
-  md5: 0b4b60727237fbc4bd9b0b1a8091aed7
-  md5_10: 0b4b607272
-  md5_5: 0b4b6
-  md5_6: 0b4b60
-  oomp_key: oomp_amplifier_operational_opa1641
-  oomp_key_extra: oomp_symbol_amplifier_operational_opa1641
-  oomp_key_full: oomp_symbol_amplifier_operational_opa1641_0b4b60
-  oomp_key_simple: amplifier_operational_opa1641
+  md5: d59c9cf740671a595a5146b0c627a563
+  md5_10: d59c9cf740
+  md5_5: d59c9
+  md5_6: d59c9c
+  oomp_key: oomp_opa1641
+  oomp_key_extra: oomp_symbol_opa1641
+  oomp_key_full: oomp_symbol_opa1641_d59c9c
+  oomp_key_simple: opa1641
   owner_name: kicad
-  symbol_name: amplifier_operational_opa1641
+  symbol_name: opa1641
 oomp_key: oomp_kicad_amplifier_operational_opa1641
 oomp_key_simple: kicad_amplifier_operational_opa1641
 owner: kicad

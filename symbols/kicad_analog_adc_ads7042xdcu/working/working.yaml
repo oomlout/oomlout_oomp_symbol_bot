@@ -1,16 +1,20 @@
+id: kicad_analog_adc_ads7042xdcu
+library: analog_adc
 library_name: Analog_ADC
+name: ads7042xdcu
 oomp:
   library_name: analog_adc
-  md5: 99101dd17d8cb8c62e9f905e2d0f4d59
-  md5_10: 99101dd17d
-  md5_5: '99101'
-  md5_6: 99101d
-  oomp_key: oomp_analog_adc_ads7042xdcu
-  oomp_key_extra: oomp_symbol_analog_adc_ads7042xdcu
-  oomp_key_full: oomp_symbol_analog_adc_ads7042xdcu_99101d
-  oomp_key_simple: analog_adc_ads7042xdcu
+  md5: c54f61197e7ac085d26034927be6e00c
+  md5_10: c54f61197e
+  md5_5: c54f6
+  md5_6: c54f61
+  oomp_key: oomp_ads7042xdcu
+  oomp_key_extra: oomp_symbol_ads7042xdcu
+  oomp_key_full: oomp_symbol_ads7042xdcu_c54f61
+  oomp_key_simple: ads7042xdcu
   owner_name: kicad
-  symbol_name: analog_adc_ads7042xdcu
+  symbol_name: ads7042xdcu
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

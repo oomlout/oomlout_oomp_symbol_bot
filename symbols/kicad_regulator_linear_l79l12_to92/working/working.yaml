@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_l79l12_to92
+library: regulator_linear
 library_name: Regulator_Linear
+name: l79l12_to92
 oomp:
   library_name: regulator_linear
-  md5: a2020acf5bebe9479d17db34a4792aa4
-  md5_10: a2020acf5b
-  md5_5: a2020
-  md5_6: a2020a
-  oomp_key: oomp_regulator_linear_l79l12_to92
-  oomp_key_extra: oomp_symbol_regulator_linear_l79l12_to92
-  oomp_key_full: oomp_symbol_regulator_linear_l79l12_to92_a2020a
-  oomp_key_simple: regulator_linear_l79l12_to92
+  md5: b166fdcc67dbeac8e544bf0736e5a751
+  md5_10: b166fdcc67
+  md5_5: b166f
+  md5_6: b166fd
+  oomp_key: oomp_l79l12_to92
+  oomp_key_extra: oomp_symbol_l79l12_to92
+  oomp_key_full: oomp_symbol_l79l12_to92_b166fd
+  oomp_key_simple: l79l12_to92
   owner_name: kicad
-  symbol_name: regulator_linear_l79l12_to92
+  symbol_name: l79l12_to92
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

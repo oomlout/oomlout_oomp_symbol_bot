@@ -1,3 +1,5 @@
+id: kicad_device_r_network11_split
+library: device
 library_name: Device
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_r_network11_split/working
   oomp_src_flat: symbols_flat/kicad_device_r_network11_split/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_r_network11_split/working
-name: device_r_network11_split
+name: r_network11_split
 oomp:
   library_name: device
-  md5: 8f476c4676c8629ce10ba3d5f327c741
-  md5_10: 8f476c4676
-  md5_5: 8f476
-  md5_6: 8f476c
-  oomp_key: oomp_device_r_network11_split
-  oomp_key_extra: oomp_symbol_device_r_network11_split
-  oomp_key_full: oomp_symbol_device_r_network11_split_8f476c
-  oomp_key_simple: device_r_network11_split
+  md5: 7cb56260f666f8d40979a4673954adc4
+  md5_10: 7cb56260f6
+  md5_5: 7cb56
+  md5_6: 7cb562
+  oomp_key: oomp_r_network11_split
+  oomp_key_extra: oomp_symbol_r_network11_split
+  oomp_key_full: oomp_symbol_r_network11_split_7cb562
+  oomp_key_simple: r_network11_split
   owner_name: kicad
-  symbol_name: device_r_network11_split
+  symbol_name: r_network11_split
 oomp_key: oomp_kicad_device_r_network11_split
 oomp_key_simple: kicad_device_r_network11_split
 owner: kicad

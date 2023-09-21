@@ -1,16 +1,20 @@
+id: kicad_amplifier_current_ina240a2d
+library: amplifier_current
 library_name: Amplifier_Current
+name: ina240a2d
 oomp:
   library_name: amplifier_current
-  md5: b3cd8192aab5fb9b97cc4f18ac2ed986
-  md5_10: b3cd8192aa
-  md5_5: b3cd8
-  md5_6: b3cd81
-  oomp_key: oomp_amplifier_current_ina240a2d
-  oomp_key_extra: oomp_symbol_amplifier_current_ina240a2d
-  oomp_key_full: oomp_symbol_amplifier_current_ina240a2d_b3cd81
-  oomp_key_simple: amplifier_current_ina240a2d
+  md5: 04042069af041ab15b65d02622041eda
+  md5_10: 04042069af
+  md5_5: '04042'
+  md5_6: '040420'
+  oomp_key: oomp_ina240a2d
+  oomp_key_extra: oomp_symbol_ina240a2d
+  oomp_key_full: oomp_symbol_ina240a2d_040420
+  oomp_key_simple: ina240a2d
   owner_name: kicad
-  symbol_name: amplifier_current_ina240a2d
+  symbol_name: ina240a2d
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

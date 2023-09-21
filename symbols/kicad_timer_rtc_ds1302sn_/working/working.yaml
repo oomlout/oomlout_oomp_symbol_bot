@@ -1,16 +1,20 @@
+id: kicad_timer_rtc_ds1302sn_
+library: timer_rtc
 library_name: Timer_RTC
+name: ds1302sn_
 oomp:
   library_name: timer_rtc
-  md5: fc507577709d6beead5329cec39e97a0
-  md5_10: fc50757770
-  md5_5: fc507
-  md5_6: fc5075
-  oomp_key: oomp_timer_rtc_ds1302sn_
-  oomp_key_extra: oomp_symbol_timer_rtc_ds1302sn_
-  oomp_key_full: oomp_symbol_timer_rtc_ds1302sn__fc5075
-  oomp_key_simple: timer_rtc_ds1302sn_
+  md5: 18d8684793a2db8e4838bbc49e347a8a
+  md5_10: 18d8684793
+  md5_5: 18d86
+  md5_6: 18d868
+  oomp_key: oomp_ds1302sn_
+  oomp_key_extra: oomp_symbol_ds1302sn_
+  oomp_key_full: oomp_symbol_ds1302sn__18d868
+  oomp_key_simple: ds1302sn_
   owner_name: kicad
-  symbol_name: timer_rtc_ds1302sn_
+  symbol_name: ds1302sn_
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

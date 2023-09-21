@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_top271kg
+library: regulator_switching
 library_name: Regulator_Switching
+name: top271kg
 oomp:
   library_name: regulator_switching
-  md5: 3f71f0c4da76dfd1b7f754e5c7bf6989
-  md5_10: 3f71f0c4da
-  md5_5: 3f71f
-  md5_6: 3f71f0
-  oomp_key: oomp_regulator_switching_top271kg
-  oomp_key_extra: oomp_symbol_regulator_switching_top271kg
-  oomp_key_full: oomp_symbol_regulator_switching_top271kg_3f71f0
-  oomp_key_simple: regulator_switching_top271kg
+  md5: 5828f98a43d6bb3ae7ddf76200c350a8
+  md5_10: 5828f98a43
+  md5_5: 5828f
+  md5_6: 5828f9
+  oomp_key: oomp_top271kg
+  oomp_key_extra: oomp_symbol_top271kg
+  oomp_key_full: oomp_symbol_top271kg_5828f9
+  oomp_key_simple: top271kg
   owner_name: kicad
-  symbol_name: regulator_switching_top271kg
+  symbol_name: top271kg
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

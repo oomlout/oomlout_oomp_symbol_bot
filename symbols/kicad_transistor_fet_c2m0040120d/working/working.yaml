@@ -1,16 +1,20 @@
+id: kicad_transistor_fet_c2m0040120d
+library: transistor_fet
 library_name: Transistor_FET
+name: c2m0040120d
 oomp:
   library_name: transistor_fet
-  md5: 2043f554e25a2009fa6cc78fc3b6a598
-  md5_10: 2043f554e2
-  md5_5: 2043f
-  md5_6: 2043f5
-  oomp_key: oomp_transistor_fet_c2m0040120d
-  oomp_key_extra: oomp_symbol_transistor_fet_c2m0040120d
-  oomp_key_full: oomp_symbol_transistor_fet_c2m0040120d_2043f5
-  oomp_key_simple: transistor_fet_c2m0040120d
+  md5: b9d27a0209d67bdd3377269abca6b328
+  md5_10: b9d27a0209
+  md5_5: b9d27
+  md5_6: b9d27a
+  oomp_key: oomp_c2m0040120d
+  oomp_key_extra: oomp_symbol_c2m0040120d
+  oomp_key_full: oomp_symbol_c2m0040120d_b9d27a
+  oomp_key_simple: c2m0040120d
   owner_name: kicad
-  symbol_name: transistor_fet_c2m0040120d
+  symbol_name: c2m0040120d
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

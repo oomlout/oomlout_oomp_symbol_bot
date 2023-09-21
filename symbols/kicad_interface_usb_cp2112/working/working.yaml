@@ -1,3 +1,5 @@
+id: kicad_interface_usb_cp2112
+library: interface_usb
 library_name: Interface_USB
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_usb_cp2112/working
   oomp_src_flat: symbols_flat/kicad_interface_usb_cp2112/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_usb_cp2112/working
-name: interface_usb_cp2112
+name: cp2112
 oomp:
   library_name: interface_usb
-  md5: dbace7177ed22fa4e0150c889863cc4f
-  md5_10: dbace7177e
-  md5_5: dbace
-  md5_6: dbace7
-  oomp_key: oomp_interface_usb_cp2112
-  oomp_key_extra: oomp_symbol_interface_usb_cp2112
-  oomp_key_full: oomp_symbol_interface_usb_cp2112_dbace7
-  oomp_key_simple: interface_usb_cp2112
+  md5: 7bf9ac2bfab4a3c712a78f1caa9ad302
+  md5_10: 7bf9ac2bfa
+  md5_5: 7bf9a
+  md5_6: 7bf9ac
+  oomp_key: oomp_cp2112
+  oomp_key_extra: oomp_symbol_cp2112
+  oomp_key_full: oomp_symbol_cp2112_7bf9ac
+  oomp_key_simple: cp2112
   owner_name: kicad
-  symbol_name: interface_usb_cp2112
+  symbol_name: cp2112
 oomp_key: oomp_kicad_interface_usb_cp2112
 oomp_key_simple: kicad_interface_usb_cp2112
 owner: kicad

@@ -1,3 +1,5 @@
+id: kicad_regulator_switching_ltm4668
+library: regulator_switching
 library_name: Regulator_Switching
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_ltm4668/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_ltm4668/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_ltm4668/working
-name: regulator_switching_ltm4668
+name: ltm4668
 oomp:
   library_name: regulator_switching
-  md5: c53948b8b2fe20840ada39083622b9a6
-  md5_10: c53948b8b2
-  md5_5: c5394
-  md5_6: c53948
-  oomp_key: oomp_regulator_switching_ltm4668
-  oomp_key_extra: oomp_symbol_regulator_switching_ltm4668
-  oomp_key_full: oomp_symbol_regulator_switching_ltm4668_c53948
-  oomp_key_simple: regulator_switching_ltm4668
+  md5: cf49f4772dd12db7fe0e2b8c06353f1b
+  md5_10: cf49f4772d
+  md5_5: cf49f
+  md5_6: cf49f4
+  oomp_key: oomp_ltm4668
+  oomp_key_extra: oomp_symbol_ltm4668
+  oomp_key_full: oomp_symbol_ltm4668_cf49f4
+  oomp_key_simple: ltm4668
   owner_name: kicad
-  symbol_name: regulator_switching_ltm4668
+  symbol_name: ltm4668
 oomp_key: oomp_kicad_regulator_switching_ltm4668
 oomp_key_simple: kicad_regulator_switching_ltm4668
 owner: kicad

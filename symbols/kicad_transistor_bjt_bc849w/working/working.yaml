@@ -1,16 +1,20 @@
+id: kicad_transistor_bjt_bc849w
+library: transistor_bjt
 library_name: Transistor_BJT
+name: bc849w
 oomp:
   library_name: transistor_bjt
-  md5: 02d1f61977fb7806395a360c16a3b215
-  md5_10: 02d1f61977
-  md5_5: 02d1f
-  md5_6: 02d1f6
-  oomp_key: oomp_transistor_bjt_bc849w
-  oomp_key_extra: oomp_symbol_transistor_bjt_bc849w
-  oomp_key_full: oomp_symbol_transistor_bjt_bc849w_02d1f6
-  oomp_key_simple: transistor_bjt_bc849w
+  md5: abb08b7060b8c888764e09674bbe83f9
+  md5_10: abb08b7060
+  md5_5: abb08
+  md5_6: abb08b
+  oomp_key: oomp_bc849w
+  oomp_key_extra: oomp_symbol_bc849w
+  oomp_key_full: oomp_symbol_bc849w_abb08b
+  oomp_key_simple: bc849w
   owner_name: kicad
-  symbol_name: transistor_bjt_bc849w
+  symbol_name: bc849w
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

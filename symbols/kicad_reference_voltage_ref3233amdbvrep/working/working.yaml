@@ -1,16 +1,20 @@
+id: kicad_reference_voltage_ref3233amdbvrep
+library: reference_voltage
 library_name: Reference_Voltage
+name: ref3233amdbvrep
 oomp:
   library_name: reference_voltage
-  md5: 7373688a084fd7266768e8e75405f765
-  md5_10: 7373688a08
-  md5_5: '73736'
-  md5_6: '737368'
-  oomp_key: oomp_reference_voltage_ref3233amdbvrep
-  oomp_key_extra: oomp_symbol_reference_voltage_ref3233amdbvrep
-  oomp_key_full: oomp_symbol_reference_voltage_ref3233amdbvrep_737368
-  oomp_key_simple: reference_voltage_ref3233amdbvrep
+  md5: 0bb2ed5036240c03f482739979675d11
+  md5_10: 0bb2ed5036
+  md5_5: 0bb2e
+  md5_6: 0bb2ed
+  oomp_key: oomp_ref3233amdbvrep
+  oomp_key_extra: oomp_symbol_ref3233amdbvrep
+  oomp_key_full: oomp_symbol_ref3233amdbvrep_0bb2ed
+  oomp_key_simple: ref3233amdbvrep
   owner_name: kicad
-  symbol_name: reference_voltage_ref3233amdbvrep
+  symbol_name: ref3233amdbvrep
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

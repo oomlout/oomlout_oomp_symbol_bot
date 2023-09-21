@@ -1,16 +1,20 @@
+id: kicad_converter_dcdc_ih2415d
+library: converter_dcdc
 library_name: Converter_DCDC
+name: ih2415d
 oomp:
   library_name: converter_dcdc
-  md5: ce7362064add6bec06750ba0100557fd
-  md5_10: ce7362064a
-  md5_5: ce736
-  md5_6: ce7362
-  oomp_key: oomp_converter_dcdc_ih2415d
-  oomp_key_extra: oomp_symbol_converter_dcdc_ih2415d
-  oomp_key_full: oomp_symbol_converter_dcdc_ih2415d_ce7362
-  oomp_key_simple: converter_dcdc_ih2415d
+  md5: 9224e11908875bb1575668bcd7eff808
+  md5_10: 9224e11908
+  md5_5: 9224e
+  md5_6: 9224e1
+  oomp_key: oomp_ih2415d
+  oomp_key_extra: oomp_symbol_ih2415d
+  oomp_key_full: oomp_symbol_ih2415d_9224e1
+  oomp_key_simple: ih2415d
   owner_name: kicad
-  symbol_name: converter_dcdc_ih2415d
+  symbol_name: ih2415d
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

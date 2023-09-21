@@ -1,16 +1,20 @@
+id: kicad_driver_led_lt3756xmse_1
+library: driver_led
 library_name: Driver_LED
+name: lt3756xmse_1
 oomp:
   library_name: driver_led
-  md5: 79a59809fe34ad4bf845bca21dc51690
-  md5_10: 79a59809fe
-  md5_5: 79a59
-  md5_6: 79a598
-  oomp_key: oomp_driver_led_lt3756xmse_1
-  oomp_key_extra: oomp_symbol_driver_led_lt3756xmse_1
-  oomp_key_full: oomp_symbol_driver_led_lt3756xmse_1_79a598
-  oomp_key_simple: driver_led_lt3756xmse_1
+  md5: 2ee1d50d58ae3db611e36a483457649c
+  md5_10: 2ee1d50d58
+  md5_5: 2ee1d
+  md5_6: 2ee1d5
+  oomp_key: oomp_lt3756xmse_1
+  oomp_key_extra: oomp_symbol_lt3756xmse_1
+  oomp_key_full: oomp_symbol_lt3756xmse_1_2ee1d5
+  oomp_key_simple: lt3756xmse_1
   owner_name: kicad
-  symbol_name: driver_led_lt3756xmse_1
+  symbol_name: lt3756xmse_1
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

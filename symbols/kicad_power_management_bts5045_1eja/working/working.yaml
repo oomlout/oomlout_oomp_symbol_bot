@@ -1,16 +1,20 @@
+id: kicad_power_management_bts5045_1eja
+library: power_management
 library_name: Power_Management
+name: bts5045_1eja
 oomp:
   library_name: power_management
-  md5: 70c64aedb7bef74b34baaf84903e9d48
-  md5_10: 70c64aedb7
-  md5_5: 70c64
-  md5_6: 70c64a
-  oomp_key: oomp_power_management_bts5045_1eja
-  oomp_key_extra: oomp_symbol_power_management_bts5045_1eja
-  oomp_key_full: oomp_symbol_power_management_bts5045_1eja_70c64a
-  oomp_key_simple: power_management_bts5045_1eja
+  md5: 787a126bbbb4ab8dede4f37c129fb849
+  md5_10: 787a126bbb
+  md5_5: 787a1
+  md5_6: 787a12
+  oomp_key: oomp_bts5045_1eja
+  oomp_key_extra: oomp_symbol_bts5045_1eja
+  oomp_key_full: oomp_symbol_bts5045_1eja_787a12
+  oomp_key_simple: bts5045_1eja
   owner_name: kicad
-  symbol_name: power_management_bts5045_1eja
+  symbol_name: bts5045_1eja
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

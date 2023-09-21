@@ -1,16 +1,20 @@
+id: kicad_transistor_power_module_stgips10k60a2
+library: transistor_power_module
 library_name: Transistor_Power_Module
+name: stgips10k60a2
 oomp:
   library_name: transistor_power_module
-  md5: 8db390a337c65d1e7c95bcff1f0b02e0
-  md5_10: 8db390a337
-  md5_5: 8db39
-  md5_6: 8db390
-  oomp_key: oomp_transistor_power_module_stgips10k60a2
-  oomp_key_extra: oomp_symbol_transistor_power_module_stgips10k60a2
-  oomp_key_full: oomp_symbol_transistor_power_module_stgips10k60a2_8db390
-  oomp_key_simple: transistor_power_module_stgips10k60a2
+  md5: 89ec45d51bb0157d9cc41f6461420d3b
+  md5_10: 89ec45d51b
+  md5_5: 89ec4
+  md5_6: 89ec45
+  oomp_key: oomp_stgips10k60a2
+  oomp_key_extra: oomp_symbol_stgips10k60a2
+  oomp_key_full: oomp_symbol_stgips10k60a2_89ec45
+  oomp_key_simple: stgips10k60a2
   owner_name: kicad
-  symbol_name: transistor_power_module_stgips10k60a2
+  symbol_name: stgips10k60a2
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

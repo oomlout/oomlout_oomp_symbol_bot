@@ -1,16 +1,20 @@
+id: kicad_sensor_temperature_ad8497
+library: sensor_temperature
 library_name: Sensor_Temperature
+name: ad8497
 oomp:
   library_name: sensor_temperature
-  md5: 3c770f16eeb973cb5def0bcab9768830
-  md5_10: 3c770f16ee
-  md5_5: 3c770
-  md5_6: 3c770f
-  oomp_key: oomp_sensor_temperature_ad8497
-  oomp_key_extra: oomp_symbol_sensor_temperature_ad8497
-  oomp_key_full: oomp_symbol_sensor_temperature_ad8497_3c770f
-  oomp_key_simple: sensor_temperature_ad8497
+  md5: 85a16c391870d4c234e1011e7004b05f
+  md5_10: 85a16c3918
+  md5_5: 85a16
+  md5_6: 85a16c
+  oomp_key: oomp_ad8497
+  oomp_key_extra: oomp_symbol_ad8497
+  oomp_key_full: oomp_symbol_ad8497_85a16c
+  oomp_key_simple: ad8497
   owner_name: kicad
-  symbol_name: sensor_temperature_ad8497
+  symbol_name: ad8497
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

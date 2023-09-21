@@ -1,3 +1,5 @@
+id: kicad_regulator_switching_tps5403
+library: regulator_switching
 library_name: Regulator_Switching
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_tps5403/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_tps5403/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_tps5403/working
-name: regulator_switching_tps5403
+name: tps5403
 oomp:
   library_name: regulator_switching
-  md5: 89c5dd57905a60c3d503bcff2e443d68
-  md5_10: 89c5dd5790
-  md5_5: 89c5d
-  md5_6: 89c5dd
-  oomp_key: oomp_regulator_switching_tps5403
-  oomp_key_extra: oomp_symbol_regulator_switching_tps5403
-  oomp_key_full: oomp_symbol_regulator_switching_tps5403_89c5dd
-  oomp_key_simple: regulator_switching_tps5403
+  md5: 54a9f298acc5e67e339cc3bd8d716b61
+  md5_10: 54a9f298ac
+  md5_5: 54a9f
+  md5_6: 54a9f2
+  oomp_key: oomp_tps5403
+  oomp_key_extra: oomp_symbol_tps5403
+  oomp_key_full: oomp_symbol_tps5403_54a9f2
+  oomp_key_simple: tps5403
   owner_name: kicad
-  symbol_name: regulator_switching_tps5403
+  symbol_name: tps5403
 oomp_key: oomp_kicad_regulator_switching_tps5403
 oomp_key_simple: kicad_regulator_switching_tps5403
 owner: kicad

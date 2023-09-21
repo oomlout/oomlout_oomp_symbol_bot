@@ -1,3 +1,5 @@
+id: kicad_regulator_linear_lp38512mr_adj
+library: regulator_linear
 library_name: Regulator_Linear
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_linear_lp38512mr_adj/working
   oomp_src_flat: symbols_flat/kicad_regulator_linear_lp38512mr_adj/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_linear_lp38512mr_adj/working
-name: regulator_linear_lp38512mr_adj
+name: lp38512mr_adj
 oomp:
   library_name: regulator_linear
-  md5: 699e7b458f02b7b33f7c33564552f55a
-  md5_10: 699e7b458f
-  md5_5: 699e7
-  md5_6: 699e7b
-  oomp_key: oomp_regulator_linear_lp38512mr_adj
-  oomp_key_extra: oomp_symbol_regulator_linear_lp38512mr_adj
-  oomp_key_full: oomp_symbol_regulator_linear_lp38512mr_adj_699e7b
-  oomp_key_simple: regulator_linear_lp38512mr_adj
+  md5: 2fcf96010e15f76794a052b41d625366
+  md5_10: 2fcf96010e
+  md5_5: 2fcf9
+  md5_6: 2fcf96
+  oomp_key: oomp_lp38512mr_adj
+  oomp_key_extra: oomp_symbol_lp38512mr_adj
+  oomp_key_full: oomp_symbol_lp38512mr_adj_2fcf96
+  oomp_key_simple: lp38512mr_adj
   owner_name: kicad
-  symbol_name: regulator_linear_lp38512mr_adj
+  symbol_name: lp38512mr_adj
 oomp_key: oomp_kicad_regulator_linear_lp38512mr_adj
 oomp_key_simple: kicad_regulator_linear_lp38512mr_adj
 owner: kicad

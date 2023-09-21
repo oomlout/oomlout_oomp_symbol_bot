@@ -1,16 +1,20 @@
+id: kicad_mcu_microchip_atmega_atmega325p_20m
+library: mcu_microchip_atmega
 library_name: MCU_Microchip_ATmega
+name: atmega325p_20m
 oomp:
   library_name: mcu_microchip_atmega
-  md5: b1c7e7959dd8cb18bd8d6659d1b7be40
-  md5_10: b1c7e7959d
-  md5_5: b1c7e
-  md5_6: b1c7e7
-  oomp_key: oomp_mcu_microchip_atmega_atmega325p_20m
-  oomp_key_extra: oomp_symbol_mcu_microchip_atmega_atmega325p_20m
-  oomp_key_full: oomp_symbol_mcu_microchip_atmega_atmega325p_20m_b1c7e7
-  oomp_key_simple: mcu_microchip_atmega_atmega325p_20m
+  md5: 7c637bf29608ed53189e4c68a489c8fc
+  md5_10: 7c637bf296
+  md5_5: 7c637
+  md5_6: 7c637b
+  oomp_key: oomp_atmega325p_20m
+  oomp_key_extra: oomp_symbol_atmega325p_20m
+  oomp_key_full: oomp_symbol_atmega325p_20m_7c637b
+  oomp_key_simple: atmega325p_20m
   owner_name: kicad
-  symbol_name: mcu_microchip_atmega_atmega325p_20m
+  symbol_name: atmega325p_20m
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

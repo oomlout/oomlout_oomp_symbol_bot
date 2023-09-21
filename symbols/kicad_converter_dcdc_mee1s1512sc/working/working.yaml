@@ -1,16 +1,20 @@
+id: kicad_converter_dcdc_mee1s1512sc
+library: converter_dcdc
 library_name: Converter_DCDC
+name: mee1s1512sc
 oomp:
   library_name: converter_dcdc
-  md5: 0c1088ecf86309a6b062789549e36a4f
-  md5_10: 0c1088ecf8
-  md5_5: 0c108
-  md5_6: 0c1088
-  oomp_key: oomp_converter_dcdc_mee1s1512sc
-  oomp_key_extra: oomp_symbol_converter_dcdc_mee1s1512sc
-  oomp_key_full: oomp_symbol_converter_dcdc_mee1s1512sc_0c1088
-  oomp_key_simple: converter_dcdc_mee1s1512sc
+  md5: 049b661141f1ed7662ee7f873f8ed86a
+  md5_10: 049b661141
+  md5_5: 049b6
+  md5_6: 049b66
+  oomp_key: oomp_mee1s1512sc
+  oomp_key_extra: oomp_symbol_mee1s1512sc
+  oomp_key_full: oomp_symbol_mee1s1512sc_049b66
+  oomp_key_simple: mee1s1512sc
   owner_name: kicad
-  symbol_name: converter_dcdc_mee1s1512sc
+  symbol_name: mee1s1512sc
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

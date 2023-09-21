@@ -1,16 +1,20 @@
+id: kicad_connector_rj9
+library: connector
 library_name: Connector
+name: rj9
 oomp:
   library_name: connector
-  md5: 108c7835d30576c19fa143815efb5bac
-  md5_10: 108c7835d3
-  md5_5: 108c7
-  md5_6: 108c78
-  oomp_key: oomp_connector_rj9
-  oomp_key_extra: oomp_symbol_connector_rj9
-  oomp_key_full: oomp_symbol_connector_rj9_108c78
-  oomp_key_simple: connector_rj9
+  md5: 1ad7d9cb187d3f948e2b7ae1f2f84a1e
+  md5_10: 1ad7d9cb18
+  md5_5: 1ad7d
+  md5_6: 1ad7d9
+  oomp_key: oomp_rj9
+  oomp_key_extra: oomp_symbol_rj9
+  oomp_key_full: oomp_symbol_rj9_1ad7d9
+  oomp_key_simple: rj9
   owner_name: kicad
-  symbol_name: connector_rj9
+  symbol_name: rj9
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

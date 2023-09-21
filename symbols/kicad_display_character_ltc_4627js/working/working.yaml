@@ -1,16 +1,20 @@
+id: kicad_display_character_ltc_4627js
+library: display_character
 library_name: Display_Character
+name: ltc_4627js
 oomp:
   library_name: display_character
-  md5: cbf58038fccc6ff73fa25409f5d9a97a
-  md5_10: cbf58038fc
-  md5_5: cbf58
-  md5_6: cbf580
-  oomp_key: oomp_display_character_ltc_4627js
-  oomp_key_extra: oomp_symbol_display_character_ltc_4627js
-  oomp_key_full: oomp_symbol_display_character_ltc_4627js_cbf580
-  oomp_key_simple: display_character_ltc_4627js
+  md5: 3c52a5f00b064f865695d68c0dff1101
+  md5_10: 3c52a5f00b
+  md5_5: 3c52a
+  md5_6: 3c52a5
+  oomp_key: oomp_ltc_4627js
+  oomp_key_extra: oomp_symbol_ltc_4627js
+  oomp_key_full: oomp_symbol_ltc_4627js_3c52a5
+  oomp_key_simple: ltc_4627js
   owner_name: kicad
-  symbol_name: display_character_ltc_4627js
+  symbol_name: ltc_4627js
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

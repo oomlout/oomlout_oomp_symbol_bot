@@ -1,3 +1,5 @@
+id: kicad_device_led_bkrg
+library: device
 library_name: Device
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_led_bkrg/working
   oomp_src_flat: symbols_flat/kicad_device_led_bkrg/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_led_bkrg/working
-name: device_led_bkrg
+name: led_bkrg
 oomp:
   library_name: device
-  md5: 21fc5add73957f2d706b17374601ccc8
-  md5_10: 21fc5add73
-  md5_5: 21fc5
-  md5_6: 21fc5a
-  oomp_key: oomp_device_led_bkrg
-  oomp_key_extra: oomp_symbol_device_led_bkrg
-  oomp_key_full: oomp_symbol_device_led_bkrg_21fc5a
-  oomp_key_simple: device_led_bkrg
+  md5: 3003781485d598f5d520825a74d12600
+  md5_10: '3003781485'
+  md5_5: '30037'
+  md5_6: '300378'
+  oomp_key: oomp_led_bkrg
+  oomp_key_extra: oomp_symbol_led_bkrg
+  oomp_key_full: oomp_symbol_led_bkrg_300378
+  oomp_key_simple: led_bkrg
   owner_name: kicad
-  symbol_name: device_led_bkrg
+  symbol_name: led_bkrg
 oomp_key: oomp_kicad_device_led_bkrg
 oomp_key_simple: kicad_device_led_bkrg
 owner: kicad

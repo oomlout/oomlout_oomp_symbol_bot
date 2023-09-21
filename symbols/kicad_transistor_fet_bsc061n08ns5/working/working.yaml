@@ -1,16 +1,20 @@
+id: kicad_transistor_fet_bsc061n08ns5
+library: transistor_fet
 library_name: Transistor_FET
+name: bsc061n08ns5
 oomp:
   library_name: transistor_fet
-  md5: 574da11bd13b55f31a5a93777dab4442
-  md5_10: 574da11bd1
-  md5_5: 574da
-  md5_6: 574da1
-  oomp_key: oomp_transistor_fet_bsc061n08ns5
-  oomp_key_extra: oomp_symbol_transistor_fet_bsc061n08ns5
-  oomp_key_full: oomp_symbol_transistor_fet_bsc061n08ns5_574da1
-  oomp_key_simple: transistor_fet_bsc061n08ns5
+  md5: 3aaa1bfcc4d8e4f1b2148e9b3895d0d7
+  md5_10: 3aaa1bfcc4
+  md5_5: 3aaa1
+  md5_6: 3aaa1b
+  oomp_key: oomp_bsc061n08ns5
+  oomp_key_extra: oomp_symbol_bsc061n08ns5
+  oomp_key_full: oomp_symbol_bsc061n08ns5_3aaa1b
+  oomp_key_simple: bsc061n08ns5
   owner_name: kicad
-  symbol_name: transistor_fet_bsc061n08ns5
+  symbol_name: bsc061n08ns5
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

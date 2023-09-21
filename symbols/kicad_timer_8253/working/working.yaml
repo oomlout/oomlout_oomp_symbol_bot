@@ -1,16 +1,20 @@
+id: kicad_timer_8253
+library: timer
 library_name: Timer
+name: '8253'
 oomp:
   library_name: timer
-  md5: b651ad3b9fa6c9fbdea1a2514aa2d3dc
-  md5_10: b651ad3b9f
-  md5_5: b651a
-  md5_6: b651ad
-  oomp_key: oomp_timer_8253
-  oomp_key_extra: oomp_symbol_timer_8253
-  oomp_key_full: oomp_symbol_timer_8253_b651ad
-  oomp_key_simple: timer_8253
+  md5: 33beffd09a1b020d1187c6b4b264014a
+  md5_10: 33beffd09a
+  md5_5: 33bef
+  md5_6: 33beff
+  oomp_key: oomp_8253
+  oomp_key_extra: oomp_symbol_8253
+  oomp_key_full: oomp_symbol_8253_33beff
+  oomp_key_simple: '8253'
   owner_name: kicad
-  symbol_name: timer_8253
+  symbol_name: '8253'
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

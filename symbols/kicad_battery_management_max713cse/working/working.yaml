@@ -1,16 +1,20 @@
+id: kicad_battery_management_max713cse
+library: battery_management
 library_name: Battery_Management
+name: max713cse
 oomp:
   library_name: battery_management
-  md5: 3c61b72487e1057396bcf646dd676f6d
-  md5_10: 3c61b72487
-  md5_5: 3c61b
-  md5_6: 3c61b7
-  oomp_key: oomp_battery_management_max713cse
-  oomp_key_extra: oomp_symbol_battery_management_max713cse
-  oomp_key_full: oomp_symbol_battery_management_max713cse_3c61b7
-  oomp_key_simple: battery_management_max713cse
+  md5: 6f2968fd696bc12f1e8bc9f998f867a7
+  md5_10: 6f2968fd69
+  md5_5: 6f296
+  md5_6: 6f2968
+  oomp_key: oomp_max713cse
+  oomp_key_extra: oomp_symbol_max713cse
+  oomp_key_full: oomp_symbol_max713cse_6f2968
+  oomp_key_simple: max713cse
   owner_name: kicad
-  symbol_name: battery_management_max713cse
+  symbol_name: max713cse
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_triac_thyristor_bta16_800bw
+library: triac_thyristor
 library_name: Triac_Thyristor
+name: bta16_800bw
 oomp:
   library_name: triac_thyristor
-  md5: dc8b7ea17a12d881d17e45ad75e2b6ec
-  md5_10: dc8b7ea17a
-  md5_5: dc8b7
-  md5_6: dc8b7e
-  oomp_key: oomp_triac_thyristor_bta16_800bw
-  oomp_key_extra: oomp_symbol_triac_thyristor_bta16_800bw
-  oomp_key_full: oomp_symbol_triac_thyristor_bta16_800bw_dc8b7e
-  oomp_key_simple: triac_thyristor_bta16_800bw
+  md5: 44be7bd2f4d3a5b591f5bd0832f4b305
+  md5_10: 44be7bd2f4
+  md5_5: 44be7
+  md5_6: 44be7b
+  oomp_key: oomp_bta16_800bw
+  oomp_key_extra: oomp_symbol_bta16_800bw
+  oomp_key_full: oomp_symbol_bta16_800bw_44be7b
+  oomp_key_simple: bta16_800bw
   owner_name: kicad
-  symbol_name: triac_thyristor_bta16_800bw
+  symbol_name: bta16_800bw
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

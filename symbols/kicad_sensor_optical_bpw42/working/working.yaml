@@ -1,16 +1,20 @@
+id: kicad_sensor_optical_bpw42
+library: sensor_optical
 library_name: Sensor_Optical
+name: bpw42
 oomp:
   library_name: sensor_optical
-  md5: 3bc798684d1c1b5263a9e5334dd48994
-  md5_10: 3bc798684d
-  md5_5: 3bc79
-  md5_6: 3bc798
-  oomp_key: oomp_sensor_optical_bpw42
-  oomp_key_extra: oomp_symbol_sensor_optical_bpw42
-  oomp_key_full: oomp_symbol_sensor_optical_bpw42_3bc798
-  oomp_key_simple: sensor_optical_bpw42
+  md5: f468ecb5be9bd546dd923fee41761fcd
+  md5_10: f468ecb5be
+  md5_5: f468e
+  md5_6: f468ec
+  oomp_key: oomp_bpw42
+  oomp_key_extra: oomp_symbol_bpw42
+  oomp_key_full: oomp_symbol_bpw42_f468ec
+  oomp_key_simple: bpw42
   owner_name: kicad
-  symbol_name: sensor_optical_bpw42
+  symbol_name: bpw42
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

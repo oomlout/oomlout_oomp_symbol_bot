@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_lf50_to252
+library: regulator_linear
 library_name: Regulator_Linear
+name: lf50_to252
 oomp:
   library_name: regulator_linear
-  md5: 5055348e4244300e33bb9d8e7ccf7505
-  md5_10: 5055348e42
-  md5_5: '50553'
-  md5_6: '505534'
-  oomp_key: oomp_regulator_linear_lf50_to252
-  oomp_key_extra: oomp_symbol_regulator_linear_lf50_to252
-  oomp_key_full: oomp_symbol_regulator_linear_lf50_to252_505534
-  oomp_key_simple: regulator_linear_lf50_to252
+  md5: 7e523a463d34afa903a94e69c7a0f01e
+  md5_10: 7e523a463d
+  md5_5: 7e523
+  md5_6: 7e523a
+  oomp_key: oomp_lf50_to252
+  oomp_key_extra: oomp_symbol_lf50_to252
+  oomp_key_full: oomp_symbol_lf50_to252_7e523a
+  oomp_key_simple: lf50_to252
   owner_name: kicad
-  symbol_name: regulator_linear_lf50_to252
+  symbol_name: lf50_to252
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

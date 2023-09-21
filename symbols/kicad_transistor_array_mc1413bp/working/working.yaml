@@ -1,16 +1,20 @@
+id: kicad_transistor_array_mc1413bp
+library: transistor_array
 library_name: Transistor_Array
+name: mc1413bp
 oomp:
   library_name: transistor_array
-  md5: 66621f98f8a4aad2120985019d093f79
-  md5_10: 66621f98f8
-  md5_5: '66621'
-  md5_6: 66621f
-  oomp_key: oomp_transistor_array_mc1413bp
-  oomp_key_extra: oomp_symbol_transistor_array_mc1413bp
-  oomp_key_full: oomp_symbol_transistor_array_mc1413bp_66621f
-  oomp_key_simple: transistor_array_mc1413bp
+  md5: e36d472e639e1424dfe473e19e24c53d
+  md5_10: e36d472e63
+  md5_5: e36d4
+  md5_6: e36d47
+  oomp_key: oomp_mc1413bp
+  oomp_key_extra: oomp_symbol_mc1413bp
+  oomp_key_full: oomp_symbol_mc1413bp_e36d47
+  oomp_key_simple: mc1413bp
   owner_name: kicad
-  symbol_name: transistor_array_mc1413bp
+  symbol_name: mc1413bp
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

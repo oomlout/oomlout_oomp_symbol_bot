@@ -1,16 +1,20 @@
+id: kicad_amplifier_operational_ths4631d
+library: amplifier_operational
 library_name: Amplifier_Operational
+name: ths4631d
 oomp:
   library_name: amplifier_operational
-  md5: 53454b2d4a85fd8df113859d345149c9
-  md5_10: 53454b2d4a
-  md5_5: '53454'
-  md5_6: 53454b
-  oomp_key: oomp_amplifier_operational_ths4631d
-  oomp_key_extra: oomp_symbol_amplifier_operational_ths4631d
-  oomp_key_full: oomp_symbol_amplifier_operational_ths4631d_53454b
-  oomp_key_simple: amplifier_operational_ths4631d
+  md5: c62009105f9149456a232a9829aeb6ea
+  md5_10: c62009105f
+  md5_5: c6200
+  md5_6: c62009
+  oomp_key: oomp_ths4631d
+  oomp_key_extra: oomp_symbol_ths4631d
+  oomp_key_full: oomp_symbol_ths4631d_c62009
+  oomp_key_simple: ths4631d
   owner_name: kicad
-  symbol_name: amplifier_operational_ths4631d
+  symbol_name: ths4631d
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

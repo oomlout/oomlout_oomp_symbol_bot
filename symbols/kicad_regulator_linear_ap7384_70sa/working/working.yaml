@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_ap7384_70sa
+library: regulator_linear
 library_name: Regulator_Linear
+name: ap7384_70sa
 oomp:
   library_name: regulator_linear
-  md5: a28c34586b430b571065728aea062561
-  md5_10: a28c34586b
-  md5_5: a28c3
-  md5_6: a28c34
-  oomp_key: oomp_regulator_linear_ap7384_70sa
-  oomp_key_extra: oomp_symbol_regulator_linear_ap7384_70sa
-  oomp_key_full: oomp_symbol_regulator_linear_ap7384_70sa_a28c34
-  oomp_key_simple: regulator_linear_ap7384_70sa
+  md5: f29b63a75ba550462595f9cafe5ce16d
+  md5_10: f29b63a75b
+  md5_5: f29b6
+  md5_6: f29b63
+  oomp_key: oomp_ap7384_70sa
+  oomp_key_extra: oomp_symbol_ap7384_70sa
+  oomp_key_full: oomp_symbol_ap7384_70sa_f29b63
+  oomp_key_simple: ap7384_70sa
   owner_name: kicad
-  symbol_name: regulator_linear_ap7384_70sa
+  symbol_name: ap7384_70sa
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

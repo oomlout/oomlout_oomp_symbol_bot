@@ -1,16 +1,20 @@
+id: kicad_transistor_fet_irf3205
+library: transistor_fet
 library_name: Transistor_FET
+name: irf3205
 oomp:
   library_name: transistor_fet
-  md5: cac236bd74ddb71cebf55872e70b688c
-  md5_10: cac236bd74
-  md5_5: cac23
-  md5_6: cac236
-  oomp_key: oomp_transistor_fet_irf3205
-  oomp_key_extra: oomp_symbol_transistor_fet_irf3205
-  oomp_key_full: oomp_symbol_transistor_fet_irf3205_cac236
-  oomp_key_simple: transistor_fet_irf3205
+  md5: 5908216f280f35c06ca4796d19c51b78
+  md5_10: 5908216f28
+  md5_5: '59082'
+  md5_6: '590821'
+  oomp_key: oomp_irf3205
+  oomp_key_extra: oomp_symbol_irf3205
+  oomp_key_full: oomp_symbol_irf3205_590821
+  oomp_key_simple: irf3205
   owner_name: kicad
-  symbol_name: transistor_fet_irf3205
+  symbol_name: irf3205
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

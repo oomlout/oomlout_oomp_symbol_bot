@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_mcp1703ax_180xxmb
+library: regulator_linear
 library_name: Regulator_Linear
+name: mcp1703ax_180xxmb
 oomp:
   library_name: regulator_linear
-  md5: 4f693c8a2cff5e558bd88eca78e11294
-  md5_10: 4f693c8a2c
-  md5_5: 4f693
-  md5_6: 4f693c
-  oomp_key: oomp_regulator_linear_mcp1703ax_180xxmb
-  oomp_key_extra: oomp_symbol_regulator_linear_mcp1703ax_180xxmb
-  oomp_key_full: oomp_symbol_regulator_linear_mcp1703ax_180xxmb_4f693c
-  oomp_key_simple: regulator_linear_mcp1703ax_180xxmb
+  md5: baffdb790873b1e07419fab37d770360
+  md5_10: baffdb7908
+  md5_5: baffd
+  md5_6: baffdb
+  oomp_key: oomp_mcp1703ax_180xxmb
+  oomp_key_extra: oomp_symbol_mcp1703ax_180xxmb
+  oomp_key_full: oomp_symbol_mcp1703ax_180xxmb_baffdb
+  oomp_key_simple: mcp1703ax_180xxmb
   owner_name: kicad
-  symbol_name: regulator_linear_mcp1703ax_180xxmb
+  symbol_name: mcp1703ax_180xxmb
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

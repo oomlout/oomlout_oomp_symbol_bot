@@ -1,16 +1,20 @@
+id: kicad_sensor_current_acs723xlctr_20ab
+library: sensor_current
 library_name: Sensor_Current
+name: acs723xlctr_20ab
 oomp:
   library_name: sensor_current
-  md5: 6b895ea98e46aa6ef3cb4e528aeee0a2
-  md5_10: 6b895ea98e
-  md5_5: 6b895
-  md5_6: 6b895e
-  oomp_key: oomp_sensor_current_acs723xlctr_20ab
-  oomp_key_extra: oomp_symbol_sensor_current_acs723xlctr_20ab
-  oomp_key_full: oomp_symbol_sensor_current_acs723xlctr_20ab_6b895e
-  oomp_key_simple: sensor_current_acs723xlctr_20ab
+  md5: 598ac0e73a1f79b11ff79dd3727d57dc
+  md5_10: 598ac0e73a
+  md5_5: 598ac
+  md5_6: 598ac0
+  oomp_key: oomp_acs723xlctr_20ab
+  oomp_key_extra: oomp_symbol_acs723xlctr_20ab
+  oomp_key_full: oomp_symbol_acs723xlctr_20ab_598ac0
+  oomp_key_simple: acs723xlctr_20ab
   owner_name: kicad
-  symbol_name: sensor_current_acs723xlctr_20ab
+  symbol_name: acs723xlctr_20ab
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

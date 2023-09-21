@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_ncp1072p100
+library: regulator_switching
 library_name: Regulator_Switching
+name: ncp1072p100
 oomp:
   library_name: regulator_switching
-  md5: 8b71e37919135c2af42cb7ea9454498c
-  md5_10: 8b71e37919
-  md5_5: 8b71e
-  md5_6: 8b71e3
-  oomp_key: oomp_regulator_switching_ncp1072p100
-  oomp_key_extra: oomp_symbol_regulator_switching_ncp1072p100
-  oomp_key_full: oomp_symbol_regulator_switching_ncp1072p100_8b71e3
-  oomp_key_simple: regulator_switching_ncp1072p100
+  md5: 0f61dd6c88c3963ffc7c058ab68b4b86
+  md5_10: 0f61dd6c88
+  md5_5: 0f61d
+  md5_6: 0f61dd
+  oomp_key: oomp_ncp1072p100
+  oomp_key_extra: oomp_symbol_ncp1072p100
+  oomp_key_full: oomp_symbol_ncp1072p100_0f61dd
+  oomp_key_simple: ncp1072p100
   owner_name: kicad
-  symbol_name: regulator_switching_ncp1072p100
+  symbol_name: ncp1072p100
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

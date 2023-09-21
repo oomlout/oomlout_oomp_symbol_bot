@@ -1,16 +1,20 @@
+id: kicad_transistor_fet_irlz34n
+library: transistor_fet
 library_name: Transistor_FET
+name: irlz34n
 oomp:
   library_name: transistor_fet
-  md5: d88a0ddc172fdb89f2781368ec227fe7
-  md5_10: d88a0ddc17
-  md5_5: d88a0
-  md5_6: d88a0d
-  oomp_key: oomp_transistor_fet_irlz34n
-  oomp_key_extra: oomp_symbol_transistor_fet_irlz34n
-  oomp_key_full: oomp_symbol_transistor_fet_irlz34n_d88a0d
-  oomp_key_simple: transistor_fet_irlz34n
+  md5: 97e4eca5073be60a335e704f0900560e
+  md5_10: 97e4eca507
+  md5_5: 97e4e
+  md5_6: 97e4ec
+  oomp_key: oomp_irlz34n
+  oomp_key_extra: oomp_symbol_irlz34n
+  oomp_key_full: oomp_symbol_irlz34n_97e4ec
+  oomp_key_simple: irlz34n
   owner_name: kicad
-  symbol_name: transistor_fet_irlz34n
+  symbol_name: irlz34n
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

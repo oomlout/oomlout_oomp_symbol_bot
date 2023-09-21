@@ -1,16 +1,20 @@
+id: kicad_filter_fn406b_3_02
+library: filter
 library_name: Filter
+name: fn406b_3_02
 oomp:
   library_name: filter
-  md5: 1ac9f22db06a216f1ced7dc0e1b10e58
-  md5_10: 1ac9f22db0
-  md5_5: 1ac9f
-  md5_6: 1ac9f2
-  oomp_key: oomp_filter_fn406b_3_02
-  oomp_key_extra: oomp_symbol_filter_fn406b_3_02
-  oomp_key_full: oomp_symbol_filter_fn406b_3_02_1ac9f2
-  oomp_key_simple: filter_fn406b_3_02
+  md5: 8cb6b83e628b396a7fe89501b9b03ab0
+  md5_10: 8cb6b83e62
+  md5_5: 8cb6b
+  md5_6: 8cb6b8
+  oomp_key: oomp_fn406b_3_02
+  oomp_key_extra: oomp_symbol_fn406b_3_02
+  oomp_key_full: oomp_symbol_fn406b_3_02_8cb6b8
+  oomp_key_simple: fn406b_3_02
   owner_name: kicad
-  symbol_name: filter_fn406b_3_02
+  symbol_name: fn406b_3_02
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

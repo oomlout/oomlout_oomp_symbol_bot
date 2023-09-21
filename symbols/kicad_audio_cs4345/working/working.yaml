@@ -1,16 +1,20 @@
+id: kicad_audio_cs4345
+library: audio
 library_name: Audio
+name: cs4345
 oomp:
   library_name: audio
-  md5: cae729f52864e2bdc7e850dc90591403
-  md5_10: cae729f528
-  md5_5: cae72
-  md5_6: cae729
-  oomp_key: oomp_audio_cs4345
-  oomp_key_extra: oomp_symbol_audio_cs4345
-  oomp_key_full: oomp_symbol_audio_cs4345_cae729
-  oomp_key_simple: audio_cs4345
+  md5: f91df2c7fcab0d10a28d5741022dd8fa
+  md5_10: f91df2c7fc
+  md5_5: f91df
+  md5_6: f91df2
+  oomp_key: oomp_cs4345
+  oomp_key_extra: oomp_symbol_cs4345
+  oomp_key_full: oomp_symbol_cs4345_f91df2
+  oomp_key_simple: cs4345
   owner_name: kicad
-  symbol_name: audio_cs4345
+  symbol_name: cs4345
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

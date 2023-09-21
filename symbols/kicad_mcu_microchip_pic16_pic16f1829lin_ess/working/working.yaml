@@ -1,3 +1,5 @@
+id: kicad_mcu_microchip_pic16_pic16f1829lin_ess
+library: mcu_microchip_pic16
 library_name: MCU_Microchip_PIC16
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_microchip_pic16_pic16f1829lin_ess/working
   oomp_src_flat: symbols_flat/kicad_mcu_microchip_pic16_pic16f1829lin_ess/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_microchip_pic16_pic16f1829lin_ess/working
-name: mcu_microchip_pic16_pic16f1829lin_ess
+name: pic16f1829lin_ess
 oomp:
   library_name: mcu_microchip_pic16
-  md5: bfa9ad410aece0374f5770f644afab52
-  md5_10: bfa9ad410a
-  md5_5: bfa9a
-  md5_6: bfa9ad
-  oomp_key: oomp_mcu_microchip_pic16_pic16f1829lin_ess
-  oomp_key_extra: oomp_symbol_mcu_microchip_pic16_pic16f1829lin_ess
-  oomp_key_full: oomp_symbol_mcu_microchip_pic16_pic16f1829lin_ess_bfa9ad
-  oomp_key_simple: mcu_microchip_pic16_pic16f1829lin_ess
+  md5: fa6e0804f77278eacb7bae56919724f2
+  md5_10: fa6e0804f7
+  md5_5: fa6e0
+  md5_6: fa6e08
+  oomp_key: oomp_pic16f1829lin_ess
+  oomp_key_extra: oomp_symbol_pic16f1829lin_ess
+  oomp_key_full: oomp_symbol_pic16f1829lin_ess_fa6e08
+  oomp_key_simple: pic16f1829lin_ess
   owner_name: kicad
-  symbol_name: mcu_microchip_pic16_pic16f1829lin_ess
+  symbol_name: pic16f1829lin_ess
 oomp_key: oomp_kicad_mcu_microchip_pic16_pic16f1829lin_ess
 oomp_key_simple: kicad_mcu_microchip_pic16_pic16f1829lin_ess
 owner: kicad

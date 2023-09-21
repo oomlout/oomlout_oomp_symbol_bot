@@ -1,16 +1,20 @@
+id: kicad_transistor_fet_irf6621
+library: transistor_fet
 library_name: Transistor_FET
+name: irf6621
 oomp:
   library_name: transistor_fet
-  md5: b0a1a88b3f00ee720c679d25f47b4dc7
-  md5_10: b0a1a88b3f
-  md5_5: b0a1a
-  md5_6: b0a1a8
-  oomp_key: oomp_transistor_fet_irf6621
-  oomp_key_extra: oomp_symbol_transistor_fet_irf6621
-  oomp_key_full: oomp_symbol_transistor_fet_irf6621_b0a1a8
-  oomp_key_simple: transistor_fet_irf6621
+  md5: 311c57cae490c9fc55e11efc45931cfd
+  md5_10: 311c57cae4
+  md5_5: 311c5
+  md5_6: 311c57
+  oomp_key: oomp_irf6621
+  oomp_key_extra: oomp_symbol_irf6621
+  oomp_key_full: oomp_symbol_irf6621_311c57
+  oomp_key_simple: irf6621
   owner_name: kicad
-  symbol_name: transistor_fet_irf6621
+  symbol_name: irf6621
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

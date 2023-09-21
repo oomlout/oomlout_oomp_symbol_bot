@@ -1,3 +1,5 @@
+id: kicad_driver_fet_acpl_w343
+library: driver_fet
 library_name: Driver_FET
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_driver_fet_acpl_w343/working
   oomp_src_flat: symbols_flat/kicad_driver_fet_acpl_w343/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_driver_fet_acpl_w343/working
-name: driver_fet_acpl_w343
+name: acpl_w343
 oomp:
   library_name: driver_fet
-  md5: 8bb6aacb37573a66a1fc8e37ce2faf22
-  md5_10: 8bb6aacb37
-  md5_5: 8bb6a
-  md5_6: 8bb6aa
-  oomp_key: oomp_driver_fet_acpl_w343
-  oomp_key_extra: oomp_symbol_driver_fet_acpl_w343
-  oomp_key_full: oomp_symbol_driver_fet_acpl_w343_8bb6aa
-  oomp_key_simple: driver_fet_acpl_w343
+  md5: f3689aa14e6e02555a7be0975d2980da
+  md5_10: f3689aa14e
+  md5_5: f3689
+  md5_6: f3689a
+  oomp_key: oomp_acpl_w343
+  oomp_key_extra: oomp_symbol_acpl_w343
+  oomp_key_full: oomp_symbol_acpl_w343_f3689a
+  oomp_key_simple: acpl_w343
   owner_name: kicad
-  symbol_name: driver_fet_acpl_w343
+  symbol_name: acpl_w343
 oomp_key: oomp_kicad_driver_fet_acpl_w343
 oomp_key_simple: kicad_driver_fet_acpl_w343
 owner: kicad

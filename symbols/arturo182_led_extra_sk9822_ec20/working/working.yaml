@@ -1,3 +1,5 @@
+id: arturo182_led_extra_sk9822_ec20
+library: led_extra
 library_name: LED_Extra
 links:
   github_owner: arturo182
@@ -10,19 +12,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/arturo182_led_extra_sk9822_ec20/working
   oomp_src_flat: symbols_flat/arturo182_led_extra_sk9822_ec20/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/arturo182_led_extra_sk9822_ec20/working
-name: led_extra_sk9822_ec20
+name: sk9822_ec20
 oomp:
   library_name: led_extra
-  md5: 89e299c188f1f0389c2279c33a3b306b
-  md5_10: 89e299c188
-  md5_5: 89e29
-  md5_6: 89e299
-  oomp_key: oomp_led_extra_sk9822_ec20
-  oomp_key_extra: oomp_symbol_led_extra_sk9822_ec20
-  oomp_key_full: oomp_symbol_led_extra_sk9822_ec20_89e299
-  oomp_key_simple: led_extra_sk9822_ec20
+  md5: e1eaa9084a4e895f5958e31a44fd6ae2
+  md5_10: e1eaa9084a
+  md5_5: e1eaa
+  md5_6: e1eaa9
+  oomp_key: oomp_sk9822_ec20
+  oomp_key_extra: oomp_symbol_sk9822_ec20
+  oomp_key_full: oomp_symbol_sk9822_ec20_e1eaa9
+  oomp_key_simple: sk9822_ec20
   owner_name: arturo182
-  symbol_name: led_extra_sk9822_ec20
+  symbol_name: sk9822_ec20
 oomp_key: oomp_arturo182_led_extra_sk9822_ec20
 oomp_key_simple: arturo182_led_extra_sk9822_ec20
 owner: arturo182

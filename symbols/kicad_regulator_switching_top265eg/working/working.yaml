@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_top265eg
+library: regulator_switching
 library_name: Regulator_Switching
+name: top265eg
 oomp:
   library_name: regulator_switching
-  md5: 53f4ad3adf5536b3c087b87506f08606
-  md5_10: 53f4ad3adf
-  md5_5: 53f4a
-  md5_6: 53f4ad
-  oomp_key: oomp_regulator_switching_top265eg
-  oomp_key_extra: oomp_symbol_regulator_switching_top265eg
-  oomp_key_full: oomp_symbol_regulator_switching_top265eg_53f4ad
-  oomp_key_simple: regulator_switching_top265eg
+  md5: ac2711dd7fbbc08df7a7aa500ff995e4
+  md5_10: ac2711dd7f
+  md5_5: ac271
+  md5_6: ac2711
+  oomp_key: oomp_top265eg
+  oomp_key_extra: oomp_symbol_top265eg
+  oomp_key_full: oomp_symbol_top265eg_ac2711
+  oomp_key_simple: top265eg
   owner_name: kicad
-  symbol_name: regulator_switching_top265eg
+  symbol_name: top265eg
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,3 +1,5 @@
+id: kicad_mcu_nxp_kinetis_mkl46z256vmp4
+library: mcu_nxp_kinetis
 library_name: MCU_NXP_Kinetis
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_nxp_kinetis_mkl46z256vmp4/working
   oomp_src_flat: symbols_flat/kicad_mcu_nxp_kinetis_mkl46z256vmp4/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_nxp_kinetis_mkl46z256vmp4/working
-name: mcu_nxp_kinetis_mkl46z256vmp4
+name: mkl46z256vmp4
 oomp:
   library_name: mcu_nxp_kinetis
-  md5: adfe06a9ebedd10b52752b84bb9227d9
-  md5_10: adfe06a9eb
-  md5_5: adfe0
-  md5_6: adfe06
-  oomp_key: oomp_mcu_nxp_kinetis_mkl46z256vmp4
-  oomp_key_extra: oomp_symbol_mcu_nxp_kinetis_mkl46z256vmp4
-  oomp_key_full: oomp_symbol_mcu_nxp_kinetis_mkl46z256vmp4_adfe06
-  oomp_key_simple: mcu_nxp_kinetis_mkl46z256vmp4
+  md5: 6f04b1ce5471ffa58032a3afd0263df8
+  md5_10: 6f04b1ce54
+  md5_5: 6f04b
+  md5_6: 6f04b1
+  oomp_key: oomp_mkl46z256vmp4
+  oomp_key_extra: oomp_symbol_mkl46z256vmp4
+  oomp_key_full: oomp_symbol_mkl46z256vmp4_6f04b1
+  oomp_key_simple: mkl46z256vmp4
   owner_name: kicad
-  symbol_name: mcu_nxp_kinetis_mkl46z256vmp4
+  symbol_name: mkl46z256vmp4
 oomp_key: oomp_kicad_mcu_nxp_kinetis_mkl46z256vmp4
 oomp_key_simple: kicad_mcu_nxp_kinetis_mkl46z256vmp4
 owner: kicad

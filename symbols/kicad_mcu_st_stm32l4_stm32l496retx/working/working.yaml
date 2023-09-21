@@ -1,16 +1,20 @@
+id: kicad_mcu_st_stm32l4_stm32l496retx
+library: mcu_st_stm32l4
 library_name: MCU_ST_STM32L4
+name: stm32l496retx
 oomp:
   library_name: mcu_st_stm32l4
-  md5: 717d13e84b4f79a8cbd383a9c5cbb61f
-  md5_10: 717d13e84b
-  md5_5: 717d1
-  md5_6: 717d13
-  oomp_key: oomp_mcu_st_stm32l4_stm32l496retx
-  oomp_key_extra: oomp_symbol_mcu_st_stm32l4_stm32l496retx
-  oomp_key_full: oomp_symbol_mcu_st_stm32l4_stm32l496retx_717d13
-  oomp_key_simple: mcu_st_stm32l4_stm32l496retx
+  md5: 3cf02ecfc055a559d0a1f8b8ea4347c8
+  md5_10: 3cf02ecfc0
+  md5_5: 3cf02
+  md5_6: 3cf02e
+  oomp_key: oomp_stm32l496retx
+  oomp_key_extra: oomp_symbol_stm32l496retx
+  oomp_key_full: oomp_symbol_stm32l496retx_3cf02e
+  oomp_key_simple: stm32l496retx
   owner_name: kicad
-  symbol_name: mcu_st_stm32l4_stm32l496retx
+  symbol_name: stm32l496retx
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

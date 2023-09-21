@@ -1,16 +1,20 @@
+id: kicad_amplifier_operational_tl084
+library: amplifier_operational
 library_name: Amplifier_Operational
+name: tl084
 oomp:
   library_name: amplifier_operational
-  md5: 4ffa25de4d5a1add9b3c70c8a921eda4
-  md5_10: 4ffa25de4d
-  md5_5: 4ffa2
-  md5_6: 4ffa25
-  oomp_key: oomp_amplifier_operational_tl084
-  oomp_key_extra: oomp_symbol_amplifier_operational_tl084
-  oomp_key_full: oomp_symbol_amplifier_operational_tl084_4ffa25
-  oomp_key_simple: amplifier_operational_tl084
+  md5: e561a7c2bccdb48c25e4b302175e858a
+  md5_10: e561a7c2bc
+  md5_5: e561a
+  md5_6: e561a7
+  oomp_key: oomp_tl084
+  oomp_key_extra: oomp_symbol_tl084
+  oomp_key_full: oomp_symbol_tl084_e561a7
+  oomp_key_simple: tl084
   owner_name: kicad
-  symbol_name: amplifier_operational_tl084
+  symbol_name: tl084
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

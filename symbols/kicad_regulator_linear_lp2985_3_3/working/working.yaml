@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_lp2985_3_3
+library: regulator_linear
 library_name: Regulator_Linear
+name: lp2985_3_3
 oomp:
   library_name: regulator_linear
-  md5: d3646de5c3d047f628a4392075379899
-  md5_10: d3646de5c3
-  md5_5: d3646
-  md5_6: d3646d
-  oomp_key: oomp_regulator_linear_lp2985_3_3
-  oomp_key_extra: oomp_symbol_regulator_linear_lp2985_3_3
-  oomp_key_full: oomp_symbol_regulator_linear_lp2985_3_3_d3646d
-  oomp_key_simple: regulator_linear_lp2985_3_3
+  md5: bc98bbd4f78c33f8f6b9e0bc3eda640b
+  md5_10: bc98bbd4f7
+  md5_5: bc98b
+  md5_6: bc98bb
+  oomp_key: oomp_lp2985_3_3
+  oomp_key_extra: oomp_symbol_lp2985_3_3
+  oomp_key_full: oomp_symbol_lp2985_3_3_bc98bb
+  oomp_key_simple: lp2985_3_3
   owner_name: kicad
-  symbol_name: regulator_linear_lp2985_3_3
+  symbol_name: lp2985_3_3
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

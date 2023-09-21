@@ -1,3 +1,5 @@
+id: kicad_regulator_linear_mcp1754s_5002xcb
+library: regulator_linear
 library_name: Regulator_Linear
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_linear_mcp1754s_5002xcb/working
   oomp_src_flat: symbols_flat/kicad_regulator_linear_mcp1754s_5002xcb/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_linear_mcp1754s_5002xcb/working
-name: regulator_linear_mcp1754s_5002xcb
+name: mcp1754s_5002xcb
 oomp:
   library_name: regulator_linear
-  md5: ad5fe41ff1cd01002074ce79e35d8eef
-  md5_10: ad5fe41ff1
-  md5_5: ad5fe
-  md5_6: ad5fe4
-  oomp_key: oomp_regulator_linear_mcp1754s_5002xcb
-  oomp_key_extra: oomp_symbol_regulator_linear_mcp1754s_5002xcb
-  oomp_key_full: oomp_symbol_regulator_linear_mcp1754s_5002xcb_ad5fe4
-  oomp_key_simple: regulator_linear_mcp1754s_5002xcb
+  md5: cbb524c88e035d21143ac62ded5a11ee
+  md5_10: cbb524c88e
+  md5_5: cbb52
+  md5_6: cbb524
+  oomp_key: oomp_mcp1754s_5002xcb
+  oomp_key_extra: oomp_symbol_mcp1754s_5002xcb
+  oomp_key_full: oomp_symbol_mcp1754s_5002xcb_cbb524
+  oomp_key_simple: mcp1754s_5002xcb
   owner_name: kicad
-  symbol_name: regulator_linear_mcp1754s_5002xcb
+  symbol_name: mcp1754s_5002xcb
 oomp_key: oomp_kicad_regulator_linear_mcp1754s_5002xcb
 oomp_key_simple: kicad_regulator_linear_mcp1754s_5002xcb
 owner: kicad

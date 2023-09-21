@@ -1,16 +1,20 @@
+id: kicad_converter_dcdc_jtd2048d12
+library: converter_dcdc
 library_name: Converter_DCDC
+name: jtd2048d12
 oomp:
   library_name: converter_dcdc
-  md5: 7f71e1917e50fa2c9bcc0832c2d88704
-  md5_10: 7f71e1917e
-  md5_5: 7f71e
-  md5_6: 7f71e1
-  oomp_key: oomp_converter_dcdc_jtd2048d12
-  oomp_key_extra: oomp_symbol_converter_dcdc_jtd2048d12
-  oomp_key_full: oomp_symbol_converter_dcdc_jtd2048d12_7f71e1
-  oomp_key_simple: converter_dcdc_jtd2048d12
+  md5: f3de84a1d84598973b19c44bb25cb3e7
+  md5_10: f3de84a1d8
+  md5_5: f3de8
+  md5_6: f3de84
+  oomp_key: oomp_jtd2048d12
+  oomp_key_extra: oomp_symbol_jtd2048d12
+  oomp_key_full: oomp_symbol_jtd2048d12_f3de84
+  oomp_key_simple: jtd2048d12
   owner_name: kicad
-  symbol_name: converter_dcdc_jtd2048d12
+  symbol_name: jtd2048d12
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

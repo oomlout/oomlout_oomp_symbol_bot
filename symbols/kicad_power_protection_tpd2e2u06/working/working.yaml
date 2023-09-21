@@ -1,3 +1,5 @@
+id: kicad_power_protection_tpd2e2u06
+library: power_protection
 library_name: Power_Protection
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_power_protection_tpd2e2u06/working
   oomp_src_flat: symbols_flat/kicad_power_protection_tpd2e2u06/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_protection_tpd2e2u06/working
-name: power_protection_tpd2e2u06
+name: tpd2e2u06
 oomp:
   library_name: power_protection
-  md5: d73b78293942316870f7cf1da0b37af6
-  md5_10: d73b782939
-  md5_5: d73b7
-  md5_6: d73b78
-  oomp_key: oomp_power_protection_tpd2e2u06
-  oomp_key_extra: oomp_symbol_power_protection_tpd2e2u06
-  oomp_key_full: oomp_symbol_power_protection_tpd2e2u06_d73b78
-  oomp_key_simple: power_protection_tpd2e2u06
+  md5: d2ede0121f5e178f2ea949c83b2bbf08
+  md5_10: d2ede0121f
+  md5_5: d2ede
+  md5_6: d2ede0
+  oomp_key: oomp_tpd2e2u06
+  oomp_key_extra: oomp_symbol_tpd2e2u06
+  oomp_key_full: oomp_symbol_tpd2e2u06_d2ede0
+  oomp_key_simple: tpd2e2u06
   owner_name: kicad
-  symbol_name: power_protection_tpd2e2u06
+  symbol_name: tpd2e2u06
 oomp_key: oomp_kicad_power_protection_tpd2e2u06
 oomp_key_simple: kicad_power_protection_tpd2e2u06
 owner: kicad

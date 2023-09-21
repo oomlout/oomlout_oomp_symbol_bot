@@ -1,16 +1,20 @@
+id: kicad_triac_thyristor_btb16_600bw
+library: triac_thyristor
 library_name: Triac_Thyristor
+name: btb16_600bw
 oomp:
   library_name: triac_thyristor
-  md5: 9ebdf6f438a502ee9d5f1aafe58d7cc4
-  md5_10: 9ebdf6f438
-  md5_5: 9ebdf
-  md5_6: 9ebdf6
-  oomp_key: oomp_triac_thyristor_btb16_600bw
-  oomp_key_extra: oomp_symbol_triac_thyristor_btb16_600bw
-  oomp_key_full: oomp_symbol_triac_thyristor_btb16_600bw_9ebdf6
-  oomp_key_simple: triac_thyristor_btb16_600bw
+  md5: 7a9565484a43a4747bcd000cadb6771c
+  md5_10: 7a9565484a
+  md5_5: 7a956
+  md5_6: 7a9565
+  oomp_key: oomp_btb16_600bw
+  oomp_key_extra: oomp_symbol_btb16_600bw
+  oomp_key_full: oomp_symbol_btb16_600bw_7a9565
+  oomp_key_simple: btb16_600bw
   owner_name: kicad
-  symbol_name: triac_thyristor_btb16_600bw
+  symbol_name: btb16_600bw
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

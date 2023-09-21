@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_lnk604dg
+library: regulator_switching
 library_name: Regulator_Switching
+name: lnk604dg
 oomp:
   library_name: regulator_switching
-  md5: 260b852a9832651af3eebe9f4de3f8ba
-  md5_10: 260b852a98
-  md5_5: 260b8
-  md5_6: 260b85
-  oomp_key: oomp_regulator_switching_lnk604dg
-  oomp_key_extra: oomp_symbol_regulator_switching_lnk604dg
-  oomp_key_full: oomp_symbol_regulator_switching_lnk604dg_260b85
-  oomp_key_simple: regulator_switching_lnk604dg
+  md5: d057aeb60fb3c2bfb06f3a71222d5987
+  md5_10: d057aeb60f
+  md5_5: d057a
+  md5_6: d057ae
+  oomp_key: oomp_lnk604dg
+  oomp_key_extra: oomp_symbol_lnk604dg
+  oomp_key_full: oomp_symbol_lnk604dg_d057ae
+  oomp_key_simple: lnk604dg
   owner_name: kicad
-  symbol_name: regulator_switching_lnk604dg
+  symbol_name: lnk604dg
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

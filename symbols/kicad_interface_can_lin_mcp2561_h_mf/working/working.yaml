@@ -1,16 +1,20 @@
+id: kicad_interface_can_lin_mcp2561_h_mf
+library: interface_can_lin
 library_name: Interface_CAN_LIN
+name: mcp2561_h_mf
 oomp:
   library_name: interface_can_lin
-  md5: da34945a927f5b8481e7204d40d441ce
-  md5_10: da34945a92
-  md5_5: da349
-  md5_6: da3494
-  oomp_key: oomp_interface_can_lin_mcp2561_h_mf
-  oomp_key_extra: oomp_symbol_interface_can_lin_mcp2561_h_mf
-  oomp_key_full: oomp_symbol_interface_can_lin_mcp2561_h_mf_da3494
-  oomp_key_simple: interface_can_lin_mcp2561_h_mf
+  md5: 43f489c0364eb068f14bb45dd8f6e9af
+  md5_10: 43f489c036
+  md5_5: 43f48
+  md5_6: 43f489
+  oomp_key: oomp_mcp2561_h_mf
+  oomp_key_extra: oomp_symbol_mcp2561_h_mf
+  oomp_key_full: oomp_symbol_mcp2561_h_mf_43f489
+  oomp_key_simple: mcp2561_h_mf
   owner_name: kicad
-  symbol_name: interface_can_lin_mcp2561_h_mf
+  symbol_name: mcp2561_h_mf
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

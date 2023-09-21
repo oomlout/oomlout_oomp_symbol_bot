@@ -1,16 +1,20 @@
+id: kicad_sensor_current_acs733xlatr_65ab
+library: sensor_current
 library_name: Sensor_Current
+name: acs733xlatr_65ab
 oomp:
   library_name: sensor_current
-  md5: 6394803f4f9134fdff41c61bfedd00a8
-  md5_10: 6394803f4f
-  md5_5: '63948'
-  md5_6: '639480'
-  oomp_key: oomp_sensor_current_acs733xlatr_65ab
-  oomp_key_extra: oomp_symbol_sensor_current_acs733xlatr_65ab
-  oomp_key_full: oomp_symbol_sensor_current_acs733xlatr_65ab_639480
-  oomp_key_simple: sensor_current_acs733xlatr_65ab
+  md5: 911cb2768a2de8d05bfcd91c4be8b473
+  md5_10: 911cb2768a
+  md5_5: 911cb
+  md5_6: 911cb2
+  oomp_key: oomp_acs733xlatr_65ab
+  oomp_key_extra: oomp_symbol_acs733xlatr_65ab
+  oomp_key_full: oomp_symbol_acs733xlatr_65ab_911cb2
+  oomp_key_simple: acs733xlatr_65ab
   owner_name: kicad
-  symbol_name: sensor_current_acs733xlatr_65ab
+  symbol_name: acs733xlatr_65ab
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,3 +1,5 @@
+id: kicad_device_c_polarized
+library: device
 library_name: Device
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_c_polarized/working
   oomp_src_flat: symbols_flat/kicad_device_c_polarized/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_c_polarized/working
-name: device_c_polarized
+name: c_polarized
 oomp:
   library_name: device
-  md5: 88cd6b2bdfcdf8ef911e6067d6d01cc9
-  md5_10: 88cd6b2bdf
-  md5_5: 88cd6
-  md5_6: 88cd6b
-  oomp_key: oomp_device_c_polarized
-  oomp_key_extra: oomp_symbol_device_c_polarized
-  oomp_key_full: oomp_symbol_device_c_polarized_88cd6b
-  oomp_key_simple: device_c_polarized
+  md5: 33ac4461a235a70a358e70facafaebde
+  md5_10: 33ac4461a2
+  md5_5: 33ac4
+  md5_6: 33ac44
+  oomp_key: oomp_c_polarized
+  oomp_key_extra: oomp_symbol_c_polarized
+  oomp_key_full: oomp_symbol_c_polarized_33ac44
+  oomp_key_simple: c_polarized
   owner_name: kicad
-  symbol_name: device_c_polarized
+  symbol_name: c_polarized
 oomp_key: oomp_kicad_device_c_polarized
 oomp_key_simple: kicad_device_c_polarized
 owner: kicad

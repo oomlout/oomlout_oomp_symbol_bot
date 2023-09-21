@@ -1,16 +1,20 @@
+id: kicad_driver_fet_irs2008s
+library: driver_fet
 library_name: Driver_FET
+name: irs2008s
 oomp:
   library_name: driver_fet
-  md5: a44e4d58b3d3d5672d5cf332142e26d1
-  md5_10: a44e4d58b3
-  md5_5: a44e4
-  md5_6: a44e4d
-  oomp_key: oomp_driver_fet_irs2008s
-  oomp_key_extra: oomp_symbol_driver_fet_irs2008s
-  oomp_key_full: oomp_symbol_driver_fet_irs2008s_a44e4d
-  oomp_key_simple: driver_fet_irs2008s
+  md5: 163fa3803f574d8f92f7eebac2d69817
+  md5_10: 163fa3803f
+  md5_5: 163fa
+  md5_6: 163fa3
+  oomp_key: oomp_irs2008s
+  oomp_key_extra: oomp_symbol_irs2008s
+  oomp_key_full: oomp_symbol_irs2008s_163fa3
+  oomp_key_simple: irs2008s
   owner_name: kicad
-  symbol_name: driver_fet_irs2008s
+  symbol_name: irs2008s
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

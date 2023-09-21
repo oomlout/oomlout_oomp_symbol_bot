@@ -1,16 +1,20 @@
+id: kicad_display_graphic_ea_edip320j_8la
+library: display_graphic
 library_name: Display_Graphic
+name: ea_edip320j_8la
 oomp:
   library_name: display_graphic
-  md5: 837a44322d6362a2b803e84e165dbf6f
-  md5_10: 837a44322d
-  md5_5: 837a4
-  md5_6: 837a44
-  oomp_key: oomp_display_graphic_ea_edip320j_8la
-  oomp_key_extra: oomp_symbol_display_graphic_ea_edip320j_8la
-  oomp_key_full: oomp_symbol_display_graphic_ea_edip320j_8la_837a44
-  oomp_key_simple: display_graphic_ea_edip320j_8la
+  md5: 80f7cb84c8f92a3ba1d4d164bbd89e33
+  md5_10: 80f7cb84c8
+  md5_5: 80f7c
+  md5_6: 80f7cb
+  oomp_key: oomp_ea_edip320j_8la
+  oomp_key_extra: oomp_symbol_ea_edip320j_8la
+  oomp_key_full: oomp_symbol_ea_edip320j_8la_80f7cb
+  oomp_key_simple: ea_edip320j_8la
   owner_name: kicad
-  symbol_name: display_graphic_ea_edip320j_8la
+  symbol_name: ea_edip320j_8la
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,3 +1,5 @@
+id: kicad_mcu_st_stm32h7_stm32h730zbtx
+library: mcu_st_stm32h7
 library_name: MCU_ST_STM32H7
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_st_stm32h7_stm32h730zbtx/working
   oomp_src_flat: symbols_flat/kicad_mcu_st_stm32h7_stm32h730zbtx/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_st_stm32h7_stm32h730zbtx/working
-name: mcu_st_stm32h7_stm32h730zbtx
+name: stm32h730zbtx
 oomp:
   library_name: mcu_st_stm32h7
-  md5: b1e111ba59d4a18967a3dd217c86813f
-  md5_10: b1e111ba59
-  md5_5: b1e11
-  md5_6: b1e111
-  oomp_key: oomp_mcu_st_stm32h7_stm32h730zbtx
-  oomp_key_extra: oomp_symbol_mcu_st_stm32h7_stm32h730zbtx
-  oomp_key_full: oomp_symbol_mcu_st_stm32h7_stm32h730zbtx_b1e111
-  oomp_key_simple: mcu_st_stm32h7_stm32h730zbtx
+  md5: 1866c7c9e70561340bd996a44fedfab6
+  md5_10: 1866c7c9e7
+  md5_5: 1866c
+  md5_6: 1866c7
+  oomp_key: oomp_stm32h730zbtx
+  oomp_key_extra: oomp_symbol_stm32h730zbtx
+  oomp_key_full: oomp_symbol_stm32h730zbtx_1866c7
+  oomp_key_simple: stm32h730zbtx
   owner_name: kicad
-  symbol_name: mcu_st_stm32h7_stm32h730zbtx
+  symbol_name: stm32h730zbtx
 oomp_key: oomp_kicad_mcu_st_stm32h7_stm32h730zbtx
 oomp_key_simple: kicad_mcu_st_stm32h7_stm32h730zbtx
 owner: kicad

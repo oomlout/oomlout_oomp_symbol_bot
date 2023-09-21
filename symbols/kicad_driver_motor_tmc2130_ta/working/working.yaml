@@ -1,3 +1,5 @@
+id: kicad_driver_motor_tmc2130_ta
+library: driver_motor
 library_name: Driver_Motor
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_driver_motor_tmc2130_ta/working
   oomp_src_flat: symbols_flat/kicad_driver_motor_tmc2130_ta/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_driver_motor_tmc2130_ta/working
-name: driver_motor_tmc2130_ta
+name: tmc2130_ta
 oomp:
   library_name: driver_motor
-  md5: 9f7d25d06c53ef867d6bfbf903203e6e
-  md5_10: 9f7d25d06c
-  md5_5: 9f7d2
-  md5_6: 9f7d25
-  oomp_key: oomp_driver_motor_tmc2130_ta
-  oomp_key_extra: oomp_symbol_driver_motor_tmc2130_ta
-  oomp_key_full: oomp_symbol_driver_motor_tmc2130_ta_9f7d25
-  oomp_key_simple: driver_motor_tmc2130_ta
+  md5: 1987dff5db575f5dec2f2966a005b1ff
+  md5_10: 1987dff5db
+  md5_5: 1987d
+  md5_6: 1987df
+  oomp_key: oomp_tmc2130_ta
+  oomp_key_extra: oomp_symbol_tmc2130_ta
+  oomp_key_full: oomp_symbol_tmc2130_ta_1987df
+  oomp_key_simple: tmc2130_ta
   owner_name: kicad
-  symbol_name: driver_motor_tmc2130_ta
+  symbol_name: tmc2130_ta
 oomp_key: oomp_kicad_driver_motor_tmc2130_ta
 oomp_key_simple: kicad_driver_motor_tmc2130_ta
 owner: kicad

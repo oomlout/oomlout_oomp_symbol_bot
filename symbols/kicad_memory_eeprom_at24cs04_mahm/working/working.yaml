@@ -1,3 +1,5 @@
+id: kicad_memory_eeprom_at24cs04_mahm
+library: memory_eeprom
 library_name: Memory_EEPROM
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_memory_eeprom_at24cs04_mahm/working
   oomp_src_flat: symbols_flat/kicad_memory_eeprom_at24cs04_mahm/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_memory_eeprom_at24cs04_mahm/working
-name: memory_eeprom_at24cs04_mahm
+name: at24cs04_mahm
 oomp:
   library_name: memory_eeprom
-  md5: 513a7f4d857bb0378f12b5801fa77507
-  md5_10: 513a7f4d85
-  md5_5: 513a7
-  md5_6: 513a7f
-  oomp_key: oomp_memory_eeprom_at24cs04_mahm
-  oomp_key_extra: oomp_symbol_memory_eeprom_at24cs04_mahm
-  oomp_key_full: oomp_symbol_memory_eeprom_at24cs04_mahm_513a7f
-  oomp_key_simple: memory_eeprom_at24cs04_mahm
+  md5: 874b2eb114c71ebc42a74e5572061729
+  md5_10: 874b2eb114
+  md5_5: 874b2
+  md5_6: 874b2e
+  oomp_key: oomp_at24cs04_mahm
+  oomp_key_extra: oomp_symbol_at24cs04_mahm
+  oomp_key_full: oomp_symbol_at24cs04_mahm_874b2e
+  oomp_key_simple: at24cs04_mahm
   owner_name: kicad
-  symbol_name: memory_eeprom_at24cs04_mahm
+  symbol_name: at24cs04_mahm
 oomp_key: oomp_kicad_memory_eeprom_at24cs04_mahm
 oomp_key_simple: kicad_memory_eeprom_at24cs04_mahm
 owner: kicad

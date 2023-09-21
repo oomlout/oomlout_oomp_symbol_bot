@@ -1,16 +1,20 @@
+id: kicad_diode_bridge_gbu4d
+library: diode_bridge
 library_name: Diode_Bridge
+name: gbu4d
 oomp:
   library_name: diode_bridge
-  md5: fdbdc03fe942055e2df60030c96e0b2c
-  md5_10: fdbdc03fe9
-  md5_5: fdbdc
-  md5_6: fdbdc0
-  oomp_key: oomp_diode_bridge_gbu4d
-  oomp_key_extra: oomp_symbol_diode_bridge_gbu4d
-  oomp_key_full: oomp_symbol_diode_bridge_gbu4d_fdbdc0
-  oomp_key_simple: diode_bridge_gbu4d
+  md5: f675d5c401e6ef7be229bfcb884b92f9
+  md5_10: f675d5c401
+  md5_5: f675d
+  md5_6: f675d5
+  oomp_key: oomp_gbu4d
+  oomp_key_extra: oomp_symbol_gbu4d
+  oomp_key_full: oomp_symbol_gbu4d_f675d5
+  oomp_key_simple: gbu4d
   owner_name: kicad
-  symbol_name: diode_bridge_gbu4d
+  symbol_name: gbu4d
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

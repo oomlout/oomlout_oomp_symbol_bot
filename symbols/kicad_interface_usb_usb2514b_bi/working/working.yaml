@@ -1,3 +1,5 @@
+id: kicad_interface_usb_usb2514b_bi
+library: interface_usb
 library_name: Interface_USB
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_usb_usb2514b_bi/working
   oomp_src_flat: symbols_flat/kicad_interface_usb_usb2514b_bi/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_usb_usb2514b_bi/working
-name: interface_usb_usb2514b_bi
+name: usb2514b_bi
 oomp:
   library_name: interface_usb
-  md5: 5bee2ae8e8252968813357eed3ad06af
-  md5_10: 5bee2ae8e8
-  md5_5: 5bee2
-  md5_6: 5bee2a
-  oomp_key: oomp_interface_usb_usb2514b_bi
-  oomp_key_extra: oomp_symbol_interface_usb_usb2514b_bi
-  oomp_key_full: oomp_symbol_interface_usb_usb2514b_bi_5bee2a
-  oomp_key_simple: interface_usb_usb2514b_bi
+  md5: b6549d6d4838f1b801e8dedf27e33bde
+  md5_10: b6549d6d48
+  md5_5: b6549
+  md5_6: b6549d
+  oomp_key: oomp_usb2514b_bi
+  oomp_key_extra: oomp_symbol_usb2514b_bi
+  oomp_key_full: oomp_symbol_usb2514b_bi_b6549d
+  oomp_key_simple: usb2514b_bi
   owner_name: kicad
-  symbol_name: interface_usb_usb2514b_bi
+  symbol_name: usb2514b_bi
 oomp_key: oomp_kicad_interface_usb_usb2514b_bi
 oomp_key_simple: kicad_interface_usb_usb2514b_bi
 owner: kicad

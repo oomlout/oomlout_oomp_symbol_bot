@@ -1,16 +1,20 @@
+id: kicad_amplifier_operational_lf257
+library: amplifier_operational
 library_name: Amplifier_Operational
+name: lf257
 oomp:
   library_name: amplifier_operational
-  md5: 3529034769109bd0a8479d0148d50d0b
-  md5_10: '3529034769'
-  md5_5: '35290'
-  md5_6: '352903'
-  oomp_key: oomp_amplifier_operational_lf257
-  oomp_key_extra: oomp_symbol_amplifier_operational_lf257
-  oomp_key_full: oomp_symbol_amplifier_operational_lf257_352903
-  oomp_key_simple: amplifier_operational_lf257
+  md5: 70b079634c6428590fe99a64cca8efaa
+  md5_10: 70b079634c
+  md5_5: 70b07
+  md5_6: 70b079
+  oomp_key: oomp_lf257
+  oomp_key_extra: oomp_symbol_lf257
+  oomp_key_full: oomp_symbol_lf257_70b079
+  oomp_key_simple: lf257
   owner_name: kicad
-  symbol_name: amplifier_operational_lf257
+  symbol_name: lf257
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

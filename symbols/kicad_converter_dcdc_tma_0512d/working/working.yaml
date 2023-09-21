@@ -1,16 +1,20 @@
+id: kicad_converter_dcdc_tma_0512d
+library: converter_dcdc
 library_name: Converter_DCDC
+name: tma_0512d
 oomp:
   library_name: converter_dcdc
-  md5: a4ca2c1c5d9d5674e9ed6d7f0efd30f4
-  md5_10: a4ca2c1c5d
-  md5_5: a4ca2
-  md5_6: a4ca2c
-  oomp_key: oomp_converter_dcdc_tma_0512d
-  oomp_key_extra: oomp_symbol_converter_dcdc_tma_0512d
-  oomp_key_full: oomp_symbol_converter_dcdc_tma_0512d_a4ca2c
-  oomp_key_simple: converter_dcdc_tma_0512d
+  md5: 98286349858e985b1d9cf01d89a34079
+  md5_10: '9828634985'
+  md5_5: '98286'
+  md5_6: '982863'
+  oomp_key: oomp_tma_0512d
+  oomp_key_extra: oomp_symbol_tma_0512d
+  oomp_key_full: oomp_symbol_tma_0512d_982863
+  oomp_key_simple: tma_0512d
   owner_name: kicad
-  symbol_name: converter_dcdc_tma_0512d
+  symbol_name: tma_0512d
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_rf_module_rfm96w_433s2
+library: rf_module
 library_name: RF_Module
+name: rfm96w_433s2
 oomp:
   library_name: rf_module
-  md5: 02b3360b390ea65876d791ac0c76ed39
-  md5_10: 02b3360b39
-  md5_5: 02b33
-  md5_6: 02b336
-  oomp_key: oomp_rf_module_rfm96w_433s2
-  oomp_key_extra: oomp_symbol_rf_module_rfm96w_433s2
-  oomp_key_full: oomp_symbol_rf_module_rfm96w_433s2_02b336
-  oomp_key_simple: rf_module_rfm96w_433s2
+  md5: f7f97efbae616d7e7bdf316049782f52
+  md5_10: f7f97efbae
+  md5_5: f7f97
+  md5_6: f7f97e
+  oomp_key: oomp_rfm96w_433s2
+  oomp_key_extra: oomp_symbol_rfm96w_433s2
+  oomp_key_full: oomp_symbol_rfm96w_433s2_f7f97e
+  oomp_key_simple: rfm96w_433s2
   owner_name: kicad
-  symbol_name: rf_module_rfm96w_433s2
+  symbol_name: rfm96w_433s2
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

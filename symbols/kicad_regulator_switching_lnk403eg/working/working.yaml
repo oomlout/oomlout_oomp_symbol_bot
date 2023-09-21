@@ -1,3 +1,5 @@
+id: kicad_regulator_switching_lnk403eg
+library: regulator_switching
 library_name: Regulator_Switching
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_lnk403eg/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_lnk403eg/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_lnk403eg/working
-name: regulator_switching_lnk403eg
+name: lnk403eg
 oomp:
   library_name: regulator_switching
-  md5: fc0f5adf46faf3c20ce9737b70997196
-  md5_10: fc0f5adf46
-  md5_5: fc0f5
-  md5_6: fc0f5a
-  oomp_key: oomp_regulator_switching_lnk403eg
-  oomp_key_extra: oomp_symbol_regulator_switching_lnk403eg
-  oomp_key_full: oomp_symbol_regulator_switching_lnk403eg_fc0f5a
-  oomp_key_simple: regulator_switching_lnk403eg
+  md5: b2840f4d5b29dc6cba581d0fbf7a22e8
+  md5_10: b2840f4d5b
+  md5_5: b2840
+  md5_6: b2840f
+  oomp_key: oomp_lnk403eg
+  oomp_key_extra: oomp_symbol_lnk403eg
+  oomp_key_full: oomp_symbol_lnk403eg_b2840f
+  oomp_key_simple: lnk403eg
   owner_name: kicad
-  symbol_name: regulator_switching_lnk403eg
+  symbol_name: lnk403eg
 oomp_key: oomp_kicad_regulator_switching_lnk403eg
 oomp_key_simple: kicad_regulator_switching_lnk403eg
 owner: kicad

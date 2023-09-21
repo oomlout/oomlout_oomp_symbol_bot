@@ -1,16 +1,20 @@
+id: kicad_transistor_bjt_bdw94c
+library: transistor_bjt
 library_name: Transistor_BJT
+name: bdw94c
 oomp:
   library_name: transistor_bjt
-  md5: 0084643321a318de045dc74cf038ca48
-  md5_10: 0084643321
-  md5_5: 00846
-  md5_6: 008464
-  oomp_key: oomp_transistor_bjt_bdw94c
-  oomp_key_extra: oomp_symbol_transistor_bjt_bdw94c
-  oomp_key_full: oomp_symbol_transistor_bjt_bdw94c_008464
-  oomp_key_simple: transistor_bjt_bdw94c
+  md5: 3e48f502770a4b0311c84fde6c6f18bb
+  md5_10: 3e48f50277
+  md5_5: 3e48f
+  md5_6: 3e48f5
+  oomp_key: oomp_bdw94c
+  oomp_key_extra: oomp_symbol_bdw94c
+  oomp_key_full: oomp_symbol_bdw94c_3e48f5
+  oomp_key_simple: bdw94c
   owner_name: kicad
-  symbol_name: transistor_bjt_bdw94c
+  symbol_name: bdw94c
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

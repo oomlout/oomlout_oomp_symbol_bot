@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_lnk364g
+library: regulator_switching
 library_name: Regulator_Switching
+name: lnk364g
 oomp:
   library_name: regulator_switching
-  md5: b6bb74ec9f1d7de469617f3a4555f80c
-  md5_10: b6bb74ec9f
-  md5_5: b6bb7
-  md5_6: b6bb74
-  oomp_key: oomp_regulator_switching_lnk364g
-  oomp_key_extra: oomp_symbol_regulator_switching_lnk364g
-  oomp_key_full: oomp_symbol_regulator_switching_lnk364g_b6bb74
-  oomp_key_simple: regulator_switching_lnk364g
+  md5: 147e57d058a81e670c94cf99178417d5
+  md5_10: 147e57d058
+  md5_5: 147e5
+  md5_6: 147e57
+  oomp_key: oomp_lnk364g
+  oomp_key_extra: oomp_symbol_lnk364g
+  oomp_key_full: oomp_symbol_lnk364g_147e57
+  oomp_key_simple: lnk364g
   owner_name: kicad
-  symbol_name: regulator_switching_lnk364g
+  symbol_name: lnk364g
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

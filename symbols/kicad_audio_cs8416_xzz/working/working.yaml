@@ -1,16 +1,20 @@
+id: kicad_audio_cs8416_xzz
+library: audio
 library_name: Audio
+name: cs8416_xzz
 oomp:
   library_name: audio
-  md5: 592e7d8c3e95f24e374a7524c59a7913
-  md5_10: 592e7d8c3e
-  md5_5: 592e7
-  md5_6: 592e7d
-  oomp_key: oomp_audio_cs8416_xzz
-  oomp_key_extra: oomp_symbol_audio_cs8416_xzz
-  oomp_key_full: oomp_symbol_audio_cs8416_xzz_592e7d
-  oomp_key_simple: audio_cs8416_xzz
+  md5: d0bde19e451d4ce88ab7021476cb67d7
+  md5_10: d0bde19e45
+  md5_5: d0bde
+  md5_6: d0bde1
+  oomp_key: oomp_cs8416_xzz
+  oomp_key_extra: oomp_symbol_cs8416_xzz
+  oomp_key_full: oomp_symbol_cs8416_xzz_d0bde1
+  oomp_key_simple: cs8416_xzz
   owner_name: kicad
-  symbol_name: audio_cs8416_xzz
+  symbol_name: cs8416_xzz
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

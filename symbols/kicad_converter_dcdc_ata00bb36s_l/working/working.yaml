@@ -1,16 +1,20 @@
+id: kicad_converter_dcdc_ata00bb36s_l
+library: converter_dcdc
 library_name: Converter_DCDC
+name: ata00bb36s_l
 oomp:
   library_name: converter_dcdc
-  md5: 3224c8ab857400547011fcb8533d9ca1
-  md5_10: 3224c8ab85
-  md5_5: 3224c
-  md5_6: 3224c8
-  oomp_key: oomp_converter_dcdc_ata00bb36s_l
-  oomp_key_extra: oomp_symbol_converter_dcdc_ata00bb36s_l
-  oomp_key_full: oomp_symbol_converter_dcdc_ata00bb36s_l_3224c8
-  oomp_key_simple: converter_dcdc_ata00bb36s_l
+  md5: 76878d71a5b0f2a5b3030fe7cc4e7d18
+  md5_10: 76878d71a5
+  md5_5: '76878'
+  md5_6: 76878d
+  oomp_key: oomp_ata00bb36s_l
+  oomp_key_extra: oomp_symbol_ata00bb36s_l
+  oomp_key_full: oomp_symbol_ata00bb36s_l_76878d
+  oomp_key_simple: ata00bb36s_l
   owner_name: kicad
-  symbol_name: converter_dcdc_ata00bb36s_l
+  symbol_name: ata00bb36s_l
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

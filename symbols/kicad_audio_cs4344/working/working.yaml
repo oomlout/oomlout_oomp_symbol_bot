@@ -1,3 +1,5 @@
+id: kicad_audio_cs4344
+library: audio
 library_name: Audio
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_audio_cs4344/working
   oomp_src_flat: symbols_flat/kicad_audio_cs4344/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_audio_cs4344/working
-name: audio_cs4344
+name: cs4344
 oomp:
   library_name: audio
-  md5: 378f875615da62e055c3b7b7f0eb709a
-  md5_10: 378f875615
-  md5_5: 378f8
-  md5_6: 378f87
-  oomp_key: oomp_audio_cs4344
-  oomp_key_extra: oomp_symbol_audio_cs4344
-  oomp_key_full: oomp_symbol_audio_cs4344_378f87
-  oomp_key_simple: audio_cs4344
+  md5: c029ed7b0c3a7494dc8f8667494a4584
+  md5_10: c029ed7b0c
+  md5_5: c029e
+  md5_6: c029ed
+  oomp_key: oomp_cs4344
+  oomp_key_extra: oomp_symbol_cs4344
+  oomp_key_full: oomp_symbol_cs4344_c029ed
+  oomp_key_simple: cs4344
   owner_name: kicad
-  symbol_name: audio_cs4344
+  symbol_name: cs4344
 oomp_key: oomp_kicad_audio_cs4344
 oomp_key_simple: kicad_audio_cs4344
 owner: kicad

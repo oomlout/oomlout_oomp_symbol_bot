@@ -1,16 +1,20 @@
+id: kicad_display_graphic_ea_edip240b_7lwtp
+library: display_graphic
 library_name: Display_Graphic
+name: ea_edip240b_7lwtp
 oomp:
   library_name: display_graphic
-  md5: c532c1f51b991271daf8dd10c60bedb8
-  md5_10: c532c1f51b
-  md5_5: c532c
-  md5_6: c532c1
-  oomp_key: oomp_display_graphic_ea_edip240b_7lwtp
-  oomp_key_extra: oomp_symbol_display_graphic_ea_edip240b_7lwtp
-  oomp_key_full: oomp_symbol_display_graphic_ea_edip240b_7lwtp_c532c1
-  oomp_key_simple: display_graphic_ea_edip240b_7lwtp
+  md5: b5c952212ddaf76762edaff60d86c7b6
+  md5_10: b5c952212d
+  md5_5: b5c95
+  md5_6: b5c952
+  oomp_key: oomp_ea_edip240b_7lwtp
+  oomp_key_extra: oomp_symbol_ea_edip240b_7lwtp
+  oomp_key_full: oomp_symbol_ea_edip240b_7lwtp_b5c952
+  oomp_key_simple: ea_edip240b_7lwtp
   owner_name: kicad
-  symbol_name: display_graphic_ea_edip240b_7lwtp
+  symbol_name: ea_edip240b_7lwtp
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

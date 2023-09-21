@@ -1,16 +1,20 @@
+id: kicad_mcu_microchip_atmega_atmega48pa_cc
+library: mcu_microchip_atmega
 library_name: MCU_Microchip_ATmega
+name: atmega48pa_cc
 oomp:
   library_name: mcu_microchip_atmega
-  md5: 703ee30a21e7f8fa06d8d107d3bcdbf0
-  md5_10: 703ee30a21
-  md5_5: 703ee
-  md5_6: 703ee3
-  oomp_key: oomp_mcu_microchip_atmega_atmega48pa_cc
-  oomp_key_extra: oomp_symbol_mcu_microchip_atmega_atmega48pa_cc
-  oomp_key_full: oomp_symbol_mcu_microchip_atmega_atmega48pa_cc_703ee3
-  oomp_key_simple: mcu_microchip_atmega_atmega48pa_cc
+  md5: b4db9fee5089a77794d1f7d54763d491
+  md5_10: b4db9fee50
+  md5_5: b4db9
+  md5_6: b4db9f
+  oomp_key: oomp_atmega48pa_cc
+  oomp_key_extra: oomp_symbol_atmega48pa_cc
+  oomp_key_full: oomp_symbol_atmega48pa_cc_b4db9f
+  oomp_key_simple: atmega48pa_cc
   owner_name: kicad
-  symbol_name: mcu_microchip_atmega_atmega48pa_cc
+  symbol_name: atmega48pa_cc
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,3 +1,5 @@
+id: kicad_device_l_iron_coupled_small
+library: device
 library_name: Device
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_l_iron_coupled_small/working
   oomp_src_flat: symbols_flat/kicad_device_l_iron_coupled_small/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_l_iron_coupled_small/working
-name: device_l_iron_coupled_small
+name: l_iron_coupled_small
 oomp:
   library_name: device
-  md5: 5f8ead7633f2d4203b507cfbcaa8590e
-  md5_10: 5f8ead7633
-  md5_5: 5f8ea
-  md5_6: 5f8ead
-  oomp_key: oomp_device_l_iron_coupled_small
-  oomp_key_extra: oomp_symbol_device_l_iron_coupled_small
-  oomp_key_full: oomp_symbol_device_l_iron_coupled_small_5f8ead
-  oomp_key_simple: device_l_iron_coupled_small
+  md5: 7441b754ca12a6c62d689c521b91f978
+  md5_10: 7441b754ca
+  md5_5: 7441b
+  md5_6: 7441b7
+  oomp_key: oomp_l_iron_coupled_small
+  oomp_key_extra: oomp_symbol_l_iron_coupled_small
+  oomp_key_full: oomp_symbol_l_iron_coupled_small_7441b7
+  oomp_key_simple: l_iron_coupled_small
   owner_name: kicad
-  symbol_name: device_l_iron_coupled_small
+  symbol_name: l_iron_coupled_small
 oomp_key: oomp_kicad_device_l_iron_coupled_small
 oomp_key_simple: kicad_device_l_iron_coupled_small
 owner: kicad

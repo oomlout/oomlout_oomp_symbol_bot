@@ -1,16 +1,20 @@
+id: kicad_driver_fet_ir2112
+library: driver_fet
 library_name: Driver_FET
+name: ir2112
 oomp:
   library_name: driver_fet
-  md5: 96bf8a42da6469465ce99c72abe95594
-  md5_10: 96bf8a42da
-  md5_5: 96bf8
-  md5_6: 96bf8a
-  oomp_key: oomp_driver_fet_ir2112
-  oomp_key_extra: oomp_symbol_driver_fet_ir2112
-  oomp_key_full: oomp_symbol_driver_fet_ir2112_96bf8a
-  oomp_key_simple: driver_fet_ir2112
+  md5: bc3ac8bae7ae31bfb870c475d0b68b1b
+  md5_10: bc3ac8bae7
+  md5_5: bc3ac
+  md5_6: bc3ac8
+  oomp_key: oomp_ir2112
+  oomp_key_extra: oomp_symbol_ir2112
+  oomp_key_full: oomp_symbol_ir2112_bc3ac8
+  oomp_key_simple: ir2112
   owner_name: kicad
-  symbol_name: driver_fet_ir2112
+  symbol_name: ir2112
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

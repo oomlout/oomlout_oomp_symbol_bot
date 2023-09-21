@@ -1,16 +1,20 @@
+id: kicad_amplifier_audio_si8241cb
+library: amplifier_audio
 library_name: Amplifier_Audio
+name: si8241cb
 oomp:
   library_name: amplifier_audio
-  md5: c613ca8c3d988721a53525b40ece7d71
-  md5_10: c613ca8c3d
-  md5_5: c613c
-  md5_6: c613ca
-  oomp_key: oomp_amplifier_audio_si8241cb
-  oomp_key_extra: oomp_symbol_amplifier_audio_si8241cb
-  oomp_key_full: oomp_symbol_amplifier_audio_si8241cb_c613ca
-  oomp_key_simple: amplifier_audio_si8241cb
+  md5: 2934b005f46a8564ee5fecd623a7f1e7
+  md5_10: 2934b005f4
+  md5_5: 2934b
+  md5_6: 2934b0
+  oomp_key: oomp_si8241cb
+  oomp_key_extra: oomp_symbol_si8241cb
+  oomp_key_full: oomp_symbol_si8241cb_2934b0
+  oomp_key_simple: si8241cb
   owner_name: kicad
-  symbol_name: amplifier_audio_si8241cb
+  symbol_name: si8241cb
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

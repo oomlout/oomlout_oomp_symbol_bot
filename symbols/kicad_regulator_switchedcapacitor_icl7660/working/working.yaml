@@ -1,16 +1,20 @@
+id: kicad_regulator_switchedcapacitor_icl7660
+library: regulator_switchedcapacitor
 library_name: Regulator_SwitchedCapacitor
+name: icl7660
 oomp:
   library_name: regulator_switchedcapacitor
-  md5: 9bf29ac315d4d49094eaefa234e5b1f0
-  md5_10: 9bf29ac315
-  md5_5: 9bf29
-  md5_6: 9bf29a
-  oomp_key: oomp_regulator_switchedcapacitor_icl7660
-  oomp_key_extra: oomp_symbol_regulator_switchedcapacitor_icl7660
-  oomp_key_full: oomp_symbol_regulator_switchedcapacitor_icl7660_9bf29a
-  oomp_key_simple: regulator_switchedcapacitor_icl7660
+  md5: 57aebf1f0f071c211034ae1987449beb
+  md5_10: 57aebf1f0f
+  md5_5: 57aeb
+  md5_6: 57aebf
+  oomp_key: oomp_icl7660
+  oomp_key_extra: oomp_symbol_icl7660
+  oomp_key_full: oomp_symbol_icl7660_57aebf
+  oomp_key_simple: icl7660
   owner_name: kicad
-  symbol_name: regulator_switchedcapacitor_icl7660
+  symbol_name: icl7660
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

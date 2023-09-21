@@ -1,16 +1,20 @@
+id: kicad_converter_dcdc_oki_78sr_12_1_0_w36h_c
+library: converter_dcdc
 library_name: Converter_DCDC
+name: oki_78sr_12_1_0_w36h_c
 oomp:
   library_name: converter_dcdc
-  md5: 98251aa99362eeccfff340ec7e21a5b8
-  md5_10: 98251aa993
-  md5_5: '98251'
-  md5_6: 98251a
-  oomp_key: oomp_converter_dcdc_oki_78sr_12_1_0_w36h_c
-  oomp_key_extra: oomp_symbol_converter_dcdc_oki_78sr_12_1_0_w36h_c
-  oomp_key_full: oomp_symbol_converter_dcdc_oki_78sr_12_1_0_w36h_c_98251a
-  oomp_key_simple: converter_dcdc_oki_78sr_12_1_0_w36h_c
+  md5: 4757c6c2695a652a947d9634a3021b1d
+  md5_10: 4757c6c269
+  md5_5: 4757c
+  md5_6: 4757c6
+  oomp_key: oomp_oki_78sr_12_1_0_w36h_c
+  oomp_key_extra: oomp_symbol_oki_78sr_12_1_0_w36h_c
+  oomp_key_full: oomp_symbol_oki_78sr_12_1_0_w36h_c_4757c6
+  oomp_key_simple: oki_78sr_12_1_0_w36h_c
   owner_name: kicad
-  symbol_name: converter_dcdc_oki_78sr_12_1_0_w36h_c
+  symbol_name: oki_78sr_12_1_0_w36h_c
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

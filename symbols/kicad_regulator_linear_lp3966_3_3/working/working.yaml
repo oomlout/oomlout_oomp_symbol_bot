@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_lp3966_3_3
+library: regulator_linear
 library_name: Regulator_Linear
+name: lp3966_3_3
 oomp:
   library_name: regulator_linear
-  md5: 64fb908b95e8b9c01ab68fcdb9c28627
-  md5_10: 64fb908b95
-  md5_5: 64fb9
-  md5_6: 64fb90
-  oomp_key: oomp_regulator_linear_lp3966_3_3
-  oomp_key_extra: oomp_symbol_regulator_linear_lp3966_3_3
-  oomp_key_full: oomp_symbol_regulator_linear_lp3966_3_3_64fb90
-  oomp_key_simple: regulator_linear_lp3966_3_3
+  md5: 751d305f47d943e32f6aa60b885341dd
+  md5_10: 751d305f47
+  md5_5: 751d3
+  md5_6: 751d30
+  oomp_key: oomp_lp3966_3_3
+  oomp_key_extra: oomp_symbol_lp3966_3_3
+  oomp_key_full: oomp_symbol_lp3966_3_3_751d30
+  oomp_key_simple: lp3966_3_3
   owner_name: kicad
-  symbol_name: regulator_linear_lp3966_3_3
+  symbol_name: lp3966_3_3
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

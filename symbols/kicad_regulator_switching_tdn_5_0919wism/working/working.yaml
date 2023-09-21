@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_tdn_5_0919wism
+library: regulator_switching
 library_name: Regulator_Switching
+name: tdn_5_0919wism
 oomp:
   library_name: regulator_switching
-  md5: a5bd938e8416aebe57ee6dfdacfbea18
-  md5_10: a5bd938e84
-  md5_5: a5bd9
-  md5_6: a5bd93
-  oomp_key: oomp_regulator_switching_tdn_5_0919wism
-  oomp_key_extra: oomp_symbol_regulator_switching_tdn_5_0919wism
-  oomp_key_full: oomp_symbol_regulator_switching_tdn_5_0919wism_a5bd93
-  oomp_key_simple: regulator_switching_tdn_5_0919wism
+  md5: 48860423da6ee50cdf447d81002af153
+  md5_10: 48860423da
+  md5_5: '48860'
+  md5_6: '488604'
+  oomp_key: oomp_tdn_5_0919wism
+  oomp_key_extra: oomp_symbol_tdn_5_0919wism
+  oomp_key_full: oomp_symbol_tdn_5_0919wism_488604
+  oomp_key_simple: tdn_5_0919wism
   owner_name: kicad
-  symbol_name: regulator_switching_tdn_5_0919wism
+  symbol_name: tdn_5_0919wism
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

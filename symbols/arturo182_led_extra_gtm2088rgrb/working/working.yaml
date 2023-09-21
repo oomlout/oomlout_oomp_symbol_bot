@@ -1,3 +1,5 @@
+id: arturo182_led_extra_gtm2088rgrb
+library: led_extra
 library_name: LED_Extra
 links:
   github_owner: arturo182
@@ -10,19 +12,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/arturo182_led_extra_gtm2088rgrb/working
   oomp_src_flat: symbols_flat/arturo182_led_extra_gtm2088rgrb/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/arturo182_led_extra_gtm2088rgrb/working
-name: led_extra_gtm2088rgrb
+name: gtm2088rgrb
 oomp:
   library_name: led_extra
-  md5: 84b718ed8211d02306d3b7d8f67ebcf3
-  md5_10: 84b718ed82
-  md5_5: 84b71
-  md5_6: 84b718
-  oomp_key: oomp_led_extra_gtm2088rgrb
-  oomp_key_extra: oomp_symbol_led_extra_gtm2088rgrb
-  oomp_key_full: oomp_symbol_led_extra_gtm2088rgrb_84b718
-  oomp_key_simple: led_extra_gtm2088rgrb
+  md5: f6f5d164df1a85a26350fbe14b5b78fb
+  md5_10: f6f5d164df
+  md5_5: f6f5d
+  md5_6: f6f5d1
+  oomp_key: oomp_gtm2088rgrb
+  oomp_key_extra: oomp_symbol_gtm2088rgrb
+  oomp_key_full: oomp_symbol_gtm2088rgrb_f6f5d1
+  oomp_key_simple: gtm2088rgrb
   owner_name: arturo182
-  symbol_name: led_extra_gtm2088rgrb
+  symbol_name: gtm2088rgrb
 oomp_key: oomp_arturo182_led_extra_gtm2088rgrb
 oomp_key_simple: arturo182_led_extra_gtm2088rgrb
 owner: arturo182

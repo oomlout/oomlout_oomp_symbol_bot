@@ -1,3 +1,5 @@
+id: arturo182_mcu_module_extra_raspberrypi_pico
+library: mcu_module_extra
 library_name: MCU_Module_Extra
 links:
   github_owner: arturo182
@@ -10,19 +12,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/arturo182_mcu_module_extra_raspberrypi_pico/working
   oomp_src_flat: symbols_flat/arturo182_mcu_module_extra_raspberrypi_pico/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/arturo182_mcu_module_extra_raspberrypi_pico/working
-name: mcu_module_extra_raspberrypi_pico
+name: raspberrypi_pico
 oomp:
   library_name: mcu_module_extra
-  md5: b356bd602160137b5aa32b1e34ad6ac1
-  md5_10: b356bd6021
-  md5_5: b356b
-  md5_6: b356bd
-  oomp_key: oomp_mcu_module_extra_raspberrypi_pico
-  oomp_key_extra: oomp_symbol_mcu_module_extra_raspberrypi_pico
-  oomp_key_full: oomp_symbol_mcu_module_extra_raspberrypi_pico_b356bd
-  oomp_key_simple: mcu_module_extra_raspberrypi_pico
+  md5: 865e6ac9a3d4c8fdee9f339db130b44b
+  md5_10: 865e6ac9a3
+  md5_5: 865e6
+  md5_6: 865e6a
+  oomp_key: oomp_raspberrypi_pico
+  oomp_key_extra: oomp_symbol_raspberrypi_pico
+  oomp_key_full: oomp_symbol_raspberrypi_pico_865e6a
+  oomp_key_simple: raspberrypi_pico
   owner_name: arturo182
-  symbol_name: mcu_module_extra_raspberrypi_pico
+  symbol_name: raspberrypi_pico
 oomp_key: oomp_arturo182_mcu_module_extra_raspberrypi_pico
 oomp_key_simple: arturo182_mcu_module_extra_raspberrypi_pico
 owner: arturo182

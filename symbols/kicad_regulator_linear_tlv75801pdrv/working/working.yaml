@@ -1,3 +1,5 @@
+id: kicad_regulator_linear_tlv75801pdrv
+library: regulator_linear
 library_name: Regulator_Linear
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_linear_tlv75801pdrv/working
   oomp_src_flat: symbols_flat/kicad_regulator_linear_tlv75801pdrv/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_linear_tlv75801pdrv/working
-name: regulator_linear_tlv75801pdrv
+name: tlv75801pdrv
 oomp:
   library_name: regulator_linear
-  md5: 4b000614eca983f297d6df186f84da75
-  md5_10: 4b000614ec
-  md5_5: 4b000
-  md5_6: 4b0006
-  oomp_key: oomp_regulator_linear_tlv75801pdrv
-  oomp_key_extra: oomp_symbol_regulator_linear_tlv75801pdrv
-  oomp_key_full: oomp_symbol_regulator_linear_tlv75801pdrv_4b0006
-  oomp_key_simple: regulator_linear_tlv75801pdrv
+  md5: e07d1b8a0bd5162c3fa4ed97f39fcaaa
+  md5_10: e07d1b8a0b
+  md5_5: e07d1
+  md5_6: e07d1b
+  oomp_key: oomp_tlv75801pdrv
+  oomp_key_extra: oomp_symbol_tlv75801pdrv
+  oomp_key_full: oomp_symbol_tlv75801pdrv_e07d1b
+  oomp_key_simple: tlv75801pdrv
   owner_name: kicad
-  symbol_name: regulator_linear_tlv75801pdrv
+  symbol_name: tlv75801pdrv
 oomp_key: oomp_kicad_regulator_linear_tlv75801pdrv
 oomp_key_simple: kicad_regulator_linear_tlv75801pdrv
 owner: kicad

@@ -1,16 +1,20 @@
+id: kicad_sensor_optical_sfh2440
+library: sensor_optical
 library_name: Sensor_Optical
+name: sfh2440
 oomp:
   library_name: sensor_optical
-  md5: f2bfd85d4974279c3b0071fb71a161df
-  md5_10: f2bfd85d49
-  md5_5: f2bfd
-  md5_6: f2bfd8
-  oomp_key: oomp_sensor_optical_sfh2440
-  oomp_key_extra: oomp_symbol_sensor_optical_sfh2440
-  oomp_key_full: oomp_symbol_sensor_optical_sfh2440_f2bfd8
-  oomp_key_simple: sensor_optical_sfh2440
+  md5: 0500becfa15db3e03384d4df3ae6c515
+  md5_10: 0500becfa1
+  md5_5: 0500b
+  md5_6: 0500be
+  oomp_key: oomp_sfh2440
+  oomp_key_extra: oomp_symbol_sfh2440
+  oomp_key_full: oomp_symbol_sfh2440_0500be
+  oomp_key_simple: sfh2440
   owner_name: kicad
-  symbol_name: sensor_optical_sfh2440
+  symbol_name: sfh2440
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

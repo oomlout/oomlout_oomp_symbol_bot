@@ -1,16 +1,20 @@
+id: kicad_transformer_pe_68386nl
+library: transformer
 library_name: Transformer
+name: pe_68386nl
 oomp:
   library_name: transformer
-  md5: 297be4451f418b379c644e6d8dfedc7f
-  md5_10: 297be4451f
-  md5_5: 297be
-  md5_6: 297be4
-  oomp_key: oomp_transformer_pe_68386nl
-  oomp_key_extra: oomp_symbol_transformer_pe_68386nl
-  oomp_key_full: oomp_symbol_transformer_pe_68386nl_297be4
-  oomp_key_simple: transformer_pe_68386nl
+  md5: 9b6d256d7ba2fe4b9df70cbcdc5195ce
+  md5_10: 9b6d256d7b
+  md5_5: 9b6d2
+  md5_6: 9b6d25
+  oomp_key: oomp_pe_68386nl
+  oomp_key_extra: oomp_symbol_pe_68386nl
+  oomp_key_full: oomp_symbol_pe_68386nl_9b6d25
+  oomp_key_simple: pe_68386nl
   owner_name: kicad
-  symbol_name: transformer_pe_68386nl
+  symbol_name: pe_68386nl
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

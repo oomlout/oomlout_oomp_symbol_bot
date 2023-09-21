@@ -1,16 +1,20 @@
+id: kicad_sensor_gas_004_0_0071
+library: sensor_gas
 library_name: Sensor_Gas
+name: '004_0_0071'
 oomp:
   library_name: sensor_gas
-  md5: 24787a2469e6b5e187212ee114a8829a
-  md5_10: 24787a2469
-  md5_5: '24787'
-  md5_6: 24787a
-  oomp_key: oomp_sensor_gas_004_0_0071
-  oomp_key_extra: oomp_symbol_sensor_gas_004_0_0071
-  oomp_key_full: oomp_symbol_sensor_gas_004_0_0071_24787a
-  oomp_key_simple: sensor_gas_004_0_0071
+  md5: bed0386a7f42b9fd3f4822aa615f3f1d
+  md5_10: bed0386a7f
+  md5_5: bed03
+  md5_6: bed038
+  oomp_key: oomp_004_0_0071
+  oomp_key_extra: oomp_symbol_004_0_0071
+  oomp_key_full: oomp_symbol_004_0_0071_bed038
+  oomp_key_simple: '004_0_0071'
   owner_name: kicad
-  symbol_name: sensor_gas_004_0_0071
+  symbol_name: '004_0_0071'
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

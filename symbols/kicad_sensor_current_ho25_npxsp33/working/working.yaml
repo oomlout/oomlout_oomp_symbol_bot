@@ -1,16 +1,20 @@
+id: kicad_sensor_current_ho25_npxsp33
+library: sensor_current
 library_name: Sensor_Current
+name: ho25_npxsp33
 oomp:
   library_name: sensor_current
-  md5: 8c6c499535652b31e65ebd59ddca57e6
-  md5_10: 8c6c499535
-  md5_5: 8c6c4
-  md5_6: 8c6c49
-  oomp_key: oomp_sensor_current_ho25_npxsp33
-  oomp_key_extra: oomp_symbol_sensor_current_ho25_npxsp33
-  oomp_key_full: oomp_symbol_sensor_current_ho25_npxsp33_8c6c49
-  oomp_key_simple: sensor_current_ho25_npxsp33
+  md5: 028b655dc3c3e64b62c5517af597b374
+  md5_10: 028b655dc3
+  md5_5: 028b6
+  md5_6: 028b65
+  oomp_key: oomp_ho25_npxsp33
+  oomp_key_extra: oomp_symbol_ho25_npxsp33
+  oomp_key_full: oomp_symbol_ho25_npxsp33_028b65
+  oomp_key_simple: ho25_npxsp33
   owner_name: kicad
-  symbol_name: sensor_current_ho25_npxsp33
+  symbol_name: ho25_npxsp33
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

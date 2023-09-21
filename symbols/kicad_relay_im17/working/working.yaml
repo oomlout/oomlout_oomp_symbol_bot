@@ -1,16 +1,20 @@
+id: kicad_relay_im17
+library: relay
 library_name: Relay
+name: im17
 oomp:
   library_name: relay
-  md5: e9d122d3f326a35485b5dd284a81d7a9
-  md5_10: e9d122d3f3
-  md5_5: e9d12
-  md5_6: e9d122
-  oomp_key: oomp_relay_im17
-  oomp_key_extra: oomp_symbol_relay_im17
-  oomp_key_full: oomp_symbol_relay_im17_e9d122
-  oomp_key_simple: relay_im17
+  md5: 543240551bb1577789e27088fb63916a
+  md5_10: 543240551b
+  md5_5: '54324'
+  md5_6: '543240'
+  oomp_key: oomp_im17
+  oomp_key_extra: oomp_symbol_im17
+  oomp_key_full: oomp_symbol_im17_543240
+  oomp_key_simple: im17
   owner_name: kicad
-  symbol_name: relay_im17
+  symbol_name: im17
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

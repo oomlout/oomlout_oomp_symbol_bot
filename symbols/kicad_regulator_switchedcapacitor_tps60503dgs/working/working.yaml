@@ -1,16 +1,20 @@
+id: kicad_regulator_switchedcapacitor_tps60503dgs
+library: regulator_switchedcapacitor
 library_name: Regulator_SwitchedCapacitor
+name: tps60503dgs
 oomp:
   library_name: regulator_switchedcapacitor
-  md5: 332cf949bbe71994834a9d7b5336c82a
-  md5_10: 332cf949bb
-  md5_5: 332cf
-  md5_6: 332cf9
-  oomp_key: oomp_regulator_switchedcapacitor_tps60503dgs
-  oomp_key_extra: oomp_symbol_regulator_switchedcapacitor_tps60503dgs
-  oomp_key_full: oomp_symbol_regulator_switchedcapacitor_tps60503dgs_332cf9
-  oomp_key_simple: regulator_switchedcapacitor_tps60503dgs
+  md5: 8d3e15cd599d245f239b5f465247cf95
+  md5_10: 8d3e15cd59
+  md5_5: 8d3e1
+  md5_6: 8d3e15
+  oomp_key: oomp_tps60503dgs
+  oomp_key_extra: oomp_symbol_tps60503dgs
+  oomp_key_full: oomp_symbol_tps60503dgs_8d3e15
+  oomp_key_simple: tps60503dgs
   owner_name: kicad
-  symbol_name: regulator_switchedcapacitor_tps60503dgs
+  symbol_name: tps60503dgs
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

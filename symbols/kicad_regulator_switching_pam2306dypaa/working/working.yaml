@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_pam2306dypaa
+library: regulator_switching
 library_name: Regulator_Switching
+name: pam2306dypaa
 oomp:
   library_name: regulator_switching
-  md5: b1e3c2b76337e979e20df56d8e2a17f5
-  md5_10: b1e3c2b763
-  md5_5: b1e3c
-  md5_6: b1e3c2
-  oomp_key: oomp_regulator_switching_pam2306dypaa
-  oomp_key_extra: oomp_symbol_regulator_switching_pam2306dypaa
-  oomp_key_full: oomp_symbol_regulator_switching_pam2306dypaa_b1e3c2
-  oomp_key_simple: regulator_switching_pam2306dypaa
+  md5: f6a73218ed1c2fd6ce0a279db765dc8d
+  md5_10: f6a73218ed
+  md5_5: f6a73
+  md5_6: f6a732
+  oomp_key: oomp_pam2306dypaa
+  oomp_key_extra: oomp_symbol_pam2306dypaa
+  oomp_key_full: oomp_symbol_pam2306dypaa_f6a732
+  oomp_key_simple: pam2306dypaa
   owner_name: kicad
-  symbol_name: regulator_switching_pam2306dypaa
+  symbol_name: pam2306dypaa
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

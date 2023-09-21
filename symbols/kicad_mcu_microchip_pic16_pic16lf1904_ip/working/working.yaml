@@ -1,3 +1,5 @@
+id: kicad_mcu_microchip_pic16_pic16lf1904_ip
+library: mcu_microchip_pic16
 library_name: MCU_Microchip_PIC16
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_microchip_pic16_pic16lf1904_ip/working
   oomp_src_flat: symbols_flat/kicad_mcu_microchip_pic16_pic16lf1904_ip/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_microchip_pic16_pic16lf1904_ip/working
-name: mcu_microchip_pic16_pic16lf1904_ip
+name: pic16lf1904_ip
 oomp:
   library_name: mcu_microchip_pic16
-  md5: ffc705187d16290e11d4dcce43c946b5
-  md5_10: ffc705187d
-  md5_5: ffc70
-  md5_6: ffc705
-  oomp_key: oomp_mcu_microchip_pic16_pic16lf1904_ip
-  oomp_key_extra: oomp_symbol_mcu_microchip_pic16_pic16lf1904_ip
-  oomp_key_full: oomp_symbol_mcu_microchip_pic16_pic16lf1904_ip_ffc705
-  oomp_key_simple: mcu_microchip_pic16_pic16lf1904_ip
+  md5: cd0713445d008a3350d047093bb4713e
+  md5_10: cd0713445d
+  md5_5: cd071
+  md5_6: cd0713
+  oomp_key: oomp_pic16lf1904_ip
+  oomp_key_extra: oomp_symbol_pic16lf1904_ip
+  oomp_key_full: oomp_symbol_pic16lf1904_ip_cd0713
+  oomp_key_simple: pic16lf1904_ip
   owner_name: kicad
-  symbol_name: mcu_microchip_pic16_pic16lf1904_ip
+  symbol_name: pic16lf1904_ip
 oomp_key: oomp_kicad_mcu_microchip_pic16_pic16lf1904_ip
 oomp_key_simple: kicad_mcu_microchip_pic16_pic16lf1904_ip
 owner: kicad

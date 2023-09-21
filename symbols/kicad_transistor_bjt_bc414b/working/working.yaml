@@ -1,16 +1,20 @@
+id: kicad_transistor_bjt_bc414b
+library: transistor_bjt
 library_name: Transistor_BJT
+name: bc414b
 oomp:
   library_name: transistor_bjt
-  md5: 0777199e0b8cc3a89e81e0a3be2f6afb
-  md5_10: 0777199e0b
-  md5_5: '07771'
-  md5_6: 077719
-  oomp_key: oomp_transistor_bjt_bc414b
-  oomp_key_extra: oomp_symbol_transistor_bjt_bc414b
-  oomp_key_full: oomp_symbol_transistor_bjt_bc414b_077719
-  oomp_key_simple: transistor_bjt_bc414b
+  md5: 383d355a09f219c4cba801795cfea54d
+  md5_10: 383d355a09
+  md5_5: 383d3
+  md5_6: 383d35
+  oomp_key: oomp_bc414b
+  oomp_key_extra: oomp_symbol_bc414b
+  oomp_key_full: oomp_symbol_bc414b_383d35
+  oomp_key_simple: bc414b
   owner_name: kicad
-  symbol_name: transistor_bjt_bc414b
+  symbol_name: bc414b
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_triac_thyristor_bt136_600
+library: triac_thyristor
 library_name: Triac_Thyristor
+name: bt136_600
 oomp:
   library_name: triac_thyristor
-  md5: afab55fe81e834a89dd6248fb7493ded
-  md5_10: afab55fe81
-  md5_5: afab5
-  md5_6: afab55
-  oomp_key: oomp_triac_thyristor_bt136_600
-  oomp_key_extra: oomp_symbol_triac_thyristor_bt136_600
-  oomp_key_full: oomp_symbol_triac_thyristor_bt136_600_afab55
-  oomp_key_simple: triac_thyristor_bt136_600
+  md5: b5070f3075050a326daee41cc3edf197
+  md5_10: b5070f3075
+  md5_5: b5070
+  md5_6: b5070f
+  oomp_key: oomp_bt136_600
+  oomp_key_extra: oomp_symbol_bt136_600
+  oomp_key_full: oomp_symbol_bt136_600_b5070f
+  oomp_key_simple: bt136_600
   owner_name: kicad
-  symbol_name: triac_thyristor_bt136_600
+  symbol_name: bt136_600
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

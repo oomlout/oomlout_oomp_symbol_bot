@@ -1,16 +1,20 @@
+id: kicad_mcu_microchip_pic18_pic18f2431_isp
+library: mcu_microchip_pic18
 library_name: MCU_Microchip_PIC18
+name: pic18f2431_isp
 oomp:
   library_name: mcu_microchip_pic18
-  md5: f19523010a9d2848700ce54613056d3e
-  md5_10: f19523010a
-  md5_5: f1952
-  md5_6: f19523
-  oomp_key: oomp_mcu_microchip_pic18_pic18f2431_isp
-  oomp_key_extra: oomp_symbol_mcu_microchip_pic18_pic18f2431_isp
-  oomp_key_full: oomp_symbol_mcu_microchip_pic18_pic18f2431_isp_f19523
-  oomp_key_simple: mcu_microchip_pic18_pic18f2431_isp
+  md5: 098d34b20dfb164e48c5a00b511a1231
+  md5_10: 098d34b20d
+  md5_5: 098d3
+  md5_6: 098d34
+  oomp_key: oomp_pic18f2431_isp
+  oomp_key_extra: oomp_symbol_pic18f2431_isp
+  oomp_key_full: oomp_symbol_pic18f2431_isp_098d34
+  oomp_key_simple: pic18f2431_isp
   owner_name: kicad
-  symbol_name: mcu_microchip_pic18_pic18f2431_isp
+  symbol_name: pic18f2431_isp
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

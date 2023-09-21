@@ -1,3 +1,5 @@
+id: arturo182_driver_led_extra_ap2502
+library: driver_led_extra
 library_name: Driver_LED_Extra
 links:
   github_owner: arturo182
@@ -10,19 +12,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/arturo182_driver_led_extra_ap2502/working
   oomp_src_flat: symbols_flat/arturo182_driver_led_extra_ap2502/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/arturo182_driver_led_extra_ap2502/working
-name: driver_led_extra_ap2502
+name: ap2502
 oomp:
   library_name: driver_led_extra
-  md5: 638b9c67b63c2bf7f977392b8f7d6579
-  md5_10: 638b9c67b6
-  md5_5: 638b9
-  md5_6: 638b9c
-  oomp_key: oomp_driver_led_extra_ap2502
-  oomp_key_extra: oomp_symbol_driver_led_extra_ap2502
-  oomp_key_full: oomp_symbol_driver_led_extra_ap2502_638b9c
-  oomp_key_simple: driver_led_extra_ap2502
+  md5: 320641ee27564611c5199e75b8f8484e
+  md5_10: 320641ee27
+  md5_5: '32064'
+  md5_6: '320641'
+  oomp_key: oomp_ap2502
+  oomp_key_extra: oomp_symbol_ap2502
+  oomp_key_full: oomp_symbol_ap2502_320641
+  oomp_key_simple: ap2502
   owner_name: arturo182
-  symbol_name: driver_led_extra_ap2502
+  symbol_name: ap2502
 oomp_key: oomp_arturo182_driver_led_extra_ap2502
 oomp_key_simple: arturo182_driver_led_extra_ap2502
 owner: arturo182

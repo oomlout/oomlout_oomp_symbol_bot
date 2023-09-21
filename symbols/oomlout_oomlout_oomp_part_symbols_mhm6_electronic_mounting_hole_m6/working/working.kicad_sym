@@ -15,7 +15,7 @@
     (property "ki_keywords" "mounting hole" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "ki_description" "Mounting Hole without connection" (at 0 0 0)
+    (property "ki_description" "[electronic_mounting_hole_m6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_mounting_hole_m6/working)<br><br>" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "ki_fp_filters" "MountingHole*" (at 0 0 0)

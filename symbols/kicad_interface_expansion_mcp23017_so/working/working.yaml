@@ -1,3 +1,5 @@
+id: kicad_interface_expansion_mcp23017_so
+library: interface_expansion
 library_name: Interface_Expansion
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_expansion_mcp23017_so/working
   oomp_src_flat: symbols_flat/kicad_interface_expansion_mcp23017_so/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_expansion_mcp23017_so/working
-name: interface_expansion_mcp23017_so
+name: mcp23017_so
 oomp:
   library_name: interface_expansion
-  md5: 1e4afa8b0bb284ee7b6915668b3de41e
-  md5_10: 1e4afa8b0b
-  md5_5: 1e4af
-  md5_6: 1e4afa
-  oomp_key: oomp_interface_expansion_mcp23017_so
-  oomp_key_extra: oomp_symbol_interface_expansion_mcp23017_so
-  oomp_key_full: oomp_symbol_interface_expansion_mcp23017_so_1e4afa
-  oomp_key_simple: interface_expansion_mcp23017_so
+  md5: 6a2e29ca9c023a6f098619b36b3bde0c
+  md5_10: 6a2e29ca9c
+  md5_5: 6a2e2
+  md5_6: 6a2e29
+  oomp_key: oomp_mcp23017_so
+  oomp_key_extra: oomp_symbol_mcp23017_so
+  oomp_key_full: oomp_symbol_mcp23017_so_6a2e29
+  oomp_key_simple: mcp23017_so
   owner_name: kicad
-  symbol_name: interface_expansion_mcp23017_so
+  symbol_name: mcp23017_so
 oomp_key: oomp_kicad_interface_expansion_mcp23017_so
 oomp_key_simple: kicad_interface_expansion_mcp23017_so
 owner: kicad

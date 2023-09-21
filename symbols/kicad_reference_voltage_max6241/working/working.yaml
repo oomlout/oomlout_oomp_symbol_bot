@@ -1,16 +1,20 @@
+id: kicad_reference_voltage_max6241
+library: reference_voltage
 library_name: Reference_Voltage
+name: max6241
 oomp:
   library_name: reference_voltage
-  md5: c2d4be75d4e32a703d10c0ca9b33cb7e
-  md5_10: c2d4be75d4
-  md5_5: c2d4b
-  md5_6: c2d4be
-  oomp_key: oomp_reference_voltage_max6241
-  oomp_key_extra: oomp_symbol_reference_voltage_max6241
-  oomp_key_full: oomp_symbol_reference_voltage_max6241_c2d4be
-  oomp_key_simple: reference_voltage_max6241
+  md5: eae31b41e03641a1b571fe0ed0a73e5e
+  md5_10: eae31b41e0
+  md5_5: eae31
+  md5_6: eae31b
+  oomp_key: oomp_max6241
+  oomp_key_extra: oomp_symbol_max6241
+  oomp_key_full: oomp_symbol_max6241_eae31b
+  oomp_key_simple: max6241
   owner_name: kicad
-  symbol_name: reference_voltage_max6241
+  symbol_name: max6241
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

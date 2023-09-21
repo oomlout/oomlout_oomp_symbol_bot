@@ -1,3 +1,5 @@
+id: kicad_rf_module_dwm1000
+library: rf_module
 library_name: RF_Module
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_rf_module_dwm1000/working
   oomp_src_flat: symbols_flat/kicad_rf_module_dwm1000/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_rf_module_dwm1000/working
-name: rf_module_dwm1000
+name: dwm1000
 oomp:
   library_name: rf_module
-  md5: 8efe0b6ae4f44abe6759b12a02b15159
-  md5_10: 8efe0b6ae4
-  md5_5: 8efe0
-  md5_6: 8efe0b
-  oomp_key: oomp_rf_module_dwm1000
-  oomp_key_extra: oomp_symbol_rf_module_dwm1000
-  oomp_key_full: oomp_symbol_rf_module_dwm1000_8efe0b
-  oomp_key_simple: rf_module_dwm1000
+  md5: 66499a511a1987b44344adcf93110fe4
+  md5_10: 66499a511a
+  md5_5: '66499'
+  md5_6: 66499a
+  oomp_key: oomp_dwm1000
+  oomp_key_extra: oomp_symbol_dwm1000
+  oomp_key_full: oomp_symbol_dwm1000_66499a
+  oomp_key_simple: dwm1000
   owner_name: kicad
-  symbol_name: rf_module_dwm1000
+  symbol_name: dwm1000
 oomp_key: oomp_kicad_rf_module_dwm1000
 oomp_key_simple: kicad_rf_module_dwm1000
 owner: kicad

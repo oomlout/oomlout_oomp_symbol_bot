@@ -1,16 +1,20 @@
+id: kicad_interface_uart_sp3485cn
+library: interface_uart
 library_name: Interface_UART
+name: sp3485cn
 oomp:
   library_name: interface_uart
-  md5: 3a6110a89cb1edc37abb3c8908d65556
-  md5_10: 3a6110a89c
-  md5_5: 3a611
-  md5_6: 3a6110
-  oomp_key: oomp_interface_uart_sp3485cn
-  oomp_key_extra: oomp_symbol_interface_uart_sp3485cn
-  oomp_key_full: oomp_symbol_interface_uart_sp3485cn_3a6110
-  oomp_key_simple: interface_uart_sp3485cn
+  md5: 568a7a719a22d2b80c064cfda894937b
+  md5_10: 568a7a719a
+  md5_5: 568a7
+  md5_6: 568a7a
+  oomp_key: oomp_sp3485cn
+  oomp_key_extra: oomp_symbol_sp3485cn
+  oomp_key_full: oomp_symbol_sp3485cn_568a7a
+  oomp_key_simple: sp3485cn
   owner_name: kicad
-  symbol_name: interface_uart_sp3485cn
+  symbol_name: sp3485cn
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

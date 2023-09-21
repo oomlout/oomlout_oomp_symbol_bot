@@ -1,16 +1,20 @@
+id: kicad_transistor_fet_bsr58
+library: transistor_fet
 library_name: Transistor_FET
+name: bsr58
 oomp:
   library_name: transistor_fet
-  md5: 9ec1023849168f4f409edd4bf87cf4ac
-  md5_10: 9ec1023849
-  md5_5: 9ec10
-  md5_6: 9ec102
-  oomp_key: oomp_transistor_fet_bsr58
-  oomp_key_extra: oomp_symbol_transistor_fet_bsr58
-  oomp_key_full: oomp_symbol_transistor_fet_bsr58_9ec102
-  oomp_key_simple: transistor_fet_bsr58
+  md5: f380dc6db8cae183372032f87f011340
+  md5_10: f380dc6db8
+  md5_5: f380d
+  md5_6: f380dc
+  oomp_key: oomp_bsr58
+  oomp_key_extra: oomp_symbol_bsr58
+  oomp_key_full: oomp_symbol_bsr58_f380dc
+  oomp_key_simple: bsr58
   owner_name: kicad
-  symbol_name: transistor_fet_bsr58
+  symbol_name: bsr58
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

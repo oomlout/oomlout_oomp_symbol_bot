@@ -1,3 +1,5 @@
+id: kicad_4xxx_4052
+library: 4xxx
 library_name: 4xxx
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_4xxx_4052/working
   oomp_src_flat: symbols_flat/kicad_4xxx_4052/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_4xxx_4052/working
-name: 4xxx_4052
+name: '4052'
 oomp:
   library_name: 4xxx
-  md5: 6a244d193ddc81a502e33376b5bcb76b
-  md5_10: 6a244d193d
-  md5_5: 6a244
-  md5_6: 6a244d
-  oomp_key: oomp_4xxx_4052
-  oomp_key_extra: oomp_symbol_4xxx_4052
-  oomp_key_full: oomp_symbol_4xxx_4052_6a244d
-  oomp_key_simple: 4xxx_4052
+  md5: 90525e70b7842930586545c6f1c9310c
+  md5_10: 90525e70b7
+  md5_5: '90525'
+  md5_6: 90525e
+  oomp_key: oomp_4052
+  oomp_key_extra: oomp_symbol_4052
+  oomp_key_full: oomp_symbol_4052_90525e
+  oomp_key_simple: '4052'
   owner_name: kicad
-  symbol_name: 4xxx_4052
+  symbol_name: '4052'
 oomp_key: oomp_kicad_4xxx_4052
 oomp_key_simple: kicad_4xxx_4052
 owner: kicad

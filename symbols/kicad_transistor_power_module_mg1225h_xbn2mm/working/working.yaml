@@ -1,16 +1,20 @@
+id: kicad_transistor_power_module_mg1225h_xbn2mm
+library: transistor_power_module
 library_name: Transistor_Power_Module
+name: mg1225h_xbn2mm
 oomp:
   library_name: transistor_power_module
-  md5: d94df24873fca5a7940a9ce2ed77423b
-  md5_10: d94df24873
-  md5_5: d94df
-  md5_6: d94df2
-  oomp_key: oomp_transistor_power_module_mg1225h_xbn2mm
-  oomp_key_extra: oomp_symbol_transistor_power_module_mg1225h_xbn2mm
-  oomp_key_full: oomp_symbol_transistor_power_module_mg1225h_xbn2mm_d94df2
-  oomp_key_simple: transistor_power_module_mg1225h_xbn2mm
+  md5: 2cc94c5f845d0f58f424ada35d3f2af7
+  md5_10: 2cc94c5f84
+  md5_5: 2cc94
+  md5_6: 2cc94c
+  oomp_key: oomp_mg1225h_xbn2mm
+  oomp_key_extra: oomp_symbol_mg1225h_xbn2mm
+  oomp_key_full: oomp_symbol_mg1225h_xbn2mm_2cc94c
+  oomp_key_simple: mg1225h_xbn2mm
   owner_name: kicad
-  symbol_name: transistor_power_module_mg1225h_xbn2mm
+  symbol_name: mg1225h_xbn2mm
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_driver_fet_irs2001
+library: driver_fet
 library_name: Driver_FET
+name: irs2001
 oomp:
   library_name: driver_fet
-  md5: 45ec629c3e3672a62b9f5801dcf6890a
-  md5_10: 45ec629c3e
-  md5_5: 45ec6
-  md5_6: 45ec62
-  oomp_key: oomp_driver_fet_irs2001
-  oomp_key_extra: oomp_symbol_driver_fet_irs2001
-  oomp_key_full: oomp_symbol_driver_fet_irs2001_45ec62
-  oomp_key_simple: driver_fet_irs2001
+  md5: 984c021b7b4c51ea84de7d72e2f21a9c
+  md5_10: 984c021b7b
+  md5_5: 984c0
+  md5_6: 984c02
+  oomp_key: oomp_irs2001
+  oomp_key_extra: oomp_symbol_irs2001
+  oomp_key_full: oomp_symbol_irs2001_984c02
+  oomp_key_simple: irs2001
   owner_name: kicad
-  symbol_name: driver_fet_irs2001
+  symbol_name: irs2001
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_connector_audio_nl2mdxx_h_3
+library: connector_audio
 library_name: Connector_Audio
+name: nl2mdxx_h_3
 oomp:
   library_name: connector_audio
-  md5: 4b9dd7a2fd6af3f0da4dcb38ff84ad85
-  md5_10: 4b9dd7a2fd
-  md5_5: 4b9dd
-  md5_6: 4b9dd7
-  oomp_key: oomp_connector_audio_nl2mdxx_h_3
-  oomp_key_extra: oomp_symbol_connector_audio_nl2mdxx_h_3
-  oomp_key_full: oomp_symbol_connector_audio_nl2mdxx_h_3_4b9dd7
-  oomp_key_simple: connector_audio_nl2mdxx_h_3
+  md5: a97d801abfce48937cce501264f47891
+  md5_10: a97d801abf
+  md5_5: a97d8
+  md5_6: a97d80
+  oomp_key: oomp_nl2mdxx_h_3
+  oomp_key_extra: oomp_symbol_nl2mdxx_h_3
+  oomp_key_full: oomp_symbol_nl2mdxx_h_3_a97d80
+  oomp_key_simple: nl2mdxx_h_3
   owner_name: kicad
-  symbol_name: connector_audio_nl2mdxx_h_3
+  symbol_name: nl2mdxx_h_3
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

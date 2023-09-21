@@ -1,16 +1,20 @@
+id: kicad_relay_ee2_12snuh
+library: relay
 library_name: Relay
+name: ee2_12snuh
 oomp:
   library_name: relay
-  md5: e6ab455c09c5f685da4bb9054d4c4584
-  md5_10: e6ab455c09
-  md5_5: e6ab4
-  md5_6: e6ab45
-  oomp_key: oomp_relay_ee2_12snuh
-  oomp_key_extra: oomp_symbol_relay_ee2_12snuh
-  oomp_key_full: oomp_symbol_relay_ee2_12snuh_e6ab45
-  oomp_key_simple: relay_ee2_12snuh
+  md5: c9392ec4d71bd7bf36979531d0b34061
+  md5_10: c9392ec4d7
+  md5_5: c9392
+  md5_6: c9392e
+  oomp_key: oomp_ee2_12snuh
+  oomp_key_extra: oomp_symbol_ee2_12snuh
+  oomp_key_full: oomp_symbol_ee2_12snuh_c9392e
+  oomp_key_simple: ee2_12snuh
   owner_name: kicad
-  symbol_name: relay_ee2_12snuh
+  symbol_name: ee2_12snuh
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

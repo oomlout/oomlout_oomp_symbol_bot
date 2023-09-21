@@ -1,3 +1,5 @@
+id: arturo182_rf_module_extra_holyiot_18010
+library: rf_module_extra
 library_name: RF_Module_Extra
 links:
   github_owner: arturo182
@@ -10,19 +12,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/arturo182_rf_module_extra_holyiot_18010/working
   oomp_src_flat: symbols_flat/arturo182_rf_module_extra_holyiot_18010/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/arturo182_rf_module_extra_holyiot_18010/working
-name: rf_module_extra_holyiot_18010
+name: holyiot_18010
 oomp:
   library_name: rf_module_extra
-  md5: aa1633449f1c61d035083d122f46e409
-  md5_10: aa1633449f
-  md5_5: aa163
-  md5_6: aa1633
-  oomp_key: oomp_rf_module_extra_holyiot_18010
-  oomp_key_extra: oomp_symbol_rf_module_extra_holyiot_18010
-  oomp_key_full: oomp_symbol_rf_module_extra_holyiot_18010_aa1633
-  oomp_key_simple: rf_module_extra_holyiot_18010
+  md5: 5e1bdec55b7c9ddf6f9345be9c0aae7a
+  md5_10: 5e1bdec55b
+  md5_5: 5e1bd
+  md5_6: 5e1bde
+  oomp_key: oomp_holyiot_18010
+  oomp_key_extra: oomp_symbol_holyiot_18010
+  oomp_key_full: oomp_symbol_holyiot_18010_5e1bde
+  oomp_key_simple: holyiot_18010
   owner_name: arturo182
-  symbol_name: rf_module_extra_holyiot_18010
+  symbol_name: holyiot_18010
 oomp_key: oomp_arturo182_rf_module_extra_holyiot_18010
 oomp_key_simple: arturo182_rf_module_extra_holyiot_18010
 owner: arturo182

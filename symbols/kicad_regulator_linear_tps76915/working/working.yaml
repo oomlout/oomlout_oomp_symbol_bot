@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_tps76915
+library: regulator_linear
 library_name: Regulator_Linear
+name: tps76915
 oomp:
   library_name: regulator_linear
-  md5: 64ac1824c91b8947a1100c549ab60430
-  md5_10: 64ac1824c9
-  md5_5: 64ac1
-  md5_6: 64ac18
-  oomp_key: oomp_regulator_linear_tps76915
-  oomp_key_extra: oomp_symbol_regulator_linear_tps76915
-  oomp_key_full: oomp_symbol_regulator_linear_tps76915_64ac18
-  oomp_key_simple: regulator_linear_tps76915
+  md5: 66fc75ffe4e1916adb0c140775d655ac
+  md5_10: 66fc75ffe4
+  md5_5: 66fc7
+  md5_6: 66fc75
+  oomp_key: oomp_tps76915
+  oomp_key_extra: oomp_symbol_tps76915
+  oomp_key_full: oomp_symbol_tps76915_66fc75
+  oomp_key_simple: tps76915
   owner_name: kicad
-  symbol_name: regulator_linear_tps76915
+  symbol_name: tps76915
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

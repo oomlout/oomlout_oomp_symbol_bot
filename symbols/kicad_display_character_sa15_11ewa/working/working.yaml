@@ -1,16 +1,20 @@
+id: kicad_display_character_sa15_11ewa
+library: display_character
 library_name: Display_Character
+name: sa15_11ewa
 oomp:
   library_name: display_character
-  md5: d42018fa19ea928f26a2522bc5775ef2
-  md5_10: d42018fa19
-  md5_5: d4201
-  md5_6: d42018
-  oomp_key: oomp_display_character_sa15_11ewa
-  oomp_key_extra: oomp_symbol_display_character_sa15_11ewa
-  oomp_key_full: oomp_symbol_display_character_sa15_11ewa_d42018
-  oomp_key_simple: display_character_sa15_11ewa
+  md5: 1ad7aa766371c95b469c894fdf4b2760
+  md5_10: 1ad7aa7663
+  md5_5: 1ad7a
+  md5_6: 1ad7aa
+  oomp_key: oomp_sa15_11ewa
+  oomp_key_extra: oomp_symbol_sa15_11ewa
+  oomp_key_full: oomp_symbol_sa15_11ewa_1ad7aa
+  oomp_key_simple: sa15_11ewa
   owner_name: kicad
-  symbol_name: display_character_sa15_11ewa
+  symbol_name: sa15_11ewa
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

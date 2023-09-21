@@ -1,16 +1,20 @@
+id: kicad_transistor_fet_fdn340p
+library: transistor_fet
 library_name: Transistor_FET
+name: fdn340p
 oomp:
   library_name: transistor_fet
-  md5: 0703ae676f88ec75b6a11c08ecc3dca1
-  md5_10: 0703ae676f
-  md5_5: 0703a
-  md5_6: 0703ae
-  oomp_key: oomp_transistor_fet_fdn340p
-  oomp_key_extra: oomp_symbol_transistor_fet_fdn340p
-  oomp_key_full: oomp_symbol_transistor_fet_fdn340p_0703ae
-  oomp_key_simple: transistor_fet_fdn340p
+  md5: 575d1129f5dd8bfea4599004d992f2a9
+  md5_10: 575d1129f5
+  md5_5: 575d1
+  md5_6: 575d11
+  oomp_key: oomp_fdn340p
+  oomp_key_extra: oomp_symbol_fdn340p
+  oomp_key_full: oomp_symbol_fdn340p_575d11
+  oomp_key_simple: fdn340p
   owner_name: kicad
-  symbol_name: transistor_fet_fdn340p
+  symbol_name: fdn340p
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

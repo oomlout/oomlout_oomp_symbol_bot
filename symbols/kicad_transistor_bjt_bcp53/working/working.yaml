@@ -1,16 +1,20 @@
+id: kicad_transistor_bjt_bcp53
+library: transistor_bjt
 library_name: Transistor_BJT
+name: bcp53
 oomp:
   library_name: transistor_bjt
-  md5: d704bf9a4fa2eea627f62fb84d98ad0a
-  md5_10: d704bf9a4f
-  md5_5: d704b
-  md5_6: d704bf
-  oomp_key: oomp_transistor_bjt_bcp53
-  oomp_key_extra: oomp_symbol_transistor_bjt_bcp53
-  oomp_key_full: oomp_symbol_transistor_bjt_bcp53_d704bf
-  oomp_key_simple: transistor_bjt_bcp53
+  md5: f27602734f89ee74bf61f260242f6e96
+  md5_10: f27602734f
+  md5_5: f2760
+  md5_6: f27602
+  oomp_key: oomp_bcp53
+  oomp_key_extra: oomp_symbol_bcp53
+  oomp_key_full: oomp_symbol_bcp53_f27602
+  oomp_key_simple: bcp53
   owner_name: kicad
-  symbol_name: transistor_bjt_bcp53
+  symbol_name: bcp53
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

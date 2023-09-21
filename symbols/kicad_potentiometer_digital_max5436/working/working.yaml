@@ -1,3 +1,5 @@
+id: kicad_potentiometer_digital_max5436
+library: potentiometer_digital
 library_name: Potentiometer_Digital
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_potentiometer_digital_max5436/working
   oomp_src_flat: symbols_flat/kicad_potentiometer_digital_max5436/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_potentiometer_digital_max5436/working
-name: potentiometer_digital_max5436
+name: max5436
 oomp:
   library_name: potentiometer_digital
-  md5: 8469e4f9a8c42c08ac6a94cb5f8ef022
-  md5_10: 8469e4f9a8
-  md5_5: 8469e
-  md5_6: 8469e4
-  oomp_key: oomp_potentiometer_digital_max5436
-  oomp_key_extra: oomp_symbol_potentiometer_digital_max5436
-  oomp_key_full: oomp_symbol_potentiometer_digital_max5436_8469e4
-  oomp_key_simple: potentiometer_digital_max5436
+  md5: ae4667ab04c389b071db81e7ccfb2919
+  md5_10: ae4667ab04
+  md5_5: ae466
+  md5_6: ae4667
+  oomp_key: oomp_max5436
+  oomp_key_extra: oomp_symbol_max5436
+  oomp_key_full: oomp_symbol_max5436_ae4667
+  oomp_key_simple: max5436
   owner_name: kicad
-  symbol_name: potentiometer_digital_max5436
+  symbol_name: max5436
 oomp_key: oomp_kicad_potentiometer_digital_max5436
 oomp_key_simple: kicad_potentiometer_digital_max5436
 owner: kicad

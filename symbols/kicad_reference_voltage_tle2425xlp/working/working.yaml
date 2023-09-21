@@ -1,16 +1,20 @@
+id: kicad_reference_voltage_tle2425xlp
+library: reference_voltage
 library_name: Reference_Voltage
+name: tle2425xlp
 oomp:
   library_name: reference_voltage
-  md5: b117fc7104b4b2de4159901d801ee059
-  md5_10: b117fc7104
-  md5_5: b117f
-  md5_6: b117fc
-  oomp_key: oomp_reference_voltage_tle2425xlp
-  oomp_key_extra: oomp_symbol_reference_voltage_tle2425xlp
-  oomp_key_full: oomp_symbol_reference_voltage_tle2425xlp_b117fc
-  oomp_key_simple: reference_voltage_tle2425xlp
+  md5: 96026b737aaa2f55e6ba67d1e0018d8c
+  md5_10: 96026b737a
+  md5_5: '96026'
+  md5_6: 96026b
+  oomp_key: oomp_tle2425xlp
+  oomp_key_extra: oomp_symbol_tle2425xlp
+  oomp_key_full: oomp_symbol_tle2425xlp_96026b
+  oomp_key_simple: tle2425xlp
   owner_name: kicad
-  symbol_name: reference_voltage_tle2425xlp
+  symbol_name: tle2425xlp
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

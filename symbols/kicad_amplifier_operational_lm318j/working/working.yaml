@@ -1,3 +1,5 @@
+id: kicad_amplifier_operational_lm318j
+library: amplifier_operational
 library_name: Amplifier_Operational
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_operational_lm318j/working
   oomp_src_flat: symbols_flat/kicad_amplifier_operational_lm318j/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_operational_lm318j/working
-name: amplifier_operational_lm318j
+name: lm318j
 oomp:
   library_name: amplifier_operational
-  md5: 04b11a6bb7c83c7654e32feba8af3eb2
-  md5_10: 04b11a6bb7
-  md5_5: 04b11
-  md5_6: 04b11a
-  oomp_key: oomp_amplifier_operational_lm318j
-  oomp_key_extra: oomp_symbol_amplifier_operational_lm318j
-  oomp_key_full: oomp_symbol_amplifier_operational_lm318j_04b11a
-  oomp_key_simple: amplifier_operational_lm318j
+  md5: 72121e52bbc1b94eac48745d9c2a84f2
+  md5_10: 72121e52bb
+  md5_5: '72121'
+  md5_6: 72121e
+  oomp_key: oomp_lm318j
+  oomp_key_extra: oomp_symbol_lm318j
+  oomp_key_full: oomp_symbol_lm318j_72121e
+  oomp_key_simple: lm318j
   owner_name: kicad
-  symbol_name: amplifier_operational_lm318j
+  symbol_name: lm318j
 oomp_key: oomp_kicad_amplifier_operational_lm318j
 oomp_key_simple: kicad_amplifier_operational_lm318j
 owner: kicad

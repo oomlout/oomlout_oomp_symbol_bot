@@ -1,16 +1,20 @@
+id: kicad_relay_solidstate_fodm3052
+library: relay_solidstate
 library_name: Relay_SolidState
+name: fodm3052
 oomp:
   library_name: relay_solidstate
-  md5: 0db237c2187a7791a34f0324ca4b98e1
-  md5_10: 0db237c218
-  md5_5: 0db23
-  md5_6: 0db237
-  oomp_key: oomp_relay_solidstate_fodm3052
-  oomp_key_extra: oomp_symbol_relay_solidstate_fodm3052
-  oomp_key_full: oomp_symbol_relay_solidstate_fodm3052_0db237
-  oomp_key_simple: relay_solidstate_fodm3052
+  md5: a61c501718fcef38c1d5efa91b8ecf54
+  md5_10: a61c501718
+  md5_5: a61c5
+  md5_6: a61c50
+  oomp_key: oomp_fodm3052
+  oomp_key_extra: oomp_symbol_fodm3052
+  oomp_key_full: oomp_symbol_fodm3052_a61c50
+  oomp_key_simple: fodm3052
   owner_name: kicad
-  symbol_name: relay_solidstate_fodm3052
+  symbol_name: fodm3052
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

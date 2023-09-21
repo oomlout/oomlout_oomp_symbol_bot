@@ -1,16 +1,20 @@
+id: kicad_analog_adc_ads7868
+library: analog_adc
 library_name: Analog_ADC
+name: ads7868
 oomp:
   library_name: analog_adc
-  md5: 17ba4b3ffa3808a4f9480aa9c8a42779
-  md5_10: 17ba4b3ffa
-  md5_5: 17ba4
-  md5_6: 17ba4b
-  oomp_key: oomp_analog_adc_ads7868
-  oomp_key_extra: oomp_symbol_analog_adc_ads7868
-  oomp_key_full: oomp_symbol_analog_adc_ads7868_17ba4b
-  oomp_key_simple: analog_adc_ads7868
+  md5: efe4c5f852852d207fd7803c463f343f
+  md5_10: efe4c5f852
+  md5_5: efe4c
+  md5_6: efe4c5
+  oomp_key: oomp_ads7868
+  oomp_key_extra: oomp_symbol_ads7868
+  oomp_key_full: oomp_symbol_ads7868_efe4c5
+  oomp_key_simple: ads7868
   owner_name: kicad
-  symbol_name: analog_adc_ads7868
+  symbol_name: ads7868
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

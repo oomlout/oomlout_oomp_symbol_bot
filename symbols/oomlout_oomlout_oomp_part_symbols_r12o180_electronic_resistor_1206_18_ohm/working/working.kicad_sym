@@ -15,7 +15,7 @@
     (property "ki_keywords" "R res resistor" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "ki_description" "Resistor" (at 0 0 0)
+    (property "ki_description" "[electronic_resistor_1206_18_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_18_ohm/working)<br><br>[Uniroyal - 1206W4J0180T5E- not in jlc basic parts]()[Uniroyal - 1206W4F018-1T5E- jlc basic part]()[Yageo - RC1206JR-0718RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-0718RL)" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "ki_fp_filters" "R_*" (at 0 0 0)

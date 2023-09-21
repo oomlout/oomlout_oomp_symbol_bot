@@ -1,3 +1,5 @@
+id: kicad_power_management_tps26632rge
+library: power_management
 library_name: Power_Management
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_power_management_tps26632rge/working
   oomp_src_flat: symbols_flat/kicad_power_management_tps26632rge/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_management_tps26632rge/working
-name: power_management_tps26632rge
+name: tps26632rge
 oomp:
   library_name: power_management
-  md5: 084b1ce21c629a61465b36a5ba1d0030
-  md5_10: 084b1ce21c
-  md5_5: 084b1
-  md5_6: 084b1c
-  oomp_key: oomp_power_management_tps26632rge
-  oomp_key_extra: oomp_symbol_power_management_tps26632rge
-  oomp_key_full: oomp_symbol_power_management_tps26632rge_084b1c
-  oomp_key_simple: power_management_tps26632rge
+  md5: 98368ea32d4d7edc5fc6775fffe7fdb6
+  md5_10: 98368ea32d
+  md5_5: '98368'
+  md5_6: 98368e
+  oomp_key: oomp_tps26632rge
+  oomp_key_extra: oomp_symbol_tps26632rge
+  oomp_key_full: oomp_symbol_tps26632rge_98368e
+  oomp_key_simple: tps26632rge
   owner_name: kicad
-  symbol_name: power_management_tps26632rge
+  symbol_name: tps26632rge
 oomp_key: oomp_kicad_power_management_tps26632rge
 oomp_key_simple: kicad_power_management_tps26632rge
 owner: kicad

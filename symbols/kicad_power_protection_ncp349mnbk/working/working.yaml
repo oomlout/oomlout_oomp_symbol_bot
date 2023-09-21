@@ -1,16 +1,20 @@
+id: kicad_power_protection_ncp349mnbk
+library: power_protection
 library_name: Power_Protection
+name: ncp349mnbk
 oomp:
   library_name: power_protection
-  md5: 42d33f0deba5edea76c61357bb4f4f2f
-  md5_10: 42d33f0deb
-  md5_5: 42d33
-  md5_6: 42d33f
-  oomp_key: oomp_power_protection_ncp349mnbk
-  oomp_key_extra: oomp_symbol_power_protection_ncp349mnbk
-  oomp_key_full: oomp_symbol_power_protection_ncp349mnbk_42d33f
-  oomp_key_simple: power_protection_ncp349mnbk
+  md5: e4e407792627bc4eaee3026ac795caa5
+  md5_10: e4e4077926
+  md5_5: e4e40
+  md5_6: e4e407
+  oomp_key: oomp_ncp349mnbk
+  oomp_key_extra: oomp_symbol_ncp349mnbk
+  oomp_key_full: oomp_symbol_ncp349mnbk_e4e407
+  oomp_key_simple: ncp349mnbk
   owner_name: kicad
-  symbol_name: power_protection_ncp349mnbk
+  symbol_name: ncp349mnbk
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

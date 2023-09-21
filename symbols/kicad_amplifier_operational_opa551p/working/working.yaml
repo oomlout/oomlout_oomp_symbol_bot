@@ -1,3 +1,5 @@
+id: kicad_amplifier_operational_opa551p
+library: amplifier_operational
 library_name: Amplifier_Operational
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_operational_opa551p/working
   oomp_src_flat: symbols_flat/kicad_amplifier_operational_opa551p/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_operational_opa551p/working
-name: amplifier_operational_opa551p
+name: opa551p
 oomp:
   library_name: amplifier_operational
-  md5: bbba48e8814a17d23b4a32ef1ce56ea8
-  md5_10: bbba48e881
-  md5_5: bbba4
-  md5_6: bbba48
-  oomp_key: oomp_amplifier_operational_opa551p
-  oomp_key_extra: oomp_symbol_amplifier_operational_opa551p
-  oomp_key_full: oomp_symbol_amplifier_operational_opa551p_bbba48
-  oomp_key_simple: amplifier_operational_opa551p
+  md5: c0b04363a1539028cb1217ad0ca76a20
+  md5_10: c0b04363a1
+  md5_5: c0b04
+  md5_6: c0b043
+  oomp_key: oomp_opa551p
+  oomp_key_extra: oomp_symbol_opa551p
+  oomp_key_full: oomp_symbol_opa551p_c0b043
+  oomp_key_simple: opa551p
   owner_name: kicad
-  symbol_name: amplifier_operational_opa551p
+  symbol_name: opa551p
 oomp_key: oomp_kicad_amplifier_operational_opa551p
 oomp_key_simple: kicad_amplifier_operational_opa551p
 owner: kicad

@@ -1,16 +1,20 @@
+id: kicad_transistor_fet_ipdd60r190g7
+library: transistor_fet
 library_name: Transistor_FET
+name: ipdd60r190g7
 oomp:
   library_name: transistor_fet
-  md5: 200e6249cc0dfd7533e9cf230a4f196e
-  md5_10: 200e6249cc
-  md5_5: 200e6
-  md5_6: 200e62
-  oomp_key: oomp_transistor_fet_ipdd60r190g7
-  oomp_key_extra: oomp_symbol_transistor_fet_ipdd60r190g7
-  oomp_key_full: oomp_symbol_transistor_fet_ipdd60r190g7_200e62
-  oomp_key_simple: transistor_fet_ipdd60r190g7
+  md5: 52b286ed0490e91180f2d73afff82928
+  md5_10: 52b286ed04
+  md5_5: 52b28
+  md5_6: 52b286
+  oomp_key: oomp_ipdd60r190g7
+  oomp_key_extra: oomp_symbol_ipdd60r190g7
+  oomp_key_full: oomp_symbol_ipdd60r190g7_52b286
+  oomp_key_simple: ipdd60r190g7
   owner_name: kicad
-  symbol_name: transistor_fet_ipdd60r190g7
+  symbol_name: ipdd60r190g7
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

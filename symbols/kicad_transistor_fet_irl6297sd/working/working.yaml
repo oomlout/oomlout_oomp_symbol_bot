@@ -1,16 +1,20 @@
+id: kicad_transistor_fet_irl6297sd
+library: transistor_fet
 library_name: Transistor_FET
+name: irl6297sd
 oomp:
   library_name: transistor_fet
-  md5: a300b08eb74b26297a2657f14a11f24f
-  md5_10: a300b08eb7
-  md5_5: a300b
-  md5_6: a300b0
-  oomp_key: oomp_transistor_fet_irl6297sd
-  oomp_key_extra: oomp_symbol_transistor_fet_irl6297sd
-  oomp_key_full: oomp_symbol_transistor_fet_irl6297sd_a300b0
-  oomp_key_simple: transistor_fet_irl6297sd
+  md5: 48301458ee770ae51a26801b31f346b4
+  md5_10: 48301458ee
+  md5_5: '48301'
+  md5_6: '483014'
+  oomp_key: oomp_irl6297sd
+  oomp_key_extra: oomp_symbol_irl6297sd
+  oomp_key_full: oomp_symbol_irl6297sd_483014
+  oomp_key_simple: irl6297sd
   owner_name: kicad
-  symbol_name: transistor_fet_irl6297sd
+  symbol_name: irl6297sd
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_converter_acdc_hs_40005
+library: converter_acdc
 library_name: Converter_ACDC
+name: hs_40005
 oomp:
   library_name: converter_acdc
-  md5: 96935a12954b822e945ff859e14d3535
-  md5_10: 96935a1295
-  md5_5: '96935'
-  md5_6: 96935a
-  oomp_key: oomp_converter_acdc_hs_40005
-  oomp_key_extra: oomp_symbol_converter_acdc_hs_40005
-  oomp_key_full: oomp_symbol_converter_acdc_hs_40005_96935a
-  oomp_key_simple: converter_acdc_hs_40005
+  md5: 30c99dcb869b5d1e0a104f331fe15f0b
+  md5_10: 30c99dcb86
+  md5_5: 30c99
+  md5_6: 30c99d
+  oomp_key: oomp_hs_40005
+  oomp_key_extra: oomp_symbol_hs_40005
+  oomp_key_full: oomp_symbol_hs_40005_30c99d
+  oomp_key_simple: hs_40005
   owner_name: kicad
-  symbol_name: converter_acdc_hs_40005
+  symbol_name: hs_40005
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_amplifier_current_ina195
+library: amplifier_current
 library_name: Amplifier_Current
+name: ina195
 oomp:
   library_name: amplifier_current
-  md5: fd82cea919db07709cf47f135a96b176
-  md5_10: fd82cea919
-  md5_5: fd82c
-  md5_6: fd82ce
-  oomp_key: oomp_amplifier_current_ina195
-  oomp_key_extra: oomp_symbol_amplifier_current_ina195
-  oomp_key_full: oomp_symbol_amplifier_current_ina195_fd82ce
-  oomp_key_simple: amplifier_current_ina195
+  md5: d9d1439d26b397d48a834fd5b49f5747
+  md5_10: d9d1439d26
+  md5_5: d9d14
+  md5_6: d9d143
+  oomp_key: oomp_ina195
+  oomp_key_extra: oomp_symbol_ina195
+  oomp_key_full: oomp_symbol_ina195_d9d143
+  oomp_key_simple: ina195
   owner_name: kicad
-  symbol_name: amplifier_current_ina195
+  symbol_name: ina195
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

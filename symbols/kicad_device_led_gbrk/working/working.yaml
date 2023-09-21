@@ -1,3 +1,5 @@
+id: kicad_device_led_gbrk
+library: device
 library_name: Device
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_led_gbrk/working
   oomp_src_flat: symbols_flat/kicad_device_led_gbrk/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_led_gbrk/working
-name: device_led_gbrk
+name: led_gbrk
 oomp:
   library_name: device
-  md5: e9721b414213cba0e9e212b3711da04f
-  md5_10: e9721b4142
-  md5_5: e9721
-  md5_6: e9721b
-  oomp_key: oomp_device_led_gbrk
-  oomp_key_extra: oomp_symbol_device_led_gbrk
-  oomp_key_full: oomp_symbol_device_led_gbrk_e9721b
-  oomp_key_simple: device_led_gbrk
+  md5: 7698fec5e1a9a8019e51d0e794f4e1d8
+  md5_10: 7698fec5e1
+  md5_5: 7698f
+  md5_6: 7698fe
+  oomp_key: oomp_led_gbrk
+  oomp_key_extra: oomp_symbol_led_gbrk
+  oomp_key_full: oomp_symbol_led_gbrk_7698fe
+  oomp_key_simple: led_gbrk
   owner_name: kicad
-  symbol_name: device_led_gbrk
+  symbol_name: led_gbrk
 oomp_key: oomp_kicad_device_led_gbrk
 oomp_key_simple: kicad_device_led_gbrk
 owner: kicad

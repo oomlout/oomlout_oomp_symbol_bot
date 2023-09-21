@@ -1,3 +1,5 @@
+id: kicad_interface_ethernet_enc28j60x_ml
+library: interface_ethernet
 library_name: Interface_Ethernet
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_ethernet_enc28j60x_ml/working
   oomp_src_flat: symbols_flat/kicad_interface_ethernet_enc28j60x_ml/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_ethernet_enc28j60x_ml/working
-name: interface_ethernet_enc28j60x_ml
+name: enc28j60x_ml
 oomp:
   library_name: interface_ethernet
-  md5: 0e0d6d7a606201c6d8cc3b30973ce689
-  md5_10: 0e0d6d7a60
-  md5_5: 0e0d6
-  md5_6: 0e0d6d
-  oomp_key: oomp_interface_ethernet_enc28j60x_ml
-  oomp_key_extra: oomp_symbol_interface_ethernet_enc28j60x_ml
-  oomp_key_full: oomp_symbol_interface_ethernet_enc28j60x_ml_0e0d6d
-  oomp_key_simple: interface_ethernet_enc28j60x_ml
+  md5: 3baa32cd90cfacbf8bc375517127b000
+  md5_10: 3baa32cd90
+  md5_5: 3baa3
+  md5_6: 3baa32
+  oomp_key: oomp_enc28j60x_ml
+  oomp_key_extra: oomp_symbol_enc28j60x_ml
+  oomp_key_full: oomp_symbol_enc28j60x_ml_3baa32
+  oomp_key_simple: enc28j60x_ml
   owner_name: kicad
-  symbol_name: interface_ethernet_enc28j60x_ml
+  symbol_name: enc28j60x_ml
 oomp_key: oomp_kicad_interface_ethernet_enc28j60x_ml
 oomp_key_simple: kicad_interface_ethernet_enc28j60x_ml
 owner: kicad

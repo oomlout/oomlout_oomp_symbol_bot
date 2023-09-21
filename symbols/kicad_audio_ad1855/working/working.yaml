@@ -1,3 +1,5 @@
+id: kicad_audio_ad1855
+library: audio
 library_name: Audio
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_audio_ad1855/working
   oomp_src_flat: symbols_flat/kicad_audio_ad1855/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_audio_ad1855/working
-name: audio_ad1855
+name: ad1855
 oomp:
   library_name: audio
-  md5: 1b6240202973703f7b48e9658ef7f361
-  md5_10: 1b62402029
-  md5_5: 1b624
-  md5_6: 1b6240
-  oomp_key: oomp_audio_ad1855
-  oomp_key_extra: oomp_symbol_audio_ad1855
-  oomp_key_full: oomp_symbol_audio_ad1855_1b6240
-  oomp_key_simple: audio_ad1855
+  md5: acbf57d6ce261830e5caaaf0bc18d08b
+  md5_10: acbf57d6ce
+  md5_5: acbf5
+  md5_6: acbf57
+  oomp_key: oomp_ad1855
+  oomp_key_extra: oomp_symbol_ad1855
+  oomp_key_full: oomp_symbol_ad1855_acbf57
+  oomp_key_simple: ad1855
   owner_name: kicad
-  symbol_name: audio_ad1855
+  symbol_name: ad1855
 oomp_key: oomp_kicad_audio_ad1855
 oomp_key_simple: kicad_audio_ad1855
 owner: kicad

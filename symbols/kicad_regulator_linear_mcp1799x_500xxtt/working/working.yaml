@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_mcp1799x_500xxtt
+library: regulator_linear
 library_name: Regulator_Linear
+name: mcp1799x_500xxtt
 oomp:
   library_name: regulator_linear
-  md5: d3f8ce15adf3401702ba6163d5c71b30
-  md5_10: d3f8ce15ad
-  md5_5: d3f8c
-  md5_6: d3f8ce
-  oomp_key: oomp_regulator_linear_mcp1799x_500xxtt
-  oomp_key_extra: oomp_symbol_regulator_linear_mcp1799x_500xxtt
-  oomp_key_full: oomp_symbol_regulator_linear_mcp1799x_500xxtt_d3f8ce
-  oomp_key_simple: regulator_linear_mcp1799x_500xxtt
+  md5: e2b9ad000b3cbc7532f8289133d80373
+  md5_10: e2b9ad000b
+  md5_5: e2b9a
+  md5_6: e2b9ad
+  oomp_key: oomp_mcp1799x_500xxtt
+  oomp_key_extra: oomp_symbol_mcp1799x_500xxtt
+  oomp_key_full: oomp_symbol_mcp1799x_500xxtt_e2b9ad
+  oomp_key_simple: mcp1799x_500xxtt
   owner_name: kicad
-  symbol_name: regulator_linear_mcp1799x_500xxtt
+  symbol_name: mcp1799x_500xxtt
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,3 +1,5 @@
+id: kicad_device_d_dual_commoncathode_kaa
+library: device
 library_name: Device
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_d_dual_commoncathode_kaa/working
   oomp_src_flat: symbols_flat/kicad_device_d_dual_commoncathode_kaa/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_d_dual_commoncathode_kaa/working
-name: device_d_dual_commoncathode_kaa
+name: d_dual_commoncathode_kaa
 oomp:
   library_name: device
-  md5: c40d21d006dff42353c3e04aab48c0b4
-  md5_10: c40d21d006
-  md5_5: c40d2
-  md5_6: c40d21
-  oomp_key: oomp_device_d_dual_commoncathode_kaa
-  oomp_key_extra: oomp_symbol_device_d_dual_commoncathode_kaa
-  oomp_key_full: oomp_symbol_device_d_dual_commoncathode_kaa_c40d21
-  oomp_key_simple: device_d_dual_commoncathode_kaa
+  md5: 225e5a88af9cfe96b73d029a664a1019
+  md5_10: 225e5a88af
+  md5_5: 225e5
+  md5_6: 225e5a
+  oomp_key: oomp_d_dual_commoncathode_kaa
+  oomp_key_extra: oomp_symbol_d_dual_commoncathode_kaa
+  oomp_key_full: oomp_symbol_d_dual_commoncathode_kaa_225e5a
+  oomp_key_simple: d_dual_commoncathode_kaa
   owner_name: kicad
-  symbol_name: device_d_dual_commoncathode_kaa
+  symbol_name: d_dual_commoncathode_kaa
 oomp_key: oomp_kicad_device_d_dual_commoncathode_kaa
 oomp_key_simple: kicad_device_d_dual_commoncathode_kaa
 owner: kicad

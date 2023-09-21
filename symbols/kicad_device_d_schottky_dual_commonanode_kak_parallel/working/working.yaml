@@ -1,3 +1,5 @@
+id: kicad_device_d_schottky_dual_commonanode_kak_parallel
+library: device
 library_name: Device
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_d_schottky_dual_commonanode_kak_parallel/working
   oomp_src_flat: symbols_flat/kicad_device_d_schottky_dual_commonanode_kak_parallel/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_d_schottky_dual_commonanode_kak_parallel/working
-name: device_d_schottky_dual_commonanode_kak_parallel
+name: d_schottky_dual_commonanode_kak_parallel
 oomp:
   library_name: device
-  md5: 3c0b14bcc5aaddbcefe6bf2838b3b9fa
-  md5_10: 3c0b14bcc5
-  md5_5: 3c0b1
-  md5_6: 3c0b14
-  oomp_key: oomp_device_d_schottky_dual_commonanode_kak_parallel
-  oomp_key_extra: oomp_symbol_device_d_schottky_dual_commonanode_kak_parallel
-  oomp_key_full: oomp_symbol_device_d_schottky_dual_commonanode_kak_parallel_3c0b14
-  oomp_key_simple: device_d_schottky_dual_commonanode_kak_parallel
+  md5: 33674bc45b6c928a20892e55912dff6a
+  md5_10: 33674bc45b
+  md5_5: '33674'
+  md5_6: 33674b
+  oomp_key: oomp_d_schottky_dual_commonanode_kak_parallel
+  oomp_key_extra: oomp_symbol_d_schottky_dual_commonanode_kak_parallel
+  oomp_key_full: oomp_symbol_d_schottky_dual_commonanode_kak_parallel_33674b
+  oomp_key_simple: d_schottky_dual_commonanode_kak_parallel
   owner_name: kicad
-  symbol_name: device_d_schottky_dual_commonanode_kak_parallel
+  symbol_name: d_schottky_dual_commonanode_kak_parallel
 oomp_key: oomp_kicad_device_d_schottky_dual_commonanode_kak_parallel
 oomp_key_simple: kicad_device_d_schottky_dual_commonanode_kak_parallel
 owner: kicad

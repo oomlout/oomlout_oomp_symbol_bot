@@ -1,16 +1,20 @@
+id: kicad_driver_fet_mc33152
+library: driver_fet
 library_name: Driver_FET
+name: mc33152
 oomp:
   library_name: driver_fet
-  md5: b930be0da6e8f9d081f401c4f9e06fbc
-  md5_10: b930be0da6
-  md5_5: b930b
-  md5_6: b930be
-  oomp_key: oomp_driver_fet_mc33152
-  oomp_key_extra: oomp_symbol_driver_fet_mc33152
-  oomp_key_full: oomp_symbol_driver_fet_mc33152_b930be
-  oomp_key_simple: driver_fet_mc33152
+  md5: c8b7bc557c0edbba2732ac74a60a97bb
+  md5_10: c8b7bc557c
+  md5_5: c8b7b
+  md5_6: c8b7bc
+  oomp_key: oomp_mc33152
+  oomp_key_extra: oomp_symbol_mc33152
+  oomp_key_full: oomp_symbol_mc33152_c8b7bc
+  oomp_key_simple: mc33152
   owner_name: kicad
-  symbol_name: driver_fet_mc33152
+  symbol_name: mc33152
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

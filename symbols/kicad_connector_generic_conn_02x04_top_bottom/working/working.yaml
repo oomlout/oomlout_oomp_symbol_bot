@@ -1,3 +1,5 @@
+id: kicad_connector_generic_conn_02x04_top_bottom
+library: connector_generic
 library_name: Connector_Generic
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_generic_conn_02x04_top_bottom/working
   oomp_src_flat: symbols_flat/kicad_connector_generic_conn_02x04_top_bottom/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_generic_conn_02x04_top_bottom/working
-name: connector_generic_conn_02x04_top_bottom
+name: conn_02x04_top_bottom
 oomp:
   library_name: connector_generic
-  md5: 2e661bc17e3456230954550b5f6e7926
-  md5_10: 2e661bc17e
-  md5_5: 2e661
-  md5_6: 2e661b
-  oomp_key: oomp_connector_generic_conn_02x04_top_bottom
-  oomp_key_extra: oomp_symbol_connector_generic_conn_02x04_top_bottom
-  oomp_key_full: oomp_symbol_connector_generic_conn_02x04_top_bottom_2e661b
-  oomp_key_simple: connector_generic_conn_02x04_top_bottom
+  md5: 61e8b211f104ff23d44e708644a4a93f
+  md5_10: 61e8b211f1
+  md5_5: 61e8b
+  md5_6: 61e8b2
+  oomp_key: oomp_conn_02x04_top_bottom
+  oomp_key_extra: oomp_symbol_conn_02x04_top_bottom
+  oomp_key_full: oomp_symbol_conn_02x04_top_bottom_61e8b2
+  oomp_key_simple: conn_02x04_top_bottom
   owner_name: kicad
-  symbol_name: connector_generic_conn_02x04_top_bottom
+  symbol_name: conn_02x04_top_bottom
 oomp_key: oomp_kicad_connector_generic_conn_02x04_top_bottom
 oomp_key_simple: kicad_connector_generic_conn_02x04_top_bottom
 owner: kicad

@@ -1,3 +1,5 @@
+id: oomlout_oomlout_oomp_part_symbols_l_electronic_led_0201
+library: oomlout_oomp_part_symbols
 library_name: oomlout_oomp_part_symbols
 links:
   github_owner: oomlout
@@ -10,19 +12,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/oomlout_oomlout_oomp_part_symbols_l_electronic_led_0201/working
   oomp_src_flat: symbols_flat/oomlout_oomlout_oomp_part_symbols_l_electronic_led_0201/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/oomlout_oomlout_oomp_part_symbols_l_electronic_led_0201/working
-name: oomp_l_electronic_led_0201
+name: l_electronic_led_0201
 oomp:
   library_name: oomlout_oomp_part_symbols
-  md5: 34b96eaa5d7ec5a7da2b4aebfbe5bde0
-  md5_10: 34b96eaa5d
-  md5_5: 34b96
-  md5_6: 34b96e
-  oomp_key: oomp_oomp_l_electronic_led_0201
-  oomp_key_extra: oomp_symbol_oomp_l_electronic_led_0201
-  oomp_key_full: oomp_symbol_oomp_l_electronic_led_0201_34b96e
-  oomp_key_simple: oomp_l_electronic_led_0201
+  md5: 24b2cd550ecba8330311381158004b5e
+  md5_10: 24b2cd550e
+  md5_5: 24b2c
+  md5_6: 24b2cd
+  oomp_key: oomp_l_electronic_led_0201
+  oomp_key_extra: oomp_symbol_l_electronic_led_0201
+  oomp_key_full: oomp_symbol_l_electronic_led_0201_24b2cd
+  oomp_key_simple: l_electronic_led_0201
   owner_name: oomlout
-  symbol_name: oomp_l_electronic_led_0201
+  symbol_name: l_electronic_led_0201
 oomp_key: oomp_oomlout_oomlout_oomp_part_symbols_l_electronic_led_0201
 oomp_key_simple: oomlout_oomlout_oomp_part_symbols_l_electronic_led_0201
 owner: oomlout
@@ -110,9 +112,9 @@ repo_github:
     url: https://api.github.com/users/oomlout
   private: false
   pulls_url: https://api.github.com/repos/oomlout/oomlout_oomp_part_kicad_symbols/pulls{/number}
-  pushed_at: '2023-09-03T16:13:58Z'
+  pushed_at: '2023-09-17T15:55:00Z'
   releases_url: https://api.github.com/repos/oomlout/oomlout_oomp_part_kicad_symbols/releases{/id}
-  size: 218
+  size: 263
   ssh_url: git@github.com:oomlout/oomlout_oomp_part_kicad_symbols.git
   stargazers_count: 0
   stargazers_url: https://api.github.com/repos/oomlout/oomlout_oomp_part_kicad_symbols/stargazers

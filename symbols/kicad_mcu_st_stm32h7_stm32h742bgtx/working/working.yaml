@@ -1,16 +1,20 @@
+id: kicad_mcu_st_stm32h7_stm32h742bgtx
+library: mcu_st_stm32h7
 library_name: MCU_ST_STM32H7
+name: stm32h742bgtx
 oomp:
   library_name: mcu_st_stm32h7
-  md5: 19b5efea78b6e449d8def5a457158077
-  md5_10: 19b5efea78
-  md5_5: 19b5e
-  md5_6: 19b5ef
-  oomp_key: oomp_mcu_st_stm32h7_stm32h742bgtx
-  oomp_key_extra: oomp_symbol_mcu_st_stm32h7_stm32h742bgtx
-  oomp_key_full: oomp_symbol_mcu_st_stm32h7_stm32h742bgtx_19b5ef
-  oomp_key_simple: mcu_st_stm32h7_stm32h742bgtx
+  md5: e33d9ad1d957187c8100e00415f54351
+  md5_10: e33d9ad1d9
+  md5_5: e33d9
+  md5_6: e33d9a
+  oomp_key: oomp_stm32h742bgtx
+  oomp_key_extra: oomp_symbol_stm32h742bgtx
+  oomp_key_full: oomp_symbol_stm32h742bgtx_e33d9a
+  oomp_key_simple: stm32h742bgtx
   owner_name: kicad
-  symbol_name: mcu_st_stm32h7_stm32h742bgtx
+  symbol_name: stm32h742bgtx
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

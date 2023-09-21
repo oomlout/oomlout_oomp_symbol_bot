@@ -1,16 +1,20 @@
+id: kicad_regulator_controller_ncp1217ap133
+library: regulator_controller
 library_name: Regulator_Controller
+name: ncp1217ap133
 oomp:
   library_name: regulator_controller
-  md5: b547130ed0f36a0e861c2481cc84784a
-  md5_10: b547130ed0
-  md5_5: b5471
-  md5_6: b54713
-  oomp_key: oomp_regulator_controller_ncp1217ap133
-  oomp_key_extra: oomp_symbol_regulator_controller_ncp1217ap133
-  oomp_key_full: oomp_symbol_regulator_controller_ncp1217ap133_b54713
-  oomp_key_simple: regulator_controller_ncp1217ap133
+  md5: 40c24bf6391214b9264f87da06b0de1f
+  md5_10: 40c24bf639
+  md5_5: 40c24
+  md5_6: 40c24b
+  oomp_key: oomp_ncp1217ap133
+  oomp_key_extra: oomp_symbol_ncp1217ap133
+  oomp_key_full: oomp_symbol_ncp1217ap133_40c24b
+  oomp_key_simple: ncp1217ap133
   owner_name: kicad
-  symbol_name: regulator_controller_ncp1217ap133
+  symbol_name: ncp1217ap133
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_rf_module_esp32_s2_wrover_i
+library: rf_module
 library_name: RF_Module
+name: esp32_s2_wrover_i
 oomp:
   library_name: rf_module
-  md5: 008a964bce5c88c04c6b6437f047abfc
-  md5_10: 008a964bce
-  md5_5: 008a9
-  md5_6: 008a96
-  oomp_key: oomp_rf_module_esp32_s2_wrover_i
-  oomp_key_extra: oomp_symbol_rf_module_esp32_s2_wrover_i
-  oomp_key_full: oomp_symbol_rf_module_esp32_s2_wrover_i_008a96
-  oomp_key_simple: rf_module_esp32_s2_wrover_i
+  md5: d86f81b1ba21e5fd36996bbff1a02771
+  md5_10: d86f81b1ba
+  md5_5: d86f8
+  md5_6: d86f81
+  oomp_key: oomp_esp32_s2_wrover_i
+  oomp_key_extra: oomp_symbol_esp32_s2_wrover_i
+  oomp_key_full: oomp_symbol_esp32_s2_wrover_i_d86f81
+  oomp_key_simple: esp32_s2_wrover_i
   owner_name: kicad
-  symbol_name: rf_module_esp32_s2_wrover_i
+  symbol_name: esp32_s2_wrover_i
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

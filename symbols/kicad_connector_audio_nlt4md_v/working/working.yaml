@@ -1,16 +1,20 @@
+id: kicad_connector_audio_nlt4md_v
+library: connector_audio
 library_name: Connector_Audio
+name: nlt4md_v
 oomp:
   library_name: connector_audio
-  md5: b4d86c98272d66fa7b6295f7f323c0fb
-  md5_10: b4d86c9827
-  md5_5: b4d86
-  md5_6: b4d86c
-  oomp_key: oomp_connector_audio_nlt4md_v
-  oomp_key_extra: oomp_symbol_connector_audio_nlt4md_v
-  oomp_key_full: oomp_symbol_connector_audio_nlt4md_v_b4d86c
-  oomp_key_simple: connector_audio_nlt4md_v
+  md5: 2183abe204140168ebb0c48bce4ad887
+  md5_10: 2183abe204
+  md5_5: 2183a
+  md5_6: 2183ab
+  oomp_key: oomp_nlt4md_v
+  oomp_key_extra: oomp_symbol_nlt4md_v
+  oomp_key_full: oomp_symbol_nlt4md_v_2183ab
+  oomp_key_simple: nlt4md_v
   owner_name: kicad
-  symbol_name: connector_audio_nlt4md_v
+  symbol_name: nlt4md_v
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

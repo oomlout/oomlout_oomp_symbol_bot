@@ -1,3 +1,5 @@
+id: kicad_device_battery
+library: device
 library_name: Device
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_battery/working
   oomp_src_flat: symbols_flat/kicad_device_battery/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_battery/working
-name: device_battery
+name: battery
 oomp:
   library_name: device
-  md5: 2381d2c86a0d4afe2d780d09d23f87cf
-  md5_10: 2381d2c86a
-  md5_5: 2381d
-  md5_6: 2381d2
-  oomp_key: oomp_device_battery
-  oomp_key_extra: oomp_symbol_device_battery
-  oomp_key_full: oomp_symbol_device_battery_2381d2
-  oomp_key_simple: device_battery
+  md5: 20c1d18791a246001f5df7867d4e6bf5
+  md5_10: 20c1d18791
+  md5_5: 20c1d
+  md5_6: 20c1d1
+  oomp_key: oomp_battery
+  oomp_key_extra: oomp_symbol_battery
+  oomp_key_full: oomp_symbol_battery_20c1d1
+  oomp_key_simple: battery
   owner_name: kicad
-  symbol_name: device_battery
+  symbol_name: battery
 oomp_key: oomp_kicad_device_battery
 oomp_key_simple: kicad_device_battery
 owner: kicad

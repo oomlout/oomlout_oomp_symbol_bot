@@ -1,16 +1,20 @@
+id: kicad_transistor_fet_irfi4020h
+library: transistor_fet
 library_name: Transistor_FET
+name: irfi4020h
 oomp:
   library_name: transistor_fet
-  md5: 1746d35822391e4bb7e9bb1633cc5602
-  md5_10: 1746d35822
-  md5_5: 1746d
-  md5_6: 1746d3
-  oomp_key: oomp_transistor_fet_irfi4020h
-  oomp_key_extra: oomp_symbol_transistor_fet_irfi4020h
-  oomp_key_full: oomp_symbol_transistor_fet_irfi4020h_1746d3
-  oomp_key_simple: transistor_fet_irfi4020h
+  md5: 18bd4db7e11265d77e572c7041cef735
+  md5_10: 18bd4db7e1
+  md5_5: 18bd4
+  md5_6: 18bd4d
+  oomp_key: oomp_irfi4020h
+  oomp_key_extra: oomp_symbol_irfi4020h
+  oomp_key_full: oomp_symbol_irfi4020h_18bd4d
+  oomp_key_simple: irfi4020h
   owner_name: kicad
-  symbol_name: transistor_fet_irfi4020h
+  symbol_name: irfi4020h
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

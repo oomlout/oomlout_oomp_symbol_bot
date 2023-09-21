@@ -1,16 +1,20 @@
+id: kicad_rf_filter_bfcn_3010
+library: rf_filter
 library_name: RF_Filter
+name: bfcn_3010
 oomp:
   library_name: rf_filter
-  md5: f55af0daa76468c8c4b96e7d47dd90fa
-  md5_10: f55af0daa7
-  md5_5: f55af
-  md5_6: f55af0
-  oomp_key: oomp_rf_filter_bfcn_3010
-  oomp_key_extra: oomp_symbol_rf_filter_bfcn_3010
-  oomp_key_full: oomp_symbol_rf_filter_bfcn_3010_f55af0
-  oomp_key_simple: rf_filter_bfcn_3010
+  md5: b29e778fd7cadfd74a2c4e740066575f
+  md5_10: b29e778fd7
+  md5_5: b29e7
+  md5_6: b29e77
+  oomp_key: oomp_bfcn_3010
+  oomp_key_extra: oomp_symbol_bfcn_3010
+  oomp_key_full: oomp_symbol_bfcn_3010_b29e77
+  oomp_key_simple: bfcn_3010
   owner_name: kicad
-  symbol_name: rf_filter_bfcn_3010
+  symbol_name: bfcn_3010
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

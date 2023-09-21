@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_tc1055
+library: regulator_linear
 library_name: Regulator_Linear
+name: tc1055
 oomp:
   library_name: regulator_linear
-  md5: 8d164415dea076dc658e1dfe8cfd1df9
-  md5_10: 8d164415de
-  md5_5: 8d164
-  md5_6: 8d1644
-  oomp_key: oomp_regulator_linear_tc1055
-  oomp_key_extra: oomp_symbol_regulator_linear_tc1055
-  oomp_key_full: oomp_symbol_regulator_linear_tc1055_8d1644
-  oomp_key_simple: regulator_linear_tc1055
+  md5: 3e3360dd935d9f44d074803f5e44977a
+  md5_10: 3e3360dd93
+  md5_5: 3e336
+  md5_6: 3e3360
+  oomp_key: oomp_tc1055
+  oomp_key_extra: oomp_symbol_tc1055
+  oomp_key_full: oomp_symbol_tc1055_3e3360
+  oomp_key_simple: tc1055
   owner_name: kicad
-  symbol_name: regulator_linear_tc1055
+  symbol_name: tc1055
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

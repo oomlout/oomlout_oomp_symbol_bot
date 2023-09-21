@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_nid60s24_15
+library: regulator_switching
 library_name: Regulator_Switching
+name: nid60s24_15
 oomp:
   library_name: regulator_switching
-  md5: 92922ffd2f53b00bc1bb1e9242e82254
-  md5_10: 92922ffd2f
-  md5_5: '92922'
-  md5_6: 92922f
-  oomp_key: oomp_regulator_switching_nid60s24_15
-  oomp_key_extra: oomp_symbol_regulator_switching_nid60s24_15
-  oomp_key_full: oomp_symbol_regulator_switching_nid60s24_15_92922f
-  oomp_key_simple: regulator_switching_nid60s24_15
+  md5: 675e47743f1fa997003d34f83ee33be0
+  md5_10: 675e47743f
+  md5_5: 675e4
+  md5_6: 675e47
+  oomp_key: oomp_nid60s24_15
+  oomp_key_extra: oomp_symbol_nid60s24_15
+  oomp_key_full: oomp_symbol_nid60s24_15_675e47
+  oomp_key_simple: nid60s24_15
   owner_name: kicad
-  symbol_name: regulator_switching_nid60s24_15
+  symbol_name: nid60s24_15
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

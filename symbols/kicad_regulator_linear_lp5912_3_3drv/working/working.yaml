@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_lp5912_3_3drv
+library: regulator_linear
 library_name: Regulator_Linear
+name: lp5912_3_3drv
 oomp:
   library_name: regulator_linear
-  md5: 5a01d9c94ed1859c8e62add326219cb7
-  md5_10: 5a01d9c94e
-  md5_5: 5a01d
-  md5_6: 5a01d9
-  oomp_key: oomp_regulator_linear_lp5912_3_3drv
-  oomp_key_extra: oomp_symbol_regulator_linear_lp5912_3_3drv
-  oomp_key_full: oomp_symbol_regulator_linear_lp5912_3_3drv_5a01d9
-  oomp_key_simple: regulator_linear_lp5912_3_3drv
+  md5: 6e00ea7e045443df23450da96693bbd4
+  md5_10: 6e00ea7e04
+  md5_5: 6e00e
+  md5_6: 6e00ea
+  oomp_key: oomp_lp5912_3_3drv
+  oomp_key_extra: oomp_symbol_lp5912_3_3drv
+  oomp_key_full: oomp_symbol_lp5912_3_3drv_6e00ea
+  oomp_key_simple: lp5912_3_3drv
   owner_name: kicad
-  symbol_name: regulator_linear_lp5912_3_3drv
+  symbol_name: lp5912_3_3drv
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_relay_solidstate_s212s01
+library: relay_solidstate
 library_name: Relay_SolidState
+name: s212s01
 oomp:
   library_name: relay_solidstate
-  md5: 75e95ed467f4c2d621595191b0b0b41c
-  md5_10: 75e95ed467
-  md5_5: 75e95
-  md5_6: 75e95e
-  oomp_key: oomp_relay_solidstate_s212s01
-  oomp_key_extra: oomp_symbol_relay_solidstate_s212s01
-  oomp_key_full: oomp_symbol_relay_solidstate_s212s01_75e95e
-  oomp_key_simple: relay_solidstate_s212s01
+  md5: 8a431fbf9cf29db72ce87aed30a147ac
+  md5_10: 8a431fbf9c
+  md5_5: 8a431
+  md5_6: 8a431f
+  oomp_key: oomp_s212s01
+  oomp_key_extra: oomp_symbol_s212s01
+  oomp_key_full: oomp_symbol_s212s01_8a431f
+  oomp_key_simple: s212s01
   owner_name: kicad
-  symbol_name: relay_solidstate_s212s01
+  symbol_name: s212s01
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

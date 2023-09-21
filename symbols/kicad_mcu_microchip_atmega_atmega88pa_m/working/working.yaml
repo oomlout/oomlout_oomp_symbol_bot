@@ -1,16 +1,20 @@
+id: kicad_mcu_microchip_atmega_atmega88pa_m
+library: mcu_microchip_atmega
 library_name: MCU_Microchip_ATmega
+name: atmega88pa_m
 oomp:
   library_name: mcu_microchip_atmega
-  md5: 141ee23228c0af0516b1db37f01c8a4a
-  md5_10: 141ee23228
-  md5_5: 141ee
-  md5_6: 141ee2
-  oomp_key: oomp_mcu_microchip_atmega_atmega88pa_m
-  oomp_key_extra: oomp_symbol_mcu_microchip_atmega_atmega88pa_m
-  oomp_key_full: oomp_symbol_mcu_microchip_atmega_atmega88pa_m_141ee2
-  oomp_key_simple: mcu_microchip_atmega_atmega88pa_m
+  md5: 76b16209aa54b64df975b2f2b3ffd247
+  md5_10: 76b16209aa
+  md5_5: 76b16
+  md5_6: 76b162
+  oomp_key: oomp_atmega88pa_m
+  oomp_key_extra: oomp_symbol_atmega88pa_m
+  oomp_key_full: oomp_symbol_atmega88pa_m_76b162
+  oomp_key_simple: atmega88pa_m
   owner_name: kicad
-  symbol_name: mcu_microchip_atmega_atmega88pa_m
+  symbol_name: atmega88pa_m
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

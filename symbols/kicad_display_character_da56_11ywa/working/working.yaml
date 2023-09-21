@@ -1,16 +1,20 @@
+id: kicad_display_character_da56_11ywa
+library: display_character
 library_name: Display_Character
+name: da56_11ywa
 oomp:
   library_name: display_character
-  md5: b8653d4a09541a89852c9d8d22296720
-  md5_10: b8653d4a09
-  md5_5: b8653
-  md5_6: b8653d
-  oomp_key: oomp_display_character_da56_11ywa
-  oomp_key_extra: oomp_symbol_display_character_da56_11ywa
-  oomp_key_full: oomp_symbol_display_character_da56_11ywa_b8653d
-  oomp_key_simple: display_character_da56_11ywa
+  md5: 54916b7fe5f09468129b327a1a73177d
+  md5_10: 54916b7fe5
+  md5_5: '54916'
+  md5_6: 54916b
+  oomp_key: oomp_da56_11ywa
+  oomp_key_extra: oomp_symbol_da56_11ywa
+  oomp_key_full: oomp_symbol_da56_11ywa_54916b
+  oomp_key_simple: da56_11ywa
   owner_name: kicad
-  symbol_name: display_character_da56_11ywa
+  symbol_name: da56_11ywa
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

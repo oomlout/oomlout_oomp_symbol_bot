@@ -1,3 +1,5 @@
+id: kicad_battery_management_mc34673
+library: battery_management
 library_name: Battery_Management
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_battery_management_mc34673/working
   oomp_src_flat: symbols_flat/kicad_battery_management_mc34673/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_battery_management_mc34673/working
-name: battery_management_mc34673
+name: mc34673
 oomp:
   library_name: battery_management
-  md5: 57bdf6d458777aceba83c3e81e44fe18
-  md5_10: 57bdf6d458
-  md5_5: 57bdf
-  md5_6: 57bdf6
-  oomp_key: oomp_battery_management_mc34673
-  oomp_key_extra: oomp_symbol_battery_management_mc34673
-  oomp_key_full: oomp_symbol_battery_management_mc34673_57bdf6
-  oomp_key_simple: battery_management_mc34673
+  md5: 32711fa365abc6bd141a49e8238aedc3
+  md5_10: 32711fa365
+  md5_5: '32711'
+  md5_6: 32711f
+  oomp_key: oomp_mc34673
+  oomp_key_extra: oomp_symbol_mc34673
+  oomp_key_full: oomp_symbol_mc34673_32711f
+  oomp_key_simple: mc34673
   owner_name: kicad
-  symbol_name: battery_management_mc34673
+  symbol_name: mc34673
 oomp_key: oomp_kicad_battery_management_mc34673
 oomp_key_simple: kicad_battery_management_mc34673
 owner: kicad

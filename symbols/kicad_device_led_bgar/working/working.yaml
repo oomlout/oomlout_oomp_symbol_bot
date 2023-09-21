@@ -1,3 +1,5 @@
+id: kicad_device_led_bgar
+library: device
 library_name: Device
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_led_bgar/working
   oomp_src_flat: symbols_flat/kicad_device_led_bgar/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_led_bgar/working
-name: device_led_bgar
+name: led_bgar
 oomp:
   library_name: device
-  md5: 78603e229223fc39b6657fdf0fde1ee2
-  md5_10: 78603e2292
-  md5_5: '78603'
-  md5_6: 78603e
-  oomp_key: oomp_device_led_bgar
-  oomp_key_extra: oomp_symbol_device_led_bgar
-  oomp_key_full: oomp_symbol_device_led_bgar_78603e
-  oomp_key_simple: device_led_bgar
+  md5: e0c12dc2a3d5ed3cd5e6a2a69c2c39bd
+  md5_10: e0c12dc2a3
+  md5_5: e0c12
+  md5_6: e0c12d
+  oomp_key: oomp_led_bgar
+  oomp_key_extra: oomp_symbol_led_bgar
+  oomp_key_full: oomp_symbol_led_bgar_e0c12d
+  oomp_key_simple: led_bgar
   owner_name: kicad
-  symbol_name: device_led_bgar
+  symbol_name: led_bgar
 oomp_key: oomp_kicad_device_led_bgar
 oomp_key_simple: kicad_device_led_bgar
 owner: kicad

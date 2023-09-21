@@ -1,3 +1,5 @@
+id: kicad_mcu_microchip_attiny_attiny25v_10m
+library: mcu_microchip_attiny
 library_name: MCU_Microchip_ATtiny
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_microchip_attiny_attiny25v_10m/working
   oomp_src_flat: symbols_flat/kicad_mcu_microchip_attiny_attiny25v_10m/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_microchip_attiny_attiny25v_10m/working
-name: mcu_microchip_attiny_attiny25v_10m
+name: attiny25v_10m
 oomp:
   library_name: mcu_microchip_attiny
-  md5: 81fdbbcce8ca9949a556e7efd94942be
-  md5_10: 81fdbbcce8
-  md5_5: 81fdb
-  md5_6: 81fdbb
-  oomp_key: oomp_mcu_microchip_attiny_attiny25v_10m
-  oomp_key_extra: oomp_symbol_mcu_microchip_attiny_attiny25v_10m
-  oomp_key_full: oomp_symbol_mcu_microchip_attiny_attiny25v_10m_81fdbb
-  oomp_key_simple: mcu_microchip_attiny_attiny25v_10m
+  md5: c74b9d254ea84d1767918fd8e33b05e0
+  md5_10: c74b9d254e
+  md5_5: c74b9
+  md5_6: c74b9d
+  oomp_key: oomp_attiny25v_10m
+  oomp_key_extra: oomp_symbol_attiny25v_10m
+  oomp_key_full: oomp_symbol_attiny25v_10m_c74b9d
+  oomp_key_simple: attiny25v_10m
   owner_name: kicad
-  symbol_name: mcu_microchip_attiny_attiny25v_10m
+  symbol_name: attiny25v_10m
 oomp_key: oomp_kicad_mcu_microchip_attiny_attiny25v_10m
 oomp_key_simple: kicad_mcu_microchip_attiny_attiny25v_10m
 owner: kicad

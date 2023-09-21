@@ -1,16 +1,20 @@
+id: kicad_rf_filter_hfcn_1320
+library: rf_filter
 library_name: RF_Filter
+name: hfcn_1320
 oomp:
   library_name: rf_filter
-  md5: b03ce4cc8723f4bee6a57d1f71623386
-  md5_10: b03ce4cc87
-  md5_5: b03ce
-  md5_6: b03ce4
-  oomp_key: oomp_rf_filter_hfcn_1320
-  oomp_key_extra: oomp_symbol_rf_filter_hfcn_1320
-  oomp_key_full: oomp_symbol_rf_filter_hfcn_1320_b03ce4
-  oomp_key_simple: rf_filter_hfcn_1320
+  md5: 88e2cc1a2beca43a5b7d368f7cd1d5c3
+  md5_10: 88e2cc1a2b
+  md5_5: 88e2c
+  md5_6: 88e2cc
+  oomp_key: oomp_hfcn_1320
+  oomp_key_extra: oomp_symbol_hfcn_1320
+  oomp_key_full: oomp_symbol_hfcn_1320_88e2cc
+  oomp_key_simple: hfcn_1320
   owner_name: kicad
-  symbol_name: rf_filter_hfcn_1320
+  symbol_name: hfcn_1320
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

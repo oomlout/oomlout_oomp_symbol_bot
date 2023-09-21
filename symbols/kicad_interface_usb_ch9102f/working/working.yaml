@@ -1,3 +1,5 @@
+id: kicad_interface_usb_ch9102f
+library: interface_usb
 library_name: Interface_USB
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_usb_ch9102f/working
   oomp_src_flat: symbols_flat/kicad_interface_usb_ch9102f/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_usb_ch9102f/working
-name: interface_usb_ch9102f
+name: ch9102f
 oomp:
   library_name: interface_usb
-  md5: ff5f000b9d945ea6537542f58b472f51
-  md5_10: ff5f000b9d
-  md5_5: ff5f0
-  md5_6: ff5f00
-  oomp_key: oomp_interface_usb_ch9102f
-  oomp_key_extra: oomp_symbol_interface_usb_ch9102f
-  oomp_key_full: oomp_symbol_interface_usb_ch9102f_ff5f00
-  oomp_key_simple: interface_usb_ch9102f
+  md5: eee025ab7c741cdbef2aed1e80e4d271
+  md5_10: eee025ab7c
+  md5_5: eee02
+  md5_6: eee025
+  oomp_key: oomp_ch9102f
+  oomp_key_extra: oomp_symbol_ch9102f
+  oomp_key_full: oomp_symbol_ch9102f_eee025
+  oomp_key_simple: ch9102f
   owner_name: kicad
-  symbol_name: interface_usb_ch9102f
+  symbol_name: ch9102f
 oomp_key: oomp_kicad_interface_usb_ch9102f
 oomp_key_simple: kicad_interface_usb_ch9102f
 owner: kicad

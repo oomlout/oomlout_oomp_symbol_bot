@@ -1,3 +1,5 @@
+id: kicad_regulator_linear_ka378r05
+library: regulator_linear
 library_name: Regulator_Linear
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_linear_ka378r05/working
   oomp_src_flat: symbols_flat/kicad_regulator_linear_ka378r05/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_linear_ka378r05/working
-name: regulator_linear_ka378r05
+name: ka378r05
 oomp:
   library_name: regulator_linear
-  md5: 2500bd70dda291bf745bf6e463642b68
-  md5_10: 2500bd70dd
-  md5_5: 2500b
-  md5_6: 2500bd
-  oomp_key: oomp_regulator_linear_ka378r05
-  oomp_key_extra: oomp_symbol_regulator_linear_ka378r05
-  oomp_key_full: oomp_symbol_regulator_linear_ka378r05_2500bd
-  oomp_key_simple: regulator_linear_ka378r05
+  md5: c676624569154f77cc19bddb42d8b403
+  md5_10: c676624569
+  md5_5: c6766
+  md5_6: c67662
+  oomp_key: oomp_ka378r05
+  oomp_key_extra: oomp_symbol_ka378r05
+  oomp_key_full: oomp_symbol_ka378r05_c67662
+  oomp_key_simple: ka378r05
   owner_name: kicad
-  symbol_name: regulator_linear_ka378r05
+  symbol_name: ka378r05
 oomp_key: oomp_kicad_regulator_linear_ka378r05
 oomp_key_simple: kicad_regulator_linear_ka378r05
 owner: kicad

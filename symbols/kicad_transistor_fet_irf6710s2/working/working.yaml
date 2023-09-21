@@ -1,3 +1,5 @@
+id: kicad_transistor_fet_irf6710s2
+library: transistor_fet
 library_name: Transistor_FET
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_transistor_fet_irf6710s2/working
   oomp_src_flat: symbols_flat/kicad_transistor_fet_irf6710s2/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_transistor_fet_irf6710s2/working
-name: transistor_fet_irf6710s2
+name: irf6710s2
 oomp:
   library_name: transistor_fet
-  md5: 0ed2c320d6693c96ffb811c073609bec
-  md5_10: 0ed2c320d6
-  md5_5: 0ed2c
-  md5_6: 0ed2c3
-  oomp_key: oomp_transistor_fet_irf6710s2
-  oomp_key_extra: oomp_symbol_transistor_fet_irf6710s2
-  oomp_key_full: oomp_symbol_transistor_fet_irf6710s2_0ed2c3
-  oomp_key_simple: transistor_fet_irf6710s2
+  md5: d64430b65a3dc5ce3e3b100e4793ce16
+  md5_10: d64430b65a
+  md5_5: d6443
+  md5_6: d64430
+  oomp_key: oomp_irf6710s2
+  oomp_key_extra: oomp_symbol_irf6710s2
+  oomp_key_full: oomp_symbol_irf6710s2_d64430
+  oomp_key_simple: irf6710s2
   owner_name: kicad
-  symbol_name: transistor_fet_irf6710s2
+  symbol_name: irf6710s2
 oomp_key: oomp_kicad_transistor_fet_irf6710s2
 oomp_key_simple: kicad_transistor_fet_irf6710s2
 owner: kicad

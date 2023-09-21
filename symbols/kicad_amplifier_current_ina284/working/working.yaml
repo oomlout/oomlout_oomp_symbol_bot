@@ -1,16 +1,20 @@
+id: kicad_amplifier_current_ina284
+library: amplifier_current
 library_name: Amplifier_Current
+name: ina284
 oomp:
   library_name: amplifier_current
-  md5: a353e390b811364f3bd45b1ce441bf76
-  md5_10: a353e390b8
-  md5_5: a353e
-  md5_6: a353e3
-  oomp_key: oomp_amplifier_current_ina284
-  oomp_key_extra: oomp_symbol_amplifier_current_ina284
-  oomp_key_full: oomp_symbol_amplifier_current_ina284_a353e3
-  oomp_key_simple: amplifier_current_ina284
+  md5: 9468f1f1e66666741fb4ad9570629b4b
+  md5_10: 9468f1f1e6
+  md5_5: 9468f
+  md5_6: 9468f1
+  oomp_key: oomp_ina284
+  oomp_key_extra: oomp_symbol_ina284
+  oomp_key_full: oomp_symbol_ina284_9468f1
+  oomp_key_simple: ina284
   owner_name: kicad
-  symbol_name: amplifier_current_ina284
+  symbol_name: ina284
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

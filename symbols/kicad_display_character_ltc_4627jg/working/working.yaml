@@ -1,3 +1,5 @@
+id: kicad_display_character_ltc_4627jg
+library: display_character
 library_name: Display_Character
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_display_character_ltc_4627jg/working
   oomp_src_flat: symbols_flat/kicad_display_character_ltc_4627jg/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_display_character_ltc_4627jg/working
-name: display_character_ltc_4627jg
+name: ltc_4627jg
 oomp:
   library_name: display_character
-  md5: 65ae1256a36fd69f7d535d3e6f98bd84
-  md5_10: 65ae1256a3
-  md5_5: 65ae1
-  md5_6: 65ae12
-  oomp_key: oomp_display_character_ltc_4627jg
-  oomp_key_extra: oomp_symbol_display_character_ltc_4627jg
-  oomp_key_full: oomp_symbol_display_character_ltc_4627jg_65ae12
-  oomp_key_simple: display_character_ltc_4627jg
+  md5: 80012dade5f6ec5089c42a7a99ad50cf
+  md5_10: 80012dade5
+  md5_5: '80012'
+  md5_6: 80012d
+  oomp_key: oomp_ltc_4627jg
+  oomp_key_extra: oomp_symbol_ltc_4627jg
+  oomp_key_full: oomp_symbol_ltc_4627jg_80012d
+  oomp_key_simple: ltc_4627jg
   owner_name: kicad
-  symbol_name: display_character_ltc_4627jg
+  symbol_name: ltc_4627jg
 oomp_key: oomp_kicad_display_character_ltc_4627jg
 oomp_key_simple: kicad_display_character_ltc_4627jg
 owner: kicad

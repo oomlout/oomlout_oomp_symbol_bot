@@ -1,3 +1,5 @@
+id: kicad_regulator_switching_xl4015
+library: regulator_switching
 library_name: Regulator_Switching
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_xl4015/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_xl4015/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_xl4015/working
-name: regulator_switching_xl4015
+name: xl4015
 oomp:
   library_name: regulator_switching
-  md5: ac5628d202d036c89e31cbf756fd117e
-  md5_10: ac5628d202
-  md5_5: ac562
-  md5_6: ac5628
-  oomp_key: oomp_regulator_switching_xl4015
-  oomp_key_extra: oomp_symbol_regulator_switching_xl4015
-  oomp_key_full: oomp_symbol_regulator_switching_xl4015_ac5628
-  oomp_key_simple: regulator_switching_xl4015
+  md5: f4668367ff831dffb851ab64522727b2
+  md5_10: f4668367ff
+  md5_5: f4668
+  md5_6: f46683
+  oomp_key: oomp_xl4015
+  oomp_key_extra: oomp_symbol_xl4015
+  oomp_key_full: oomp_symbol_xl4015_f46683
+  oomp_key_simple: xl4015
   owner_name: kicad
-  symbol_name: regulator_switching_xl4015
+  symbol_name: xl4015
 oomp_key: oomp_kicad_regulator_switching_xl4015
 oomp_key_simple: kicad_regulator_switching_xl4015
 owner: kicad

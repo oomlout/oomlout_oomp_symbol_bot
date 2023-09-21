@@ -1,3 +1,5 @@
+id: kicad_regulator_switching_lt3748xms
+library: regulator_switching
 library_name: Regulator_Switching
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_lt3748xms/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_lt3748xms/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_lt3748xms/working
-name: regulator_switching_lt3748xms
+name: lt3748xms
 oomp:
   library_name: regulator_switching
-  md5: d341ce2a59e788a5365f2ab30dde69df
-  md5_10: d341ce2a59
-  md5_5: d341c
-  md5_6: d341ce
-  oomp_key: oomp_regulator_switching_lt3748xms
-  oomp_key_extra: oomp_symbol_regulator_switching_lt3748xms
-  oomp_key_full: oomp_symbol_regulator_switching_lt3748xms_d341ce
-  oomp_key_simple: regulator_switching_lt3748xms
+  md5: 101ca5dfe1f3de98cfdf02570c0ec5c3
+  md5_10: 101ca5dfe1
+  md5_5: 101ca
+  md5_6: 101ca5
+  oomp_key: oomp_lt3748xms
+  oomp_key_extra: oomp_symbol_lt3748xms
+  oomp_key_full: oomp_symbol_lt3748xms_101ca5
+  oomp_key_simple: lt3748xms
   owner_name: kicad
-  symbol_name: regulator_switching_lt3748xms
+  symbol_name: lt3748xms
 oomp_key: oomp_kicad_regulator_switching_lt3748xms
 oomp_key_simple: kicad_regulator_switching_lt3748xms
 owner: kicad

@@ -1,16 +1,20 @@
+id: kicad_power_protection_zen098v130a24ls
+library: power_protection
 library_name: Power_Protection
+name: zen098v130a24ls
 oomp:
   library_name: power_protection
-  md5: 0c8856da98140c95192fe1d43feb6cc5
-  md5_10: 0c8856da98
-  md5_5: 0c885
-  md5_6: 0c8856
-  oomp_key: oomp_power_protection_zen098v130a24ls
-  oomp_key_extra: oomp_symbol_power_protection_zen098v130a24ls
-  oomp_key_full: oomp_symbol_power_protection_zen098v130a24ls_0c8856
-  oomp_key_simple: power_protection_zen098v130a24ls
+  md5: 43f66bcde02c069928087f0b0af84599
+  md5_10: 43f66bcde0
+  md5_5: 43f66
+  md5_6: 43f66b
+  oomp_key: oomp_zen098v130a24ls
+  oomp_key_extra: oomp_symbol_zen098v130a24ls
+  oomp_key_full: oomp_symbol_zen098v130a24ls_43f66b
+  oomp_key_simple: zen098v130a24ls
   owner_name: kicad
-  symbol_name: power_protection_zen098v130a24ls
+  symbol_name: zen098v130a24ls
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

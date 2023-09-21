@@ -1,16 +1,20 @@
+id: kicad_converter_dcdc_itx0524sa
+library: converter_dcdc
 library_name: Converter_DCDC
+name: itx0524sa
 oomp:
   library_name: converter_dcdc
-  md5: 926798ea92cf17919dc675b0ee1f72d9
-  md5_10: 926798ea92
-  md5_5: '92679'
-  md5_6: '926798'
-  oomp_key: oomp_converter_dcdc_itx0524sa
-  oomp_key_extra: oomp_symbol_converter_dcdc_itx0524sa
-  oomp_key_full: oomp_symbol_converter_dcdc_itx0524sa_926798
-  oomp_key_simple: converter_dcdc_itx0524sa
+  md5: 6f0ade0eb5feed3c53358fc5c7d46ee3
+  md5_10: 6f0ade0eb5
+  md5_5: 6f0ad
+  md5_6: 6f0ade
+  oomp_key: oomp_itx0524sa
+  oomp_key_extra: oomp_symbol_itx0524sa
+  oomp_key_full: oomp_symbol_itx0524sa_6f0ade
+  oomp_key_simple: itx0524sa
   owner_name: kicad
-  symbol_name: converter_dcdc_itx0524sa
+  symbol_name: itx0524sa
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

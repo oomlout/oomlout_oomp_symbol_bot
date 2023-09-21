@@ -1,16 +1,20 @@
+id: kicad_transistor_fet_irlml0030
+library: transistor_fet
 library_name: Transistor_FET
+name: irlml0030
 oomp:
   library_name: transistor_fet
-  md5: aca397daeed4759595bbefd2067bc8f6
-  md5_10: aca397daee
-  md5_5: aca39
-  md5_6: aca397
-  oomp_key: oomp_transistor_fet_irlml0030
-  oomp_key_extra: oomp_symbol_transistor_fet_irlml0030
-  oomp_key_full: oomp_symbol_transistor_fet_irlml0030_aca397
-  oomp_key_simple: transistor_fet_irlml0030
+  md5: 2dcfd4b960126e7f8725fcb8122af1e4
+  md5_10: 2dcfd4b960
+  md5_5: 2dcfd
+  md5_6: 2dcfd4
+  oomp_key: oomp_irlml0030
+  oomp_key_extra: oomp_symbol_irlml0030
+  oomp_key_full: oomp_symbol_irlml0030_2dcfd4
+  oomp_key_simple: irlml0030
   owner_name: kicad
-  symbol_name: transistor_fet_irlml0030
+  symbol_name: irlml0030
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

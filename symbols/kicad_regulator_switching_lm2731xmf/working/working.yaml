@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_lm2731xmf
+library: regulator_switching
 library_name: Regulator_Switching
+name: lm2731xmf
 oomp:
   library_name: regulator_switching
-  md5: 019e862d2949041b7ce6ec54a7fa888b
-  md5_10: 019e862d29
-  md5_5: 019e8
-  md5_6: 019e86
-  oomp_key: oomp_regulator_switching_lm2731xmf
-  oomp_key_extra: oomp_symbol_regulator_switching_lm2731xmf
-  oomp_key_full: oomp_symbol_regulator_switching_lm2731xmf_019e86
-  oomp_key_simple: regulator_switching_lm2731xmf
+  md5: 825ae66b61d97459fea60c932da7aa4e
+  md5_10: 825ae66b61
+  md5_5: 825ae
+  md5_6: 825ae6
+  oomp_key: oomp_lm2731xmf
+  oomp_key_extra: oomp_symbol_lm2731xmf
+  oomp_key_full: oomp_symbol_lm2731xmf_825ae6
+  oomp_key_simple: lm2731xmf
   owner_name: kicad
-  symbol_name: regulator_switching_lm2731xmf
+  symbol_name: lm2731xmf
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

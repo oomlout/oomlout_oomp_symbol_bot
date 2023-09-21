@@ -1,16 +1,20 @@
+id: kicad_mcu_microchip_atmega_atxmega384c3_a
+library: mcu_microchip_atmega
 library_name: MCU_Microchip_ATmega
+name: atxmega384c3_a
 oomp:
   library_name: mcu_microchip_atmega
-  md5: 4e5426921e34f624a6611f713bc5d1a0
-  md5_10: 4e5426921e
-  md5_5: 4e542
-  md5_6: 4e5426
-  oomp_key: oomp_mcu_microchip_atmega_atxmega384c3_a
-  oomp_key_extra: oomp_symbol_mcu_microchip_atmega_atxmega384c3_a
-  oomp_key_full: oomp_symbol_mcu_microchip_atmega_atxmega384c3_a_4e5426
-  oomp_key_simple: mcu_microchip_atmega_atxmega384c3_a
+  md5: bf73a9e2b570a8bf419b6de036c44be4
+  md5_10: bf73a9e2b5
+  md5_5: bf73a
+  md5_6: bf73a9
+  oomp_key: oomp_atxmega384c3_a
+  oomp_key_extra: oomp_symbol_atxmega384c3_a
+  oomp_key_full: oomp_symbol_atxmega384c3_a_bf73a9
+  oomp_key_simple: atxmega384c3_a
   owner_name: kicad
-  symbol_name: mcu_microchip_atmega_atxmega384c3_a
+  symbol_name: atxmega384c3_a
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

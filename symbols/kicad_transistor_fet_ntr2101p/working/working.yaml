@@ -1,16 +1,20 @@
+id: kicad_transistor_fet_ntr2101p
+library: transistor_fet
 library_name: Transistor_FET
+name: ntr2101p
 oomp:
   library_name: transistor_fet
-  md5: 06d7b9d2d3da54b87258ace5f7eecc6d
-  md5_10: 06d7b9d2d3
-  md5_5: 06d7b
-  md5_6: 06d7b9
-  oomp_key: oomp_transistor_fet_ntr2101p
-  oomp_key_extra: oomp_symbol_transistor_fet_ntr2101p
-  oomp_key_full: oomp_symbol_transistor_fet_ntr2101p_06d7b9
-  oomp_key_simple: transistor_fet_ntr2101p
+  md5: 78c033a499cb4b0b50edeaccbe6e3ad3
+  md5_10: 78c033a499
+  md5_5: 78c03
+  md5_6: 78c033
+  oomp_key: oomp_ntr2101p
+  oomp_key_extra: oomp_symbol_ntr2101p
+  oomp_key_full: oomp_symbol_ntr2101p_78c033
+  oomp_key_simple: ntr2101p
   owner_name: kicad
-  symbol_name: transistor_fet_ntr2101p
+  symbol_name: ntr2101p
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

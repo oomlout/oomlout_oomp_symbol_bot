@@ -1,3 +1,5 @@
+id: kicad_simulation_spice_pjfet
+library: simulation_spice
 library_name: Simulation_SPICE
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_simulation_spice_pjfet/working
   oomp_src_flat: symbols_flat/kicad_simulation_spice_pjfet/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_simulation_spice_pjfet/working
-name: simulation_spice_pjfet
+name: pjfet
 oomp:
   library_name: simulation_spice
-  md5: 6267e4e2a90c4c0900c2f42149c0c5ad
-  md5_10: 6267e4e2a9
-  md5_5: 6267e
-  md5_6: 6267e4
-  oomp_key: oomp_simulation_spice_pjfet
-  oomp_key_extra: oomp_symbol_simulation_spice_pjfet
-  oomp_key_full: oomp_symbol_simulation_spice_pjfet_6267e4
-  oomp_key_simple: simulation_spice_pjfet
+  md5: ba47e7c87720b4dd4db2b6bc5dbae71b
+  md5_10: ba47e7c877
+  md5_5: ba47e
+  md5_6: ba47e7
+  oomp_key: oomp_pjfet
+  oomp_key_extra: oomp_symbol_pjfet
+  oomp_key_full: oomp_symbol_pjfet_ba47e7
+  oomp_key_simple: pjfet
   owner_name: kicad
-  symbol_name: simulation_spice_pjfet
+  symbol_name: pjfet
 oomp_key: oomp_kicad_simulation_spice_pjfet
 oomp_key_simple: kicad_simulation_spice_pjfet
 owner: kicad

@@ -1,16 +1,20 @@
+id: kicad_memory_ram_idt7208
+library: memory_ram
 library_name: Memory_RAM
+name: idt7208
 oomp:
   library_name: memory_ram
-  md5: 9198773fb1936b8e35a928e6889be476
-  md5_10: 9198773fb1
-  md5_5: '91987'
-  md5_6: '919877'
-  oomp_key: oomp_memory_ram_idt7208
-  oomp_key_extra: oomp_symbol_memory_ram_idt7208
-  oomp_key_full: oomp_symbol_memory_ram_idt7208_919877
-  oomp_key_simple: memory_ram_idt7208
+  md5: 1003d516b653cb84db1862ea0eb5e8b9
+  md5_10: 1003d516b6
+  md5_5: 1003d
+  md5_6: 1003d5
+  oomp_key: oomp_idt7208
+  oomp_key_extra: oomp_symbol_idt7208
+  oomp_key_full: oomp_symbol_idt7208_1003d5
+  oomp_key_simple: idt7208
   owner_name: kicad
-  symbol_name: memory_ram_idt7208
+  symbol_name: idt7208
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

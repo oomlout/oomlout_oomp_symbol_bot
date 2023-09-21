@@ -1,3 +1,5 @@
+id: kicad_mcu_microchip_pic18_pic18f45k50_qfp
+library: mcu_microchip_pic18
 library_name: MCU_Microchip_PIC18
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_microchip_pic18_pic18f45k50_qfp/working
   oomp_src_flat: symbols_flat/kicad_mcu_microchip_pic18_pic18f45k50_qfp/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_microchip_pic18_pic18f45k50_qfp/working
-name: mcu_microchip_pic18_pic18f45k50_qfp
+name: pic18f45k50_qfp
 oomp:
   library_name: mcu_microchip_pic18
-  md5: 61cd4e76d4e330cda33c874e2dff185e
-  md5_10: 61cd4e76d4
-  md5_5: 61cd4
-  md5_6: 61cd4e
-  oomp_key: oomp_mcu_microchip_pic18_pic18f45k50_qfp
-  oomp_key_extra: oomp_symbol_mcu_microchip_pic18_pic18f45k50_qfp
-  oomp_key_full: oomp_symbol_mcu_microchip_pic18_pic18f45k50_qfp_61cd4e
-  oomp_key_simple: mcu_microchip_pic18_pic18f45k50_qfp
+  md5: dad8e0e09563fe4881493d17258767c2
+  md5_10: dad8e0e095
+  md5_5: dad8e
+  md5_6: dad8e0
+  oomp_key: oomp_pic18f45k50_qfp
+  oomp_key_extra: oomp_symbol_pic18f45k50_qfp
+  oomp_key_full: oomp_symbol_pic18f45k50_qfp_dad8e0
+  oomp_key_simple: pic18f45k50_qfp
   owner_name: kicad
-  symbol_name: mcu_microchip_pic18_pic18f45k50_qfp
+  symbol_name: pic18f45k50_qfp
 oomp_key: oomp_kicad_mcu_microchip_pic18_pic18f45k50_qfp
 oomp_key_simple: kicad_mcu_microchip_pic18_pic18f45k50_qfp
 owner: kicad

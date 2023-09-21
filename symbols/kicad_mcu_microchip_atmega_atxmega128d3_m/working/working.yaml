@@ -1,16 +1,20 @@
+id: kicad_mcu_microchip_atmega_atxmega128d3_m
+library: mcu_microchip_atmega
 library_name: MCU_Microchip_ATmega
+name: atxmega128d3_m
 oomp:
   library_name: mcu_microchip_atmega
-  md5: 63f97e519277efdede0a106e77dc3eda
-  md5_10: 63f97e5192
-  md5_5: 63f97
-  md5_6: 63f97e
-  oomp_key: oomp_mcu_microchip_atmega_atxmega128d3_m
-  oomp_key_extra: oomp_symbol_mcu_microchip_atmega_atxmega128d3_m
-  oomp_key_full: oomp_symbol_mcu_microchip_atmega_atxmega128d3_m_63f97e
-  oomp_key_simple: mcu_microchip_atmega_atxmega128d3_m
+  md5: 40e927c1f535d507f234b743cf80e621
+  md5_10: 40e927c1f5
+  md5_5: 40e92
+  md5_6: 40e927
+  oomp_key: oomp_atxmega128d3_m
+  oomp_key_extra: oomp_symbol_atxmega128d3_m
+  oomp_key_full: oomp_symbol_atxmega128d3_m_40e927
+  oomp_key_simple: atxmega128d3_m
   owner_name: kicad
-  symbol_name: mcu_microchip_atmega_atxmega128d3_m
+  symbol_name: atxmega128d3_m
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,3 +1,5 @@
+id: kicad_regulator_switching_bd9778f
+library: regulator_switching
 library_name: Regulator_Switching
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_bd9778f/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_bd9778f/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_bd9778f/working
-name: regulator_switching_bd9778f
+name: bd9778f
 oomp:
   library_name: regulator_switching
-  md5: 32e209617f5cc59c7b1cda6c0c7f1d82
-  md5_10: 32e209617f
-  md5_5: 32e20
-  md5_6: 32e209
-  oomp_key: oomp_regulator_switching_bd9778f
-  oomp_key_extra: oomp_symbol_regulator_switching_bd9778f
-  oomp_key_full: oomp_symbol_regulator_switching_bd9778f_32e209
-  oomp_key_simple: regulator_switching_bd9778f
+  md5: 184911a157813113073eea2ebce2a363
+  md5_10: 184911a157
+  md5_5: '18491'
+  md5_6: '184911'
+  oomp_key: oomp_bd9778f
+  oomp_key_extra: oomp_symbol_bd9778f
+  oomp_key_full: oomp_symbol_bd9778f_184911
+  oomp_key_simple: bd9778f
   owner_name: kicad
-  symbol_name: regulator_switching_bd9778f
+  symbol_name: bd9778f
 oomp_key: oomp_kicad_regulator_switching_bd9778f
 oomp_key_simple: kicad_regulator_switching_bd9778f
 owner: kicad

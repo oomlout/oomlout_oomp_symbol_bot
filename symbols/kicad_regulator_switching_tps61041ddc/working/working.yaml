@@ -1,3 +1,5 @@
+id: kicad_regulator_switching_tps61041ddc
+library: regulator_switching
 library_name: Regulator_Switching
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_tps61041ddc/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_tps61041ddc/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_tps61041ddc/working
-name: regulator_switching_tps61041ddc
+name: tps61041ddc
 oomp:
   library_name: regulator_switching
-  md5: 62388ad6aa603353b63caff594553a44
-  md5_10: 62388ad6aa
-  md5_5: '62388'
-  md5_6: 62388a
-  oomp_key: oomp_regulator_switching_tps61041ddc
-  oomp_key_extra: oomp_symbol_regulator_switching_tps61041ddc
-  oomp_key_full: oomp_symbol_regulator_switching_tps61041ddc_62388a
-  oomp_key_simple: regulator_switching_tps61041ddc
+  md5: 03f8baefa8024bde29ebecb0d633eca8
+  md5_10: 03f8baefa8
+  md5_5: 03f8b
+  md5_6: 03f8ba
+  oomp_key: oomp_tps61041ddc
+  oomp_key_extra: oomp_symbol_tps61041ddc
+  oomp_key_full: oomp_symbol_tps61041ddc_03f8ba
+  oomp_key_simple: tps61041ddc
   owner_name: kicad
-  symbol_name: regulator_switching_tps61041ddc
+  symbol_name: tps61041ddc
 oomp_key: oomp_kicad_regulator_switching_tps61041ddc
 oomp_key_simple: kicad_regulator_switching_tps61041ddc
 owner: kicad

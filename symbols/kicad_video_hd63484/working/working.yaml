@@ -1,3 +1,5 @@
+id: kicad_video_hd63484
+library: video
 library_name: Video
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_video_hd63484/working
   oomp_src_flat: symbols_flat/kicad_video_hd63484/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_video_hd63484/working
-name: video_hd63484
+name: hd63484
 oomp:
   library_name: video
-  md5: 5dc07d87bf866ec6a521c1595d01f3ec
-  md5_10: 5dc07d87bf
-  md5_5: 5dc07
-  md5_6: 5dc07d
-  oomp_key: oomp_video_hd63484
-  oomp_key_extra: oomp_symbol_video_hd63484
-  oomp_key_full: oomp_symbol_video_hd63484_5dc07d
-  oomp_key_simple: video_hd63484
+  md5: 08a3085590accc132d36a652ce594b51
+  md5_10: 08a3085590
+  md5_5: 08a30
+  md5_6: 08a308
+  oomp_key: oomp_hd63484
+  oomp_key_extra: oomp_symbol_hd63484
+  oomp_key_full: oomp_symbol_hd63484_08a308
+  oomp_key_simple: hd63484
   owner_name: kicad
-  symbol_name: video_hd63484
+  symbol_name: hd63484
 oomp_key: oomp_kicad_video_hd63484
 oomp_key_simple: kicad_video_hd63484
 owner: kicad

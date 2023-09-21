@@ -1,16 +1,20 @@
+id: kicad_analog_dac_ad558kp
+library: analog_dac
 library_name: Analog_DAC
+name: ad558kp
 oomp:
   library_name: analog_dac
-  md5: 4f1d3eef9b4ce26afb153f9ce5df5968
-  md5_10: 4f1d3eef9b
-  md5_5: 4f1d3
-  md5_6: 4f1d3e
-  oomp_key: oomp_analog_dac_ad558kp
-  oomp_key_extra: oomp_symbol_analog_dac_ad558kp
-  oomp_key_full: oomp_symbol_analog_dac_ad558kp_4f1d3e
-  oomp_key_simple: analog_dac_ad558kp
+  md5: bc11f81bb32571bc307497ebbc5fd9c9
+  md5_10: bc11f81bb3
+  md5_5: bc11f
+  md5_6: bc11f8
+  oomp_key: oomp_ad558kp
+  oomp_key_extra: oomp_symbol_ad558kp
+  oomp_key_full: oomp_symbol_ad558kp_bc11f8
+  oomp_key_simple: ad558kp
   owner_name: kicad
-  symbol_name: analog_dac_ad558kp
+  symbol_name: ad558kp
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,3 +1,5 @@
+id: kicad_analog_mpy634ku
+library: analog
 library_name: Analog
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_analog_mpy634ku/working
   oomp_src_flat: symbols_flat/kicad_analog_mpy634ku/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_analog_mpy634ku/working
-name: analog_mpy634ku
+name: mpy634ku
 oomp:
   library_name: analog
-  md5: d98d4282ad327131d6204caf8dbb497c
-  md5_10: d98d4282ad
-  md5_5: d98d4
-  md5_6: d98d42
-  oomp_key: oomp_analog_mpy634ku
-  oomp_key_extra: oomp_symbol_analog_mpy634ku
-  oomp_key_full: oomp_symbol_analog_mpy634ku_d98d42
-  oomp_key_simple: analog_mpy634ku
+  md5: bff03c4026a222df2c8ab6a4e072dcc7
+  md5_10: bff03c4026
+  md5_5: bff03
+  md5_6: bff03c
+  oomp_key: oomp_mpy634ku
+  oomp_key_extra: oomp_symbol_mpy634ku
+  oomp_key_full: oomp_symbol_mpy634ku_bff03c
+  oomp_key_simple: mpy634ku
   owner_name: kicad
-  symbol_name: analog_mpy634ku
+  symbol_name: mpy634ku
 oomp_key: oomp_kicad_analog_mpy634ku
 oomp_key_simple: kicad_analog_mpy634ku
 owner: kicad

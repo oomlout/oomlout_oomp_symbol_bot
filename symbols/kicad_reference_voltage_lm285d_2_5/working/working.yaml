@@ -1,16 +1,20 @@
+id: kicad_reference_voltage_lm285d_2_5
+library: reference_voltage
 library_name: Reference_Voltage
+name: lm285d_2_5
 oomp:
   library_name: reference_voltage
-  md5: 9ec34db0b71759b342ae356eb60f6f64
-  md5_10: 9ec34db0b7
-  md5_5: 9ec34
-  md5_6: 9ec34d
-  oomp_key: oomp_reference_voltage_lm285d_2_5
-  oomp_key_extra: oomp_symbol_reference_voltage_lm285d_2_5
-  oomp_key_full: oomp_symbol_reference_voltage_lm285d_2_5_9ec34d
-  oomp_key_simple: reference_voltage_lm285d_2_5
+  md5: 793cde0cd7a399586fa115e5cb8cf207
+  md5_10: 793cde0cd7
+  md5_5: 793cd
+  md5_6: 793cde
+  oomp_key: oomp_lm285d_2_5
+  oomp_key_extra: oomp_symbol_lm285d_2_5
+  oomp_key_full: oomp_symbol_lm285d_2_5_793cde
+  oomp_key_simple: lm285d_2_5
   owner_name: kicad
-  symbol_name: reference_voltage_lm285d_2_5
+  symbol_name: lm285d_2_5
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

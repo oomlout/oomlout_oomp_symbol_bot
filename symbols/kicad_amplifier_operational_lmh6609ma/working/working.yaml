@@ -1,16 +1,20 @@
+id: kicad_amplifier_operational_lmh6609ma
+library: amplifier_operational
 library_name: Amplifier_Operational
+name: lmh6609ma
 oomp:
   library_name: amplifier_operational
-  md5: 4a341aa3d44f2f7eb9210bf3e695377a
-  md5_10: 4a341aa3d4
-  md5_5: 4a341
-  md5_6: 4a341a
-  oomp_key: oomp_amplifier_operational_lmh6609ma
-  oomp_key_extra: oomp_symbol_amplifier_operational_lmh6609ma
-  oomp_key_full: oomp_symbol_amplifier_operational_lmh6609ma_4a341a
-  oomp_key_simple: amplifier_operational_lmh6609ma
+  md5: 7ba174090ea034dec5ec86af15926a06
+  md5_10: 7ba174090e
+  md5_5: 7ba17
+  md5_6: 7ba174
+  oomp_key: oomp_lmh6609ma
+  oomp_key_extra: oomp_symbol_lmh6609ma
+  oomp_key_full: oomp_symbol_lmh6609ma_7ba174
+  oomp_key_simple: lmh6609ma
   owner_name: kicad
-  symbol_name: amplifier_operational_lmh6609ma
+  symbol_name: lmh6609ma
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,3 +1,5 @@
+id: kicad_power_management_auips7142g
+library: power_management
 library_name: Power_Management
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_power_management_auips7142g/working
   oomp_src_flat: symbols_flat/kicad_power_management_auips7142g/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_management_auips7142g/working
-name: power_management_auips7142g
+name: auips7142g
 oomp:
   library_name: power_management
-  md5: 36ed7558de993038ce5e98c5803f3179
-  md5_10: 36ed7558de
-  md5_5: 36ed7
-  md5_6: 36ed75
-  oomp_key: oomp_power_management_auips7142g
-  oomp_key_extra: oomp_symbol_power_management_auips7142g
-  oomp_key_full: oomp_symbol_power_management_auips7142g_36ed75
-  oomp_key_simple: power_management_auips7142g
+  md5: 9c58965d50773ac23d019ae53fc700de
+  md5_10: 9c58965d50
+  md5_5: 9c589
+  md5_6: 9c5896
+  oomp_key: oomp_auips7142g
+  oomp_key_extra: oomp_symbol_auips7142g
+  oomp_key_full: oomp_symbol_auips7142g_9c5896
+  oomp_key_simple: auips7142g
   owner_name: kicad
-  symbol_name: power_management_auips7142g
+  symbol_name: auips7142g
 oomp_key: oomp_kicad_power_management_auips7142g
 oomp_key_simple: kicad_power_management_auips7142g
 owner: kicad

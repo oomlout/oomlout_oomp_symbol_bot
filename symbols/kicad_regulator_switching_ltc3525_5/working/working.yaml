@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_ltc3525_5
+library: regulator_switching
 library_name: Regulator_Switching
+name: ltc3525_5
 oomp:
   library_name: regulator_switching
-  md5: c266dee3217fdcdcd40f7e940fd06bfc
-  md5_10: c266dee321
-  md5_5: c266d
-  md5_6: c266de
-  oomp_key: oomp_regulator_switching_ltc3525_5
-  oomp_key_extra: oomp_symbol_regulator_switching_ltc3525_5
-  oomp_key_full: oomp_symbol_regulator_switching_ltc3525_5_c266de
-  oomp_key_simple: regulator_switching_ltc3525_5
+  md5: bd69e4c8e937facfe48f8f382636f6fc
+  md5_10: bd69e4c8e9
+  md5_5: bd69e
+  md5_6: bd69e4
+  oomp_key: oomp_ltc3525_5
+  oomp_key_extra: oomp_symbol_ltc3525_5
+  oomp_key_full: oomp_symbol_ltc3525_5_bd69e4
+  oomp_key_simple: ltc3525_5
   owner_name: kicad
-  symbol_name: regulator_switching_ltc3525_5
+  symbol_name: ltc3525_5
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,3 +1,5 @@
+id: kicad_memory_ram_is61c5128as_25hli
+library: memory_ram
 library_name: Memory_RAM
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_memory_ram_is61c5128as_25hli/working
   oomp_src_flat: symbols_flat/kicad_memory_ram_is61c5128as_25hli/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_memory_ram_is61c5128as_25hli/working
-name: memory_ram_is61c5128as_25hli
+name: is61c5128as_25hli
 oomp:
   library_name: memory_ram
-  md5: 63723ea02f053a059d6f93e22975e8eb
-  md5_10: 63723ea02f
-  md5_5: '63723'
-  md5_6: 63723e
-  oomp_key: oomp_memory_ram_is61c5128as_25hli
-  oomp_key_extra: oomp_symbol_memory_ram_is61c5128as_25hli
-  oomp_key_full: oomp_symbol_memory_ram_is61c5128as_25hli_63723e
-  oomp_key_simple: memory_ram_is61c5128as_25hli
+  md5: 37779c662dc6d92c06e928e84ef8fb22
+  md5_10: 37779c662d
+  md5_5: '37779'
+  md5_6: 37779c
+  oomp_key: oomp_is61c5128as_25hli
+  oomp_key_extra: oomp_symbol_is61c5128as_25hli
+  oomp_key_full: oomp_symbol_is61c5128as_25hli_37779c
+  oomp_key_simple: is61c5128as_25hli
   owner_name: kicad
-  symbol_name: memory_ram_is61c5128as_25hli
+  symbol_name: is61c5128as_25hli
 oomp_key: oomp_kicad_memory_ram_is61c5128as_25hli
 oomp_key_simple: kicad_memory_ram_is61c5128as_25hli
 owner: kicad

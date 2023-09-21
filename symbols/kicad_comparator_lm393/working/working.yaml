@@ -1,16 +1,20 @@
+id: kicad_comparator_lm393
+library: comparator
 library_name: Comparator
+name: lm393
 oomp:
   library_name: comparator
-  md5: f285634b9c97f9f1ec0bd31ab741b114
-  md5_10: f285634b9c
-  md5_5: f2856
-  md5_6: f28563
-  oomp_key: oomp_comparator_lm393
-  oomp_key_extra: oomp_symbol_comparator_lm393
-  oomp_key_full: oomp_symbol_comparator_lm393_f28563
-  oomp_key_simple: comparator_lm393
+  md5: 688e0cd2d7a0164b38d7c61e3bb1b7a9
+  md5_10: 688e0cd2d7
+  md5_5: 688e0
+  md5_6: 688e0c
+  oomp_key: oomp_lm393
+  oomp_key_extra: oomp_symbol_lm393
+  oomp_key_full: oomp_symbol_lm393_688e0c
+  oomp_key_simple: lm393
   owner_name: kicad
-  symbol_name: comparator_lm393
+  symbol_name: lm393
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

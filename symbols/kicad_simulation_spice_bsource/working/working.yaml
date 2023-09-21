@@ -1,3 +1,5 @@
+id: kicad_simulation_spice_bsource
+library: simulation_spice
 library_name: Simulation_SPICE
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_simulation_spice_bsource/working
   oomp_src_flat: symbols_flat/kicad_simulation_spice_bsource/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_simulation_spice_bsource/working
-name: simulation_spice_bsource
+name: bsource
 oomp:
   library_name: simulation_spice
-  md5: c6bc86a3d781273a1d1081f720fe7177
-  md5_10: c6bc86a3d7
-  md5_5: c6bc8
-  md5_6: c6bc86
-  oomp_key: oomp_simulation_spice_bsource
-  oomp_key_extra: oomp_symbol_simulation_spice_bsource
-  oomp_key_full: oomp_symbol_simulation_spice_bsource_c6bc86
-  oomp_key_simple: simulation_spice_bsource
+  md5: d355040ceaca8e1ead660aa553cd5dfe
+  md5_10: d355040cea
+  md5_5: d3550
+  md5_6: d35504
+  oomp_key: oomp_bsource
+  oomp_key_extra: oomp_symbol_bsource
+  oomp_key_full: oomp_symbol_bsource_d35504
+  oomp_key_simple: bsource
   owner_name: kicad
-  symbol_name: simulation_spice_bsource
+  symbol_name: bsource
 oomp_key: oomp_kicad_simulation_spice_bsource
 oomp_key_simple: kicad_simulation_spice_bsource
 owner: kicad

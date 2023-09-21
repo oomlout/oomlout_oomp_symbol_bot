@@ -1,16 +1,20 @@
+id: kicad_mcu_st_stm32f4_stm32f427vitx
+library: mcu_st_stm32f4
 library_name: MCU_ST_STM32F4
+name: stm32f427vitx
 oomp:
   library_name: mcu_st_stm32f4
-  md5: 52fad26419fccdab54bc12b45516299c
-  md5_10: 52fad26419
-  md5_5: 52fad
-  md5_6: 52fad2
-  oomp_key: oomp_mcu_st_stm32f4_stm32f427vitx
-  oomp_key_extra: oomp_symbol_mcu_st_stm32f4_stm32f427vitx
-  oomp_key_full: oomp_symbol_mcu_st_stm32f4_stm32f427vitx_52fad2
-  oomp_key_simple: mcu_st_stm32f4_stm32f427vitx
+  md5: 6841b4ae3b6a78511d482838e8f9aeb9
+  md5_10: 6841b4ae3b
+  md5_5: 6841b
+  md5_6: 6841b4
+  oomp_key: oomp_stm32f427vitx
+  oomp_key_extra: oomp_symbol_stm32f427vitx
+  oomp_key_full: oomp_symbol_stm32f427vitx_6841b4
+  oomp_key_simple: stm32f427vitx
   owner_name: kicad
-  symbol_name: mcu_st_stm32f4_stm32f427vitx
+  symbol_name: stm32f427vitx
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

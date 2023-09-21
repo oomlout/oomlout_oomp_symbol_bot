@@ -1,3 +1,5 @@
+id: kicad_filter_1fp45_0r
+library: filter
 library_name: Filter
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_filter_1fp45_0r/working
   oomp_src_flat: symbols_flat/kicad_filter_1fp45_0r/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_filter_1fp45_0r/working
-name: filter_1fp45_0r
+name: 1fp45_0r
 oomp:
   library_name: filter
-  md5: 2d47909743c23e4904339a1e03a5855d
-  md5_10: 2d47909743
-  md5_5: 2d479
-  md5_6: 2d4790
-  oomp_key: oomp_filter_1fp45_0r
-  oomp_key_extra: oomp_symbol_filter_1fp45_0r
-  oomp_key_full: oomp_symbol_filter_1fp45_0r_2d4790
-  oomp_key_simple: filter_1fp45_0r
+  md5: 63ecf79246b4e74907214d7cced24405
+  md5_10: 63ecf79246
+  md5_5: 63ecf
+  md5_6: 63ecf7
+  oomp_key: oomp_1fp45_0r
+  oomp_key_extra: oomp_symbol_1fp45_0r
+  oomp_key_full: oomp_symbol_1fp45_0r_63ecf7
+  oomp_key_simple: 1fp45_0r
   owner_name: kicad
-  symbol_name: filter_1fp45_0r
+  symbol_name: 1fp45_0r
 oomp_key: oomp_kicad_filter_1fp45_0r
 oomp_key_simple: kicad_filter_1fp45_0r
 owner: kicad

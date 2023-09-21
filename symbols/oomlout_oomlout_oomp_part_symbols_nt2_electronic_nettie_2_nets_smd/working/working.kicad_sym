@@ -15,7 +15,7 @@
     (property "ki_keywords" "net tie short" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "ki_description" "Net tie, 2 pins" (at 0 0 0)
+    (property "ki_description" "[electronic_nettie_2_nets_smd](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_2_nets_smd/working)<br><br>" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "ki_fp_filters" "Net*Tie*" (at 0 0 0)

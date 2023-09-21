@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_lp38691sd_5_0
+library: regulator_linear
 library_name: Regulator_Linear
+name: lp38691sd_5_0
 oomp:
   library_name: regulator_linear
-  md5: dddfa891164fcdeeb229c06c0c731af0
-  md5_10: dddfa89116
-  md5_5: dddfa
-  md5_6: dddfa8
-  oomp_key: oomp_regulator_linear_lp38691sd_5_0
-  oomp_key_extra: oomp_symbol_regulator_linear_lp38691sd_5_0
-  oomp_key_full: oomp_symbol_regulator_linear_lp38691sd_5_0_dddfa8
-  oomp_key_simple: regulator_linear_lp38691sd_5_0
+  md5: 9c1b269e6564d53b6d8842bd4f05104c
+  md5_10: 9c1b269e65
+  md5_5: 9c1b2
+  md5_6: 9c1b26
+  oomp_key: oomp_lp38691sd_5_0
+  oomp_key_extra: oomp_symbol_lp38691sd_5_0
+  oomp_key_full: oomp_symbol_lp38691sd_5_0_9c1b26
+  oomp_key_simple: lp38691sd_5_0
   owner_name: kicad
-  symbol_name: regulator_linear_lp38691sd_5_0
+  symbol_name: lp38691sd_5_0
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

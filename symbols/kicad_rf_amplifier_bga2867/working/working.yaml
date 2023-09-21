@@ -1,16 +1,20 @@
+id: kicad_rf_amplifier_bga2867
+library: rf_amplifier
 library_name: RF_Amplifier
+name: bga2867
 oomp:
   library_name: rf_amplifier
-  md5: e22d6094de46088f4a76c7662e13fe7a
-  md5_10: e22d6094de
-  md5_5: e22d6
-  md5_6: e22d60
-  oomp_key: oomp_rf_amplifier_bga2867
-  oomp_key_extra: oomp_symbol_rf_amplifier_bga2867
-  oomp_key_full: oomp_symbol_rf_amplifier_bga2867_e22d60
-  oomp_key_simple: rf_amplifier_bga2867
+  md5: 1a5a4690abb4c22020f2fb8e14e82d04
+  md5_10: 1a5a4690ab
+  md5_5: 1a5a4
+  md5_6: 1a5a46
+  oomp_key: oomp_bga2867
+  oomp_key_extra: oomp_symbol_bga2867
+  oomp_key_full: oomp_symbol_bga2867_1a5a46
+  oomp_key_simple: bga2867
   owner_name: kicad
-  symbol_name: rf_amplifier_bga2867
+  symbol_name: bga2867
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

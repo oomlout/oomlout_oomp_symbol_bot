@@ -1,3 +1,5 @@
+id: kicad_sensor_current_acs706xlc_05c
+library: sensor_current
 library_name: Sensor_Current
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_current_acs706xlc_05c/working
   oomp_src_flat: symbols_flat/kicad_sensor_current_acs706xlc_05c/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_current_acs706xlc_05c/working
-name: sensor_current_acs706xlc_05c
+name: acs706xlc_05c
 oomp:
   library_name: sensor_current
-  md5: 8a3e6b839eae99da21af8ea4a2670839
-  md5_10: 8a3e6b839e
-  md5_5: 8a3e6
-  md5_6: 8a3e6b
-  oomp_key: oomp_sensor_current_acs706xlc_05c
-  oomp_key_extra: oomp_symbol_sensor_current_acs706xlc_05c
-  oomp_key_full: oomp_symbol_sensor_current_acs706xlc_05c_8a3e6b
-  oomp_key_simple: sensor_current_acs706xlc_05c
+  md5: 6a0eb207c7d7dfe9a243778b1a751cf9
+  md5_10: 6a0eb207c7
+  md5_5: 6a0eb
+  md5_6: 6a0eb2
+  oomp_key: oomp_acs706xlc_05c
+  oomp_key_extra: oomp_symbol_acs706xlc_05c
+  oomp_key_full: oomp_symbol_acs706xlc_05c_6a0eb2
+  oomp_key_simple: acs706xlc_05c
   owner_name: kicad
-  symbol_name: sensor_current_acs706xlc_05c
+  symbol_name: acs706xlc_05c
 oomp_key: oomp_kicad_sensor_current_acs706xlc_05c
 oomp_key_simple: kicad_sensor_current_acs706xlc_05c
 owner: kicad

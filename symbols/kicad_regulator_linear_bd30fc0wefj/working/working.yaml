@@ -1,3 +1,5 @@
+id: kicad_regulator_linear_bd30fc0wefj
+library: regulator_linear
 library_name: Regulator_Linear
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_linear_bd30fc0wefj/working
   oomp_src_flat: symbols_flat/kicad_regulator_linear_bd30fc0wefj/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_linear_bd30fc0wefj/working
-name: regulator_linear_bd30fc0wefj
+name: bd30fc0wefj
 oomp:
   library_name: regulator_linear
-  md5: d12fc58fa03a0a5effeab4d099d7300e
-  md5_10: d12fc58fa0
-  md5_5: d12fc
-  md5_6: d12fc5
-  oomp_key: oomp_regulator_linear_bd30fc0wefj
-  oomp_key_extra: oomp_symbol_regulator_linear_bd30fc0wefj
-  oomp_key_full: oomp_symbol_regulator_linear_bd30fc0wefj_d12fc5
-  oomp_key_simple: regulator_linear_bd30fc0wefj
+  md5: f91fef32b36dba605b5cdff4df52130a
+  md5_10: f91fef32b3
+  md5_5: f91fe
+  md5_6: f91fef
+  oomp_key: oomp_bd30fc0wefj
+  oomp_key_extra: oomp_symbol_bd30fc0wefj
+  oomp_key_full: oomp_symbol_bd30fc0wefj_f91fef
+  oomp_key_simple: bd30fc0wefj
   owner_name: kicad
-  symbol_name: regulator_linear_bd30fc0wefj
+  symbol_name: bd30fc0wefj
 oomp_key: oomp_kicad_regulator_linear_bd30fc0wefj
 oomp_key_simple: kicad_regulator_linear_bd30fc0wefj
 owner: kicad

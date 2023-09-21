@@ -1,16 +1,20 @@
+id: kicad_amplifier_audio_stk441_sanyo
+library: amplifier_audio
 library_name: Amplifier_Audio
+name: stk441_sanyo
 oomp:
   library_name: amplifier_audio
-  md5: 497bc41a51654bdbd4201bae53b22d22
-  md5_10: 497bc41a51
-  md5_5: 497bc
-  md5_6: 497bc4
-  oomp_key: oomp_amplifier_audio_stk441_sanyo
-  oomp_key_extra: oomp_symbol_amplifier_audio_stk441_sanyo
-  oomp_key_full: oomp_symbol_amplifier_audio_stk441_sanyo_497bc4
-  oomp_key_simple: amplifier_audio_stk441_sanyo
+  md5: 31eacc40de3e6583fbd5db5b7ed02a39
+  md5_10: 31eacc40de
+  md5_5: 31eac
+  md5_6: 31eacc
+  oomp_key: oomp_stk441_sanyo
+  oomp_key_extra: oomp_symbol_stk441_sanyo
+  oomp_key_full: oomp_symbol_stk441_sanyo_31eacc
+  oomp_key_simple: stk441_sanyo
   owner_name: kicad
-  symbol_name: amplifier_audio_stk441_sanyo
+  symbol_name: stk441_sanyo
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

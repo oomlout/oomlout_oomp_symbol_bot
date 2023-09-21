@@ -1,16 +1,20 @@
+id: kicad_mcu_st_stm32l0_stm32l071vzix
+library: mcu_st_stm32l0
 library_name: MCU_ST_STM32L0
+name: stm32l071vzix
 oomp:
   library_name: mcu_st_stm32l0
-  md5: 86392002abca8a168f8b6ed22078b126
-  md5_10: 86392002ab
-  md5_5: '86392'
-  md5_6: '863920'
-  oomp_key: oomp_mcu_st_stm32l0_stm32l071vzix
-  oomp_key_extra: oomp_symbol_mcu_st_stm32l0_stm32l071vzix
-  oomp_key_full: oomp_symbol_mcu_st_stm32l0_stm32l071vzix_863920
-  oomp_key_simple: mcu_st_stm32l0_stm32l071vzix
+  md5: 408f8c390806b7196d720d94b5bcbcc2
+  md5_10: 408f8c3908
+  md5_5: 408f8
+  md5_6: 408f8c
+  oomp_key: oomp_stm32l071vzix
+  oomp_key_extra: oomp_symbol_stm32l071vzix
+  oomp_key_full: oomp_symbol_stm32l071vzix_408f8c
+  oomp_key_simple: stm32l071vzix
   owner_name: kicad
-  symbol_name: mcu_st_stm32l0_stm32l071vzix
+  symbol_name: stm32l071vzix
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

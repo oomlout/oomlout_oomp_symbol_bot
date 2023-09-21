@@ -1,3 +1,5 @@
+id: kicad_connector_rj45_amphenol_rjmg1bd3b8k1anr
+library: connector
 library_name: Connector
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_rj45_amphenol_rjmg1bd3b8k1anr/working
   oomp_src_flat: symbols_flat/kicad_connector_rj45_amphenol_rjmg1bd3b8k1anr/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_rj45_amphenol_rjmg1bd3b8k1anr/working
-name: connector_rj45_amphenol_rjmg1bd3b8k1anr
+name: rj45_amphenol_rjmg1bd3b8k1anr
 oomp:
   library_name: connector
-  md5: 9a7ece921c7421848f72ea5967488fd6
-  md5_10: 9a7ece921c
-  md5_5: 9a7ec
-  md5_6: 9a7ece
-  oomp_key: oomp_connector_rj45_amphenol_rjmg1bd3b8k1anr
-  oomp_key_extra: oomp_symbol_connector_rj45_amphenol_rjmg1bd3b8k1anr
-  oomp_key_full: oomp_symbol_connector_rj45_amphenol_rjmg1bd3b8k1anr_9a7ece
-  oomp_key_simple: connector_rj45_amphenol_rjmg1bd3b8k1anr
+  md5: b41fb44e69ce8232050653d788fe5ac8
+  md5_10: b41fb44e69
+  md5_5: b41fb
+  md5_6: b41fb4
+  oomp_key: oomp_rj45_amphenol_rjmg1bd3b8k1anr
+  oomp_key_extra: oomp_symbol_rj45_amphenol_rjmg1bd3b8k1anr
+  oomp_key_full: oomp_symbol_rj45_amphenol_rjmg1bd3b8k1anr_b41fb4
+  oomp_key_simple: rj45_amphenol_rjmg1bd3b8k1anr
   owner_name: kicad
-  symbol_name: connector_rj45_amphenol_rjmg1bd3b8k1anr
+  symbol_name: rj45_amphenol_rjmg1bd3b8k1anr
 oomp_key: oomp_kicad_connector_rj45_amphenol_rjmg1bd3b8k1anr
 oomp_key_simple: kicad_connector_rj45_amphenol_rjmg1bd3b8k1anr
 owner: kicad

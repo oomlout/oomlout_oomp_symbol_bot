@@ -1,3 +1,5 @@
+id: kicad_mcu_microchip_atmega_atxmega8e5_m
+library: mcu_microchip_atmega
 library_name: MCU_Microchip_ATmega
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_microchip_atmega_atxmega8e5_m/working
   oomp_src_flat: symbols_flat/kicad_mcu_microchip_atmega_atxmega8e5_m/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_microchip_atmega_atxmega8e5_m/working
-name: mcu_microchip_atmega_atxmega8e5_m
+name: atxmega8e5_m
 oomp:
   library_name: mcu_microchip_atmega
-  md5: fdc9f81d0ec6009ed7393c748f13775a
-  md5_10: fdc9f81d0e
-  md5_5: fdc9f
-  md5_6: fdc9f8
-  oomp_key: oomp_mcu_microchip_atmega_atxmega8e5_m
-  oomp_key_extra: oomp_symbol_mcu_microchip_atmega_atxmega8e5_m
-  oomp_key_full: oomp_symbol_mcu_microchip_atmega_atxmega8e5_m_fdc9f8
-  oomp_key_simple: mcu_microchip_atmega_atxmega8e5_m
+  md5: 630df8dca887229f084bf6e8e6046948
+  md5_10: 630df8dca8
+  md5_5: 630df
+  md5_6: 630df8
+  oomp_key: oomp_atxmega8e5_m
+  oomp_key_extra: oomp_symbol_atxmega8e5_m
+  oomp_key_full: oomp_symbol_atxmega8e5_m_630df8
+  oomp_key_simple: atxmega8e5_m
   owner_name: kicad
-  symbol_name: mcu_microchip_atmega_atxmega8e5_m
+  symbol_name: atxmega8e5_m
 oomp_key: oomp_kicad_mcu_microchip_atmega_atxmega8e5_m
 oomp_key_simple: kicad_mcu_microchip_atmega_atxmega8e5_m
 owner: kicad

@@ -1,3 +1,5 @@
+id: arturo182_rf_module_extra_esp32_pico_d4
+library: rf_module_extra
 library_name: RF_Module_Extra
 links:
   github_owner: arturo182
@@ -10,19 +12,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/arturo182_rf_module_extra_esp32_pico_d4/working
   oomp_src_flat: symbols_flat/arturo182_rf_module_extra_esp32_pico_d4/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/arturo182_rf_module_extra_esp32_pico_d4/working
-name: rf_module_extra_esp32_pico_d4
+name: esp32_pico_d4
 oomp:
   library_name: rf_module_extra
-  md5: c4f3defc393511b87b3f97287d4cc97e
-  md5_10: c4f3defc39
-  md5_5: c4f3d
-  md5_6: c4f3de
-  oomp_key: oomp_rf_module_extra_esp32_pico_d4
-  oomp_key_extra: oomp_symbol_rf_module_extra_esp32_pico_d4
-  oomp_key_full: oomp_symbol_rf_module_extra_esp32_pico_d4_c4f3de
-  oomp_key_simple: rf_module_extra_esp32_pico_d4
+  md5: 63175015c4532e7fa124afa9674da17b
+  md5_10: 63175015c4
+  md5_5: '63175'
+  md5_6: '631750'
+  oomp_key: oomp_esp32_pico_d4
+  oomp_key_extra: oomp_symbol_esp32_pico_d4
+  oomp_key_full: oomp_symbol_esp32_pico_d4_631750
+  oomp_key_simple: esp32_pico_d4
   owner_name: arturo182
-  symbol_name: rf_module_extra_esp32_pico_d4
+  symbol_name: esp32_pico_d4
 oomp_key: oomp_arturo182_rf_module_extra_esp32_pico_d4
 oomp_key_simple: arturo182_rf_module_extra_esp32_pico_d4
 owner: arturo182

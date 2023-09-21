@@ -1,16 +1,20 @@
+id: kicad_transistor_fet_fdms86152
+library: transistor_fet
 library_name: Transistor_FET
+name: fdms86152
 oomp:
   library_name: transistor_fet
-  md5: 25c76218183d1d13cf339d6229a89d3b
-  md5_10: 25c7621818
-  md5_5: 25c76
-  md5_6: 25c762
-  oomp_key: oomp_transistor_fet_fdms86152
-  oomp_key_extra: oomp_symbol_transistor_fet_fdms86152
-  oomp_key_full: oomp_symbol_transistor_fet_fdms86152_25c762
-  oomp_key_simple: transistor_fet_fdms86152
+  md5: eba25208be7b90e47737490dc88e77ec
+  md5_10: eba25208be
+  md5_5: eba25
+  md5_6: eba252
+  oomp_key: oomp_fdms86152
+  oomp_key_extra: oomp_symbol_fdms86152
+  oomp_key_full: oomp_symbol_fdms86152_eba252
+  oomp_key_simple: fdms86152
   owner_name: kicad
-  symbol_name: transistor_fet_fdms86152
+  symbol_name: fdms86152
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

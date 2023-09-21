@@ -1,16 +1,20 @@
+id: kicad_amplifier_operational_lm318h
+library: amplifier_operational
 library_name: Amplifier_Operational
+name: lm318h
 oomp:
   library_name: amplifier_operational
-  md5: 3e62799f2a5696c8a289937097f6a1fb
-  md5_10: 3e62799f2a
-  md5_5: 3e627
-  md5_6: 3e6279
-  oomp_key: oomp_amplifier_operational_lm318h
-  oomp_key_extra: oomp_symbol_amplifier_operational_lm318h
-  oomp_key_full: oomp_symbol_amplifier_operational_lm318h_3e6279
-  oomp_key_simple: amplifier_operational_lm318h
+  md5: 092100689f28638a4fbd6f4bd524ad3c
+  md5_10: 092100689f
+  md5_5: 09210
+  md5_6: 092100
+  oomp_key: oomp_lm318h
+  oomp_key_extra: oomp_symbol_lm318h
+  oomp_key_full: oomp_symbol_lm318h_092100
+  oomp_key_simple: lm318h
   owner_name: kicad
-  symbol_name: amplifier_operational_lm318h
+  symbol_name: lm318h
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

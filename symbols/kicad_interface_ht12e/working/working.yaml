@@ -1,3 +1,5 @@
+id: kicad_interface_ht12e
+library: interface
 library_name: Interface
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_ht12e/working
   oomp_src_flat: symbols_flat/kicad_interface_ht12e/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_ht12e/working
-name: interface_ht12e
+name: ht12e
 oomp:
   library_name: interface
-  md5: 4b5895a0ce157fa6998d0b753d83ff84
-  md5_10: 4b5895a0ce
-  md5_5: 4b589
-  md5_6: 4b5895
-  oomp_key: oomp_interface_ht12e
-  oomp_key_extra: oomp_symbol_interface_ht12e
-  oomp_key_full: oomp_symbol_interface_ht12e_4b5895
-  oomp_key_simple: interface_ht12e
+  md5: eac63c187f7afa37ec2f9b5b15ac4598
+  md5_10: eac63c187f
+  md5_5: eac63
+  md5_6: eac63c
+  oomp_key: oomp_ht12e
+  oomp_key_extra: oomp_symbol_ht12e
+  oomp_key_full: oomp_symbol_ht12e_eac63c
+  oomp_key_simple: ht12e
   owner_name: kicad
-  symbol_name: interface_ht12e
+  symbol_name: ht12e
 oomp_key: oomp_kicad_interface_ht12e
 oomp_key_simple: kicad_interface_ht12e
 owner: kicad

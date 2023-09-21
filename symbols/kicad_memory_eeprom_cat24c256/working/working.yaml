@@ -1,16 +1,20 @@
+id: kicad_memory_eeprom_cat24c256
+library: memory_eeprom
 library_name: Memory_EEPROM
+name: cat24c256
 oomp:
   library_name: memory_eeprom
-  md5: 27ceb2a87bd05c52d18120834a1b734f
-  md5_10: 27ceb2a87b
-  md5_5: 27ceb
-  md5_6: 27ceb2
-  oomp_key: oomp_memory_eeprom_cat24c256
-  oomp_key_extra: oomp_symbol_memory_eeprom_cat24c256
-  oomp_key_full: oomp_symbol_memory_eeprom_cat24c256_27ceb2
-  oomp_key_simple: memory_eeprom_cat24c256
+  md5: 9b6ff56df0f76f5329be09faaef6ed7b
+  md5_10: 9b6ff56df0
+  md5_5: 9b6ff
+  md5_6: 9b6ff5
+  oomp_key: oomp_cat24c256
+  oomp_key_extra: oomp_symbol_cat24c256
+  oomp_key_full: oomp_symbol_cat24c256_9b6ff5
+  oomp_key_simple: cat24c256
   owner_name: kicad
-  symbol_name: memory_eeprom_cat24c256
+  symbol_name: cat24c256
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

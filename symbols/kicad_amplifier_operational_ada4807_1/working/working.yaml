@@ -1,3 +1,5 @@
+id: kicad_amplifier_operational_ada4807_1
+library: amplifier_operational
 library_name: Amplifier_Operational
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_operational_ada4807_1/working
   oomp_src_flat: symbols_flat/kicad_amplifier_operational_ada4807_1/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_operational_ada4807_1/working
-name: amplifier_operational_ada4807_1
+name: ada4807_1
 oomp:
   library_name: amplifier_operational
-  md5: 853e8247d81f333169d1ba37c13a01e8
-  md5_10: 853e8247d8
-  md5_5: 853e8
-  md5_6: 853e82
-  oomp_key: oomp_amplifier_operational_ada4807_1
-  oomp_key_extra: oomp_symbol_amplifier_operational_ada4807_1
-  oomp_key_full: oomp_symbol_amplifier_operational_ada4807_1_853e82
-  oomp_key_simple: amplifier_operational_ada4807_1
+  md5: 8e059b4921a447949341c2bbd7ee5510
+  md5_10: 8e059b4921
+  md5_5: 8e059
+  md5_6: 8e059b
+  oomp_key: oomp_ada4807_1
+  oomp_key_extra: oomp_symbol_ada4807_1
+  oomp_key_full: oomp_symbol_ada4807_1_8e059b
+  oomp_key_simple: ada4807_1
   owner_name: kicad
-  symbol_name: amplifier_operational_ada4807_1
+  symbol_name: ada4807_1
 oomp_key: oomp_kicad_amplifier_operational_ada4807_1
 oomp_key_simple: kicad_amplifier_operational_ada4807_1
 owner: kicad

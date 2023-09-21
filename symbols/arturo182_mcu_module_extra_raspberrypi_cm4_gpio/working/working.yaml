@@ -1,3 +1,5 @@
+id: arturo182_mcu_module_extra_raspberrypi_cm4_gpio
+library: mcu_module_extra
 library_name: MCU_Module_Extra
 links:
   github_owner: arturo182
@@ -10,19 +12,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/arturo182_mcu_module_extra_raspberrypi_cm4_gpio/working
   oomp_src_flat: symbols_flat/arturo182_mcu_module_extra_raspberrypi_cm4_gpio/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/arturo182_mcu_module_extra_raspberrypi_cm4_gpio/working
-name: mcu_module_extra_raspberrypi_cm4_gpio
+name: raspberrypi_cm4_gpio
 oomp:
   library_name: mcu_module_extra
-  md5: 24c892ab3ea4443a49cda0befb400d85
-  md5_10: 24c892ab3e
-  md5_5: 24c89
-  md5_6: 24c892
-  oomp_key: oomp_mcu_module_extra_raspberrypi_cm4_gpio
-  oomp_key_extra: oomp_symbol_mcu_module_extra_raspberrypi_cm4_gpio
-  oomp_key_full: oomp_symbol_mcu_module_extra_raspberrypi_cm4_gpio_24c892
-  oomp_key_simple: mcu_module_extra_raspberrypi_cm4_gpio
+  md5: 44ed2ffa4c4f3590a50235d82603b932
+  md5_10: 44ed2ffa4c
+  md5_5: 44ed2
+  md5_6: 44ed2f
+  oomp_key: oomp_raspberrypi_cm4_gpio
+  oomp_key_extra: oomp_symbol_raspberrypi_cm4_gpio
+  oomp_key_full: oomp_symbol_raspberrypi_cm4_gpio_44ed2f
+  oomp_key_simple: raspberrypi_cm4_gpio
   owner_name: arturo182
-  symbol_name: mcu_module_extra_raspberrypi_cm4_gpio
+  symbol_name: raspberrypi_cm4_gpio
 oomp_key: oomp_arturo182_mcu_module_extra_raspberrypi_cm4_gpio
 oomp_key_simple: arturo182_mcu_module_extra_raspberrypi_cm4_gpio
 owner: arturo182

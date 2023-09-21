@@ -1,3 +1,5 @@
+id: kicad_comparator_mcp6561r
+library: comparator
 library_name: Comparator
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_comparator_mcp6561r/working
   oomp_src_flat: symbols_flat/kicad_comparator_mcp6561r/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_comparator_mcp6561r/working
-name: comparator_mcp6561r
+name: mcp6561r
 oomp:
   library_name: comparator
-  md5: 5948ad2aaae27e23e96cabec7035b67e
-  md5_10: 5948ad2aaa
-  md5_5: 5948a
-  md5_6: 5948ad
-  oomp_key: oomp_comparator_mcp6561r
-  oomp_key_extra: oomp_symbol_comparator_mcp6561r
-  oomp_key_full: oomp_symbol_comparator_mcp6561r_5948ad
-  oomp_key_simple: comparator_mcp6561r
+  md5: e5fd09046c36f6e0fb62a8fe85f1c695
+  md5_10: e5fd09046c
+  md5_5: e5fd0
+  md5_6: e5fd09
+  oomp_key: oomp_mcp6561r
+  oomp_key_extra: oomp_symbol_mcp6561r
+  oomp_key_full: oomp_symbol_mcp6561r_e5fd09
+  oomp_key_simple: mcp6561r
   owner_name: kicad
-  symbol_name: comparator_mcp6561r
+  symbol_name: mcp6561r
 oomp_key: oomp_kicad_comparator_mcp6561r
 oomp_key_simple: kicad_comparator_mcp6561r
 owner: kicad

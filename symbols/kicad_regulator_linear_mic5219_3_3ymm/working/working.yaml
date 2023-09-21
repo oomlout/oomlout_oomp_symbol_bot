@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_mic5219_3_3ymm
+library: regulator_linear
 library_name: Regulator_Linear
+name: mic5219_3_3ymm
 oomp:
   library_name: regulator_linear
-  md5: 52287b544db06c2c609cb404a1914188
-  md5_10: 52287b544d
-  md5_5: '52287'
-  md5_6: 52287b
-  oomp_key: oomp_regulator_linear_mic5219_3_3ymm
-  oomp_key_extra: oomp_symbol_regulator_linear_mic5219_3_3ymm
-  oomp_key_full: oomp_symbol_regulator_linear_mic5219_3_3ymm_52287b
-  oomp_key_simple: regulator_linear_mic5219_3_3ymm
+  md5: a1213aec7d77b9ffbeec5985fe817fba
+  md5_10: a1213aec7d
+  md5_5: a1213
+  md5_6: a1213a
+  oomp_key: oomp_mic5219_3_3ymm
+  oomp_key_extra: oomp_symbol_mic5219_3_3ymm
+  oomp_key_full: oomp_symbol_mic5219_3_3ymm_a1213a
+  oomp_key_simple: mic5219_3_3ymm
   owner_name: kicad
-  symbol_name: regulator_linear_mic5219_3_3ymm
+  symbol_name: mic5219_3_3ymm
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

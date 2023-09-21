@@ -1,16 +1,20 @@
+id: kicad_amplifier_operational_ada4610_1xrj
+library: amplifier_operational
 library_name: Amplifier_Operational
+name: ada4610_1xrj
 oomp:
   library_name: amplifier_operational
-  md5: 488f39d4eef62d26459a026d7053ead1
-  md5_10: 488f39d4ee
-  md5_5: 488f3
-  md5_6: 488f39
-  oomp_key: oomp_amplifier_operational_ada4610_1xrj
-  oomp_key_extra: oomp_symbol_amplifier_operational_ada4610_1xrj
-  oomp_key_full: oomp_symbol_amplifier_operational_ada4610_1xrj_488f39
-  oomp_key_simple: amplifier_operational_ada4610_1xrj
+  md5: 40814481618a7625c40fa8c0cc73f719
+  md5_10: '4081448161'
+  md5_5: '40814'
+  md5_6: '408144'
+  oomp_key: oomp_ada4610_1xrj
+  oomp_key_extra: oomp_symbol_ada4610_1xrj
+  oomp_key_full: oomp_symbol_ada4610_1xrj_408144
+  oomp_key_simple: ada4610_1xrj
   owner_name: kicad
-  symbol_name: amplifier_operational_ada4610_1xrj
+  symbol_name: ada4610_1xrj
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_mcu_cypress_cy8c4247lqi_bl473
+library: mcu_cypress
 library_name: MCU_Cypress
+name: cy8c4247lqi_bl473
 oomp:
   library_name: mcu_cypress
-  md5: 7a3134489789fc8a6485e4828f66800e
-  md5_10: 7a31344897
-  md5_5: 7a313
-  md5_6: 7a3134
-  oomp_key: oomp_mcu_cypress_cy8c4247lqi_bl473
-  oomp_key_extra: oomp_symbol_mcu_cypress_cy8c4247lqi_bl473
-  oomp_key_full: oomp_symbol_mcu_cypress_cy8c4247lqi_bl473_7a3134
-  oomp_key_simple: mcu_cypress_cy8c4247lqi_bl473
+  md5: 9ce51761f61b1a0c5df7b4fe55a6b488
+  md5_10: 9ce51761f6
+  md5_5: 9ce51
+  md5_6: 9ce517
+  oomp_key: oomp_cy8c4247lqi_bl473
+  oomp_key_extra: oomp_symbol_cy8c4247lqi_bl473
+  oomp_key_full: oomp_symbol_cy8c4247lqi_bl473_9ce517
+  oomp_key_simple: cy8c4247lqi_bl473
   owner_name: kicad
-  symbol_name: mcu_cypress_cy8c4247lqi_bl473
+  symbol_name: cy8c4247lqi_bl473
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

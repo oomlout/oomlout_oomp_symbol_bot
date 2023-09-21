@@ -1,3 +1,5 @@
+id: kicad_regulator_switching_lt3430
+library: regulator_switching
 library_name: Regulator_Switching
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_lt3430/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_lt3430/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_lt3430/working
-name: regulator_switching_lt3430
+name: lt3430
 oomp:
   library_name: regulator_switching
-  md5: eb80823cfa80d1d97f9a42e564b801aa
-  md5_10: eb80823cfa
-  md5_5: eb808
-  md5_6: eb8082
-  oomp_key: oomp_regulator_switching_lt3430
-  oomp_key_extra: oomp_symbol_regulator_switching_lt3430
-  oomp_key_full: oomp_symbol_regulator_switching_lt3430_eb8082
-  oomp_key_simple: regulator_switching_lt3430
+  md5: cde00f8fa2fff7c6adba9ef2ef3694cf
+  md5_10: cde00f8fa2
+  md5_5: cde00
+  md5_6: cde00f
+  oomp_key: oomp_lt3430
+  oomp_key_extra: oomp_symbol_lt3430
+  oomp_key_full: oomp_symbol_lt3430_cde00f
+  oomp_key_simple: lt3430
   owner_name: kicad
-  symbol_name: regulator_switching_lt3430
+  symbol_name: lt3430
 oomp_key: oomp_kicad_regulator_switching_lt3430
 oomp_key_simple: kicad_regulator_switching_lt3430
 owner: kicad

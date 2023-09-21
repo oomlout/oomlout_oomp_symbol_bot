@@ -1,16 +1,20 @@
+id: kicad_potentiometer_digital_tpl0401b_10_q1
+library: potentiometer_digital
 library_name: Potentiometer_Digital
+name: tpl0401b_10_q1
 oomp:
   library_name: potentiometer_digital
-  md5: e38d7d808bee464d50475f578e6f2e23
-  md5_10: e38d7d808b
-  md5_5: e38d7
-  md5_6: e38d7d
-  oomp_key: oomp_potentiometer_digital_tpl0401b_10_q1
-  oomp_key_extra: oomp_symbol_potentiometer_digital_tpl0401b_10_q1
-  oomp_key_full: oomp_symbol_potentiometer_digital_tpl0401b_10_q1_e38d7d
-  oomp_key_simple: potentiometer_digital_tpl0401b_10_q1
+  md5: d54642b563de0a45ae49cc963933f08a
+  md5_10: d54642b563
+  md5_5: d5464
+  md5_6: d54642
+  oomp_key: oomp_tpl0401b_10_q1
+  oomp_key_extra: oomp_symbol_tpl0401b_10_q1
+  oomp_key_full: oomp_symbol_tpl0401b_10_q1_d54642
+  oomp_key_simple: tpl0401b_10_q1
   owner_name: kicad
-  symbol_name: potentiometer_digital_tpl0401b_10_q1
+  symbol_name: tpl0401b_10_q1
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

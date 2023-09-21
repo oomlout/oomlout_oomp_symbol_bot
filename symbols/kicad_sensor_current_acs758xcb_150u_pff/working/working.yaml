@@ -1,16 +1,20 @@
+id: kicad_sensor_current_acs758xcb_150u_pff
+library: sensor_current
 library_name: Sensor_Current
+name: acs758xcb_150u_pff
 oomp:
   library_name: sensor_current
-  md5: 136c4afcd81bae968fe0bab830067fc3
-  md5_10: 136c4afcd8
-  md5_5: 136c4
-  md5_6: 136c4a
-  oomp_key: oomp_sensor_current_acs758xcb_150u_pff
-  oomp_key_extra: oomp_symbol_sensor_current_acs758xcb_150u_pff
-  oomp_key_full: oomp_symbol_sensor_current_acs758xcb_150u_pff_136c4a
-  oomp_key_simple: sensor_current_acs758xcb_150u_pff
+  md5: 4c0825f6fedd788237cf8f12187db5ae
+  md5_10: 4c0825f6fe
+  md5_5: 4c082
+  md5_6: 4c0825
+  oomp_key: oomp_acs758xcb_150u_pff
+  oomp_key_extra: oomp_symbol_acs758xcb_150u_pff
+  oomp_key_full: oomp_symbol_acs758xcb_150u_pff_4c0825
+  oomp_key_simple: acs758xcb_150u_pff
   owner_name: kicad
-  symbol_name: sensor_current_acs758xcb_150u_pff
+  symbol_name: acs758xcb_150u_pff
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

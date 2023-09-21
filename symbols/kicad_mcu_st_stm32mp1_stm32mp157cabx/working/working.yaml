@@ -1,3 +1,5 @@
+id: kicad_mcu_st_stm32mp1_stm32mp157cabx
+library: mcu_st_stm32mp1
 library_name: MCU_ST_STM32MP1
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_st_stm32mp1_stm32mp157cabx/working
   oomp_src_flat: symbols_flat/kicad_mcu_st_stm32mp1_stm32mp157cabx/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_st_stm32mp1_stm32mp157cabx/working
-name: mcu_st_stm32mp1_stm32mp157cabx
+name: stm32mp157cabx
 oomp:
   library_name: mcu_st_stm32mp1
-  md5: 67ba593eeefa2f06479ecdb98665efa1
-  md5_10: 67ba593eee
-  md5_5: 67ba5
-  md5_6: 67ba59
-  oomp_key: oomp_mcu_st_stm32mp1_stm32mp157cabx
-  oomp_key_extra: oomp_symbol_mcu_st_stm32mp1_stm32mp157cabx
-  oomp_key_full: oomp_symbol_mcu_st_stm32mp1_stm32mp157cabx_67ba59
-  oomp_key_simple: mcu_st_stm32mp1_stm32mp157cabx
+  md5: fa6f5bb07d859ca6f77b9eb1713b4372
+  md5_10: fa6f5bb07d
+  md5_5: fa6f5
+  md5_6: fa6f5b
+  oomp_key: oomp_stm32mp157cabx
+  oomp_key_extra: oomp_symbol_stm32mp157cabx
+  oomp_key_full: oomp_symbol_stm32mp157cabx_fa6f5b
+  oomp_key_simple: stm32mp157cabx
   owner_name: kicad
-  symbol_name: mcu_st_stm32mp1_stm32mp157cabx
+  symbol_name: stm32mp157cabx
 oomp_key: oomp_kicad_mcu_st_stm32mp1_stm32mp157cabx
 oomp_key_simple: kicad_mcu_st_stm32mp1_stm32mp157cabx
 owner: kicad

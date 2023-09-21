@@ -1,3 +1,5 @@
+id: kicad_mcu_microchip_pic24_pic24fj64ga306_xpt
+library: mcu_microchip_pic24
 library_name: MCU_Microchip_PIC24
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_microchip_pic24_pic24fj64ga306_xpt/working
   oomp_src_flat: symbols_flat/kicad_mcu_microchip_pic24_pic24fj64ga306_xpt/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_microchip_pic24_pic24fj64ga306_xpt/working
-name: mcu_microchip_pic24_pic24fj64ga306_xpt
+name: pic24fj64ga306_xpt
 oomp:
   library_name: mcu_microchip_pic24
-  md5: 418afc726f193853c12e85eff2a478f0
-  md5_10: 418afc726f
-  md5_5: 418af
-  md5_6: 418afc
-  oomp_key: oomp_mcu_microchip_pic24_pic24fj64ga306_xpt
-  oomp_key_extra: oomp_symbol_mcu_microchip_pic24_pic24fj64ga306_xpt
-  oomp_key_full: oomp_symbol_mcu_microchip_pic24_pic24fj64ga306_xpt_418afc
-  oomp_key_simple: mcu_microchip_pic24_pic24fj64ga306_xpt
+  md5: b58cc77788282e2c8924805864bf5f4e
+  md5_10: b58cc77788
+  md5_5: b58cc
+  md5_6: b58cc7
+  oomp_key: oomp_pic24fj64ga306_xpt
+  oomp_key_extra: oomp_symbol_pic24fj64ga306_xpt
+  oomp_key_full: oomp_symbol_pic24fj64ga306_xpt_b58cc7
+  oomp_key_simple: pic24fj64ga306_xpt
   owner_name: kicad
-  symbol_name: mcu_microchip_pic24_pic24fj64ga306_xpt
+  symbol_name: pic24fj64ga306_xpt
 oomp_key: oomp_kicad_mcu_microchip_pic24_pic24fj64ga306_xpt
 oomp_key_simple: kicad_mcu_microchip_pic24_pic24fj64ga306_xpt
 owner: kicad

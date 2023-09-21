@@ -1,16 +1,20 @@
+id: kicad_amplifier_operational_lm358
+library: amplifier_operational
 library_name: Amplifier_Operational
+name: lm358
 oomp:
   library_name: amplifier_operational
-  md5: 551fdb69431cfe81e4eef24e42c932c2
-  md5_10: 551fdb6943
-  md5_5: 551fd
-  md5_6: 551fdb
-  oomp_key: oomp_amplifier_operational_lm358
-  oomp_key_extra: oomp_symbol_amplifier_operational_lm358
-  oomp_key_full: oomp_symbol_amplifier_operational_lm358_551fdb
-  oomp_key_simple: amplifier_operational_lm358
+  md5: b345cdeef0f1b5db1f1d8f8433f15cfa
+  md5_10: b345cdeef0
+  md5_5: b345c
+  md5_6: b345cd
+  oomp_key: oomp_lm358
+  oomp_key_extra: oomp_symbol_lm358
+  oomp_key_full: oomp_symbol_lm358_b345cd
+  oomp_key_simple: lm358
   owner_name: kicad
-  symbol_name: amplifier_operational_lm358
+  symbol_name: lm358
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,3 +1,5 @@
+id: kicad_connector_barrel_jack_switch_pin3ring
+library: connector
 library_name: Connector
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_barrel_jack_switch_pin3ring/working
   oomp_src_flat: symbols_flat/kicad_connector_barrel_jack_switch_pin3ring/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_barrel_jack_switch_pin3ring/working
-name: connector_barrel_jack_switch_pin3ring
+name: barrel_jack_switch_pin3ring
 oomp:
   library_name: connector
-  md5: 10cdec20c73a5cbe712ebfe1dcf8cd07
-  md5_10: 10cdec20c7
-  md5_5: 10cde
-  md5_6: 10cdec
-  oomp_key: oomp_connector_barrel_jack_switch_pin3ring
-  oomp_key_extra: oomp_symbol_connector_barrel_jack_switch_pin3ring
-  oomp_key_full: oomp_symbol_connector_barrel_jack_switch_pin3ring_10cdec
-  oomp_key_simple: connector_barrel_jack_switch_pin3ring
+  md5: 9e03d7cf28485401817f4c0fad3e2f68
+  md5_10: 9e03d7cf28
+  md5_5: 9e03d
+  md5_6: 9e03d7
+  oomp_key: oomp_barrel_jack_switch_pin3ring
+  oomp_key_extra: oomp_symbol_barrel_jack_switch_pin3ring
+  oomp_key_full: oomp_symbol_barrel_jack_switch_pin3ring_9e03d7
+  oomp_key_simple: barrel_jack_switch_pin3ring
   owner_name: kicad
-  symbol_name: connector_barrel_jack_switch_pin3ring
+  symbol_name: barrel_jack_switch_pin3ring
 oomp_key: oomp_kicad_connector_barrel_jack_switch_pin3ring
 oomp_key_simple: kicad_connector_barrel_jack_switch_pin3ring
 owner: kicad

@@ -1,16 +1,20 @@
+id: kicad_display_character_sa39_12srwa
+library: display_character
 library_name: Display_Character
+name: sa39_12srwa
 oomp:
   library_name: display_character
-  md5: 4df9d238f59fc3efbf09a768ac615ae9
-  md5_10: 4df9d238f5
-  md5_5: 4df9d
-  md5_6: 4df9d2
-  oomp_key: oomp_display_character_sa39_12srwa
-  oomp_key_extra: oomp_symbol_display_character_sa39_12srwa
-  oomp_key_full: oomp_symbol_display_character_sa39_12srwa_4df9d2
-  oomp_key_simple: display_character_sa39_12srwa
+  md5: 3ca5c89742f2e2a1c6efc218f1965677
+  md5_10: 3ca5c89742
+  md5_5: 3ca5c
+  md5_6: 3ca5c8
+  oomp_key: oomp_sa39_12srwa
+  oomp_key_extra: oomp_symbol_sa39_12srwa
+  oomp_key_full: oomp_symbol_sa39_12srwa_3ca5c8
+  oomp_key_simple: sa39_12srwa
   owner_name: kicad
-  symbol_name: display_character_sa39_12srwa
+  symbol_name: sa39_12srwa
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,3 +1,5 @@
+id: arturo182_display_graphic_extra_er_tft013_1
+library: display_graphic_extra
 library_name: Display_Graphic_Extra
 links:
   github_owner: arturo182
@@ -10,19 +12,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/arturo182_display_graphic_extra_er_tft013_1/working
   oomp_src_flat: symbols_flat/arturo182_display_graphic_extra_er_tft013_1/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/arturo182_display_graphic_extra_er_tft013_1/working
-name: display_graphic_extra_er_tft013_1
+name: er_tft013_1
 oomp:
   library_name: display_graphic_extra
-  md5: 22e9c8b540cce17d5b0a61f6f19d8f04
-  md5_10: 22e9c8b540
-  md5_5: 22e9c
-  md5_6: 22e9c8
-  oomp_key: oomp_display_graphic_extra_er_tft013_1
-  oomp_key_extra: oomp_symbol_display_graphic_extra_er_tft013_1
-  oomp_key_full: oomp_symbol_display_graphic_extra_er_tft013_1_22e9c8
-  oomp_key_simple: display_graphic_extra_er_tft013_1
+  md5: 7befb5d9fd2e8ef4411ec99d3bc24472
+  md5_10: 7befb5d9fd
+  md5_5: 7befb
+  md5_6: 7befb5
+  oomp_key: oomp_er_tft013_1
+  oomp_key_extra: oomp_symbol_er_tft013_1
+  oomp_key_full: oomp_symbol_er_tft013_1_7befb5
+  oomp_key_simple: er_tft013_1
   owner_name: arturo182
-  symbol_name: display_graphic_extra_er_tft013_1
+  symbol_name: er_tft013_1
 oomp_key: oomp_arturo182_display_graphic_extra_er_tft013_1
 oomp_key_simple: arturo182_display_graphic_extra_er_tft013_1
 owner: arturo182

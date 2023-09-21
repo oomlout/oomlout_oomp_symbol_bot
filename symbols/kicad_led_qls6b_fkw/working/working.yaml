@@ -1,16 +1,20 @@
+id: kicad_led_qls6b_fkw
+library: led
 library_name: LED
+name: qls6b_fkw
 oomp:
   library_name: led
-  md5: dceb9fecc0997bdf6a0fd5871f1a2e8f
-  md5_10: dceb9fecc0
-  md5_5: dceb9
-  md5_6: dceb9f
-  oomp_key: oomp_led_qls6b_fkw
-  oomp_key_extra: oomp_symbol_led_qls6b_fkw
-  oomp_key_full: oomp_symbol_led_qls6b_fkw_dceb9f
-  oomp_key_simple: led_qls6b_fkw
+  md5: fd62738c002854ccb5e16dd58e179058
+  md5_10: fd62738c00
+  md5_5: fd627
+  md5_6: fd6273
+  oomp_key: oomp_qls6b_fkw
+  oomp_key_extra: oomp_symbol_qls6b_fkw
+  oomp_key_full: oomp_symbol_qls6b_fkw_fd6273
+  oomp_key_simple: qls6b_fkw
   owner_name: kicad
-  symbol_name: led_qls6b_fkw
+  symbol_name: qls6b_fkw
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

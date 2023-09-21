@@ -1,16 +1,20 @@
+id: kicad_sensor_current_acs722xmatr_20ab
+library: sensor_current
 library_name: Sensor_Current
+name: acs722xmatr_20ab
 oomp:
   library_name: sensor_current
-  md5: 812bda684c65e4aefd03cf454703af7c
-  md5_10: 812bda684c
-  md5_5: 812bd
-  md5_6: 812bda
-  oomp_key: oomp_sensor_current_acs722xmatr_20ab
-  oomp_key_extra: oomp_symbol_sensor_current_acs722xmatr_20ab
-  oomp_key_full: oomp_symbol_sensor_current_acs722xmatr_20ab_812bda
-  oomp_key_simple: sensor_current_acs722xmatr_20ab
+  md5: 80f1fa59f7393d3a89c75f4edf42fc4b
+  md5_10: 80f1fa59f7
+  md5_5: 80f1f
+  md5_6: 80f1fa
+  oomp_key: oomp_acs722xmatr_20ab
+  oomp_key_extra: oomp_symbol_acs722xmatr_20ab
+  oomp_key_full: oomp_symbol_acs722xmatr_20ab_80f1fa
+  oomp_key_simple: acs722xmatr_20ab
   owner_name: kicad
-  symbol_name: sensor_current_acs722xmatr_20ab
+  symbol_name: acs722xmatr_20ab
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

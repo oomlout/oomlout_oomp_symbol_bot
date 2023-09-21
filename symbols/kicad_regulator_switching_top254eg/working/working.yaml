@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_top254eg
+library: regulator_switching
 library_name: Regulator_Switching
+name: top254eg
 oomp:
   library_name: regulator_switching
-  md5: 885c45b7692eee868921072a43d438b9
-  md5_10: 885c45b769
-  md5_5: 885c4
-  md5_6: 885c45
-  oomp_key: oomp_regulator_switching_top254eg
-  oomp_key_extra: oomp_symbol_regulator_switching_top254eg
-  oomp_key_full: oomp_symbol_regulator_switching_top254eg_885c45
-  oomp_key_simple: regulator_switching_top254eg
+  md5: a16f8a1f2f39713bd2d05203d477ea0f
+  md5_10: a16f8a1f2f
+  md5_5: a16f8
+  md5_6: a16f8a
+  oomp_key: oomp_top254eg
+  oomp_key_extra: oomp_symbol_top254eg
+  oomp_key_full: oomp_symbol_top254eg_a16f8a
+  oomp_key_simple: top254eg
   owner_name: kicad
-  symbol_name: regulator_switching_top254eg
+  symbol_name: top254eg
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

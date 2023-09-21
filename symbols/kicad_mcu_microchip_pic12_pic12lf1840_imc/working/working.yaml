@@ -1,16 +1,20 @@
+id: kicad_mcu_microchip_pic12_pic12lf1840_imc
+library: mcu_microchip_pic12
 library_name: MCU_Microchip_PIC12
+name: pic12lf1840_imc
 oomp:
   library_name: mcu_microchip_pic12
-  md5: f13374898eb66738a4c15d9b6aa947c0
-  md5_10: f13374898e
-  md5_5: f1337
-  md5_6: f13374
-  oomp_key: oomp_mcu_microchip_pic12_pic12lf1840_imc
-  oomp_key_extra: oomp_symbol_mcu_microchip_pic12_pic12lf1840_imc
-  oomp_key_full: oomp_symbol_mcu_microchip_pic12_pic12lf1840_imc_f13374
-  oomp_key_simple: mcu_microchip_pic12_pic12lf1840_imc
+  md5: d46f45294078f26a8b4176a108101380
+  md5_10: d46f452940
+  md5_5: d46f4
+  md5_6: d46f45
+  oomp_key: oomp_pic12lf1840_imc
+  oomp_key_extra: oomp_symbol_pic12lf1840_imc
+  oomp_key_full: oomp_symbol_pic12lf1840_imc_d46f45
+  oomp_key_simple: pic12lf1840_imc
   owner_name: kicad
-  symbol_name: mcu_microchip_pic12_pic12lf1840_imc
+  symbol_name: pic12lf1840_imc
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

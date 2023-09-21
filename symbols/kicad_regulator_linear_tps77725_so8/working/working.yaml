@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_tps77725_so8
+library: regulator_linear
 library_name: Regulator_Linear
+name: tps77725_so8
 oomp:
   library_name: regulator_linear
-  md5: dc2495112b5458a154bf86e50a2648eb
-  md5_10: dc2495112b
-  md5_5: dc249
-  md5_6: dc2495
-  oomp_key: oomp_regulator_linear_tps77725_so8
-  oomp_key_extra: oomp_symbol_regulator_linear_tps77725_so8
-  oomp_key_full: oomp_symbol_regulator_linear_tps77725_so8_dc2495
-  oomp_key_simple: regulator_linear_tps77725_so8
+  md5: eef46f286406b4972bd5aab6573942d7
+  md5_10: eef46f2864
+  md5_5: eef46
+  md5_6: eef46f
+  oomp_key: oomp_tps77725_so8
+  oomp_key_extra: oomp_symbol_tps77725_so8
+  oomp_key_full: oomp_symbol_tps77725_so8_eef46f
+  oomp_key_simple: tps77725_so8
   owner_name: kicad
-  symbol_name: regulator_linear_tps77725_so8
+  symbol_name: tps77725_so8
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

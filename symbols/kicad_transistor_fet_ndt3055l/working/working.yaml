@@ -1,16 +1,20 @@
+id: kicad_transistor_fet_ndt3055l
+library: transistor_fet
 library_name: Transistor_FET
+name: ndt3055l
 oomp:
   library_name: transistor_fet
-  md5: 78877027ae0caa1d9e31d623573b3401
-  md5_10: 78877027ae
-  md5_5: '78877'
-  md5_6: '788770'
-  oomp_key: oomp_transistor_fet_ndt3055l
-  oomp_key_extra: oomp_symbol_transistor_fet_ndt3055l
-  oomp_key_full: oomp_symbol_transistor_fet_ndt3055l_788770
-  oomp_key_simple: transistor_fet_ndt3055l
+  md5: 91e8709f5249cf44478c1baf2214444f
+  md5_10: 91e8709f52
+  md5_5: 91e87
+  md5_6: 91e870
+  oomp_key: oomp_ndt3055l
+  oomp_key_extra: oomp_symbol_ndt3055l
+  oomp_key_full: oomp_symbol_ndt3055l_91e870
+  oomp_key_simple: ndt3055l
   owner_name: kicad
-  symbol_name: transistor_fet_ndt3055l
+  symbol_name: ndt3055l
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

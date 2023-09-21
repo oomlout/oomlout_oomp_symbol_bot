@@ -1,16 +1,20 @@
+id: kicad_connector_rj13
+library: connector
 library_name: Connector
+name: rj13
 oomp:
   library_name: connector
-  md5: aa246bdd93ee860b0fc7f5cdbd4d957b
-  md5_10: aa246bdd93
-  md5_5: aa246
-  md5_6: aa246b
-  oomp_key: oomp_connector_rj13
-  oomp_key_extra: oomp_symbol_connector_rj13
-  oomp_key_full: oomp_symbol_connector_rj13_aa246b
-  oomp_key_simple: connector_rj13
+  md5: a1db2e900a870e197694c4b6d6eb22c3
+  md5_10: a1db2e900a
+  md5_5: a1db2
+  md5_6: a1db2e
+  oomp_key: oomp_rj13
+  oomp_key_extra: oomp_symbol_rj13
+  oomp_key_full: oomp_symbol_rj13_a1db2e
+  oomp_key_simple: rj13
   owner_name: kicad
-  symbol_name: connector_rj13
+  symbol_name: rj13
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_tps77825_htssop20
+library: regulator_linear
 library_name: Regulator_Linear
+name: tps77825_htssop20
 oomp:
   library_name: regulator_linear
-  md5: b0edb65ab4775f77ce73f79add923d29
-  md5_10: b0edb65ab4
-  md5_5: b0edb
-  md5_6: b0edb6
-  oomp_key: oomp_regulator_linear_tps77825_htssop20
-  oomp_key_extra: oomp_symbol_regulator_linear_tps77825_htssop20
-  oomp_key_full: oomp_symbol_regulator_linear_tps77825_htssop20_b0edb6
-  oomp_key_simple: regulator_linear_tps77825_htssop20
+  md5: 1ed6bdd703a46e4c94c116db44f7c3cd
+  md5_10: 1ed6bdd703
+  md5_5: 1ed6b
+  md5_6: 1ed6bd
+  oomp_key: oomp_tps77825_htssop20
+  oomp_key_extra: oomp_symbol_tps77825_htssop20
+  oomp_key_full: oomp_symbol_tps77825_htssop20_1ed6bd
+  oomp_key_simple: tps77825_htssop20
   owner_name: kicad
-  symbol_name: regulator_linear_tps77825_htssop20
+  symbol_name: tps77825_htssop20
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

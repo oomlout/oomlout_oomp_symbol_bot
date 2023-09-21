@@ -1,3 +1,5 @@
+id: arturo182_switch_extra_sw_sp3t_rocker
+library: switch_extra
 library_name: Switch_Extra
 links:
   github_owner: arturo182
@@ -10,19 +12,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/arturo182_switch_extra_sw_sp3t_rocker/working
   oomp_src_flat: symbols_flat/arturo182_switch_extra_sw_sp3t_rocker/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/arturo182_switch_extra_sw_sp3t_rocker/working
-name: switch_extra_sw_sp3t_rocker
+name: sw_sp3t_rocker
 oomp:
   library_name: switch_extra
-  md5: 1ccb539db1afdcd260db539f0188cf55
-  md5_10: 1ccb539db1
-  md5_5: 1ccb5
-  md5_6: 1ccb53
-  oomp_key: oomp_switch_extra_sw_sp3t_rocker
-  oomp_key_extra: oomp_symbol_switch_extra_sw_sp3t_rocker
-  oomp_key_full: oomp_symbol_switch_extra_sw_sp3t_rocker_1ccb53
-  oomp_key_simple: switch_extra_sw_sp3t_rocker
+  md5: f02b13fb85f4c9a5ba3c452ce033b386
+  md5_10: f02b13fb85
+  md5_5: f02b1
+  md5_6: f02b13
+  oomp_key: oomp_sw_sp3t_rocker
+  oomp_key_extra: oomp_symbol_sw_sp3t_rocker
+  oomp_key_full: oomp_symbol_sw_sp3t_rocker_f02b13
+  oomp_key_simple: sw_sp3t_rocker
   owner_name: arturo182
-  symbol_name: switch_extra_sw_sp3t_rocker
+  symbol_name: sw_sp3t_rocker
 oomp_key: oomp_arturo182_switch_extra_sw_sp3t_rocker
 oomp_key_simple: arturo182_switch_extra_sw_sp3t_rocker
 owner: arturo182

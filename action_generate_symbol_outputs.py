@@ -24,8 +24,9 @@ def go_through_directories():
                     #                                
                     # if file.endswith(".kicad_sym"):  ### was missing ones with depndancies
                     if file.endswith(".yaml"):
-                        filter = "kicad"
-                        #filter = ""
+                        #filter = "kicad"
+                        #filter = "h4pra"
+                        filter = ""
                         #exclude filter array
                         filter_exclude = ["isolator"]
                         #if not in filter
@@ -35,8 +36,10 @@ def go_through_directories():
                         if not any(x in filename.lower() for x in filter_exclude):                        
                             
                             if filter in filename.lower():
-
-                                counter = oom_kicad.generate_outputs_symbol(filename=filename, computer = "surface")
+                                overwrite = False
+                                #overwrite = True
+                                
+                                counter = oom_kicad.generate_outputs_symbol(filename=filename, computer = "surface", overwrite=overwrite)
 
                                 count += counter
                                 #commit to github using oom_kicad after 250 files

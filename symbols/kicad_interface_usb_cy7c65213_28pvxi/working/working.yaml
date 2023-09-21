@@ -1,3 +1,5 @@
+id: kicad_interface_usb_cy7c65213_28pvxi
+library: interface_usb
 library_name: Interface_USB
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_usb_cy7c65213_28pvxi/working
   oomp_src_flat: symbols_flat/kicad_interface_usb_cy7c65213_28pvxi/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_usb_cy7c65213_28pvxi/working
-name: interface_usb_cy7c65213_28pvxi
+name: cy7c65213_28pvxi
 oomp:
   library_name: interface_usb
-  md5: b427bf234a4468babf988eb807bae354
-  md5_10: b427bf234a
-  md5_5: b427b
-  md5_6: b427bf
-  oomp_key: oomp_interface_usb_cy7c65213_28pvxi
-  oomp_key_extra: oomp_symbol_interface_usb_cy7c65213_28pvxi
-  oomp_key_full: oomp_symbol_interface_usb_cy7c65213_28pvxi_b427bf
-  oomp_key_simple: interface_usb_cy7c65213_28pvxi
+  md5: 0c907de62bab74e6113395958090be64
+  md5_10: 0c907de62b
+  md5_5: 0c907
+  md5_6: 0c907d
+  oomp_key: oomp_cy7c65213_28pvxi
+  oomp_key_extra: oomp_symbol_cy7c65213_28pvxi
+  oomp_key_full: oomp_symbol_cy7c65213_28pvxi_0c907d
+  oomp_key_simple: cy7c65213_28pvxi
   owner_name: kicad
-  symbol_name: interface_usb_cy7c65213_28pvxi
+  symbol_name: cy7c65213_28pvxi
 oomp_key: oomp_kicad_interface_usb_cy7c65213_28pvxi
 oomp_key_simple: kicad_interface_usb_cy7c65213_28pvxi
 owner: kicad

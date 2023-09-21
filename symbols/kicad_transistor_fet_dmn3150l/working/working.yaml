@@ -1,16 +1,20 @@
+id: kicad_transistor_fet_dmn3150l
+library: transistor_fet
 library_name: Transistor_FET
+name: dmn3150l
 oomp:
   library_name: transistor_fet
-  md5: 1826ebd96dde6a9c0679d17507ebe1d6
-  md5_10: 1826ebd96d
-  md5_5: 1826e
-  md5_6: 1826eb
-  oomp_key: oomp_transistor_fet_dmn3150l
-  oomp_key_extra: oomp_symbol_transistor_fet_dmn3150l
-  oomp_key_full: oomp_symbol_transistor_fet_dmn3150l_1826eb
-  oomp_key_simple: transistor_fet_dmn3150l
+  md5: e650a23a4baa9e63317b32199233c9ec
+  md5_10: e650a23a4b
+  md5_5: e650a
+  md5_6: e650a2
+  oomp_key: oomp_dmn3150l
+  oomp_key_extra: oomp_symbol_dmn3150l
+  oomp_key_full: oomp_symbol_dmn3150l_e650a2
+  oomp_key_simple: dmn3150l
   owner_name: kicad
-  symbol_name: transistor_fet_dmn3150l
+  symbol_name: dmn3150l
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

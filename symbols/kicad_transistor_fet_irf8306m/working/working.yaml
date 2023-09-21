@@ -1,16 +1,20 @@
+id: kicad_transistor_fet_irf8306m
+library: transistor_fet
 library_name: Transistor_FET
+name: irf8306m
 oomp:
   library_name: transistor_fet
-  md5: e3e1a4b19af8c053db0815ee777ca9d2
-  md5_10: e3e1a4b19a
-  md5_5: e3e1a
-  md5_6: e3e1a4
-  oomp_key: oomp_transistor_fet_irf8306m
-  oomp_key_extra: oomp_symbol_transistor_fet_irf8306m
-  oomp_key_full: oomp_symbol_transistor_fet_irf8306m_e3e1a4
-  oomp_key_simple: transistor_fet_irf8306m
+  md5: fe1709377d6f136071e9397af3723f00
+  md5_10: fe1709377d
+  md5_5: fe170
+  md5_6: fe1709
+  oomp_key: oomp_irf8306m
+  oomp_key_extra: oomp_symbol_irf8306m
+  oomp_key_full: oomp_symbol_irf8306m_fe1709
+  oomp_key_simple: irf8306m
   owner_name: kicad
-  symbol_name: transistor_fet_irf8306m
+  symbol_name: irf8306m
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

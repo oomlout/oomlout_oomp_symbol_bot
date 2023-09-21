@@ -1,16 +1,20 @@
+id: kicad_driver_fet_ucc21520adw
+library: driver_fet
 library_name: Driver_FET
+name: ucc21520adw
 oomp:
   library_name: driver_fet
-  md5: 0e2dd6a82c475e956a704ebb4b9a4822
-  md5_10: 0e2dd6a82c
-  md5_5: 0e2dd
-  md5_6: 0e2dd6
-  oomp_key: oomp_driver_fet_ucc21520adw
-  oomp_key_extra: oomp_symbol_driver_fet_ucc21520adw
-  oomp_key_full: oomp_symbol_driver_fet_ucc21520adw_0e2dd6
-  oomp_key_simple: driver_fet_ucc21520adw
+  md5: a812602377b913a9029a5f9306914cf2
+  md5_10: a812602377
+  md5_5: a8126
+  md5_6: a81260
+  oomp_key: oomp_ucc21520adw
+  oomp_key_extra: oomp_symbol_ucc21520adw
+  oomp_key_full: oomp_symbol_ucc21520adw_a81260
+  oomp_key_simple: ucc21520adw
   owner_name: kicad
-  symbol_name: driver_fet_ucc21520adw
+  symbol_name: ucc21520adw
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

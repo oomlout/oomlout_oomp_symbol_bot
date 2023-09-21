@@ -1,3 +1,5 @@
+id: kicad_mcu_nxp_hcs12_mc9s12dt256
+library: mcu_nxp_hcs12
 library_name: MCU_NXP_HCS12
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_nxp_hcs12_mc9s12dt256/working
   oomp_src_flat: symbols_flat/kicad_mcu_nxp_hcs12_mc9s12dt256/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_nxp_hcs12_mc9s12dt256/working
-name: mcu_nxp_hcs12_mc9s12dt256
+name: mc9s12dt256
 oomp:
   library_name: mcu_nxp_hcs12
-  md5: 0d2e12098fff2d3845e45071b601ad26
-  md5_10: 0d2e12098f
-  md5_5: 0d2e1
-  md5_6: 0d2e12
-  oomp_key: oomp_mcu_nxp_hcs12_mc9s12dt256
-  oomp_key_extra: oomp_symbol_mcu_nxp_hcs12_mc9s12dt256
-  oomp_key_full: oomp_symbol_mcu_nxp_hcs12_mc9s12dt256_0d2e12
-  oomp_key_simple: mcu_nxp_hcs12_mc9s12dt256
+  md5: 61abe598e66929de37d0f36d954b5541
+  md5_10: 61abe598e6
+  md5_5: 61abe
+  md5_6: 61abe5
+  oomp_key: oomp_mc9s12dt256
+  oomp_key_extra: oomp_symbol_mc9s12dt256
+  oomp_key_full: oomp_symbol_mc9s12dt256_61abe5
+  oomp_key_simple: mc9s12dt256
   owner_name: kicad
-  symbol_name: mcu_nxp_hcs12_mc9s12dt256
+  symbol_name: mc9s12dt256
 oomp_key: oomp_kicad_mcu_nxp_hcs12_mc9s12dt256
 oomp_key_simple: kicad_mcu_nxp_hcs12_mc9s12dt256
 owner: kicad

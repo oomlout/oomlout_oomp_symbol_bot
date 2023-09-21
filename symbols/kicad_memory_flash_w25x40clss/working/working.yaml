@@ -1,16 +1,20 @@
+id: kicad_memory_flash_w25x40clss
+library: memory_flash
 library_name: Memory_Flash
+name: w25x40clss
 oomp:
   library_name: memory_flash
-  md5: c9c580bf27a71918aa888d9c688b4496
-  md5_10: c9c580bf27
-  md5_5: c9c58
-  md5_6: c9c580
-  oomp_key: oomp_memory_flash_w25x40clss
-  oomp_key_extra: oomp_symbol_memory_flash_w25x40clss
-  oomp_key_full: oomp_symbol_memory_flash_w25x40clss_c9c580
-  oomp_key_simple: memory_flash_w25x40clss
+  md5: fe833fe571a12c23d0936df4d2cd31cf
+  md5_10: fe833fe571
+  md5_5: fe833
+  md5_6: fe833f
+  oomp_key: oomp_w25x40clss
+  oomp_key_extra: oomp_symbol_w25x40clss
+  oomp_key_full: oomp_symbol_w25x40clss_fe833f
+  oomp_key_simple: w25x40clss
   owner_name: kicad
-  symbol_name: memory_flash_w25x40clss
+  symbol_name: w25x40clss
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

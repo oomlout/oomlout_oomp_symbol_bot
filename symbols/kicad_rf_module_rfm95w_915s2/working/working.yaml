@@ -1,16 +1,20 @@
+id: kicad_rf_module_rfm95w_915s2
+library: rf_module
 library_name: RF_Module
+name: rfm95w_915s2
 oomp:
   library_name: rf_module
-  md5: eff7678c4f33299de7e63b4acc14950d
-  md5_10: eff7678c4f
-  md5_5: eff76
-  md5_6: eff767
-  oomp_key: oomp_rf_module_rfm95w_915s2
-  oomp_key_extra: oomp_symbol_rf_module_rfm95w_915s2
-  oomp_key_full: oomp_symbol_rf_module_rfm95w_915s2_eff767
-  oomp_key_simple: rf_module_rfm95w_915s2
+  md5: 64e34b0ce1c868e22a0ce61692b72cbc
+  md5_10: 64e34b0ce1
+  md5_5: 64e34
+  md5_6: 64e34b
+  oomp_key: oomp_rfm95w_915s2
+  oomp_key_extra: oomp_symbol_rfm95w_915s2
+  oomp_key_full: oomp_symbol_rfm95w_915s2_64e34b
+  oomp_key_simple: rfm95w_915s2
   owner_name: kicad
-  symbol_name: rf_module_rfm95w_915s2
+  symbol_name: rfm95w_915s2
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

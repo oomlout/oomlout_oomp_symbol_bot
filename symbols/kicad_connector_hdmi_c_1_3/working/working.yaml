@@ -1,3 +1,5 @@
+id: kicad_connector_hdmi_c_1_3
+library: connector
 library_name: Connector
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_hdmi_c_1_3/working
   oomp_src_flat: symbols_flat/kicad_connector_hdmi_c_1_3/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_hdmi_c_1_3/working
-name: connector_hdmi_c_1_3
+name: hdmi_c_1_3
 oomp:
   library_name: connector
-  md5: 4619a7865da6c71da0d5dcb9be0089fc
-  md5_10: 4619a7865d
-  md5_5: 4619a
-  md5_6: 4619a7
-  oomp_key: oomp_connector_hdmi_c_1_3
-  oomp_key_extra: oomp_symbol_connector_hdmi_c_1_3
-  oomp_key_full: oomp_symbol_connector_hdmi_c_1_3_4619a7
-  oomp_key_simple: connector_hdmi_c_1_3
+  md5: 0480a94b23012b26717f250e13c37797
+  md5_10: 0480a94b23
+  md5_5: 0480a
+  md5_6: 0480a9
+  oomp_key: oomp_hdmi_c_1_3
+  oomp_key_extra: oomp_symbol_hdmi_c_1_3
+  oomp_key_full: oomp_symbol_hdmi_c_1_3_0480a9
+  oomp_key_simple: hdmi_c_1_3
   owner_name: kicad
-  symbol_name: connector_hdmi_c_1_3
+  symbol_name: hdmi_c_1_3
 oomp_key: oomp_kicad_connector_hdmi_c_1_3
 oomp_key_simple: kicad_connector_hdmi_c_1_3
 owner: kicad

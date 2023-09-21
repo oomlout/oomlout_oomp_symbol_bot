@@ -1,3 +1,5 @@
+id: kicad_device_led_dual_akak
+library: device
 library_name: Device
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_led_dual_akak/working
   oomp_src_flat: symbols_flat/kicad_device_led_dual_akak/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_led_dual_akak/working
-name: device_led_dual_akak
+name: led_dual_akak
 oomp:
   library_name: device
-  md5: a8a16c5fae293f0d6581c8b795eb6a4c
-  md5_10: a8a16c5fae
-  md5_5: a8a16
-  md5_6: a8a16c
-  oomp_key: oomp_device_led_dual_akak
-  oomp_key_extra: oomp_symbol_device_led_dual_akak
-  oomp_key_full: oomp_symbol_device_led_dual_akak_a8a16c
-  oomp_key_simple: device_led_dual_akak
+  md5: 6c99aa4fbecdeac9b04c9db7376a0e01
+  md5_10: 6c99aa4fbe
+  md5_5: 6c99a
+  md5_6: 6c99aa
+  oomp_key: oomp_led_dual_akak
+  oomp_key_extra: oomp_symbol_led_dual_akak
+  oomp_key_full: oomp_symbol_led_dual_akak_6c99aa
+  oomp_key_simple: led_dual_akak
   owner_name: kicad
-  symbol_name: device_led_dual_akak
+  symbol_name: led_dual_akak
 oomp_key: oomp_kicad_device_led_dual_akak
 oomp_key_simple: kicad_device_led_dual_akak
 owner: kicad

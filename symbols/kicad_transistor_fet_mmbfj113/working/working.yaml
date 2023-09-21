@@ -1,16 +1,20 @@
+id: kicad_transistor_fet_mmbfj113
+library: transistor_fet
 library_name: Transistor_FET
+name: mmbfj113
 oomp:
   library_name: transistor_fet
-  md5: 5e23f1ff8821cec757c562ee119ad7e7
-  md5_10: 5e23f1ff88
-  md5_5: 5e23f
-  md5_6: 5e23f1
-  oomp_key: oomp_transistor_fet_mmbfj113
-  oomp_key_extra: oomp_symbol_transistor_fet_mmbfj113
-  oomp_key_full: oomp_symbol_transistor_fet_mmbfj113_5e23f1
-  oomp_key_simple: transistor_fet_mmbfj113
+  md5: a3f505e16d5a5aa282ac6d3401e174c6
+  md5_10: a3f505e16d
+  md5_5: a3f50
+  md5_6: a3f505
+  oomp_key: oomp_mmbfj113
+  oomp_key_extra: oomp_symbol_mmbfj113
+  oomp_key_full: oomp_symbol_mmbfj113_a3f505
+  oomp_key_simple: mmbfj113
   owner_name: kicad
-  symbol_name: transistor_fet_mmbfj113
+  symbol_name: mmbfj113
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

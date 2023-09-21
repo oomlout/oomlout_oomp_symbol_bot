@@ -1,16 +1,20 @@
+id: kicad_relay_solidstate_tlp161j
+library: relay_solidstate
 library_name: Relay_SolidState
+name: tlp161j
 oomp:
   library_name: relay_solidstate
-  md5: 8c7a7e5e1160d405e307148b1ac8e5b9
-  md5_10: 8c7a7e5e11
-  md5_5: 8c7a7
-  md5_6: 8c7a7e
-  oomp_key: oomp_relay_solidstate_tlp161j
-  oomp_key_extra: oomp_symbol_relay_solidstate_tlp161j
-  oomp_key_full: oomp_symbol_relay_solidstate_tlp161j_8c7a7e
-  oomp_key_simple: relay_solidstate_tlp161j
+  md5: 40fa1f9229bee702e45a4233084599d4
+  md5_10: 40fa1f9229
+  md5_5: 40fa1
+  md5_6: 40fa1f
+  oomp_key: oomp_tlp161j
+  oomp_key_extra: oomp_symbol_tlp161j
+  oomp_key_full: oomp_symbol_tlp161j_40fa1f
+  oomp_key_simple: tlp161j
   owner_name: kicad
-  symbol_name: relay_solidstate_tlp161j
+  symbol_name: tlp161j
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

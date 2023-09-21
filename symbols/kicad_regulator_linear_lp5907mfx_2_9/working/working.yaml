@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_lp5907mfx_2_9
+library: regulator_linear
 library_name: Regulator_Linear
+name: lp5907mfx_2_9
 oomp:
   library_name: regulator_linear
-  md5: 1e2921e13c9500d7e4592c8773fc4e51
-  md5_10: 1e2921e13c
-  md5_5: 1e292
-  md5_6: 1e2921
-  oomp_key: oomp_regulator_linear_lp5907mfx_2_9
-  oomp_key_extra: oomp_symbol_regulator_linear_lp5907mfx_2_9
-  oomp_key_full: oomp_symbol_regulator_linear_lp5907mfx_2_9_1e2921
-  oomp_key_simple: regulator_linear_lp5907mfx_2_9
+  md5: bd57a35c2993fa15fcee99f70bd704d8
+  md5_10: bd57a35c29
+  md5_5: bd57a
+  md5_6: bd57a3
+  oomp_key: oomp_lp5907mfx_2_9
+  oomp_key_extra: oomp_symbol_lp5907mfx_2_9
+  oomp_key_full: oomp_symbol_lp5907mfx_2_9_bd57a3
+  oomp_key_simple: lp5907mfx_2_9
   owner_name: kicad
-  symbol_name: regulator_linear_lp5907mfx_2_9
+  symbol_name: lp5907mfx_2_9
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

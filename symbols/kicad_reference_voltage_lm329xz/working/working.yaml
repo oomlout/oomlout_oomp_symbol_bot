@@ -1,3 +1,5 @@
+id: kicad_reference_voltage_lm329xz
+library: reference_voltage
 library_name: Reference_Voltage
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_reference_voltage_lm329xz/working
   oomp_src_flat: symbols_flat/kicad_reference_voltage_lm329xz/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_reference_voltage_lm329xz/working
-name: reference_voltage_lm329xz
+name: lm329xz
 oomp:
   library_name: reference_voltage
-  md5: b785ee0dacc60c5bee6c173859cf819c
-  md5_10: b785ee0dac
-  md5_5: b785e
-  md5_6: b785ee
-  oomp_key: oomp_reference_voltage_lm329xz
-  oomp_key_extra: oomp_symbol_reference_voltage_lm329xz
-  oomp_key_full: oomp_symbol_reference_voltage_lm329xz_b785ee
-  oomp_key_simple: reference_voltage_lm329xz
+  md5: 625c532c24aeb4b5c56cc2ab1a5e1c8e
+  md5_10: 625c532c24
+  md5_5: 625c5
+  md5_6: 625c53
+  oomp_key: oomp_lm329xz
+  oomp_key_extra: oomp_symbol_lm329xz
+  oomp_key_full: oomp_symbol_lm329xz_625c53
+  oomp_key_simple: lm329xz
   owner_name: kicad
-  symbol_name: reference_voltage_lm329xz
+  symbol_name: lm329xz
 oomp_key: oomp_kicad_reference_voltage_lm329xz
 oomp_key_simple: kicad_reference_voltage_lm329xz
 owner: kicad

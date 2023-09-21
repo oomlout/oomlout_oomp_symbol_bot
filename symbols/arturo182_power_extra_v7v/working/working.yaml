@@ -1,3 +1,5 @@
+id: arturo182_power_extra_v7v
+library: power_extra
 library_name: power_extra
 links:
   github_owner: arturo182
@@ -10,19 +12,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/arturo182_power_extra_v7v/working
   oomp_src_flat: symbols_flat/arturo182_power_extra_v7v/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/arturo182_power_extra_v7v/working
-name: power_extra_v7v
+name: v7v
 oomp:
   library_name: power_extra
-  md5: 358dadf36290545aa1fced561de1c058
-  md5_10: 358dadf362
-  md5_5: 358da
-  md5_6: 358dad
-  oomp_key: oomp_power_extra_v7v
-  oomp_key_extra: oomp_symbol_power_extra_v7v
-  oomp_key_full: oomp_symbol_power_extra_v7v_358dad
-  oomp_key_simple: power_extra_v7v
+  md5: 68a64ad82ba6ebf172d9b808eebaa541
+  md5_10: 68a64ad82b
+  md5_5: 68a64
+  md5_6: 68a64a
+  oomp_key: oomp_v7v
+  oomp_key_extra: oomp_symbol_v7v
+  oomp_key_full: oomp_symbol_v7v_68a64a
+  oomp_key_simple: v7v
   owner_name: arturo182
-  symbol_name: power_extra_v7v
+  symbol_name: v7v
 oomp_key: oomp_arturo182_power_extra_v7v
 oomp_key_simple: arturo182_power_extra_v7v
 owner: arturo182

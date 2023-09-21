@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_nma1209dc
+library: regulator_switching
 library_name: Regulator_Switching
+name: nma1209dc
 oomp:
   library_name: regulator_switching
-  md5: d1f7b4155c360454a295b8e3dd551b36
-  md5_10: d1f7b4155c
-  md5_5: d1f7b
-  md5_6: d1f7b4
-  oomp_key: oomp_regulator_switching_nma1209dc
-  oomp_key_extra: oomp_symbol_regulator_switching_nma1209dc
-  oomp_key_full: oomp_symbol_regulator_switching_nma1209dc_d1f7b4
-  oomp_key_simple: regulator_switching_nma1209dc
+  md5: 33bf9526a02e8a09bc3ee2988b3fb712
+  md5_10: 33bf9526a0
+  md5_5: 33bf9
+  md5_6: 33bf95
+  oomp_key: oomp_nma1209dc
+  oomp_key_extra: oomp_symbol_nma1209dc
+  oomp_key_full: oomp_symbol_nma1209dc_33bf95
+  oomp_key_simple: nma1209dc
   owner_name: kicad
-  symbol_name: regulator_switching_nma1209dc
+  symbol_name: nma1209dc
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

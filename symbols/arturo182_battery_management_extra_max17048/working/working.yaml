@@ -1,16 +1,20 @@
+id: arturo182_battery_management_extra_max17048
+library: battery_management_extra
 library_name: Battery_Management_Extra
+name: max17048
 oomp:
   library_name: battery_management_extra
-  md5: a3e18017ddec212aa7264525a08602f0
-  md5_10: a3e18017dd
-  md5_5: a3e18
-  md5_6: a3e180
-  oomp_key: oomp_battery_management_extra_max17048
-  oomp_key_extra: oomp_symbol_battery_management_extra_max17048
-  oomp_key_full: oomp_symbol_battery_management_extra_max17048_a3e180
-  oomp_key_simple: battery_management_extra_max17048
+  md5: 15ba67f8bd436ea09174ef8047d56994
+  md5_10: 15ba67f8bd
+  md5_5: 15ba6
+  md5_6: 15ba67
+  oomp_key: oomp_max17048
+  oomp_key_extra: oomp_symbol_max17048
+  oomp_key_full: oomp_symbol_max17048_15ba67
+  oomp_key_simple: max17048
   owner_name: arturo182
-  symbol_name: battery_management_extra_max17048
+  symbol_name: max17048
+owner: arturo182
 repo:
   github_src: https://github.com/arturo182/kicad-library/Video_Extra.kicad_sym
   name: kicad-library

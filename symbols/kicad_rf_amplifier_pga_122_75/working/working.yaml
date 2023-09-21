@@ -1,16 +1,20 @@
+id: kicad_rf_amplifier_pga_122_75
+library: rf_amplifier
 library_name: RF_Amplifier
+name: pga_122_75
 oomp:
   library_name: rf_amplifier
-  md5: bd93ee1b21055391d7f58ace3d22b09f
-  md5_10: bd93ee1b21
-  md5_5: bd93e
-  md5_6: bd93ee
-  oomp_key: oomp_rf_amplifier_pga_122_75
-  oomp_key_extra: oomp_symbol_rf_amplifier_pga_122_75
-  oomp_key_full: oomp_symbol_rf_amplifier_pga_122_75_bd93ee
-  oomp_key_simple: rf_amplifier_pga_122_75
+  md5: 8f771d94946738936b3378eb7979312b
+  md5_10: 8f771d9494
+  md5_5: 8f771
+  md5_6: 8f771d
+  oomp_key: oomp_pga_122_75
+  oomp_key_extra: oomp_symbol_pga_122_75
+  oomp_key_full: oomp_symbol_pga_122_75_8f771d
+  oomp_key_simple: pga_122_75
   owner_name: kicad
-  symbol_name: rf_amplifier_pga_122_75
+  symbol_name: pga_122_75
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

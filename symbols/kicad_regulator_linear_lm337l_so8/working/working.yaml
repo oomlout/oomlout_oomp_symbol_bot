@@ -1,3 +1,5 @@
+id: kicad_regulator_linear_lm337l_so8
+library: regulator_linear
 library_name: Regulator_Linear
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_linear_lm337l_so8/working
   oomp_src_flat: symbols_flat/kicad_regulator_linear_lm337l_so8/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_linear_lm337l_so8/working
-name: regulator_linear_lm337l_so8
+name: lm337l_so8
 oomp:
   library_name: regulator_linear
-  md5: e70bb08ecd35b624acfb4279f9552f0e
-  md5_10: e70bb08ecd
-  md5_5: e70bb
-  md5_6: e70bb0
-  oomp_key: oomp_regulator_linear_lm337l_so8
-  oomp_key_extra: oomp_symbol_regulator_linear_lm337l_so8
-  oomp_key_full: oomp_symbol_regulator_linear_lm337l_so8_e70bb0
-  oomp_key_simple: regulator_linear_lm337l_so8
+  md5: 229b896a22c9385a5d9ecf3f5bf02d3a
+  md5_10: 229b896a22
+  md5_5: 229b8
+  md5_6: 229b89
+  oomp_key: oomp_lm337l_so8
+  oomp_key_extra: oomp_symbol_lm337l_so8
+  oomp_key_full: oomp_symbol_lm337l_so8_229b89
+  oomp_key_simple: lm337l_so8
   owner_name: kicad
-  symbol_name: regulator_linear_lm337l_so8
+  symbol_name: lm337l_so8
 oomp_key: oomp_kicad_regulator_linear_lm337l_so8
 oomp_key_simple: kicad_regulator_linear_lm337l_so8
 owner: kicad

@@ -1,3 +1,5 @@
+id: kicad_device_d_dual_series_kca_parallel
+library: device
 library_name: Device
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_d_dual_series_kca_parallel/working
   oomp_src_flat: symbols_flat/kicad_device_d_dual_series_kca_parallel/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_d_dual_series_kca_parallel/working
-name: device_d_dual_series_kca_parallel
+name: d_dual_series_kca_parallel
 oomp:
   library_name: device
-  md5: e61d70e2c18724bfa72fc1617a7de049
-  md5_10: e61d70e2c1
-  md5_5: e61d7
-  md5_6: e61d70
-  oomp_key: oomp_device_d_dual_series_kca_parallel
-  oomp_key_extra: oomp_symbol_device_d_dual_series_kca_parallel
-  oomp_key_full: oomp_symbol_device_d_dual_series_kca_parallel_e61d70
-  oomp_key_simple: device_d_dual_series_kca_parallel
+  md5: fb566188782455689acff84014740cbf
+  md5_10: fb56618878
+  md5_5: fb566
+  md5_6: fb5661
+  oomp_key: oomp_d_dual_series_kca_parallel
+  oomp_key_extra: oomp_symbol_d_dual_series_kca_parallel
+  oomp_key_full: oomp_symbol_d_dual_series_kca_parallel_fb5661
+  oomp_key_simple: d_dual_series_kca_parallel
   owner_name: kicad
-  symbol_name: device_d_dual_series_kca_parallel
+  symbol_name: d_dual_series_kca_parallel
 oomp_key: oomp_kicad_device_d_dual_series_kca_parallel
 oomp_key_simple: kicad_device_d_dual_series_kca_parallel
 owner: kicad

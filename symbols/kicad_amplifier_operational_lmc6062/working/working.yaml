@@ -1,16 +1,20 @@
+id: kicad_amplifier_operational_lmc6062
+library: amplifier_operational
 library_name: Amplifier_Operational
+name: lmc6062
 oomp:
   library_name: amplifier_operational
-  md5: e2ad42661752e513d5ee76362e6ac973
-  md5_10: e2ad426617
-  md5_5: e2ad4
-  md5_6: e2ad42
-  oomp_key: oomp_amplifier_operational_lmc6062
-  oomp_key_extra: oomp_symbol_amplifier_operational_lmc6062
-  oomp_key_full: oomp_symbol_amplifier_operational_lmc6062_e2ad42
-  oomp_key_simple: amplifier_operational_lmc6062
+  md5: 56ceac8b836776ba060b5a2151151d92
+  md5_10: 56ceac8b83
+  md5_5: 56cea
+  md5_6: 56ceac
+  oomp_key: oomp_lmc6062
+  oomp_key_extra: oomp_symbol_lmc6062
+  oomp_key_full: oomp_symbol_lmc6062_56ceac
+  oomp_key_simple: lmc6062
   owner_name: kicad
-  symbol_name: amplifier_operational_lmc6062
+  symbol_name: lmc6062
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

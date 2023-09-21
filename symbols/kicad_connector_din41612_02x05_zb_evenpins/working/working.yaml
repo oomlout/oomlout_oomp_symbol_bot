@@ -1,3 +1,5 @@
+id: kicad_connector_din41612_02x05_zb_evenpins
+library: connector
 library_name: Connector
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_din41612_02x05_zb_evenpins/working
   oomp_src_flat: symbols_flat/kicad_connector_din41612_02x05_zb_evenpins/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_din41612_02x05_zb_evenpins/working
-name: connector_din41612_02x05_zb_evenpins
+name: din41612_02x05_zb_evenpins
 oomp:
   library_name: connector
-  md5: 28b82e46c80a88c7a86f09324017a522
-  md5_10: 28b82e46c8
-  md5_5: 28b82
-  md5_6: 28b82e
-  oomp_key: oomp_connector_din41612_02x05_zb_evenpins
-  oomp_key_extra: oomp_symbol_connector_din41612_02x05_zb_evenpins
-  oomp_key_full: oomp_symbol_connector_din41612_02x05_zb_evenpins_28b82e
-  oomp_key_simple: connector_din41612_02x05_zb_evenpins
+  md5: a13636f0f935e55d8e4fac3f6dc5c883
+  md5_10: a13636f0f9
+  md5_5: a1363
+  md5_6: a13636
+  oomp_key: oomp_din41612_02x05_zb_evenpins
+  oomp_key_extra: oomp_symbol_din41612_02x05_zb_evenpins
+  oomp_key_full: oomp_symbol_din41612_02x05_zb_evenpins_a13636
+  oomp_key_simple: din41612_02x05_zb_evenpins
   owner_name: kicad
-  symbol_name: connector_din41612_02x05_zb_evenpins
+  symbol_name: din41612_02x05_zb_evenpins
 oomp_key: oomp_kicad_connector_din41612_02x05_zb_evenpins
 oomp_key_simple: kicad_connector_din41612_02x05_zb_evenpins
 owner: kicad

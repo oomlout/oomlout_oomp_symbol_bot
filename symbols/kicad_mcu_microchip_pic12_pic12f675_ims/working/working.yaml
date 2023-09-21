@@ -1,16 +1,20 @@
+id: kicad_mcu_microchip_pic12_pic12f675_ims
+library: mcu_microchip_pic12
 library_name: MCU_Microchip_PIC12
+name: pic12f675_ims
 oomp:
   library_name: mcu_microchip_pic12
-  md5: 86cc5b3d40ad1f69032e09f368e756ea
-  md5_10: 86cc5b3d40
-  md5_5: 86cc5
-  md5_6: 86cc5b
-  oomp_key: oomp_mcu_microchip_pic12_pic12f675_ims
-  oomp_key_extra: oomp_symbol_mcu_microchip_pic12_pic12f675_ims
-  oomp_key_full: oomp_symbol_mcu_microchip_pic12_pic12f675_ims_86cc5b
-  oomp_key_simple: mcu_microchip_pic12_pic12f675_ims
+  md5: ab866f1984779d62f47f7d60490cf0dc
+  md5_10: ab866f1984
+  md5_5: ab866
+  md5_6: ab866f
+  oomp_key: oomp_pic12f675_ims
+  oomp_key_extra: oomp_symbol_pic12f675_ims
+  oomp_key_full: oomp_symbol_pic12f675_ims_ab866f
+  oomp_key_simple: pic12f675_ims
   owner_name: kicad
-  symbol_name: mcu_microchip_pic12_pic12f675_ims
+  symbol_name: pic12f675_ims
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_diode_dz2s036x0l
+library: diode
 library_name: Diode
+name: dz2s036x0l
 oomp:
   library_name: diode
-  md5: ea36a65428fd052134fba5a1ddfeb1ec
-  md5_10: ea36a65428
-  md5_5: ea36a
-  md5_6: ea36a6
-  oomp_key: oomp_diode_dz2s036x0l
-  oomp_key_extra: oomp_symbol_diode_dz2s036x0l
-  oomp_key_full: oomp_symbol_diode_dz2s036x0l_ea36a6
-  oomp_key_simple: diode_dz2s036x0l
+  md5: 3849148d84637ea8bd0690ac9f740d76
+  md5_10: 3849148d84
+  md5_5: '38491'
+  md5_6: '384914'
+  oomp_key: oomp_dz2s036x0l
+  oomp_key_extra: oomp_symbol_dz2s036x0l
+  oomp_key_full: oomp_symbol_dz2s036x0l_384914
+  oomp_key_simple: dz2s036x0l
   owner_name: kicad
-  symbol_name: diode_dz2s036x0l
+  symbol_name: dz2s036x0l
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

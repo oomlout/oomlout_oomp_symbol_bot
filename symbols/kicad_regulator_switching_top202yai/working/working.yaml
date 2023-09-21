@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_top202yai
+library: regulator_switching
 library_name: Regulator_Switching
+name: top202yai
 oomp:
   library_name: regulator_switching
-  md5: 4b0d7ad4cbb7e579d0d42b9184f08108
-  md5_10: 4b0d7ad4cb
-  md5_5: 4b0d7
-  md5_6: 4b0d7a
-  oomp_key: oomp_regulator_switching_top202yai
-  oomp_key_extra: oomp_symbol_regulator_switching_top202yai
-  oomp_key_full: oomp_symbol_regulator_switching_top202yai_4b0d7a
-  oomp_key_simple: regulator_switching_top202yai
+  md5: fa107b183848cce136dd1edddbf1109c
+  md5_10: fa107b1838
+  md5_5: fa107
+  md5_6: fa107b
+  oomp_key: oomp_top202yai
+  oomp_key_extra: oomp_symbol_top202yai
+  oomp_key_full: oomp_symbol_top202yai_fa107b
+  oomp_key_simple: top202yai
   owner_name: kicad
-  symbol_name: regulator_switching_top202yai
+  symbol_name: top202yai
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

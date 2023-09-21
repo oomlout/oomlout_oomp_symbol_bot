@@ -1,3 +1,5 @@
+id: kicad_device_oscilloscope
+library: device
 library_name: Device
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_oscilloscope/working
   oomp_src_flat: symbols_flat/kicad_device_oscilloscope/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_oscilloscope/working
-name: device_oscilloscope
+name: oscilloscope
 oomp:
   library_name: device
-  md5: 8521dc36759b4b837b855ad97c197606
-  md5_10: 8521dc3675
-  md5_5: 8521d
-  md5_6: 8521dc
-  oomp_key: oomp_device_oscilloscope
-  oomp_key_extra: oomp_symbol_device_oscilloscope
-  oomp_key_full: oomp_symbol_device_oscilloscope_8521dc
-  oomp_key_simple: device_oscilloscope
+  md5: c0a787c5eb0289cba98c102e92310697
+  md5_10: c0a787c5eb
+  md5_5: c0a78
+  md5_6: c0a787
+  oomp_key: oomp_oscilloscope
+  oomp_key_extra: oomp_symbol_oscilloscope
+  oomp_key_full: oomp_symbol_oscilloscope_c0a787
+  oomp_key_simple: oscilloscope
   owner_name: kicad
-  symbol_name: device_oscilloscope
+  symbol_name: oscilloscope
 oomp_key: oomp_kicad_device_oscilloscope
 oomp_key_simple: kicad_device_oscilloscope
 owner: kicad

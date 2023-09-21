@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_ifx27001tfv33
+library: regulator_linear
 library_name: Regulator_Linear
+name: ifx27001tfv33
 oomp:
   library_name: regulator_linear
-  md5: 2c82586bef6642cf289e2fa06fd6d9c2
-  md5_10: 2c82586bef
-  md5_5: 2c825
-  md5_6: 2c8258
-  oomp_key: oomp_regulator_linear_ifx27001tfv33
-  oomp_key_extra: oomp_symbol_regulator_linear_ifx27001tfv33
-  oomp_key_full: oomp_symbol_regulator_linear_ifx27001tfv33_2c8258
-  oomp_key_simple: regulator_linear_ifx27001tfv33
+  md5: 7e3d0451f7506be575d044b88eb4b779
+  md5_10: 7e3d0451f7
+  md5_5: 7e3d0
+  md5_6: 7e3d04
+  oomp_key: oomp_ifx27001tfv33
+  oomp_key_extra: oomp_symbol_ifx27001tfv33
+  oomp_key_full: oomp_symbol_ifx27001tfv33_7e3d04
+  oomp_key_simple: ifx27001tfv33
   owner_name: kicad
-  symbol_name: regulator_linear_ifx27001tfv33
+  symbol_name: ifx27001tfv33
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

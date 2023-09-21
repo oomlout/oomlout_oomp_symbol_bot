@@ -1,16 +1,20 @@
+id: kicad_rf_filter_lfcn_630
+library: rf_filter
 library_name: RF_Filter
+name: lfcn_630
 oomp:
   library_name: rf_filter
-  md5: 952d2371418f3fd4fa5f402c411c7e6d
-  md5_10: 952d237141
-  md5_5: 952d2
-  md5_6: 952d23
-  oomp_key: oomp_rf_filter_lfcn_630
-  oomp_key_extra: oomp_symbol_rf_filter_lfcn_630
-  oomp_key_full: oomp_symbol_rf_filter_lfcn_630_952d23
-  oomp_key_simple: rf_filter_lfcn_630
+  md5: 8cccba818ebf8d9fe5e17290256c7ad2
+  md5_10: 8cccba818e
+  md5_5: 8cccb
+  md5_6: 8cccba
+  oomp_key: oomp_lfcn_630
+  oomp_key_extra: oomp_symbol_lfcn_630
+  oomp_key_full: oomp_symbol_lfcn_630_8cccba
+  oomp_key_simple: lfcn_630
   owner_name: kicad
-  symbol_name: rf_filter_lfcn_630
+  symbol_name: lfcn_630
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

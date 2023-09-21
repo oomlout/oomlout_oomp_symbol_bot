@@ -1,16 +1,20 @@
+id: kicad_interface_uart_ltc2858xms_1
+library: interface_uart
 library_name: Interface_UART
+name: ltc2858xms_1
 oomp:
   library_name: interface_uart
-  md5: 1b11c99ff71259c35174c82b94f74459
-  md5_10: 1b11c99ff7
-  md5_5: 1b11c
-  md5_6: 1b11c9
-  oomp_key: oomp_interface_uart_ltc2858xms_1
-  oomp_key_extra: oomp_symbol_interface_uart_ltc2858xms_1
-  oomp_key_full: oomp_symbol_interface_uart_ltc2858xms_1_1b11c9
-  oomp_key_simple: interface_uart_ltc2858xms_1
+  md5: f3ccdfe45c6c16b565a162e1f09c62cc
+  md5_10: f3ccdfe45c
+  md5_5: f3ccd
+  md5_6: f3ccdf
+  oomp_key: oomp_ltc2858xms_1
+  oomp_key_extra: oomp_symbol_ltc2858xms_1
+  oomp_key_full: oomp_symbol_ltc2858xms_1_f3ccdf
+  oomp_key_simple: ltc2858xms_1
   owner_name: kicad
-  symbol_name: interface_uart_ltc2858xms_1
+  symbol_name: ltc2858xms_1
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,3 +1,5 @@
+id: arturo182_display_graphic_extra_erc240160_2
+library: display_graphic_extra
 library_name: Display_Graphic_Extra
 links:
   github_owner: arturo182
@@ -10,19 +12,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/arturo182_display_graphic_extra_erc240160_2/working
   oomp_src_flat: symbols_flat/arturo182_display_graphic_extra_erc240160_2/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/arturo182_display_graphic_extra_erc240160_2/working
-name: display_graphic_extra_erc240160_2
+name: erc240160_2
 oomp:
   library_name: display_graphic_extra
-  md5: 1cb73363d0b7ce480289929e28341f62
-  md5_10: 1cb73363d0
-  md5_5: 1cb73
-  md5_6: 1cb733
-  oomp_key: oomp_display_graphic_extra_erc240160_2
-  oomp_key_extra: oomp_symbol_display_graphic_extra_erc240160_2
-  oomp_key_full: oomp_symbol_display_graphic_extra_erc240160_2_1cb733
-  oomp_key_simple: display_graphic_extra_erc240160_2
+  md5: a6abe003f7b790e361eb4925cc527ea6
+  md5_10: a6abe003f7
+  md5_5: a6abe
+  md5_6: a6abe0
+  oomp_key: oomp_erc240160_2
+  oomp_key_extra: oomp_symbol_erc240160_2
+  oomp_key_full: oomp_symbol_erc240160_2_a6abe0
+  oomp_key_simple: erc240160_2
   owner_name: arturo182
-  symbol_name: display_graphic_extra_erc240160_2
+  symbol_name: erc240160_2
 oomp_key: oomp_arturo182_display_graphic_extra_erc240160_2
 oomp_key_simple: arturo182_display_graphic_extra_erc240160_2
 owner: arturo182

@@ -1,16 +1,20 @@
+id: kicad_sensor_current_cslw6b200m
+library: sensor_current
 library_name: Sensor_Current
+name: cslw6b200m
 oomp:
   library_name: sensor_current
-  md5: f9096cc6ade13b1f12124850214b2581
-  md5_10: f9096cc6ad
-  md5_5: f9096
-  md5_6: f9096c
-  oomp_key: oomp_sensor_current_cslw6b200m
-  oomp_key_extra: oomp_symbol_sensor_current_cslw6b200m
-  oomp_key_full: oomp_symbol_sensor_current_cslw6b200m_f9096c
-  oomp_key_simple: sensor_current_cslw6b200m
+  md5: d1768703a8e239a60d6ec18423c23362
+  md5_10: d1768703a8
+  md5_5: d1768
+  md5_6: d17687
+  oomp_key: oomp_cslw6b200m
+  oomp_key_extra: oomp_symbol_cslw6b200m
+  oomp_key_full: oomp_symbol_cslw6b200m_d17687
+  oomp_key_simple: cslw6b200m
   owner_name: kicad
-  symbol_name: sensor_current_cslw6b200m
+  symbol_name: cslw6b200m
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,3 +1,5 @@
+id: kicad_device_antenna_chip
+library: device
 library_name: Device
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_antenna_chip/working
   oomp_src_flat: symbols_flat/kicad_device_antenna_chip/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_antenna_chip/working
-name: device_antenna_chip
+name: antenna_chip
 oomp:
   library_name: device
-  md5: c2bb97fccb6b6ebd3e9d47fa3a817f2a
-  md5_10: c2bb97fccb
-  md5_5: c2bb9
-  md5_6: c2bb97
-  oomp_key: oomp_device_antenna_chip
-  oomp_key_extra: oomp_symbol_device_antenna_chip
-  oomp_key_full: oomp_symbol_device_antenna_chip_c2bb97
-  oomp_key_simple: device_antenna_chip
+  md5: 978fa0700dbb5516bfe219ae6c52e70b
+  md5_10: 978fa0700d
+  md5_5: 978fa
+  md5_6: 978fa0
+  oomp_key: oomp_antenna_chip
+  oomp_key_extra: oomp_symbol_antenna_chip
+  oomp_key_full: oomp_symbol_antenna_chip_978fa0
+  oomp_key_simple: antenna_chip
   owner_name: kicad
-  symbol_name: device_antenna_chip
+  symbol_name: antenna_chip
 oomp_key: oomp_kicad_device_antenna_chip
 oomp_key_simple: kicad_device_antenna_chip
 owner: kicad

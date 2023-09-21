@@ -1,16 +1,20 @@
+id: kicad_interface_can_lin_tcan332g
+library: interface_can_lin
 library_name: Interface_CAN_LIN
+name: tcan332g
 oomp:
   library_name: interface_can_lin
-  md5: dc200ecb1b4b0846e90c317e59fe39a8
-  md5_10: dc200ecb1b
-  md5_5: dc200
-  md5_6: dc200e
-  oomp_key: oomp_interface_can_lin_tcan332g
-  oomp_key_extra: oomp_symbol_interface_can_lin_tcan332g
-  oomp_key_full: oomp_symbol_interface_can_lin_tcan332g_dc200e
-  oomp_key_simple: interface_can_lin_tcan332g
+  md5: d744d6487c17fc656165edef1549b948
+  md5_10: d744d6487c
+  md5_5: d744d
+  md5_6: d744d6
+  oomp_key: oomp_tcan332g
+  oomp_key_extra: oomp_symbol_tcan332g
+  oomp_key_full: oomp_symbol_tcan332g_d744d6
+  oomp_key_simple: tcan332g
   owner_name: kicad
-  symbol_name: interface_can_lin_tcan332g
+  symbol_name: tcan332g
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

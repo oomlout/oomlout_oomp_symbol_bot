@@ -1,16 +1,20 @@
+id: kicad_power_management_rt9742bngj5f
+library: power_management
 library_name: Power_Management
+name: rt9742bngj5f
 oomp:
   library_name: power_management
-  md5: 973b58efad84a39b7315ec935ee8d1b5
-  md5_10: 973b58efad
-  md5_5: 973b5
-  md5_6: 973b58
-  oomp_key: oomp_power_management_rt9742bngj5f
-  oomp_key_extra: oomp_symbol_power_management_rt9742bngj5f
-  oomp_key_full: oomp_symbol_power_management_rt9742bngj5f_973b58
-  oomp_key_simple: power_management_rt9742bngj5f
+  md5: f226e827aa4d20a47bc9157e293250f0
+  md5_10: f226e827aa
+  md5_5: f226e
+  md5_6: f226e8
+  oomp_key: oomp_rt9742bngj5f
+  oomp_key_extra: oomp_symbol_rt9742bngj5f
+  oomp_key_full: oomp_symbol_rt9742bngj5f_f226e8
+  oomp_key_simple: rt9742bngj5f
   owner_name: kicad
-  symbol_name: power_management_rt9742bngj5f
+  symbol_name: rt9742bngj5f
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

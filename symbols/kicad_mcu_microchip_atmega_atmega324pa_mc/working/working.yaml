@@ -1,16 +1,20 @@
+id: kicad_mcu_microchip_atmega_atmega324pa_mc
+library: mcu_microchip_atmega
 library_name: MCU_Microchip_ATmega
+name: atmega324pa_mc
 oomp:
   library_name: mcu_microchip_atmega
-  md5: 84801a1da77f0ba09b4c078508628dca
-  md5_10: 84801a1da7
-  md5_5: '84801'
-  md5_6: 84801a
-  oomp_key: oomp_mcu_microchip_atmega_atmega324pa_mc
-  oomp_key_extra: oomp_symbol_mcu_microchip_atmega_atmega324pa_mc
-  oomp_key_full: oomp_symbol_mcu_microchip_atmega_atmega324pa_mc_84801a
-  oomp_key_simple: mcu_microchip_atmega_atmega324pa_mc
+  md5: a706b0a8216961fc5199aa0a339e6d46
+  md5_10: a706b0a821
+  md5_5: a706b
+  md5_6: a706b0
+  oomp_key: oomp_atmega324pa_mc
+  oomp_key_extra: oomp_symbol_atmega324pa_mc
+  oomp_key_full: oomp_symbol_atmega324pa_mc_a706b0
+  oomp_key_simple: atmega324pa_mc
   owner_name: kicad
-  symbol_name: mcu_microchip_atmega_atmega324pa_mc
+  symbol_name: atmega324pa_mc
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_lnk304d
+library: regulator_switching
 library_name: Regulator_Switching
+name: lnk304d
 oomp:
   library_name: regulator_switching
-  md5: 7ebda764d24e482fd8a07f0f09ce5666
-  md5_10: 7ebda764d2
-  md5_5: 7ebda
-  md5_6: 7ebda7
-  oomp_key: oomp_regulator_switching_lnk304d
-  oomp_key_extra: oomp_symbol_regulator_switching_lnk304d
-  oomp_key_full: oomp_symbol_regulator_switching_lnk304d_7ebda7
-  oomp_key_simple: regulator_switching_lnk304d
+  md5: 14f2a5ba1e522b55257f5642938e0345
+  md5_10: 14f2a5ba1e
+  md5_5: 14f2a
+  md5_6: 14f2a5
+  oomp_key: oomp_lnk304d
+  oomp_key_extra: oomp_symbol_lnk304d
+  oomp_key_full: oomp_symbol_lnk304d_14f2a5
+  oomp_key_simple: lnk304d
   owner_name: kicad
-  symbol_name: regulator_switching_lnk304d
+  symbol_name: lnk304d
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

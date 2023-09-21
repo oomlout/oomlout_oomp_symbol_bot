@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_ncp662sq33
+library: regulator_linear
 library_name: Regulator_Linear
+name: ncp662sq33
 oomp:
   library_name: regulator_linear
-  md5: f78dbec8986956b878891da717842a45
-  md5_10: f78dbec898
-  md5_5: f78db
-  md5_6: f78dbe
-  oomp_key: oomp_regulator_linear_ncp662sq33
-  oomp_key_extra: oomp_symbol_regulator_linear_ncp662sq33
-  oomp_key_full: oomp_symbol_regulator_linear_ncp662sq33_f78dbe
-  oomp_key_simple: regulator_linear_ncp662sq33
+  md5: 3308f50480fcd365ad3d683179894b09
+  md5_10: 3308f50480
+  md5_5: 3308f
+  md5_6: 3308f5
+  oomp_key: oomp_ncp662sq33
+  oomp_key_extra: oomp_symbol_ncp662sq33
+  oomp_key_full: oomp_symbol_ncp662sq33_3308f5
+  oomp_key_simple: ncp662sq33
   owner_name: kicad
-  symbol_name: regulator_linear_ncp662sq33
+  symbol_name: ncp662sq33
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

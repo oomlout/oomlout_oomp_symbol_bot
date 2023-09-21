@@ -1,16 +1,20 @@
+id: kicad_led_sfh4346
+library: led
 library_name: LED
+name: sfh4346
 oomp:
   library_name: led
-  md5: bd8628a1924e4754831a5cd5d642d735
-  md5_10: bd8628a192
-  md5_5: bd862
-  md5_6: bd8628
-  oomp_key: oomp_led_sfh4346
-  oomp_key_extra: oomp_symbol_led_sfh4346
-  oomp_key_full: oomp_symbol_led_sfh4346_bd8628
-  oomp_key_simple: led_sfh4346
+  md5: 83e910ae1ab32ab54fe1deb2ab025f58
+  md5_10: 83e910ae1a
+  md5_5: 83e91
+  md5_6: 83e910
+  oomp_key: oomp_sfh4346
+  oomp_key_extra: oomp_symbol_sfh4346
+  oomp_key_full: oomp_symbol_sfh4346_83e910
+  oomp_key_simple: sfh4346
   owner_name: kicad
-  symbol_name: led_sfh4346
+  symbol_name: sfh4346
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_connector_audio_nc5fav
+library: connector_audio
 library_name: Connector_Audio
+name: nc5fav
 oomp:
   library_name: connector_audio
-  md5: 23a90fb01ebd74859623885f680f9d77
-  md5_10: 23a90fb01e
-  md5_5: 23a90
-  md5_6: 23a90f
-  oomp_key: oomp_connector_audio_nc5fav
-  oomp_key_extra: oomp_symbol_connector_audio_nc5fav
-  oomp_key_full: oomp_symbol_connector_audio_nc5fav_23a90f
-  oomp_key_simple: connector_audio_nc5fav
+  md5: 9a98a242fc144de6a993cde205c0f82f
+  md5_10: 9a98a242fc
+  md5_5: 9a98a
+  md5_6: 9a98a2
+  oomp_key: oomp_nc5fav
+  oomp_key_extra: oomp_symbol_nc5fav
+  oomp_key_full: oomp_symbol_nc5fav_9a98a2
+  oomp_key_simple: nc5fav
   owner_name: kicad
-  symbol_name: connector_audio_nc5fav
+  symbol_name: nc5fav
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

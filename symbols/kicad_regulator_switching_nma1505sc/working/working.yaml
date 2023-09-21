@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_nma1505sc
+library: regulator_switching
 library_name: Regulator_Switching
+name: nma1505sc
 oomp:
   library_name: regulator_switching
-  md5: 31b15625ad5a27401d4701fe4b5f9fae
-  md5_10: 31b15625ad
-  md5_5: 31b15
-  md5_6: 31b156
-  oomp_key: oomp_regulator_switching_nma1505sc
-  oomp_key_extra: oomp_symbol_regulator_switching_nma1505sc
-  oomp_key_full: oomp_symbol_regulator_switching_nma1505sc_31b156
-  oomp_key_simple: regulator_switching_nma1505sc
+  md5: a502f3e46bb1986f7f12feffb51ca178
+  md5_10: a502f3e46b
+  md5_5: a502f
+  md5_6: a502f3
+  oomp_key: oomp_nma1505sc
+  oomp_key_extra: oomp_symbol_nma1505sc
+  oomp_key_full: oomp_symbol_nma1505sc_a502f3
+  oomp_key_simple: nma1505sc
   owner_name: kicad
-  symbol_name: regulator_switching_nma1505sc
+  symbol_name: nma1505sc
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

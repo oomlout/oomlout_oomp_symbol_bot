@@ -1,16 +1,20 @@
+id: kicad_mcu_microchip_avr_dx_avr64db28x_xss
+library: mcu_microchip_avr_dx
 library_name: MCU_Microchip_AVR_Dx
+name: avr64db28x_xss
 oomp:
   library_name: mcu_microchip_avr_dx
-  md5: e300caed955de3c96b4832034e43c840
-  md5_10: e300caed95
-  md5_5: e300c
-  md5_6: e300ca
-  oomp_key: oomp_mcu_microchip_avr_dx_avr64db28x_xss
-  oomp_key_extra: oomp_symbol_mcu_microchip_avr_dx_avr64db28x_xss
-  oomp_key_full: oomp_symbol_mcu_microchip_avr_dx_avr64db28x_xss_e300ca
-  oomp_key_simple: mcu_microchip_avr_dx_avr64db28x_xss
+  md5: 1f4f1e72bba01972a4ab7d0b38d6cdb3
+  md5_10: 1f4f1e72bb
+  md5_5: 1f4f1
+  md5_6: 1f4f1e
+  oomp_key: oomp_avr64db28x_xss
+  oomp_key_extra: oomp_symbol_avr64db28x_xss
+  oomp_key_full: oomp_symbol_avr64db28x_xss_1f4f1e
+  oomp_key_simple: avr64db28x_xss
   owner_name: kicad
-  symbol_name: mcu_microchip_avr_dx_avr64db28x_xss
+  symbol_name: avr64db28x_xss
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

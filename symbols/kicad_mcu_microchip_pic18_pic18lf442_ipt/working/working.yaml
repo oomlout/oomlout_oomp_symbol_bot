@@ -1,16 +1,20 @@
+id: kicad_mcu_microchip_pic18_pic18lf442_ipt
+library: mcu_microchip_pic18
 library_name: MCU_Microchip_PIC18
+name: pic18lf442_ipt
 oomp:
   library_name: mcu_microchip_pic18
-  md5: 2972723fce52df78942a1f6b9e856be0
-  md5_10: 2972723fce
-  md5_5: '29727'
-  md5_6: '297272'
-  oomp_key: oomp_mcu_microchip_pic18_pic18lf442_ipt
-  oomp_key_extra: oomp_symbol_mcu_microchip_pic18_pic18lf442_ipt
-  oomp_key_full: oomp_symbol_mcu_microchip_pic18_pic18lf442_ipt_297272
-  oomp_key_simple: mcu_microchip_pic18_pic18lf442_ipt
+  md5: fda6caf3783b253ff385d9526be1d8be
+  md5_10: fda6caf378
+  md5_5: fda6c
+  md5_6: fda6ca
+  oomp_key: oomp_pic18lf442_ipt
+  oomp_key_extra: oomp_symbol_pic18lf442_ipt
+  oomp_key_full: oomp_symbol_pic18lf442_ipt_fda6ca
+  oomp_key_simple: pic18lf442_ipt
   owner_name: kicad
-  symbol_name: mcu_microchip_pic18_pic18lf442_ipt
+  symbol_name: pic18lf442_ipt
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

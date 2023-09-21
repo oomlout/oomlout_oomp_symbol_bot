@@ -1,16 +1,20 @@
+id: kicad_reference_voltage_ref5040adgk
+library: reference_voltage
 library_name: Reference_Voltage
+name: ref5040adgk
 oomp:
   library_name: reference_voltage
-  md5: 17d4359fc609350549b49ca6b2ae7456
-  md5_10: 17d4359fc6
-  md5_5: 17d43
-  md5_6: 17d435
-  oomp_key: oomp_reference_voltage_ref5040adgk
-  oomp_key_extra: oomp_symbol_reference_voltage_ref5040adgk
-  oomp_key_full: oomp_symbol_reference_voltage_ref5040adgk_17d435
-  oomp_key_simple: reference_voltage_ref5040adgk
+  md5: f5b2fb16c37ae9bde533f1d7f5a78021
+  md5_10: f5b2fb16c3
+  md5_5: f5b2f
+  md5_6: f5b2fb
+  oomp_key: oomp_ref5040adgk
+  oomp_key_extra: oomp_symbol_ref5040adgk
+  oomp_key_full: oomp_symbol_ref5040adgk_f5b2fb
+  oomp_key_simple: ref5040adgk
   owner_name: kicad
-  symbol_name: reference_voltage_ref5040adgk
+  symbol_name: ref5040adgk
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_transistor_bjt_bd135
+library: transistor_bjt
 library_name: Transistor_BJT
+name: bd135
 oomp:
   library_name: transistor_bjt
-  md5: 26b97f7ed93e89892d3f27f644e7ee72
-  md5_10: 26b97f7ed9
-  md5_5: 26b97
-  md5_6: 26b97f
-  oomp_key: oomp_transistor_bjt_bd135
-  oomp_key_extra: oomp_symbol_transistor_bjt_bd135
-  oomp_key_full: oomp_symbol_transistor_bjt_bd135_26b97f
-  oomp_key_simple: transistor_bjt_bd135
+  md5: 86a97ba2f6e7ef51d8e7593090705648
+  md5_10: 86a97ba2f6
+  md5_5: 86a97
+  md5_6: 86a97b
+  oomp_key: oomp_bd135
+  oomp_key_extra: oomp_symbol_bd135
+  oomp_key_full: oomp_symbol_bd135_86a97b
+  oomp_key_simple: bd135
   owner_name: kicad
-  symbol_name: transistor_bjt_bd135
+  symbol_name: bd135
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

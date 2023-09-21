@@ -1,3 +1,5 @@
+id: kicad_device_d_schottky_aka
+library: device
 library_name: Device
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_d_schottky_aka/working
   oomp_src_flat: symbols_flat/kicad_device_d_schottky_aka/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_d_schottky_aka/working
-name: device_d_schottky_aka
+name: d_schottky_aka
 oomp:
   library_name: device
-  md5: 56710ea56e44b186ea0aa48ec8c09308
-  md5_10: 56710ea56e
-  md5_5: '56710'
-  md5_6: 56710e
-  oomp_key: oomp_device_d_schottky_aka
-  oomp_key_extra: oomp_symbol_device_d_schottky_aka
-  oomp_key_full: oomp_symbol_device_d_schottky_aka_56710e
-  oomp_key_simple: device_d_schottky_aka
+  md5: ed1011d18c1b1c1373c1793f5de5d43b
+  md5_10: ed1011d18c
+  md5_5: ed101
+  md5_6: ed1011
+  oomp_key: oomp_d_schottky_aka
+  oomp_key_extra: oomp_symbol_d_schottky_aka
+  oomp_key_full: oomp_symbol_d_schottky_aka_ed1011
+  oomp_key_simple: d_schottky_aka
   owner_name: kicad
-  symbol_name: device_d_schottky_aka
+  symbol_name: d_schottky_aka
 oomp_key: oomp_kicad_device_d_schottky_aka
 oomp_key_simple: kicad_device_d_schottky_aka
 owner: kicad

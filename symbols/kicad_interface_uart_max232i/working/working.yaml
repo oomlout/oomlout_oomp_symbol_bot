@@ -1,16 +1,20 @@
+id: kicad_interface_uart_max232i
+library: interface_uart
 library_name: Interface_UART
+name: max232i
 oomp:
   library_name: interface_uart
-  md5: c3e490e3c1f8c4808dc5794bfc05a265
-  md5_10: c3e490e3c1
-  md5_5: c3e49
-  md5_6: c3e490
-  oomp_key: oomp_interface_uart_max232i
-  oomp_key_extra: oomp_symbol_interface_uart_max232i
-  oomp_key_full: oomp_symbol_interface_uart_max232i_c3e490
-  oomp_key_simple: interface_uart_max232i
+  md5: fa9361519c7583473eba8bc5413afcbe
+  md5_10: fa9361519c
+  md5_5: fa936
+  md5_6: fa9361
+  oomp_key: oomp_max232i
+  oomp_key_extra: oomp_symbol_max232i
+  oomp_key_full: oomp_symbol_max232i_fa9361
+  oomp_key_simple: max232i
   owner_name: kicad
-  symbol_name: interface_uart_max232i
+  symbol_name: max232i
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

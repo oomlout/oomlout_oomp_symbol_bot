@@ -1,16 +1,20 @@
+id: kicad_valve_uabc80
+library: valve
 library_name: Valve
+name: uabc80
 oomp:
   library_name: valve
-  md5: a011a456f9be3eda437d5f0a3302727d
-  md5_10: a011a456f9
-  md5_5: a011a
-  md5_6: a011a4
-  oomp_key: oomp_valve_uabc80
-  oomp_key_extra: oomp_symbol_valve_uabc80
-  oomp_key_full: oomp_symbol_valve_uabc80_a011a4
-  oomp_key_simple: valve_uabc80
+  md5: 8062f9869ebb67a0e4c99a65824deb6b
+  md5_10: 8062f9869e
+  md5_5: 8062f
+  md5_6: 8062f9
+  oomp_key: oomp_uabc80
+  oomp_key_extra: oomp_symbol_uabc80
+  oomp_key_full: oomp_symbol_uabc80_8062f9
+  oomp_key_simple: uabc80
   owner_name: kicad
-  symbol_name: valve_uabc80
+  symbol_name: uabc80
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

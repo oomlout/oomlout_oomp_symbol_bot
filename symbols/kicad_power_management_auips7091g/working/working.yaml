@@ -1,16 +1,20 @@
+id: kicad_power_management_auips7091g
+library: power_management
 library_name: Power_Management
+name: auips7091g
 oomp:
   library_name: power_management
-  md5: 21d452a185e12f4c148b93c53727aa76
-  md5_10: 21d452a185
-  md5_5: 21d45
-  md5_6: 21d452
-  oomp_key: oomp_power_management_auips7091g
-  oomp_key_extra: oomp_symbol_power_management_auips7091g
-  oomp_key_full: oomp_symbol_power_management_auips7091g_21d452
-  oomp_key_simple: power_management_auips7091g
+  md5: fd3cd60e1b57f62c333b91967756d50d
+  md5_10: fd3cd60e1b
+  md5_5: fd3cd
+  md5_6: fd3cd6
+  oomp_key: oomp_auips7091g
+  oomp_key_extra: oomp_symbol_auips7091g
+  oomp_key_full: oomp_symbol_auips7091g_fd3cd6
+  oomp_key_simple: auips7091g
   owner_name: kicad
-  symbol_name: power_management_auips7091g
+  symbol_name: auips7091g
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,3 +1,5 @@
+id: kicad_analog_switch_adg1414bru
+library: analog_switch
 library_name: Analog_Switch
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_analog_switch_adg1414bru/working
   oomp_src_flat: symbols_flat/kicad_analog_switch_adg1414bru/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_analog_switch_adg1414bru/working
-name: analog_switch_adg1414bru
+name: adg1414bru
 oomp:
   library_name: analog_switch
-  md5: 88371a9e297bc9c94f2e47d5094d7f09
-  md5_10: 88371a9e29
-  md5_5: '88371'
-  md5_6: 88371a
-  oomp_key: oomp_analog_switch_adg1414bru
-  oomp_key_extra: oomp_symbol_analog_switch_adg1414bru
-  oomp_key_full: oomp_symbol_analog_switch_adg1414bru_88371a
-  oomp_key_simple: analog_switch_adg1414bru
+  md5: 21d0e3b994fe0c1b01b0d3d270ca03ab
+  md5_10: 21d0e3b994
+  md5_5: 21d0e
+  md5_6: 21d0e3
+  oomp_key: oomp_adg1414bru
+  oomp_key_extra: oomp_symbol_adg1414bru
+  oomp_key_full: oomp_symbol_adg1414bru_21d0e3
+  oomp_key_simple: adg1414bru
   owner_name: kicad
-  symbol_name: analog_switch_adg1414bru
+  symbol_name: adg1414bru
 oomp_key: oomp_kicad_analog_switch_adg1414bru
 oomp_key_simple: kicad_analog_switch_adg1414bru
 owner: kicad

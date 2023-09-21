@@ -1,16 +1,20 @@
+id: kicad_analog_adc_ltc1746
+library: analog_adc
 library_name: Analog_ADC
+name: ltc1746
 oomp:
   library_name: analog_adc
-  md5: 7c37d8778e93d449a578c1e116042c84
-  md5_10: 7c37d8778e
-  md5_5: 7c37d
-  md5_6: 7c37d8
-  oomp_key: oomp_analog_adc_ltc1746
-  oomp_key_extra: oomp_symbol_analog_adc_ltc1746
-  oomp_key_full: oomp_symbol_analog_adc_ltc1746_7c37d8
-  oomp_key_simple: analog_adc_ltc1746
+  md5: 42bb5e04f7ee85d26022ca8b9dc14f35
+  md5_10: 42bb5e04f7
+  md5_5: 42bb5
+  md5_6: 42bb5e
+  oomp_key: oomp_ltc1746
+  oomp_key_extra: oomp_symbol_ltc1746
+  oomp_key_full: oomp_symbol_ltc1746_42bb5e
+  oomp_key_simple: ltc1746
   owner_name: kicad
-  symbol_name: analog_adc_ltc1746
+  symbol_name: ltc1746
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_rf_switch_maswss0166
+library: rf_switch
 library_name: RF_Switch
+name: maswss0166
 oomp:
   library_name: rf_switch
-  md5: 2843434ec5a69b30245721da6fd2400e
-  md5_10: 2843434ec5
-  md5_5: '28434'
-  md5_6: '284343'
-  oomp_key: oomp_rf_switch_maswss0166
-  oomp_key_extra: oomp_symbol_rf_switch_maswss0166
-  oomp_key_full: oomp_symbol_rf_switch_maswss0166_284343
-  oomp_key_simple: rf_switch_maswss0166
+  md5: 1a36619d15fca5a480acfaf2c0ad83ed
+  md5_10: 1a36619d15
+  md5_5: 1a366
+  md5_6: 1a3661
+  oomp_key: oomp_maswss0166
+  oomp_key_extra: oomp_symbol_maswss0166
+  oomp_key_full: oomp_symbol_maswss0166_1a3661
+  oomp_key_simple: maswss0166
   owner_name: kicad
-  symbol_name: rf_switch_maswss0166
+  symbol_name: maswss0166
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

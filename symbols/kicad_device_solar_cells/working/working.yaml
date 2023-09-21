@@ -1,3 +1,5 @@
+id: kicad_device_solar_cells
+library: device
 library_name: Device
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_solar_cells/working
   oomp_src_flat: symbols_flat/kicad_device_solar_cells/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_solar_cells/working
-name: device_solar_cells
+name: solar_cells
 oomp:
   library_name: device
-  md5: f4bb0905024d9492f121f3c48fea1af3
-  md5_10: f4bb090502
-  md5_5: f4bb0
-  md5_6: f4bb09
-  oomp_key: oomp_device_solar_cells
-  oomp_key_extra: oomp_symbol_device_solar_cells
-  oomp_key_full: oomp_symbol_device_solar_cells_f4bb09
-  oomp_key_simple: device_solar_cells
+  md5: 380819e61bdef2af2ab98c2b5976ffbe
+  md5_10: 380819e61b
+  md5_5: '38081'
+  md5_6: '380819'
+  oomp_key: oomp_solar_cells
+  oomp_key_extra: oomp_symbol_solar_cells
+  oomp_key_full: oomp_symbol_solar_cells_380819
+  oomp_key_simple: solar_cells
   owner_name: kicad
-  symbol_name: device_solar_cells
+  symbol_name: solar_cells
 oomp_key: oomp_kicad_device_solar_cells
 oomp_key_simple: kicad_device_solar_cells
 owner: kicad

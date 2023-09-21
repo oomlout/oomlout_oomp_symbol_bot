@@ -1,16 +1,20 @@
+id: kicad_audio_isd25120s
+library: audio
 library_name: Audio
+name: isd25120s
 oomp:
   library_name: audio
-  md5: 3b88c2afd1b0b4f34e2576d27ba46178
-  md5_10: 3b88c2afd1
-  md5_5: 3b88c
-  md5_6: 3b88c2
-  oomp_key: oomp_audio_isd25120s
-  oomp_key_extra: oomp_symbol_audio_isd25120s
-  oomp_key_full: oomp_symbol_audio_isd25120s_3b88c2
-  oomp_key_simple: audio_isd25120s
+  md5: 655057bedd4f4edebd74748b0dd710f5
+  md5_10: 655057bedd
+  md5_5: '65505'
+  md5_6: '655057'
+  oomp_key: oomp_isd25120s
+  oomp_key_extra: oomp_symbol_isd25120s
+  oomp_key_full: oomp_symbol_isd25120s_655057
+  oomp_key_simple: isd25120s
   owner_name: kicad
-  symbol_name: audio_isd25120s
+  symbol_name: isd25120s
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

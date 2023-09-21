@@ -1,3 +1,5 @@
+id: kicad_device_d_zener_dual_commoncathode_aak_split
+library: device
 library_name: Device
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_d_zener_dual_commoncathode_aak_split/working
   oomp_src_flat: symbols_flat/kicad_device_d_zener_dual_commoncathode_aak_split/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_d_zener_dual_commoncathode_aak_split/working
-name: device_d_zener_dual_commoncathode_aak_split
+name: d_zener_dual_commoncathode_aak_split
 oomp:
   library_name: device
-  md5: 1eb9087d9a559f0dccb152af07bd0478
-  md5_10: 1eb9087d9a
-  md5_5: 1eb90
-  md5_6: 1eb908
-  oomp_key: oomp_device_d_zener_dual_commoncathode_aak_split
-  oomp_key_extra: oomp_symbol_device_d_zener_dual_commoncathode_aak_split
-  oomp_key_full: oomp_symbol_device_d_zener_dual_commoncathode_aak_split_1eb908
-  oomp_key_simple: device_d_zener_dual_commoncathode_aak_split
+  md5: d192b92354902e4d3f520aff277a4d07
+  md5_10: d192b92354
+  md5_5: d192b
+  md5_6: d192b9
+  oomp_key: oomp_d_zener_dual_commoncathode_aak_split
+  oomp_key_extra: oomp_symbol_d_zener_dual_commoncathode_aak_split
+  oomp_key_full: oomp_symbol_d_zener_dual_commoncathode_aak_split_d192b9
+  oomp_key_simple: d_zener_dual_commoncathode_aak_split
   owner_name: kicad
-  symbol_name: device_d_zener_dual_commoncathode_aak_split
+  symbol_name: d_zener_dual_commoncathode_aak_split
 oomp_key: oomp_kicad_device_d_zener_dual_commoncathode_aak_split
 oomp_key_simple: kicad_device_d_zener_dual_commoncathode_aak_split
 owner: kicad

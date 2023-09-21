@@ -1,16 +1,20 @@
+id: kicad_transistor_fet_bsc159n10lsfg
+library: transistor_fet
 library_name: Transistor_FET
+name: bsc159n10lsfg
 oomp:
   library_name: transistor_fet
-  md5: e01e35434249ab017137eb7b4d4cf028
-  md5_10: e01e354342
-  md5_5: e01e3
-  md5_6: e01e35
-  oomp_key: oomp_transistor_fet_bsc159n10lsfg
-  oomp_key_extra: oomp_symbol_transistor_fet_bsc159n10lsfg
-  oomp_key_full: oomp_symbol_transistor_fet_bsc159n10lsfg_e01e35
-  oomp_key_simple: transistor_fet_bsc159n10lsfg
+  md5: 9d1f6bfd5d48c048cff4ab810eef486e
+  md5_10: 9d1f6bfd5d
+  md5_5: 9d1f6
+  md5_6: 9d1f6b
+  oomp_key: oomp_bsc159n10lsfg
+  oomp_key_extra: oomp_symbol_bsc159n10lsfg
+  oomp_key_full: oomp_symbol_bsc159n10lsfg_9d1f6b
+  oomp_key_simple: bsc159n10lsfg
   owner_name: kicad
-  symbol_name: transistor_fet_bsc159n10lsfg
+  symbol_name: bsc159n10lsfg
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

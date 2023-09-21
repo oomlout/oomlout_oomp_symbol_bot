@@ -1,3 +1,5 @@
+id: kicad_power_3v8
+library: power
 library_name: power
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_power_3v8/working
   oomp_src_flat: symbols_flat/kicad_power_3v8/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_3v8/working
-name: power_3v8
+name: 3v8
 oomp:
   library_name: power
-  md5: e019de3413fa20ee48b8489a329c3d3f
-  md5_10: e019de3413
-  md5_5: e019d
-  md5_6: e019de
-  oomp_key: oomp_power_3v8
-  oomp_key_extra: oomp_symbol_power_3v8
-  oomp_key_full: oomp_symbol_power_3v8_e019de
-  oomp_key_simple: power_3v8
+  md5: c17018b00cd132ac40c0f54e0779c7a5
+  md5_10: c17018b00c
+  md5_5: c1701
+  md5_6: c17018
+  oomp_key: oomp_3v8
+  oomp_key_extra: oomp_symbol_3v8
+  oomp_key_full: oomp_symbol_3v8_c17018
+  oomp_key_simple: 3v8
   owner_name: kicad
-  symbol_name: power_3v8
+  symbol_name: 3v8
 oomp_key: oomp_kicad_power_3v8
 oomp_key_simple: kicad_power_3v8
 owner: kicad

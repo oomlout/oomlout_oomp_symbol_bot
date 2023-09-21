@@ -1,16 +1,20 @@
+id: kicad_analog_adc_mcp3425a1t_ech
+library: analog_adc
 library_name: Analog_ADC
+name: mcp3425a1t_ech
 oomp:
   library_name: analog_adc
-  md5: 5513e42a55e4d58da3b1a200b06fbd33
-  md5_10: 5513e42a55
-  md5_5: 5513e
-  md5_6: 5513e4
-  oomp_key: oomp_analog_adc_mcp3425a1t_ech
-  oomp_key_extra: oomp_symbol_analog_adc_mcp3425a1t_ech
-  oomp_key_full: oomp_symbol_analog_adc_mcp3425a1t_ech_5513e4
-  oomp_key_simple: analog_adc_mcp3425a1t_ech
+  md5: 00f566ab330302fd7dbb446ef6682bb2
+  md5_10: 00f566ab33
+  md5_5: 00f56
+  md5_6: 00f566
+  oomp_key: oomp_mcp3425a1t_ech
+  oomp_key_extra: oomp_symbol_mcp3425a1t_ech
+  oomp_key_full: oomp_symbol_mcp3425a1t_ech_00f566
+  oomp_key_simple: mcp3425a1t_ech
   owner_name: kicad
-  symbol_name: analog_adc_mcp3425a1t_ech
+  symbol_name: mcp3425a1t_ech
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,3 +1,5 @@
+id: kicad_converter_dcdc_ata00f18s_l
+library: converter_dcdc
 library_name: Converter_DCDC
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_converter_dcdc_ata00f18s_l/working
   oomp_src_flat: symbols_flat/kicad_converter_dcdc_ata00f18s_l/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_converter_dcdc_ata00f18s_l/working
-name: converter_dcdc_ata00f18s_l
+name: ata00f18s_l
 oomp:
   library_name: converter_dcdc
-  md5: 45a37e9f67f884a534089badcc0f6693
-  md5_10: 45a37e9f67
-  md5_5: 45a37
-  md5_6: 45a37e
-  oomp_key: oomp_converter_dcdc_ata00f18s_l
-  oomp_key_extra: oomp_symbol_converter_dcdc_ata00f18s_l
-  oomp_key_full: oomp_symbol_converter_dcdc_ata00f18s_l_45a37e
-  oomp_key_simple: converter_dcdc_ata00f18s_l
+  md5: 32b05d08c39b9358bf198ac9c12ea5b4
+  md5_10: 32b05d08c3
+  md5_5: 32b05
+  md5_6: 32b05d
+  oomp_key: oomp_ata00f18s_l
+  oomp_key_extra: oomp_symbol_ata00f18s_l
+  oomp_key_full: oomp_symbol_ata00f18s_l_32b05d
+  oomp_key_simple: ata00f18s_l
   owner_name: kicad
-  symbol_name: converter_dcdc_ata00f18s_l
+  symbol_name: ata00f18s_l
 oomp_key: oomp_kicad_converter_dcdc_ata00f18s_l
 oomp_key_simple: kicad_converter_dcdc_ata00f18s_l
 owner: kicad

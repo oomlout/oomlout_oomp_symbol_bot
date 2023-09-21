@@ -1,3 +1,5 @@
+id: kicad_regulator_linear_ld39150dt18
+library: regulator_linear
 library_name: Regulator_Linear
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_linear_ld39150dt18/working
   oomp_src_flat: symbols_flat/kicad_regulator_linear_ld39150dt18/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_linear_ld39150dt18/working
-name: regulator_linear_ld39150dt18
+name: ld39150dt18
 oomp:
   library_name: regulator_linear
-  md5: 99be866305fe3ff9884a85a2528dda67
-  md5_10: 99be866305
-  md5_5: 99be8
-  md5_6: 99be86
-  oomp_key: oomp_regulator_linear_ld39150dt18
-  oomp_key_extra: oomp_symbol_regulator_linear_ld39150dt18
-  oomp_key_full: oomp_symbol_regulator_linear_ld39150dt18_99be86
-  oomp_key_simple: regulator_linear_ld39150dt18
+  md5: db61386bc47c36b431338cbfabaf4683
+  md5_10: db61386bc4
+  md5_5: db613
+  md5_6: db6138
+  oomp_key: oomp_ld39150dt18
+  oomp_key_extra: oomp_symbol_ld39150dt18
+  oomp_key_full: oomp_symbol_ld39150dt18_db6138
+  oomp_key_simple: ld39150dt18
   owner_name: kicad
-  symbol_name: regulator_linear_ld39150dt18
+  symbol_name: ld39150dt18
 oomp_key: oomp_kicad_regulator_linear_ld39150dt18
 oomp_key_simple: kicad_regulator_linear_ld39150dt18
 owner: kicad

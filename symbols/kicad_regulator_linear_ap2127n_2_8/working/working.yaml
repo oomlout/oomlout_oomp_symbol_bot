@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_ap2127n_2_8
+library: regulator_linear
 library_name: Regulator_Linear
+name: ap2127n_2_8
 oomp:
   library_name: regulator_linear
-  md5: 8663424ff26231a0754d3c746625c52e
-  md5_10: 8663424ff2
-  md5_5: '86634'
-  md5_6: '866342'
-  oomp_key: oomp_regulator_linear_ap2127n_2_8
-  oomp_key_extra: oomp_symbol_regulator_linear_ap2127n_2_8
-  oomp_key_full: oomp_symbol_regulator_linear_ap2127n_2_8_866342
-  oomp_key_simple: regulator_linear_ap2127n_2_8
+  md5: 262057e6f188e6b6e25015bd80c7cb59
+  md5_10: 262057e6f1
+  md5_5: '26205'
+  md5_6: '262057'
+  oomp_key: oomp_ap2127n_2_8
+  oomp_key_extra: oomp_symbol_ap2127n_2_8
+  oomp_key_full: oomp_symbol_ap2127n_2_8_262057
+  oomp_key_simple: ap2127n_2_8
   owner_name: kicad
-  symbol_name: regulator_linear_ap2127n_2_8
+  symbol_name: ap2127n_2_8
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

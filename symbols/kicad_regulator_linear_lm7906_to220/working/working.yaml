@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_lm7906_to220
+library: regulator_linear
 library_name: Regulator_Linear
+name: lm7906_to220
 oomp:
   library_name: regulator_linear
-  md5: 387d0499e164a7e87cbcdb237b013b10
-  md5_10: 387d0499e1
-  md5_5: 387d0
-  md5_6: 387d04
-  oomp_key: oomp_regulator_linear_lm7906_to220
-  oomp_key_extra: oomp_symbol_regulator_linear_lm7906_to220
-  oomp_key_full: oomp_symbol_regulator_linear_lm7906_to220_387d04
-  oomp_key_simple: regulator_linear_lm7906_to220
+  md5: 548a300510c167ef9ace1fc53a8b2be3
+  md5_10: 548a300510
+  md5_5: 548a3
+  md5_6: 548a30
+  oomp_key: oomp_lm7906_to220
+  oomp_key_extra: oomp_symbol_lm7906_to220
+  oomp_key_full: oomp_symbol_lm7906_to220_548a30
+  oomp_key_simple: lm7906_to220
   owner_name: kicad
-  symbol_name: regulator_linear_lm7906_to220
+  symbol_name: lm7906_to220
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

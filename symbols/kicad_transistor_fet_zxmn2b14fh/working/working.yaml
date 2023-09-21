@@ -1,16 +1,20 @@
+id: kicad_transistor_fet_zxmn2b14fh
+library: transistor_fet
 library_name: Transistor_FET
+name: zxmn2b14fh
 oomp:
   library_name: transistor_fet
-  md5: 14a3ff21ef4de5f148482339ae274c4e
-  md5_10: 14a3ff21ef
-  md5_5: 14a3f
-  md5_6: 14a3ff
-  oomp_key: oomp_transistor_fet_zxmn2b14fh
-  oomp_key_extra: oomp_symbol_transistor_fet_zxmn2b14fh
-  oomp_key_full: oomp_symbol_transistor_fet_zxmn2b14fh_14a3ff
-  oomp_key_simple: transistor_fet_zxmn2b14fh
+  md5: ef7a4443add912f9eedc942dafc528cb
+  md5_10: ef7a4443ad
+  md5_5: ef7a4
+  md5_6: ef7a44
+  oomp_key: oomp_zxmn2b14fh
+  oomp_key_extra: oomp_symbol_zxmn2b14fh
+  oomp_key_full: oomp_symbol_zxmn2b14fh_ef7a44
+  oomp_key_simple: zxmn2b14fh
   owner_name: kicad
-  symbol_name: transistor_fet_zxmn2b14fh
+  symbol_name: zxmn2b14fh
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

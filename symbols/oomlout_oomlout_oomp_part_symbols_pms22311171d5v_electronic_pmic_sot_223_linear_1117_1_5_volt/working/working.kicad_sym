@@ -15,7 +15,7 @@
     (property "ki_keywords" "linear regulator ldo fixed positive obsolete" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "ki_description" "1A Low Dropout regulator, positive, 1.5V fixed output, SOT-223" (at 0 0 0)
+    (property "ki_description" "[electronic_pmic_sot_223_linear_1117_1_5_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_1_5_volt/working)<br><br>" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "ki_fp_filters" "SOT?223*TabPin2*" (at 0 0 0)

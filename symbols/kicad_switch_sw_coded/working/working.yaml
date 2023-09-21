@@ -1,3 +1,5 @@
+id: kicad_switch_sw_coded
+library: switch
 library_name: Switch
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_switch_sw_coded/working
   oomp_src_flat: symbols_flat/kicad_switch_sw_coded/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_switch_sw_coded/working
-name: switch_sw_coded
+name: sw_coded
 oomp:
   library_name: switch
-  md5: 16d1b6af6396e3dbb275f4f7c9ee830a
-  md5_10: 16d1b6af63
-  md5_5: 16d1b
-  md5_6: 16d1b6
-  oomp_key: oomp_switch_sw_coded
-  oomp_key_extra: oomp_symbol_switch_sw_coded
-  oomp_key_full: oomp_symbol_switch_sw_coded_16d1b6
-  oomp_key_simple: switch_sw_coded
+  md5: 3fa99f9556e2f1d13d5a1a8c9ff4d37c
+  md5_10: 3fa99f9556
+  md5_5: 3fa99
+  md5_6: 3fa99f
+  oomp_key: oomp_sw_coded
+  oomp_key_extra: oomp_symbol_sw_coded
+  oomp_key_full: oomp_symbol_sw_coded_3fa99f
+  oomp_key_simple: sw_coded
   owner_name: kicad
-  symbol_name: switch_sw_coded
+  symbol_name: sw_coded
 oomp_key: oomp_kicad_switch_sw_coded
 oomp_key_simple: kicad_switch_sw_coded
 owner: kicad

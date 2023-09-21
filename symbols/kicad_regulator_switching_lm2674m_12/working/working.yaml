@@ -1,3 +1,5 @@
+id: kicad_regulator_switching_lm2674m_12
+library: regulator_switching
 library_name: Regulator_Switching
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_lm2674m_12/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_lm2674m_12/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_lm2674m_12/working
-name: regulator_switching_lm2674m_12
+name: lm2674m_12
 oomp:
   library_name: regulator_switching
-  md5: cf35589ecd99e1eaf3d1c02da3e3e505
-  md5_10: cf35589ecd
-  md5_5: cf355
-  md5_6: cf3558
-  oomp_key: oomp_regulator_switching_lm2674m_12
-  oomp_key_extra: oomp_symbol_regulator_switching_lm2674m_12
-  oomp_key_full: oomp_symbol_regulator_switching_lm2674m_12_cf3558
-  oomp_key_simple: regulator_switching_lm2674m_12
+  md5: 4ea2dc4b7b4f796d4ff773c318eb024b
+  md5_10: 4ea2dc4b7b
+  md5_5: 4ea2d
+  md5_6: 4ea2dc
+  oomp_key: oomp_lm2674m_12
+  oomp_key_extra: oomp_symbol_lm2674m_12
+  oomp_key_full: oomp_symbol_lm2674m_12_4ea2dc
+  oomp_key_simple: lm2674m_12
   owner_name: kicad
-  symbol_name: regulator_switching_lm2674m_12
+  symbol_name: lm2674m_12
 oomp_key: oomp_kicad_regulator_switching_lm2674m_12
 oomp_key_simple: kicad_regulator_switching_lm2674m_12
 owner: kicad

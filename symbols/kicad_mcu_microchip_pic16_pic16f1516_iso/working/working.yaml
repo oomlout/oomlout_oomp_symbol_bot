@@ -1,16 +1,20 @@
+id: kicad_mcu_microchip_pic16_pic16f1516_iso
+library: mcu_microchip_pic16
 library_name: MCU_Microchip_PIC16
+name: pic16f1516_iso
 oomp:
   library_name: mcu_microchip_pic16
-  md5: 17ee7721d01114a0c0bbb51f4707e6e6
-  md5_10: 17ee7721d0
-  md5_5: 17ee7
-  md5_6: 17ee77
-  oomp_key: oomp_mcu_microchip_pic16_pic16f1516_iso
-  oomp_key_extra: oomp_symbol_mcu_microchip_pic16_pic16f1516_iso
-  oomp_key_full: oomp_symbol_mcu_microchip_pic16_pic16f1516_iso_17ee77
-  oomp_key_simple: mcu_microchip_pic16_pic16f1516_iso
+  md5: b18ad6129f03d38306fb678f9d6874d6
+  md5_10: b18ad6129f
+  md5_5: b18ad
+  md5_6: b18ad6
+  oomp_key: oomp_pic16f1516_iso
+  oomp_key_extra: oomp_symbol_pic16f1516_iso
+  oomp_key_full: oomp_symbol_pic16f1516_iso_b18ad6
+  oomp_key_simple: pic16f1516_iso
   owner_name: kicad
-  symbol_name: mcu_microchip_pic16_pic16f1516_iso
+  symbol_name: pic16f1516_iso
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

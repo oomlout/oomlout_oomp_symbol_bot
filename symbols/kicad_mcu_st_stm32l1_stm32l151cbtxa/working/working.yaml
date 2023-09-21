@@ -1,16 +1,20 @@
+id: kicad_mcu_st_stm32l1_stm32l151cbtxa
+library: mcu_st_stm32l1
 library_name: MCU_ST_STM32L1
+name: stm32l151cbtxa
 oomp:
   library_name: mcu_st_stm32l1
-  md5: 3242e6ccf40ce2b497a68885a8922ad8
-  md5_10: 3242e6ccf4
-  md5_5: 3242e
-  md5_6: 3242e6
-  oomp_key: oomp_mcu_st_stm32l1_stm32l151cbtxa
-  oomp_key_extra: oomp_symbol_mcu_st_stm32l1_stm32l151cbtxa
-  oomp_key_full: oomp_symbol_mcu_st_stm32l1_stm32l151cbtxa_3242e6
-  oomp_key_simple: mcu_st_stm32l1_stm32l151cbtxa
+  md5: 2e1384b3d7bfa019383e722549d93177
+  md5_10: 2e1384b3d7
+  md5_5: 2e138
+  md5_6: 2e1384
+  oomp_key: oomp_stm32l151cbtxa
+  oomp_key_extra: oomp_symbol_stm32l151cbtxa
+  oomp_key_full: oomp_symbol_stm32l151cbtxa_2e1384
+  oomp_key_simple: stm32l151cbtxa
   owner_name: kicad
-  symbol_name: mcu_st_stm32l1_stm32l151cbtxa
+  symbol_name: stm32l151cbtxa
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

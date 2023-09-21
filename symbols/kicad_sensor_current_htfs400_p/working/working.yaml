@@ -1,16 +1,20 @@
+id: kicad_sensor_current_htfs400_p
+library: sensor_current
 library_name: Sensor_Current
+name: htfs400_p
 oomp:
   library_name: sensor_current
-  md5: 8f4b2e41da57c771482d4170bdc9c048
-  md5_10: 8f4b2e41da
-  md5_5: 8f4b2
-  md5_6: 8f4b2e
-  oomp_key: oomp_sensor_current_htfs400_p
-  oomp_key_extra: oomp_symbol_sensor_current_htfs400_p
-  oomp_key_full: oomp_symbol_sensor_current_htfs400_p_8f4b2e
-  oomp_key_simple: sensor_current_htfs400_p
+  md5: 504fed0133f7f3466adb4d0d5d3e7caa
+  md5_10: 504fed0133
+  md5_5: 504fe
+  md5_6: 504fed
+  oomp_key: oomp_htfs400_p
+  oomp_key_extra: oomp_symbol_htfs400_p
+  oomp_key_full: oomp_symbol_htfs400_p_504fed
+  oomp_key_simple: htfs400_p
   owner_name: kicad
-  symbol_name: sensor_current_htfs400_p
+  symbol_name: htfs400_p
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_lm341t_05_to220
+library: regulator_linear
 library_name: Regulator_Linear
+name: lm341t_05_to220
 oomp:
   library_name: regulator_linear
-  md5: e2a71964714fd60cb3ba65395ad9531b
-  md5_10: e2a7196471
-  md5_5: e2a71
-  md5_6: e2a719
-  oomp_key: oomp_regulator_linear_lm341t_05_to220
-  oomp_key_extra: oomp_symbol_regulator_linear_lm341t_05_to220
-  oomp_key_full: oomp_symbol_regulator_linear_lm341t_05_to220_e2a719
-  oomp_key_simple: regulator_linear_lm341t_05_to220
+  md5: 0c517f7f20e37399fa37613df560c0a4
+  md5_10: 0c517f7f20
+  md5_5: 0c517
+  md5_6: 0c517f
+  oomp_key: oomp_lm341t_05_to220
+  oomp_key_extra: oomp_symbol_lm341t_05_to220
+  oomp_key_full: oomp_symbol_lm341t_05_to220_0c517f
+  oomp_key_simple: lm341t_05_to220
   owner_name: kicad
-  symbol_name: regulator_linear_lm341t_05_to220
+  symbol_name: lm341t_05_to220
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_amplifier_instrumentation_ad8421arz
+library: amplifier_instrumentation
 library_name: Amplifier_Instrumentation
+name: ad8421arz
 oomp:
   library_name: amplifier_instrumentation
-  md5: 4900d711fc36abf9bd0746e57e98c381
-  md5_10: 4900d711fc
-  md5_5: 4900d
-  md5_6: 4900d7
-  oomp_key: oomp_amplifier_instrumentation_ad8421arz
-  oomp_key_extra: oomp_symbol_amplifier_instrumentation_ad8421arz
-  oomp_key_full: oomp_symbol_amplifier_instrumentation_ad8421arz_4900d7
-  oomp_key_simple: amplifier_instrumentation_ad8421arz
+  md5: 5a7c804401a08f60211ac3524f9ba06d
+  md5_10: 5a7c804401
+  md5_5: 5a7c8
+  md5_6: 5a7c80
+  oomp_key: oomp_ad8421arz
+  oomp_key_extra: oomp_symbol_ad8421arz
+  oomp_key_full: oomp_symbol_ad8421arz_5a7c80
+  oomp_key_simple: ad8421arz
   owner_name: kicad
-  symbol_name: amplifier_instrumentation_ad8421arz
+  symbol_name: ad8421arz
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

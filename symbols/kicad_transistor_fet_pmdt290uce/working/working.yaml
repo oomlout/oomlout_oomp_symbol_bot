@@ -1,16 +1,20 @@
+id: kicad_transistor_fet_pmdt290uce
+library: transistor_fet
 library_name: Transistor_FET
+name: pmdt290uce
 oomp:
   library_name: transistor_fet
-  md5: f7984710d4cbdd92db153be33013c0d5
-  md5_10: f7984710d4
-  md5_5: f7984
-  md5_6: f79847
-  oomp_key: oomp_transistor_fet_pmdt290uce
-  oomp_key_extra: oomp_symbol_transistor_fet_pmdt290uce
-  oomp_key_full: oomp_symbol_transistor_fet_pmdt290uce_f79847
-  oomp_key_simple: transistor_fet_pmdt290uce
+  md5: f86aa06a50c00835c71ed18c89396f69
+  md5_10: f86aa06a50
+  md5_5: f86aa
+  md5_6: f86aa0
+  oomp_key: oomp_pmdt290uce
+  oomp_key_extra: oomp_symbol_pmdt290uce
+  oomp_key_full: oomp_symbol_pmdt290uce_f86aa0
+  oomp_key_simple: pmdt290uce
   owner_name: kicad
-  symbol_name: transistor_fet_pmdt290uce
+  symbol_name: pmdt290uce
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

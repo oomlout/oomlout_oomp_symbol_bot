@@ -1,3 +1,5 @@
+id: kicad_memory_eeprom_93lcxxc
+library: memory_eeprom
 library_name: Memory_EEPROM
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_memory_eeprom_93lcxxc/working
   oomp_src_flat: symbols_flat/kicad_memory_eeprom_93lcxxc/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_memory_eeprom_93lcxxc/working
-name: memory_eeprom_93lcxxc
+name: 93lcxxc
 oomp:
   library_name: memory_eeprom
-  md5: 88e40abb6887a64b8a408440c9d9ff42
-  md5_10: 88e40abb68
-  md5_5: 88e40
-  md5_6: 88e40a
-  oomp_key: oomp_memory_eeprom_93lcxxc
-  oomp_key_extra: oomp_symbol_memory_eeprom_93lcxxc
-  oomp_key_full: oomp_symbol_memory_eeprom_93lcxxc_88e40a
-  oomp_key_simple: memory_eeprom_93lcxxc
+  md5: 4047e31dbd1618fe53a5b85d13ca7888
+  md5_10: 4047e31dbd
+  md5_5: 4047e
+  md5_6: 4047e3
+  oomp_key: oomp_93lcxxc
+  oomp_key_extra: oomp_symbol_93lcxxc
+  oomp_key_full: oomp_symbol_93lcxxc_4047e3
+  oomp_key_simple: 93lcxxc
   owner_name: kicad
-  symbol_name: memory_eeprom_93lcxxc
+  symbol_name: 93lcxxc
 oomp_key: oomp_kicad_memory_eeprom_93lcxxc
 oomp_key_simple: kicad_memory_eeprom_93lcxxc
 owner: kicad

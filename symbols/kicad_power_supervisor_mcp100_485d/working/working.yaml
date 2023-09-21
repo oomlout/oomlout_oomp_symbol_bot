@@ -1,16 +1,20 @@
+id: kicad_power_supervisor_mcp100_485d
+library: power_supervisor
 library_name: Power_Supervisor
+name: mcp100_485d
 oomp:
   library_name: power_supervisor
-  md5: e3c5cecdd9cabaaaa36b453894a69b0c
-  md5_10: e3c5cecdd9
-  md5_5: e3c5c
-  md5_6: e3c5ce
-  oomp_key: oomp_power_supervisor_mcp100_485d
-  oomp_key_extra: oomp_symbol_power_supervisor_mcp100_485d
-  oomp_key_full: oomp_symbol_power_supervisor_mcp100_485d_e3c5ce
-  oomp_key_simple: power_supervisor_mcp100_485d
+  md5: 204615125f9f81b06d621413749e5393
+  md5_10: 204615125f
+  md5_5: '20461'
+  md5_6: '204615'
+  oomp_key: oomp_mcp100_485d
+  oomp_key_extra: oomp_symbol_mcp100_485d
+  oomp_key_full: oomp_symbol_mcp100_485d_204615
+  oomp_key_simple: mcp100_485d
   owner_name: kicad
-  symbol_name: power_supervisor_mcp100_485d
+  symbol_name: mcp100_485d
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_connector_rj9_shielded
+library: connector
 library_name: Connector
+name: rj9_shielded
 oomp:
   library_name: connector
-  md5: f229c34a44e115ab4b6cc70f03dc5f74
-  md5_10: f229c34a44
-  md5_5: f229c
-  md5_6: f229c3
-  oomp_key: oomp_connector_rj9_shielded
-  oomp_key_extra: oomp_symbol_connector_rj9_shielded
-  oomp_key_full: oomp_symbol_connector_rj9_shielded_f229c3
-  oomp_key_simple: connector_rj9_shielded
+  md5: 3f986f43129a2c05af86cbe989e86b62
+  md5_10: 3f986f4312
+  md5_5: 3f986
+  md5_6: 3f986f
+  oomp_key: oomp_rj9_shielded
+  oomp_key_extra: oomp_symbol_rj9_shielded
+  oomp_key_full: oomp_symbol_rj9_shielded_3f986f
+  oomp_key_simple: rj9_shielded
   owner_name: kicad
-  symbol_name: connector_rj9_shielded
+  symbol_name: rj9_shielded
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

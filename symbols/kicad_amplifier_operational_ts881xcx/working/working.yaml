@@ -1,16 +1,20 @@
+id: kicad_amplifier_operational_ts881xcx
+library: amplifier_operational
 library_name: Amplifier_Operational
+name: ts881xcx
 oomp:
   library_name: amplifier_operational
-  md5: a306d769ab5831248d7d5e35b4815a57
-  md5_10: a306d769ab
-  md5_5: a306d
-  md5_6: a306d7
-  oomp_key: oomp_amplifier_operational_ts881xcx
-  oomp_key_extra: oomp_symbol_amplifier_operational_ts881xcx
-  oomp_key_full: oomp_symbol_amplifier_operational_ts881xcx_a306d7
-  oomp_key_simple: amplifier_operational_ts881xcx
+  md5: 42382735af453e257b70de6a4a1bab0e
+  md5_10: 42382735af
+  md5_5: '42382'
+  md5_6: '423827'
+  oomp_key: oomp_ts881xcx
+  oomp_key_extra: oomp_symbol_ts881xcx
+  oomp_key_full: oomp_symbol_ts881xcx_423827
+  oomp_key_simple: ts881xcx
   owner_name: kicad
-  symbol_name: amplifier_operational_ts881xcx
+  symbol_name: ts881xcx
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

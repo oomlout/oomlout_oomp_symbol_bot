@@ -1,16 +1,20 @@
+id: kicad_power_protection_pesd5v0l4ug
+library: power_protection
 library_name: Power_Protection
+name: pesd5v0l4ug
 oomp:
   library_name: power_protection
-  md5: a8a827a43b14072ed72424c648b88024
-  md5_10: a8a827a43b
-  md5_5: a8a82
-  md5_6: a8a827
-  oomp_key: oomp_power_protection_pesd5v0l4ug
-  oomp_key_extra: oomp_symbol_power_protection_pesd5v0l4ug
-  oomp_key_full: oomp_symbol_power_protection_pesd5v0l4ug_a8a827
-  oomp_key_simple: power_protection_pesd5v0l4ug
+  md5: e8dde19df0eb4728602a65c2d4e1e396
+  md5_10: e8dde19df0
+  md5_5: e8dde
+  md5_6: e8dde1
+  oomp_key: oomp_pesd5v0l4ug
+  oomp_key_extra: oomp_symbol_pesd5v0l4ug
+  oomp_key_full: oomp_symbol_pesd5v0l4ug_e8dde1
+  oomp_key_simple: pesd5v0l4ug
   owner_name: kicad
-  symbol_name: power_protection_pesd5v0l4ug
+  symbol_name: pesd5v0l4ug
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

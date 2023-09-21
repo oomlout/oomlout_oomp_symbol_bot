@@ -1,16 +1,20 @@
+id: kicad_mcu_st_stm32f1_stm32f101zgtx
+library: mcu_st_stm32f1
 library_name: MCU_ST_STM32F1
+name: stm32f101zgtx
 oomp:
   library_name: mcu_st_stm32f1
-  md5: 4c889539316ad7453f942c529bcc20da
-  md5_10: 4c88953931
-  md5_5: 4c889
-  md5_6: 4c8895
-  oomp_key: oomp_mcu_st_stm32f1_stm32f101zgtx
-  oomp_key_extra: oomp_symbol_mcu_st_stm32f1_stm32f101zgtx
-  oomp_key_full: oomp_symbol_mcu_st_stm32f1_stm32f101zgtx_4c8895
-  oomp_key_simple: mcu_st_stm32f1_stm32f101zgtx
+  md5: dedb5fc3b6f8dbe70b52f0dedb5b239e
+  md5_10: dedb5fc3b6
+  md5_5: dedb5
+  md5_6: dedb5f
+  oomp_key: oomp_stm32f101zgtx
+  oomp_key_extra: oomp_symbol_stm32f101zgtx
+  oomp_key_full: oomp_symbol_stm32f101zgtx_dedb5f
+  oomp_key_simple: stm32f101zgtx
   owner_name: kicad
-  symbol_name: mcu_st_stm32f1_stm32f101zgtx
+  symbol_name: stm32f101zgtx
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

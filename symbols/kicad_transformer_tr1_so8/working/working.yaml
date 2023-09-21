@@ -1,3 +1,5 @@
+id: kicad_transformer_tr1_so8
+library: transformer
 library_name: Transformer
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_transformer_tr1_so8/working
   oomp_src_flat: symbols_flat/kicad_transformer_tr1_so8/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_transformer_tr1_so8/working
-name: transformer_tr1_so8
+name: tr1_so8
 oomp:
   library_name: transformer
-  md5: 349cda54976799c50fe425a83a34baac
-  md5_10: 349cda5497
-  md5_5: 349cd
-  md5_6: 349cda
-  oomp_key: oomp_transformer_tr1_so8
-  oomp_key_extra: oomp_symbol_transformer_tr1_so8
-  oomp_key_full: oomp_symbol_transformer_tr1_so8_349cda
-  oomp_key_simple: transformer_tr1_so8
+  md5: f1e21facd3041442d3974221a16eed02
+  md5_10: f1e21facd3
+  md5_5: f1e21
+  md5_6: f1e21f
+  oomp_key: oomp_tr1_so8
+  oomp_key_extra: oomp_symbol_tr1_so8
+  oomp_key_full: oomp_symbol_tr1_so8_f1e21f
+  oomp_key_simple: tr1_so8
   owner_name: kicad
-  symbol_name: transformer_tr1_so8
+  symbol_name: tr1_so8
 oomp_key: oomp_kicad_transformer_tr1_so8
 oomp_key_simple: kicad_transformer_tr1_so8
 owner: kicad

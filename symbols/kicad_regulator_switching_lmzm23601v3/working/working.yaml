@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_lmzm23601v3
+library: regulator_switching
 library_name: Regulator_Switching
+name: lmzm23601v3
 oomp:
   library_name: regulator_switching
-  md5: e63c4cba4c8bdb6e0a0e15bdb6473fc6
-  md5_10: e63c4cba4c
-  md5_5: e63c4
-  md5_6: e63c4c
-  oomp_key: oomp_regulator_switching_lmzm23601v3
-  oomp_key_extra: oomp_symbol_regulator_switching_lmzm23601v3
-  oomp_key_full: oomp_symbol_regulator_switching_lmzm23601v3_e63c4c
-  oomp_key_simple: regulator_switching_lmzm23601v3
+  md5: 47cc5f9dc00d8c82156c5c73b4c23e2f
+  md5_10: 47cc5f9dc0
+  md5_5: 47cc5
+  md5_6: 47cc5f
+  oomp_key: oomp_lmzm23601v3
+  oomp_key_extra: oomp_symbol_lmzm23601v3
+  oomp_key_full: oomp_symbol_lmzm23601v3_47cc5f
+  oomp_key_simple: lmzm23601v3
   owner_name: kicad
-  symbol_name: regulator_switching_lmzm23601v3
+  symbol_name: lmzm23601v3
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

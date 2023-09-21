@@ -1,16 +1,20 @@
+id: kicad_transistor_fet_csd17527q5a
+library: transistor_fet
 library_name: Transistor_FET
+name: csd17527q5a
 oomp:
   library_name: transistor_fet
-  md5: 10e92bd012f72cb69132aef4fef14e07
-  md5_10: 10e92bd012
-  md5_5: 10e92
-  md5_6: 10e92b
-  oomp_key: oomp_transistor_fet_csd17527q5a
-  oomp_key_extra: oomp_symbol_transistor_fet_csd17527q5a
-  oomp_key_full: oomp_symbol_transistor_fet_csd17527q5a_10e92b
-  oomp_key_simple: transistor_fet_csd17527q5a
+  md5: 1f1674ce0435355c8dfc78b87000f50e
+  md5_10: 1f1674ce04
+  md5_5: 1f167
+  md5_6: 1f1674
+  oomp_key: oomp_csd17527q5a
+  oomp_key_extra: oomp_symbol_csd17527q5a
+  oomp_key_full: oomp_symbol_csd17527q5a_1f1674
+  oomp_key_simple: csd17527q5a
   owner_name: kicad
-  symbol_name: transistor_fet_csd17527q5a
+  symbol_name: csd17527q5a
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

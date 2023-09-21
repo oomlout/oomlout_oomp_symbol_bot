@@ -1,3 +1,5 @@
+id: kicad_mcu_st_stm32f1_stm32f101c_8_b_ux
+library: mcu_st_stm32f1
 library_name: MCU_ST_STM32F1
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_st_stm32f1_stm32f101c_8_b_ux/working
   oomp_src_flat: symbols_flat/kicad_mcu_st_stm32f1_stm32f101c_8_b_ux/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_st_stm32f1_stm32f101c_8_b_ux/working
-name: mcu_st_stm32f1_stm32f101c_8_b_ux
+name: stm32f101c_8_b_ux
 oomp:
   library_name: mcu_st_stm32f1
-  md5: ffbefedafce8b9fe643119b18a59a4c9
-  md5_10: ffbefedafc
-  md5_5: ffbef
-  md5_6: ffbefe
-  oomp_key: oomp_mcu_st_stm32f1_stm32f101c_8_b_ux
-  oomp_key_extra: oomp_symbol_mcu_st_stm32f1_stm32f101c_8_b_ux
-  oomp_key_full: oomp_symbol_mcu_st_stm32f1_stm32f101c_8_b_ux_ffbefe
-  oomp_key_simple: mcu_st_stm32f1_stm32f101c_8_b_ux
+  md5: b61f68f441030bb3996bf3bcd29946b2
+  md5_10: b61f68f441
+  md5_5: b61f6
+  md5_6: b61f68
+  oomp_key: oomp_stm32f101c_8_b_ux
+  oomp_key_extra: oomp_symbol_stm32f101c_8_b_ux
+  oomp_key_full: oomp_symbol_stm32f101c_8_b_ux_b61f68
+  oomp_key_simple: stm32f101c_8_b_ux
   owner_name: kicad
-  symbol_name: mcu_st_stm32f1_stm32f101c_8_b_ux
+  symbol_name: stm32f101c_8_b_ux
 oomp_key: oomp_kicad_mcu_st_stm32f1_stm32f101c_8_b_ux
 oomp_key_simple: kicad_mcu_st_stm32f1_stm32f101c_8_b_ux
 owner: kicad

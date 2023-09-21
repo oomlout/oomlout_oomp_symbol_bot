@@ -1,0 +1,36 @@
+id: kicad_jumper_solder3_bridged123
+library: jumper
+library_name: Jumper
+links:
+  github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
+  github_src_repo: https://gitlab.com/kicad/libraries/kicad-symbols
+  oomp_bot: kicad_jumper_solder3_bridged123/working
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_jumper_solder3_bridged123/working
+  oomp_doc: kicad_jumper_solder3_bridged123/working
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_jumper_solder3_bridged123/working
+  oomp_src_flat: symbols_flat/kicad_jumper_solder3_bridged123/working
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_jumper_solder3_bridged123/working
+name: solder3_bridged123
+oomp:
+  library_name: jumper
+  md5: 349b2c01197158d760a74e65c98c490d
+  md5_10: 349b2c0119
+  md5_5: 349b2
+  md5_6: 349b2c
+  oomp_key: oomp_solder3_bridged123
+  oomp_key_extra: oomp_symbol_solder3_bridged123
+  oomp_key_full: oomp_symbol_solder3_bridged123_349b2c
+  oomp_key_simple: solder3_bridged123
+  owner_name: kicad
+  symbol_name: solder3_bridged123
+oomp_key: oomp_kicad_jumper_solder3_bridged123
+oomp_key_simple: kicad_jumper_solder3_bridged123
+owner: kicad
+repo:
+  github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
+  name: kicad-symbols
+  owner: kicad
+  url: https://gitlab.com/kicad/libraries/kicad-symbols
+repo_github:
+  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
+  message: Not Found

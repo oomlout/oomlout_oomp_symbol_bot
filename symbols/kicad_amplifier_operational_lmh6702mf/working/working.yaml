@@ -1,16 +1,20 @@
+id: kicad_amplifier_operational_lmh6702mf
+library: amplifier_operational
 library_name: Amplifier_Operational
+name: lmh6702mf
 oomp:
   library_name: amplifier_operational
-  md5: d72db8d751ad738af2bb0bccfbbb012f
-  md5_10: d72db8d751
-  md5_5: d72db
-  md5_6: d72db8
-  oomp_key: oomp_amplifier_operational_lmh6702mf
-  oomp_key_extra: oomp_symbol_amplifier_operational_lmh6702mf
-  oomp_key_full: oomp_symbol_amplifier_operational_lmh6702mf_d72db8
-  oomp_key_simple: amplifier_operational_lmh6702mf
+  md5: 820677bc551917d3ffdb5c6cd50454e9
+  md5_10: 820677bc55
+  md5_5: '82067'
+  md5_6: '820677'
+  oomp_key: oomp_lmh6702mf
+  oomp_key_extra: oomp_symbol_lmh6702mf
+  oomp_key_full: oomp_symbol_lmh6702mf_820677
+  oomp_key_simple: lmh6702mf
   owner_name: kicad
-  symbol_name: amplifier_operational_lmh6702mf
+  symbol_name: lmh6702mf
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,3 +1,5 @@
+id: kicad_reference_voltage_tl431lp
+library: reference_voltage
 library_name: Reference_Voltage
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_reference_voltage_tl431lp/working
   oomp_src_flat: symbols_flat/kicad_reference_voltage_tl431lp/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_reference_voltage_tl431lp/working
-name: reference_voltage_tl431lp
+name: tl431lp
 oomp:
   library_name: reference_voltage
-  md5: 94f57b6a991815ab3a4129ccb033959b
-  md5_10: 94f57b6a99
-  md5_5: 94f57
-  md5_6: 94f57b
-  oomp_key: oomp_reference_voltage_tl431lp
-  oomp_key_extra: oomp_symbol_reference_voltage_tl431lp
-  oomp_key_full: oomp_symbol_reference_voltage_tl431lp_94f57b
-  oomp_key_simple: reference_voltage_tl431lp
+  md5: 8407322ced5603547325d953c29434c2
+  md5_10: 8407322ced
+  md5_5: '84073'
+  md5_6: '840732'
+  oomp_key: oomp_tl431lp
+  oomp_key_extra: oomp_symbol_tl431lp
+  oomp_key_full: oomp_symbol_tl431lp_840732
+  oomp_key_simple: tl431lp
   owner_name: kicad
-  symbol_name: reference_voltage_tl431lp
+  symbol_name: tl431lp
 oomp_key: oomp_kicad_reference_voltage_tl431lp
 oomp_key_simple: kicad_reference_voltage_tl431lp
 owner: kicad

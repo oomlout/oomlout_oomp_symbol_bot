@@ -1,16 +1,20 @@
+id: kicad_driver_fet_ir21531
+library: driver_fet
 library_name: Driver_FET
+name: ir21531
 oomp:
   library_name: driver_fet
-  md5: df5a597d0cfb8e36cefc7a55d7ccf679
-  md5_10: df5a597d0c
-  md5_5: df5a5
-  md5_6: df5a59
-  oomp_key: oomp_driver_fet_ir21531
-  oomp_key_extra: oomp_symbol_driver_fet_ir21531
-  oomp_key_full: oomp_symbol_driver_fet_ir21531_df5a59
-  oomp_key_simple: driver_fet_ir21531
+  md5: 084a49fa1958859fad08b00199babead
+  md5_10: 084a49fa19
+  md5_5: 084a4
+  md5_6: 084a49
+  oomp_key: oomp_ir21531
+  oomp_key_extra: oomp_symbol_ir21531
+  oomp_key_full: oomp_symbol_ir21531_084a49
+  oomp_key_simple: ir21531
   owner_name: kicad
-  symbol_name: driver_fet_ir21531
+  symbol_name: ir21531
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

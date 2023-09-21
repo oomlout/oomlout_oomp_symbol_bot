@@ -1,16 +1,20 @@
+id: kicad_reference_voltage_ref3220amdbvrep
+library: reference_voltage
 library_name: Reference_Voltage
+name: ref3220amdbvrep
 oomp:
   library_name: reference_voltage
-  md5: 8d33acaf5e3a7c8dd630ca1ee918a9d5
-  md5_10: 8d33acaf5e
-  md5_5: 8d33a
-  md5_6: 8d33ac
-  oomp_key: oomp_reference_voltage_ref3220amdbvrep
-  oomp_key_extra: oomp_symbol_reference_voltage_ref3220amdbvrep
-  oomp_key_full: oomp_symbol_reference_voltage_ref3220amdbvrep_8d33ac
-  oomp_key_simple: reference_voltage_ref3220amdbvrep
+  md5: 13681c2ba0b29770d4d3402e9b5d3a19
+  md5_10: 13681c2ba0
+  md5_5: '13681'
+  md5_6: 13681c
+  oomp_key: oomp_ref3220amdbvrep
+  oomp_key_extra: oomp_symbol_ref3220amdbvrep
+  oomp_key_full: oomp_symbol_ref3220amdbvrep_13681c
+  oomp_key_simple: ref3220amdbvrep
   owner_name: kicad
-  symbol_name: reference_voltage_ref3220amdbvrep
+  symbol_name: ref3220amdbvrep
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

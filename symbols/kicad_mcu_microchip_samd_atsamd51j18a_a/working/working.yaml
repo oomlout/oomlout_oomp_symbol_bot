@@ -1,3 +1,5 @@
+id: kicad_mcu_microchip_samd_atsamd51j18a_a
+library: mcu_microchip_samd
 library_name: MCU_Microchip_SAMD
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_microchip_samd_atsamd51j18a_a/working
   oomp_src_flat: symbols_flat/kicad_mcu_microchip_samd_atsamd51j18a_a/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_microchip_samd_atsamd51j18a_a/working
-name: mcu_microchip_samd_atsamd51j18a_a
+name: atsamd51j18a_a
 oomp:
   library_name: mcu_microchip_samd
-  md5: 755cf4e59fd992f3712a71fcc69eb1db
-  md5_10: 755cf4e59f
-  md5_5: 755cf
-  md5_6: 755cf4
-  oomp_key: oomp_mcu_microchip_samd_atsamd51j18a_a
-  oomp_key_extra: oomp_symbol_mcu_microchip_samd_atsamd51j18a_a
-  oomp_key_full: oomp_symbol_mcu_microchip_samd_atsamd51j18a_a_755cf4
-  oomp_key_simple: mcu_microchip_samd_atsamd51j18a_a
+  md5: 2f02f7a103463751c89ba2b09c2c8298
+  md5_10: 2f02f7a103
+  md5_5: 2f02f
+  md5_6: 2f02f7
+  oomp_key: oomp_atsamd51j18a_a
+  oomp_key_extra: oomp_symbol_atsamd51j18a_a
+  oomp_key_full: oomp_symbol_atsamd51j18a_a_2f02f7
+  oomp_key_simple: atsamd51j18a_a
   owner_name: kicad
-  symbol_name: mcu_microchip_samd_atsamd51j18a_a
+  symbol_name: atsamd51j18a_a
 oomp_key: oomp_kicad_mcu_microchip_samd_atsamd51j18a_a
 oomp_key_simple: kicad_mcu_microchip_samd_atsamd51j18a_a
 owner: kicad

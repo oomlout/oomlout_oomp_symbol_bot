@@ -1,16 +1,20 @@
+id: kicad_reference_voltage_ref02bu
+library: reference_voltage
 library_name: Reference_Voltage
+name: ref02bu
 oomp:
   library_name: reference_voltage
-  md5: 8c6648af2a40e4f016881397364a84ae
-  md5_10: 8c6648af2a
-  md5_5: 8c664
-  md5_6: 8c6648
-  oomp_key: oomp_reference_voltage_ref02bu
-  oomp_key_extra: oomp_symbol_reference_voltage_ref02bu
-  oomp_key_full: oomp_symbol_reference_voltage_ref02bu_8c6648
-  oomp_key_simple: reference_voltage_ref02bu
+  md5: f2950a4648ef34acd75a2e2eea9a9c07
+  md5_10: f2950a4648
+  md5_5: f2950
+  md5_6: f2950a
+  oomp_key: oomp_ref02bu
+  oomp_key_extra: oomp_symbol_ref02bu
+  oomp_key_full: oomp_symbol_ref02bu_f2950a
+  oomp_key_simple: ref02bu
   owner_name: kicad
-  symbol_name: reference_voltage_ref02bu
+  symbol_name: ref02bu
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

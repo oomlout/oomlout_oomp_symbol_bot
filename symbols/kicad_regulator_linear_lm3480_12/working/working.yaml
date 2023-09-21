@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_lm3480_12
+library: regulator_linear
 library_name: Regulator_Linear
+name: lm3480_12
 oomp:
   library_name: regulator_linear
-  md5: dbd83abbafcf74e5ad21e5ea6e923679
-  md5_10: dbd83abbaf
-  md5_5: dbd83
-  md5_6: dbd83a
-  oomp_key: oomp_regulator_linear_lm3480_12
-  oomp_key_extra: oomp_symbol_regulator_linear_lm3480_12
-  oomp_key_full: oomp_symbol_regulator_linear_lm3480_12_dbd83a
-  oomp_key_simple: regulator_linear_lm3480_12
+  md5: 897b34c159b8fa09c166fe6d59223689
+  md5_10: 897b34c159
+  md5_5: 897b3
+  md5_6: 897b34
+  oomp_key: oomp_lm3480_12
+  oomp_key_extra: oomp_symbol_lm3480_12
+  oomp_key_full: oomp_symbol_lm3480_12_897b34
+  oomp_key_simple: lm3480_12
   owner_name: kicad
-  symbol_name: regulator_linear_lm3480_12
+  symbol_name: lm3480_12
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

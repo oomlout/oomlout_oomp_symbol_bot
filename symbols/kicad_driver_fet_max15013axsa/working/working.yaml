@@ -1,16 +1,20 @@
+id: kicad_driver_fet_max15013axsa
+library: driver_fet
 library_name: Driver_FET
+name: max15013axsa
 oomp:
   library_name: driver_fet
-  md5: 9304a685a77afb2cdb4add9f587ff47a
-  md5_10: 9304a685a7
-  md5_5: 9304a
-  md5_6: 9304a6
-  oomp_key: oomp_driver_fet_max15013axsa
-  oomp_key_extra: oomp_symbol_driver_fet_max15013axsa
-  oomp_key_full: oomp_symbol_driver_fet_max15013axsa_9304a6
-  oomp_key_simple: driver_fet_max15013axsa
+  md5: 55825344ce1ad128b1034c099ec4e695
+  md5_10: 55825344ce
+  md5_5: '55825'
+  md5_6: '558253'
+  oomp_key: oomp_max15013axsa
+  oomp_key_extra: oomp_symbol_max15013axsa
+  oomp_key_full: oomp_symbol_max15013axsa_558253
+  oomp_key_simple: max15013axsa
   owner_name: kicad
-  symbol_name: driver_fet_max15013axsa
+  symbol_name: max15013axsa
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

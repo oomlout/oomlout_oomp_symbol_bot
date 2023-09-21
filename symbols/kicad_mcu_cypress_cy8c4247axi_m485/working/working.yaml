@@ -1,16 +1,20 @@
+id: kicad_mcu_cypress_cy8c4247axi_m485
+library: mcu_cypress
 library_name: MCU_Cypress
+name: cy8c4247axi_m485
 oomp:
   library_name: mcu_cypress
-  md5: c6b84c05c9be1f2886b70a1bfa028163
-  md5_10: c6b84c05c9
-  md5_5: c6b84
-  md5_6: c6b84c
-  oomp_key: oomp_mcu_cypress_cy8c4247axi_m485
-  oomp_key_extra: oomp_symbol_mcu_cypress_cy8c4247axi_m485
-  oomp_key_full: oomp_symbol_mcu_cypress_cy8c4247axi_m485_c6b84c
-  oomp_key_simple: mcu_cypress_cy8c4247axi_m485
+  md5: ff7b8bc045fecf1d18100028125cd799
+  md5_10: ff7b8bc045
+  md5_5: ff7b8
+  md5_6: ff7b8b
+  oomp_key: oomp_cy8c4247axi_m485
+  oomp_key_extra: oomp_symbol_cy8c4247axi_m485
+  oomp_key_full: oomp_symbol_cy8c4247axi_m485_ff7b8b
+  oomp_key_simple: cy8c4247axi_m485
   owner_name: kicad
-  symbol_name: mcu_cypress_cy8c4247axi_m485
+  symbol_name: cy8c4247axi_m485
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

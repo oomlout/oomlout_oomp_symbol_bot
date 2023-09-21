@@ -1,3 +1,5 @@
+id: kicad_regulator_switching_tps51363
+library: regulator_switching
 library_name: Regulator_Switching
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_tps51363/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_tps51363/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_tps51363/working
-name: regulator_switching_tps51363
+name: tps51363
 oomp:
   library_name: regulator_switching
-  md5: 0b9f30d7e88e4ace9439b501087b718f
-  md5_10: 0b9f30d7e8
-  md5_5: 0b9f3
-  md5_6: 0b9f30
-  oomp_key: oomp_regulator_switching_tps51363
-  oomp_key_extra: oomp_symbol_regulator_switching_tps51363
-  oomp_key_full: oomp_symbol_regulator_switching_tps51363_0b9f30
-  oomp_key_simple: regulator_switching_tps51363
+  md5: a876864a6a2fbcda35440ad81e6db0af
+  md5_10: a876864a6a
+  md5_5: a8768
+  md5_6: a87686
+  oomp_key: oomp_tps51363
+  oomp_key_extra: oomp_symbol_tps51363
+  oomp_key_full: oomp_symbol_tps51363_a87686
+  oomp_key_simple: tps51363
   owner_name: kicad
-  symbol_name: regulator_switching_tps51363
+  symbol_name: tps51363
 oomp_key: oomp_kicad_regulator_switching_tps51363
 oomp_key_simple: kicad_regulator_switching_tps51363
 owner: kicad

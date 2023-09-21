@@ -1,16 +1,20 @@
+id: kicad_oscillator_sg_7050cbn
+library: oscillator
 library_name: Oscillator
+name: sg_7050cbn
 oomp:
   library_name: oscillator
-  md5: a45ec769932313c4cfd8768853b57925
-  md5_10: a45ec76993
-  md5_5: a45ec
-  md5_6: a45ec7
-  oomp_key: oomp_oscillator_sg_7050cbn
-  oomp_key_extra: oomp_symbol_oscillator_sg_7050cbn
-  oomp_key_full: oomp_symbol_oscillator_sg_7050cbn_a45ec7
-  oomp_key_simple: oscillator_sg_7050cbn
+  md5: e7a45df0eda050b09e67ba1f34303674
+  md5_10: e7a45df0ed
+  md5_5: e7a45
+  md5_6: e7a45d
+  oomp_key: oomp_sg_7050cbn
+  oomp_key_extra: oomp_symbol_sg_7050cbn
+  oomp_key_full: oomp_symbol_sg_7050cbn_e7a45d
+  oomp_key_simple: sg_7050cbn
   owner_name: kicad
-  symbol_name: oscillator_sg_7050cbn
+  symbol_name: sg_7050cbn
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

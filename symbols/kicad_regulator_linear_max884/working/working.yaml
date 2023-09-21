@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_max884
+library: regulator_linear
 library_name: Regulator_Linear
+name: max884
 oomp:
   library_name: regulator_linear
-  md5: 9a7d0ec6e41255ea67f115171f4318fd
-  md5_10: 9a7d0ec6e4
-  md5_5: 9a7d0
-  md5_6: 9a7d0e
-  oomp_key: oomp_regulator_linear_max884
-  oomp_key_extra: oomp_symbol_regulator_linear_max884
-  oomp_key_full: oomp_symbol_regulator_linear_max884_9a7d0e
-  oomp_key_simple: regulator_linear_max884
+  md5: 4ef21e9f285ceb6cf99e3538c05ce49e
+  md5_10: 4ef21e9f28
+  md5_5: 4ef21
+  md5_6: 4ef21e
+  oomp_key: oomp_max884
+  oomp_key_extra: oomp_symbol_max884
+  oomp_key_full: oomp_symbol_max884_4ef21e
+  oomp_key_simple: max884
   owner_name: kicad
-  symbol_name: regulator_linear_max884
+  symbol_name: max884
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

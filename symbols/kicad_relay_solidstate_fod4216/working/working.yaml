@@ -1,16 +1,20 @@
+id: kicad_relay_solidstate_fod4216
+library: relay_solidstate
 library_name: Relay_SolidState
+name: fod4216
 oomp:
   library_name: relay_solidstate
-  md5: 9f60643911895cc8a3c1b543a3336b3a
-  md5_10: 9f60643911
-  md5_5: 9f606
-  md5_6: 9f6064
-  oomp_key: oomp_relay_solidstate_fod4216
-  oomp_key_extra: oomp_symbol_relay_solidstate_fod4216
-  oomp_key_full: oomp_symbol_relay_solidstate_fod4216_9f6064
-  oomp_key_simple: relay_solidstate_fod4216
+  md5: 7e64bf4bc7a47aa4d2d542aac62d8fa2
+  md5_10: 7e64bf4bc7
+  md5_5: 7e64b
+  md5_6: 7e64bf
+  oomp_key: oomp_fod4216
+  oomp_key_extra: oomp_symbol_fod4216
+  oomp_key_full: oomp_symbol_fod4216_7e64bf
+  oomp_key_simple: fod4216
   owner_name: kicad
-  symbol_name: relay_solidstate_fod4216
+  symbol_name: fod4216
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

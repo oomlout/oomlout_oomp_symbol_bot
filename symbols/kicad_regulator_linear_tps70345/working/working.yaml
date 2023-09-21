@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_tps70345
+library: regulator_linear
 library_name: Regulator_Linear
+name: tps70345
 oomp:
   library_name: regulator_linear
-  md5: 3954d03f3d5e375b604b80ae49901339
-  md5_10: 3954d03f3d
-  md5_5: 3954d
-  md5_6: 3954d0
-  oomp_key: oomp_regulator_linear_tps70345
-  oomp_key_extra: oomp_symbol_regulator_linear_tps70345
-  oomp_key_full: oomp_symbol_regulator_linear_tps70345_3954d0
-  oomp_key_simple: regulator_linear_tps70345
+  md5: 24b77299521ab6a800506e54de7a5a03
+  md5_10: 24b7729952
+  md5_5: 24b77
+  md5_6: 24b772
+  oomp_key: oomp_tps70345
+  oomp_key_extra: oomp_symbol_tps70345
+  oomp_key_full: oomp_symbol_tps70345_24b772
+  oomp_key_simple: tps70345
   owner_name: kicad
-  symbol_name: regulator_linear_tps70345
+  symbol_name: tps70345
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

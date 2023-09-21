@@ -18,7 +18,7 @@
     (property "ki_keywords" "connector" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "ki_description" "Generic connector, single row, 01x14, script generated" (at 0 0 0)
+    (property "ki_description" "[electronic_interposer_soic_14_wide_i2c_landing](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_interposer_soic_14_wide_i2c_landing/working)<br><br>" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "ki_fp_filters" "Connector*:*_1x??_*" (at 0 0 0)

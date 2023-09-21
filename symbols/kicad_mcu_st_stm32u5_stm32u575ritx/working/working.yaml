@@ -1,3 +1,5 @@
+id: kicad_mcu_st_stm32u5_stm32u575ritx
+library: mcu_st_stm32u5
 library_name: MCU_ST_STM32U5
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_st_stm32u5_stm32u575ritx/working
   oomp_src_flat: symbols_flat/kicad_mcu_st_stm32u5_stm32u575ritx/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_st_stm32u5_stm32u575ritx/working
-name: mcu_st_stm32u5_stm32u575ritx
+name: stm32u575ritx
 oomp:
   library_name: mcu_st_stm32u5
-  md5: d079b295641d8805f9396ac512504357
-  md5_10: d079b29564
-  md5_5: d079b
-  md5_6: d079b2
-  oomp_key: oomp_mcu_st_stm32u5_stm32u575ritx
-  oomp_key_extra: oomp_symbol_mcu_st_stm32u5_stm32u575ritx
-  oomp_key_full: oomp_symbol_mcu_st_stm32u5_stm32u575ritx_d079b2
-  oomp_key_simple: mcu_st_stm32u5_stm32u575ritx
+  md5: 739d15ba50700c270c6eb5bdf636ba4b
+  md5_10: 739d15ba50
+  md5_5: 739d1
+  md5_6: 739d15
+  oomp_key: oomp_stm32u575ritx
+  oomp_key_extra: oomp_symbol_stm32u575ritx
+  oomp_key_full: oomp_symbol_stm32u575ritx_739d15
+  oomp_key_simple: stm32u575ritx
   owner_name: kicad
-  symbol_name: mcu_st_stm32u5_stm32u575ritx
+  symbol_name: stm32u575ritx
 oomp_key: oomp_kicad_mcu_st_stm32u5_stm32u575ritx
 oomp_key_simple: kicad_mcu_st_stm32u5_stm32u575ritx
 owner: kicad

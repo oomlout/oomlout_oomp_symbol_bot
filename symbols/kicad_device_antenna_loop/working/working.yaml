@@ -1,3 +1,5 @@
+id: kicad_device_antenna_loop
+library: device
 library_name: Device
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_antenna_loop/working
   oomp_src_flat: symbols_flat/kicad_device_antenna_loop/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_antenna_loop/working
-name: device_antenna_loop
+name: antenna_loop
 oomp:
   library_name: device
-  md5: db62a7d711c546c55a0635bb09a40494
-  md5_10: db62a7d711
-  md5_5: db62a
-  md5_6: db62a7
-  oomp_key: oomp_device_antenna_loop
-  oomp_key_extra: oomp_symbol_device_antenna_loop
-  oomp_key_full: oomp_symbol_device_antenna_loop_db62a7
-  oomp_key_simple: device_antenna_loop
+  md5: a28c0371bf04ba758f179736649d887b
+  md5_10: a28c0371bf
+  md5_5: a28c0
+  md5_6: a28c03
+  oomp_key: oomp_antenna_loop
+  oomp_key_extra: oomp_symbol_antenna_loop
+  oomp_key_full: oomp_symbol_antenna_loop_a28c03
+  oomp_key_simple: antenna_loop
   owner_name: kicad
-  symbol_name: device_antenna_loop
+  symbol_name: antenna_loop
 oomp_key: oomp_kicad_device_antenna_loop
 oomp_key_simple: kicad_device_antenna_loop
 owner: kicad

@@ -1,16 +1,20 @@
+id: kicad_converter_dcdc_itq2424sa
+library: converter_dcdc
 library_name: Converter_DCDC
+name: itq2424sa
 oomp:
   library_name: converter_dcdc
-  md5: bc3f78360aa6c767e3266418429e048f
-  md5_10: bc3f78360a
-  md5_5: bc3f7
-  md5_6: bc3f78
-  oomp_key: oomp_converter_dcdc_itq2424sa
-  oomp_key_extra: oomp_symbol_converter_dcdc_itq2424sa
-  oomp_key_full: oomp_symbol_converter_dcdc_itq2424sa_bc3f78
-  oomp_key_simple: converter_dcdc_itq2424sa
+  md5: 2da13c6df1eba9c3494b1555ff9b56be
+  md5_10: 2da13c6df1
+  md5_5: 2da13
+  md5_6: 2da13c
+  oomp_key: oomp_itq2424sa
+  oomp_key_extra: oomp_symbol_itq2424sa
+  oomp_key_full: oomp_symbol_itq2424sa_2da13c
+  oomp_key_simple: itq2424sa
   owner_name: kicad
-  symbol_name: converter_dcdc_itq2424sa
+  symbol_name: itq2424sa
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

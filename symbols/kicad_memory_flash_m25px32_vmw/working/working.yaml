@@ -1,3 +1,5 @@
+id: kicad_memory_flash_m25px32_vmw
+library: memory_flash
 library_name: Memory_Flash
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_memory_flash_m25px32_vmw/working
   oomp_src_flat: symbols_flat/kicad_memory_flash_m25px32_vmw/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_memory_flash_m25px32_vmw/working
-name: memory_flash_m25px32_vmw
+name: m25px32_vmw
 oomp:
   library_name: memory_flash
-  md5: c34d01bebdce6653d82514d46a9112a1
-  md5_10: c34d01bebd
-  md5_5: c34d0
-  md5_6: c34d01
-  oomp_key: oomp_memory_flash_m25px32_vmw
-  oomp_key_extra: oomp_symbol_memory_flash_m25px32_vmw
-  oomp_key_full: oomp_symbol_memory_flash_m25px32_vmw_c34d01
-  oomp_key_simple: memory_flash_m25px32_vmw
+  md5: 2bfb58bffef1ed292a24c2ff49f2950a
+  md5_10: 2bfb58bffe
+  md5_5: 2bfb5
+  md5_6: 2bfb58
+  oomp_key: oomp_m25px32_vmw
+  oomp_key_extra: oomp_symbol_m25px32_vmw
+  oomp_key_full: oomp_symbol_m25px32_vmw_2bfb58
+  oomp_key_simple: m25px32_vmw
   owner_name: kicad
-  symbol_name: memory_flash_m25px32_vmw
+  symbol_name: m25px32_vmw
 oomp_key: oomp_kicad_memory_flash_m25px32_vmw
 oomp_key_simple: kicad_memory_flash_m25px32_vmw
 owner: kicad

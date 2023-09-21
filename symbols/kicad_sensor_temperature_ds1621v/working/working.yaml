@@ -1,16 +1,20 @@
+id: kicad_sensor_temperature_ds1621v
+library: sensor_temperature
 library_name: Sensor_Temperature
+name: ds1621v
 oomp:
   library_name: sensor_temperature
-  md5: dce921e1cbb5323cd694cb07b71d320b
-  md5_10: dce921e1cb
-  md5_5: dce92
-  md5_6: dce921
-  oomp_key: oomp_sensor_temperature_ds1621v
-  oomp_key_extra: oomp_symbol_sensor_temperature_ds1621v
-  oomp_key_full: oomp_symbol_sensor_temperature_ds1621v_dce921
-  oomp_key_simple: sensor_temperature_ds1621v
+  md5: 6d5547adf5ffd11e66776509439dbf69
+  md5_10: 6d5547adf5
+  md5_5: 6d554
+  md5_6: 6d5547
+  oomp_key: oomp_ds1621v
+  oomp_key_extra: oomp_symbol_ds1621v
+  oomp_key_full: oomp_symbol_ds1621v_6d5547
+  oomp_key_simple: ds1621v
   owner_name: kicad
-  symbol_name: sensor_temperature_ds1621v
+  symbol_name: ds1621v
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

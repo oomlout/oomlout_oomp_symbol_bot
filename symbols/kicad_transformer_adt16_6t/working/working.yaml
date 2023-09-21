@@ -1,16 +1,20 @@
+id: kicad_transformer_adt16_6t
+library: transformer
 library_name: Transformer
+name: adt16_6t
 oomp:
   library_name: transformer
-  md5: ac69c09597cec6b7da3c5bae15409cdd
-  md5_10: ac69c09597
-  md5_5: ac69c
-  md5_6: ac69c0
-  oomp_key: oomp_transformer_adt16_6t
-  oomp_key_extra: oomp_symbol_transformer_adt16_6t
-  oomp_key_full: oomp_symbol_transformer_adt16_6t_ac69c0
-  oomp_key_simple: transformer_adt16_6t
+  md5: 31effe5c17b40d1496bc4e73add4574a
+  md5_10: 31effe5c17
+  md5_5: 31eff
+  md5_6: 31effe
+  oomp_key: oomp_adt16_6t
+  oomp_key_extra: oomp_symbol_adt16_6t
+  oomp_key_full: oomp_symbol_adt16_6t_31effe
+  oomp_key_simple: adt16_6t
   owner_name: kicad
-  symbol_name: transformer_adt16_6t
+  symbol_name: adt16_6t
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

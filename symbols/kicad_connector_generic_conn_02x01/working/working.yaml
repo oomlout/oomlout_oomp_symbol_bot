@@ -1,3 +1,5 @@
+id: kicad_connector_generic_conn_02x01
+library: connector_generic
 library_name: Connector_Generic
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_generic_conn_02x01/working
   oomp_src_flat: symbols_flat/kicad_connector_generic_conn_02x01/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_generic_conn_02x01/working
-name: connector_generic_conn_02x01
+name: conn_02x01
 oomp:
   library_name: connector_generic
-  md5: 19e418c8487638d8bc19608057b5d1b8
-  md5_10: 19e418c848
-  md5_5: 19e41
-  md5_6: 19e418
-  oomp_key: oomp_connector_generic_conn_02x01
-  oomp_key_extra: oomp_symbol_connector_generic_conn_02x01
-  oomp_key_full: oomp_symbol_connector_generic_conn_02x01_19e418
-  oomp_key_simple: connector_generic_conn_02x01
+  md5: 610e0dddbf89a792621f46a6b85952ca
+  md5_10: 610e0dddbf
+  md5_5: 610e0
+  md5_6: 610e0d
+  oomp_key: oomp_conn_02x01
+  oomp_key_extra: oomp_symbol_conn_02x01
+  oomp_key_full: oomp_symbol_conn_02x01_610e0d
+  oomp_key_simple: conn_02x01
   owner_name: kicad
-  symbol_name: connector_generic_conn_02x01
+  symbol_name: conn_02x01
 oomp_key: oomp_kicad_connector_generic_conn_02x01
 oomp_key_simple: kicad_connector_generic_conn_02x01
 owner: kicad

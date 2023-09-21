@@ -1,3 +1,5 @@
+id: arturo182_mcu_stc_extra_stc8g1k08_sop8
+library: mcu_stc_extra
 library_name: MCU_STC_Extra
 links:
   github_owner: arturo182
@@ -10,19 +12,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/arturo182_mcu_stc_extra_stc8g1k08_sop8/working
   oomp_src_flat: symbols_flat/arturo182_mcu_stc_extra_stc8g1k08_sop8/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/arturo182_mcu_stc_extra_stc8g1k08_sop8/working
-name: mcu_stc_extra_stc8g1k08_sop8
+name: stc8g1k08_sop8
 oomp:
   library_name: mcu_stc_extra
-  md5: ec40a72699cc9a26b3d9074b16c577ef
-  md5_10: ec40a72699
-  md5_5: ec40a
-  md5_6: ec40a7
-  oomp_key: oomp_mcu_stc_extra_stc8g1k08_sop8
-  oomp_key_extra: oomp_symbol_mcu_stc_extra_stc8g1k08_sop8
-  oomp_key_full: oomp_symbol_mcu_stc_extra_stc8g1k08_sop8_ec40a7
-  oomp_key_simple: mcu_stc_extra_stc8g1k08_sop8
+  md5: 1102a4b43c6e0578c81fe4103988fabd
+  md5_10: 1102a4b43c
+  md5_5: 1102a
+  md5_6: 1102a4
+  oomp_key: oomp_stc8g1k08_sop8
+  oomp_key_extra: oomp_symbol_stc8g1k08_sop8
+  oomp_key_full: oomp_symbol_stc8g1k08_sop8_1102a4
+  oomp_key_simple: stc8g1k08_sop8
   owner_name: arturo182
-  symbol_name: mcu_stc_extra_stc8g1k08_sop8
+  symbol_name: stc8g1k08_sop8
 oomp_key: oomp_arturo182_mcu_stc_extra_stc8g1k08_sop8
 oomp_key_simple: arturo182_mcu_stc_extra_stc8g1k08_sop8
 owner: arturo182

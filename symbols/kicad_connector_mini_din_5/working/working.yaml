@@ -1,3 +1,5 @@
+id: kicad_connector_mini_din_5
+library: connector
 library_name: Connector
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_mini_din_5/working
   oomp_src_flat: symbols_flat/kicad_connector_mini_din_5/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_mini_din_5/working
-name: connector_mini_din_5
+name: mini_din_5
 oomp:
   library_name: connector
-  md5: d0c8c1bf8f5a6259b9a2ae6ce0b7d08d
-  md5_10: d0c8c1bf8f
-  md5_5: d0c8c
-  md5_6: d0c8c1
-  oomp_key: oomp_connector_mini_din_5
-  oomp_key_extra: oomp_symbol_connector_mini_din_5
-  oomp_key_full: oomp_symbol_connector_mini_din_5_d0c8c1
-  oomp_key_simple: connector_mini_din_5
+  md5: f675088ddfb20c03c44bf9be4507513d
+  md5_10: f675088ddf
+  md5_5: f6750
+  md5_6: f67508
+  oomp_key: oomp_mini_din_5
+  oomp_key_extra: oomp_symbol_mini_din_5
+  oomp_key_full: oomp_symbol_mini_din_5_f67508
+  oomp_key_simple: mini_din_5
   owner_name: kicad
-  symbol_name: connector_mini_din_5
+  symbol_name: mini_din_5
 oomp_key: oomp_kicad_connector_mini_din_5
 oomp_key_simple: kicad_connector_mini_din_5
 owner: kicad

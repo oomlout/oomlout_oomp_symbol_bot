@@ -1,16 +1,20 @@
+id: kicad_relay_solidstate_moc3042m
+library: relay_solidstate
 library_name: Relay_SolidState
+name: moc3042m
 oomp:
   library_name: relay_solidstate
-  md5: 89d12e1ffc525e26dfea14af5d564c81
-  md5_10: 89d12e1ffc
-  md5_5: 89d12
-  md5_6: 89d12e
-  oomp_key: oomp_relay_solidstate_moc3042m
-  oomp_key_extra: oomp_symbol_relay_solidstate_moc3042m
-  oomp_key_full: oomp_symbol_relay_solidstate_moc3042m_89d12e
-  oomp_key_simple: relay_solidstate_moc3042m
+  md5: cd366fb08a369f8a96c3c70a0be308d4
+  md5_10: cd366fb08a
+  md5_5: cd366
+  md5_6: cd366f
+  oomp_key: oomp_moc3042m
+  oomp_key_extra: oomp_symbol_moc3042m
+  oomp_key_full: oomp_symbol_moc3042m_cd366f
+  oomp_key_simple: moc3042m
   owner_name: kicad
-  symbol_name: relay_solidstate_moc3042m
+  symbol_name: moc3042m
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

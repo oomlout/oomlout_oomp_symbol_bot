@@ -1,16 +1,20 @@
+id: kicad_transistor_fet_sia449dj
+library: transistor_fet
 library_name: Transistor_FET
+name: sia449dj
 oomp:
   library_name: transistor_fet
-  md5: 612bbc123e6601a9bb751af5e3d1103e
-  md5_10: 612bbc123e
-  md5_5: 612bb
-  md5_6: 612bbc
-  oomp_key: oomp_transistor_fet_sia449dj
-  oomp_key_extra: oomp_symbol_transistor_fet_sia449dj
-  oomp_key_full: oomp_symbol_transistor_fet_sia449dj_612bbc
-  oomp_key_simple: transistor_fet_sia449dj
+  md5: 550fe77fc0ddb7acceed7449b5259c12
+  md5_10: 550fe77fc0
+  md5_5: 550fe
+  md5_6: 550fe7
+  oomp_key: oomp_sia449dj
+  oomp_key_extra: oomp_symbol_sia449dj
+  oomp_key_full: oomp_symbol_sia449dj_550fe7
+  oomp_key_simple: sia449dj
   owner_name: kicad
-  symbol_name: transistor_fet_sia449dj
+  symbol_name: sia449dj
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

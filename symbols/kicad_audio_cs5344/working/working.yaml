@@ -1,16 +1,20 @@
+id: kicad_audio_cs5344
+library: audio
 library_name: Audio
+name: cs5344
 oomp:
   library_name: audio
-  md5: c2767d5986af080944a008d5fa7ea521
-  md5_10: c2767d5986
-  md5_5: c2767
-  md5_6: c2767d
-  oomp_key: oomp_audio_cs5344
-  oomp_key_extra: oomp_symbol_audio_cs5344
-  oomp_key_full: oomp_symbol_audio_cs5344_c2767d
-  oomp_key_simple: audio_cs5344
+  md5: 5c8772658b76896346e8eb2b9f7e582f
+  md5_10: 5c8772658b
+  md5_5: 5c877
+  md5_6: 5c8772
+  oomp_key: oomp_cs5344
+  oomp_key_extra: oomp_symbol_cs5344
+  oomp_key_full: oomp_symbol_cs5344_5c8772
+  oomp_key_simple: cs5344
   owner_name: kicad
-  symbol_name: audio_cs5344
+  symbol_name: cs5344
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

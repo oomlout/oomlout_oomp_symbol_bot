@@ -1,16 +1,20 @@
+id: kicad_device_speaker_ultrasound
+library: device
 library_name: Device
+name: speaker_ultrasound
 oomp:
   library_name: device
-  md5: 75325ad6d1e86d209d63fd1c21af57d0
-  md5_10: 75325ad6d1
-  md5_5: '75325'
-  md5_6: 75325a
-  oomp_key: oomp_device_speaker_ultrasound
-  oomp_key_extra: oomp_symbol_device_speaker_ultrasound
-  oomp_key_full: oomp_symbol_device_speaker_ultrasound_75325a
-  oomp_key_simple: device_speaker_ultrasound
+  md5: e5995d15b912de69ad9dd1a4f644be74
+  md5_10: e5995d15b9
+  md5_5: e5995
+  md5_6: e5995d
+  oomp_key: oomp_speaker_ultrasound
+  oomp_key_extra: oomp_symbol_speaker_ultrasound
+  oomp_key_full: oomp_symbol_speaker_ultrasound_e5995d
+  oomp_key_simple: speaker_ultrasound
   owner_name: kicad
-  symbol_name: device_speaker_ultrasound
+  symbol_name: speaker_ultrasound
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

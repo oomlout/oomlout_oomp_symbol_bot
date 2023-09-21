@@ -1,16 +1,20 @@
+id: kicad_reference_voltage_max6035xxur25
+library: reference_voltage
 library_name: Reference_Voltage
+name: max6035xxur25
 oomp:
   library_name: reference_voltage
-  md5: 9b2a7e3a1361e99ad92b53062f0c8a04
-  md5_10: 9b2a7e3a13
-  md5_5: 9b2a7
-  md5_6: 9b2a7e
-  oomp_key: oomp_reference_voltage_max6035xxur25
-  oomp_key_extra: oomp_symbol_reference_voltage_max6035xxur25
-  oomp_key_full: oomp_symbol_reference_voltage_max6035xxur25_9b2a7e
-  oomp_key_simple: reference_voltage_max6035xxur25
+  md5: 39ea3b49d26f9ce398d336fc03c6d346
+  md5_10: 39ea3b49d2
+  md5_5: 39ea3
+  md5_6: 39ea3b
+  oomp_key: oomp_max6035xxur25
+  oomp_key_extra: oomp_symbol_max6035xxur25
+  oomp_key_full: oomp_symbol_max6035xxur25_39ea3b
+  oomp_key_simple: max6035xxur25
   owner_name: kicad
-  symbol_name: reference_voltage_max6035xxur25
+  symbol_name: max6035xxur25
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

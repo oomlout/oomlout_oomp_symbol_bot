@@ -1,16 +1,20 @@
+id: kicad_cpld_altera_ep310
+library: cpld_altera
 library_name: CPLD_Altera
+name: ep310
 oomp:
   library_name: cpld_altera
-  md5: 42123bc7ef6f68a92f21886f90f5961b
-  md5_10: 42123bc7ef
-  md5_5: '42123'
-  md5_6: 42123b
-  oomp_key: oomp_cpld_altera_ep310
-  oomp_key_extra: oomp_symbol_cpld_altera_ep310
-  oomp_key_full: oomp_symbol_cpld_altera_ep310_42123b
-  oomp_key_simple: cpld_altera_ep310
+  md5: accfe4bb357af40706a057639b146def
+  md5_10: accfe4bb35
+  md5_5: accfe
+  md5_6: accfe4
+  oomp_key: oomp_ep310
+  oomp_key_extra: oomp_symbol_ep310
+  oomp_key_full: oomp_symbol_ep310_accfe4
+  oomp_key_simple: ep310
   owner_name: kicad
-  symbol_name: cpld_altera_ep310
+  symbol_name: ep310
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,3 +1,5 @@
+id: kicad_regulator_switching_lnk362d
+library: regulator_switching
 library_name: Regulator_Switching
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_lnk362d/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_lnk362d/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_lnk362d/working
-name: regulator_switching_lnk362d
+name: lnk362d
 oomp:
   library_name: regulator_switching
-  md5: c279828aee327417c719555e7b0cdda7
-  md5_10: c279828aee
-  md5_5: c2798
-  md5_6: c27982
-  oomp_key: oomp_regulator_switching_lnk362d
-  oomp_key_extra: oomp_symbol_regulator_switching_lnk362d
-  oomp_key_full: oomp_symbol_regulator_switching_lnk362d_c27982
-  oomp_key_simple: regulator_switching_lnk362d
+  md5: 77a39ddaac452476320fc2b40752be8b
+  md5_10: 77a39ddaac
+  md5_5: 77a39
+  md5_6: 77a39d
+  oomp_key: oomp_lnk362d
+  oomp_key_extra: oomp_symbol_lnk362d
+  oomp_key_full: oomp_symbol_lnk362d_77a39d
+  oomp_key_simple: lnk362d
   owner_name: kicad
-  symbol_name: regulator_switching_lnk362d
+  symbol_name: lnk362d
 oomp_key: oomp_kicad_regulator_switching_lnk362d
 oomp_key_simple: kicad_regulator_switching_lnk362d
 owner: kicad

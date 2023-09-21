@@ -1,16 +1,20 @@
+id: kicad_mcu_microchip_samd_atsamd21g17d_m
+library: mcu_microchip_samd
 library_name: MCU_Microchip_SAMD
+name: atsamd21g17d_m
 oomp:
   library_name: mcu_microchip_samd
-  md5: d63fc0d9ea21cfaf055035850abb939f
-  md5_10: d63fc0d9ea
-  md5_5: d63fc
-  md5_6: d63fc0
-  oomp_key: oomp_mcu_microchip_samd_atsamd21g17d_m
-  oomp_key_extra: oomp_symbol_mcu_microchip_samd_atsamd21g17d_m
-  oomp_key_full: oomp_symbol_mcu_microchip_samd_atsamd21g17d_m_d63fc0
-  oomp_key_simple: mcu_microchip_samd_atsamd21g17d_m
+  md5: 44da963543cbdb9cbbab966bca0ea7d3
+  md5_10: 44da963543
+  md5_5: 44da9
+  md5_6: 44da96
+  oomp_key: oomp_atsamd21g17d_m
+  oomp_key_extra: oomp_symbol_atsamd21g17d_m
+  oomp_key_full: oomp_symbol_atsamd21g17d_m_44da96
+  oomp_key_simple: atsamd21g17d_m
   owner_name: kicad
-  symbol_name: mcu_microchip_samd_atsamd21g17d_m
+  symbol_name: atsamd21g17d_m
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

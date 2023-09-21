@@ -1,3 +1,5 @@
+id: arturo182_driver_led_extra_is31fl3741
+library: driver_led_extra
 library_name: Driver_LED_Extra
 links:
   github_owner: arturo182
@@ -10,19 +12,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/arturo182_driver_led_extra_is31fl3741/working
   oomp_src_flat: symbols_flat/arturo182_driver_led_extra_is31fl3741/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/arturo182_driver_led_extra_is31fl3741/working
-name: driver_led_extra_is31fl3741
+name: is31fl3741
 oomp:
   library_name: driver_led_extra
-  md5: d7ef77cb29774418ab3ab795178f4aed
-  md5_10: d7ef77cb29
-  md5_5: d7ef7
-  md5_6: d7ef77
-  oomp_key: oomp_driver_led_extra_is31fl3741
-  oomp_key_extra: oomp_symbol_driver_led_extra_is31fl3741
-  oomp_key_full: oomp_symbol_driver_led_extra_is31fl3741_d7ef77
-  oomp_key_simple: driver_led_extra_is31fl3741
+  md5: 6ad6aa9f8d63332d443866240ffe4095
+  md5_10: 6ad6aa9f8d
+  md5_5: 6ad6a
+  md5_6: 6ad6aa
+  oomp_key: oomp_is31fl3741
+  oomp_key_extra: oomp_symbol_is31fl3741
+  oomp_key_full: oomp_symbol_is31fl3741_6ad6aa
+  oomp_key_simple: is31fl3741
   owner_name: arturo182
-  symbol_name: driver_led_extra_is31fl3741
+  symbol_name: is31fl3741
 oomp_key: oomp_arturo182_driver_led_extra_is31fl3741
 oomp_key_simple: arturo182_driver_led_extra_is31fl3741
 owner: arturo182

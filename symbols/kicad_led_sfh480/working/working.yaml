@@ -1,16 +1,20 @@
+id: kicad_led_sfh480
+library: led
 library_name: LED
+name: sfh480
 oomp:
   library_name: led
-  md5: c8fd906fb8624eac7dc2644c8f9be3fb
-  md5_10: c8fd906fb8
-  md5_5: c8fd9
-  md5_6: c8fd90
-  oomp_key: oomp_led_sfh480
-  oomp_key_extra: oomp_symbol_led_sfh480
-  oomp_key_full: oomp_symbol_led_sfh480_c8fd90
-  oomp_key_simple: led_sfh480
+  md5: 8f8b05f4c0c03c5e2a3c0bb74cb745ea
+  md5_10: 8f8b05f4c0
+  md5_5: 8f8b0
+  md5_6: 8f8b05
+  oomp_key: oomp_sfh480
+  oomp_key_extra: oomp_symbol_sfh480
+  oomp_key_full: oomp_symbol_sfh480_8f8b05
+  oomp_key_simple: sfh480
   owner_name: kicad
-  symbol_name: led_sfh480
+  symbol_name: sfh480
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

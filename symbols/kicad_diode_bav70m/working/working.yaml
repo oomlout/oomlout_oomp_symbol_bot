@@ -1,16 +1,20 @@
+id: kicad_diode_bav70m
+library: diode
 library_name: Diode
+name: bav70m
 oomp:
   library_name: diode
-  md5: d486aca90260fdf9d03849210850d2a6
-  md5_10: d486aca902
-  md5_5: d486a
-  md5_6: d486ac
-  oomp_key: oomp_diode_bav70m
-  oomp_key_extra: oomp_symbol_diode_bav70m
-  oomp_key_full: oomp_symbol_diode_bav70m_d486ac
-  oomp_key_simple: diode_bav70m
+  md5: 3625c666ef911577c968a4d0f626ae7f
+  md5_10: 3625c666ef
+  md5_5: 3625c
+  md5_6: 3625c6
+  oomp_key: oomp_bav70m
+  oomp_key_extra: oomp_symbol_bav70m
+  oomp_key_full: oomp_symbol_bav70m_3625c6
+  oomp_key_simple: bav70m
   owner_name: kicad
-  symbol_name: diode_bav70m
+  symbol_name: bav70m
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

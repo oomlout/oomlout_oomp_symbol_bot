@@ -1,16 +1,20 @@
+id: kicad_mcu_st_stm32g0_stm32g0b1vbix
+library: mcu_st_stm32g0
 library_name: MCU_ST_STM32G0
+name: stm32g0b1vbix
 oomp:
   library_name: mcu_st_stm32g0
-  md5: b688580c59fa01eed01e7e9bf4a9ad62
-  md5_10: b688580c59
-  md5_5: b6885
-  md5_6: b68858
-  oomp_key: oomp_mcu_st_stm32g0_stm32g0b1vbix
-  oomp_key_extra: oomp_symbol_mcu_st_stm32g0_stm32g0b1vbix
-  oomp_key_full: oomp_symbol_mcu_st_stm32g0_stm32g0b1vbix_b68858
-  oomp_key_simple: mcu_st_stm32g0_stm32g0b1vbix
+  md5: 107042142ef0e4ea00821f1490c2dbc9
+  md5_10: 107042142e
+  md5_5: '10704'
+  md5_6: '107042'
+  oomp_key: oomp_stm32g0b1vbix
+  oomp_key_extra: oomp_symbol_stm32g0b1vbix
+  oomp_key_full: oomp_symbol_stm32g0b1vbix_107042
+  oomp_key_simple: stm32g0b1vbix
   owner_name: kicad
-  symbol_name: mcu_st_stm32g0_stm32g0b1vbix
+  symbol_name: stm32g0b1vbix
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

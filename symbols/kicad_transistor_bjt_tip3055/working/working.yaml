@@ -1,3 +1,5 @@
+id: kicad_transistor_bjt_tip3055
+library: transistor_bjt
 library_name: Transistor_BJT
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_transistor_bjt_tip3055/working
   oomp_src_flat: symbols_flat/kicad_transistor_bjt_tip3055/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_transistor_bjt_tip3055/working
-name: transistor_bjt_tip3055
+name: tip3055
 oomp:
   library_name: transistor_bjt
-  md5: 9ec5934ebd905395b68f7e60f4f1f020
-  md5_10: 9ec5934ebd
-  md5_5: 9ec59
-  md5_6: 9ec593
-  oomp_key: oomp_transistor_bjt_tip3055
-  oomp_key_extra: oomp_symbol_transistor_bjt_tip3055
-  oomp_key_full: oomp_symbol_transistor_bjt_tip3055_9ec593
-  oomp_key_simple: transistor_bjt_tip3055
+  md5: d60b100a5b03e00408fb42a2b4e883af
+  md5_10: d60b100a5b
+  md5_5: d60b1
+  md5_6: d60b10
+  oomp_key: oomp_tip3055
+  oomp_key_extra: oomp_symbol_tip3055
+  oomp_key_full: oomp_symbol_tip3055_d60b10
+  oomp_key_simple: tip3055
   owner_name: kicad
-  symbol_name: transistor_bjt_tip3055
+  symbol_name: tip3055
 oomp_key: oomp_kicad_transistor_bjt_tip3055
 oomp_key_simple: kicad_transistor_bjt_tip3055
 owner: kicad

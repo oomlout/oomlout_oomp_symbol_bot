@@ -1,3 +1,5 @@
+id: kicad_memory_flash_at25sf081_sshd_x
+library: memory_flash
 library_name: Memory_Flash
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_memory_flash_at25sf081_sshd_x/working
   oomp_src_flat: symbols_flat/kicad_memory_flash_at25sf081_sshd_x/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_memory_flash_at25sf081_sshd_x/working
-name: memory_flash_at25sf081_sshd_x
+name: at25sf081_sshd_x
 oomp:
   library_name: memory_flash
-  md5: c0c513fb2dfc62b61ec22972aff19563
-  md5_10: c0c513fb2d
-  md5_5: c0c51
-  md5_6: c0c513
-  oomp_key: oomp_memory_flash_at25sf081_sshd_x
-  oomp_key_extra: oomp_symbol_memory_flash_at25sf081_sshd_x
-  oomp_key_full: oomp_symbol_memory_flash_at25sf081_sshd_x_c0c513
-  oomp_key_simple: memory_flash_at25sf081_sshd_x
+  md5: 78dce50296018bfca91edd11b29c7bd3
+  md5_10: 78dce50296
+  md5_5: 78dce
+  md5_6: 78dce5
+  oomp_key: oomp_at25sf081_sshd_x
+  oomp_key_extra: oomp_symbol_at25sf081_sshd_x
+  oomp_key_full: oomp_symbol_at25sf081_sshd_x_78dce5
+  oomp_key_simple: at25sf081_sshd_x
   owner_name: kicad
-  symbol_name: memory_flash_at25sf081_sshd_x
+  symbol_name: at25sf081_sshd_x
 oomp_key: oomp_kicad_memory_flash_at25sf081_sshd_x
 oomp_key_simple: kicad_memory_flash_at25sf081_sshd_x
 owner: kicad

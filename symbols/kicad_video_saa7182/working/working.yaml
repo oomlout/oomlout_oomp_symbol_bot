@@ -1,3 +1,5 @@
+id: kicad_video_saa7182
+library: video
 library_name: Video
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_video_saa7182/working
   oomp_src_flat: symbols_flat/kicad_video_saa7182/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_video_saa7182/working
-name: video_saa7182
+name: saa7182
 oomp:
   library_name: video
-  md5: 52215bcc05d59c40858d124ef30bdc62
-  md5_10: 52215bcc05
-  md5_5: '52215'
-  md5_6: 52215b
-  oomp_key: oomp_video_saa7182
-  oomp_key_extra: oomp_symbol_video_saa7182
-  oomp_key_full: oomp_symbol_video_saa7182_52215b
-  oomp_key_simple: video_saa7182
+  md5: 94fa19207a942ba94012e67aac750b3d
+  md5_10: 94fa19207a
+  md5_5: 94fa1
+  md5_6: 94fa19
+  oomp_key: oomp_saa7182
+  oomp_key_extra: oomp_symbol_saa7182
+  oomp_key_full: oomp_symbol_saa7182_94fa19
+  oomp_key_simple: saa7182
   owner_name: kicad
-  symbol_name: video_saa7182
+  symbol_name: saa7182
 oomp_key: oomp_kicad_video_saa7182
 oomp_key_simple: kicad_video_saa7182
 owner: kicad

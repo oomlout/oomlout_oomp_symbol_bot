@@ -1,3 +1,5 @@
+id: arturo182_audio_extra_cs4344
+library: audio_extra
 library_name: Audio_Extra
 links:
   github_owner: arturo182
@@ -10,19 +12,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/arturo182_audio_extra_cs4344/working
   oomp_src_flat: symbols_flat/arturo182_audio_extra_cs4344/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/arturo182_audio_extra_cs4344/working
-name: audio_extra_cs4344
+name: cs4344
 oomp:
   library_name: audio_extra
-  md5: bba491951bdfd3e1c4522f77033dd787
-  md5_10: bba491951b
-  md5_5: bba49
-  md5_6: bba491
-  oomp_key: oomp_audio_extra_cs4344
-  oomp_key_extra: oomp_symbol_audio_extra_cs4344
-  oomp_key_full: oomp_symbol_audio_extra_cs4344_bba491
-  oomp_key_simple: audio_extra_cs4344
+  md5: c029ed7b0c3a7494dc8f8667494a4584
+  md5_10: c029ed7b0c
+  md5_5: c029e
+  md5_6: c029ed
+  oomp_key: oomp_cs4344
+  oomp_key_extra: oomp_symbol_cs4344
+  oomp_key_full: oomp_symbol_cs4344_c029ed
+  oomp_key_simple: cs4344
   owner_name: arturo182
-  symbol_name: audio_extra_cs4344
+  symbol_name: cs4344
 oomp_key: oomp_arturo182_audio_extra_cs4344
 oomp_key_simple: arturo182_audio_extra_cs4344
 owner: arturo182

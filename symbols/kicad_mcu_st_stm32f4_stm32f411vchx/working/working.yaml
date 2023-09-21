@@ -1,16 +1,20 @@
+id: kicad_mcu_st_stm32f4_stm32f411vchx
+library: mcu_st_stm32f4
 library_name: MCU_ST_STM32F4
+name: stm32f411vchx
 oomp:
   library_name: mcu_st_stm32f4
-  md5: 13a3015da6798db323dc97536c5e62f3
-  md5_10: 13a3015da6
-  md5_5: 13a30
-  md5_6: 13a301
-  oomp_key: oomp_mcu_st_stm32f4_stm32f411vchx
-  oomp_key_extra: oomp_symbol_mcu_st_stm32f4_stm32f411vchx
-  oomp_key_full: oomp_symbol_mcu_st_stm32f4_stm32f411vchx_13a301
-  oomp_key_simple: mcu_st_stm32f4_stm32f411vchx
+  md5: 385d8dd02c56f5b7245d3520e2e94865
+  md5_10: 385d8dd02c
+  md5_5: 385d8
+  md5_6: 385d8d
+  oomp_key: oomp_stm32f411vchx
+  oomp_key_extra: oomp_symbol_stm32f411vchx
+  oomp_key_full: oomp_symbol_stm32f411vchx_385d8d
+  oomp_key_simple: stm32f411vchx
   owner_name: kicad
-  symbol_name: mcu_st_stm32f4_stm32f411vchx
+  symbol_name: stm32f411vchx
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

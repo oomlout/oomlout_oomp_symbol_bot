@@ -1,16 +1,20 @@
+id: kicad_transistor_fet_zxmn6a07f
+library: transistor_fet
 library_name: Transistor_FET
+name: zxmn6a07f
 oomp:
   library_name: transistor_fet
-  md5: ea84172a5db4003332d3fc6dc5cbab00
-  md5_10: ea84172a5d
-  md5_5: ea841
-  md5_6: ea8417
-  oomp_key: oomp_transistor_fet_zxmn6a07f
-  oomp_key_extra: oomp_symbol_transistor_fet_zxmn6a07f
-  oomp_key_full: oomp_symbol_transistor_fet_zxmn6a07f_ea8417
-  oomp_key_simple: transistor_fet_zxmn6a07f
+  md5: 3f1b5091c66f05943a63e9e206482455
+  md5_10: 3f1b5091c6
+  md5_5: 3f1b5
+  md5_6: 3f1b50
+  oomp_key: oomp_zxmn6a07f
+  oomp_key_extra: oomp_symbol_zxmn6a07f
+  oomp_key_full: oomp_symbol_zxmn6a07f_3f1b50
+  oomp_key_simple: zxmn6a07f
   owner_name: kicad
-  symbol_name: transistor_fet_zxmn6a07f
+  symbol_name: zxmn6a07f
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

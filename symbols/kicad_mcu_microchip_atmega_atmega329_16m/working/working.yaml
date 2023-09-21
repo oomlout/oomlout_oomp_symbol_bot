@@ -1,16 +1,20 @@
+id: kicad_mcu_microchip_atmega_atmega329_16m
+library: mcu_microchip_atmega
 library_name: MCU_Microchip_ATmega
+name: atmega329_16m
 oomp:
   library_name: mcu_microchip_atmega
-  md5: d9634505e55dacc9f946671110f65b46
-  md5_10: d9634505e5
-  md5_5: d9634
-  md5_6: d96345
-  oomp_key: oomp_mcu_microchip_atmega_atmega329_16m
-  oomp_key_extra: oomp_symbol_mcu_microchip_atmega_atmega329_16m
-  oomp_key_full: oomp_symbol_mcu_microchip_atmega_atmega329_16m_d96345
-  oomp_key_simple: mcu_microchip_atmega_atmega329_16m
+  md5: 9691fe318dd6e60018f8edb9cf5af38d
+  md5_10: 9691fe318d
+  md5_5: 9691f
+  md5_6: 9691fe
+  oomp_key: oomp_atmega329_16m
+  oomp_key_extra: oomp_symbol_atmega329_16m
+  oomp_key_full: oomp_symbol_atmega329_16m_9691fe
+  oomp_key_simple: atmega329_16m
   owner_name: kicad
-  symbol_name: mcu_microchip_atmega_atmega329_16m
+  symbol_name: atmega329_16m
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

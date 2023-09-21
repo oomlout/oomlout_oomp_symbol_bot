@@ -1,16 +1,20 @@
+id: kicad_sensor_pressure_mpxhz6115a
+library: sensor_pressure
 library_name: Sensor_Pressure
+name: mpxhz6115a
 oomp:
   library_name: sensor_pressure
-  md5: 80c214e504a3600c63ed56ac378d744e
-  md5_10: 80c214e504
-  md5_5: 80c21
-  md5_6: 80c214
-  oomp_key: oomp_sensor_pressure_mpxhz6115a
-  oomp_key_extra: oomp_symbol_sensor_pressure_mpxhz6115a
-  oomp_key_full: oomp_symbol_sensor_pressure_mpxhz6115a_80c214
-  oomp_key_simple: sensor_pressure_mpxhz6115a
+  md5: 023273ba9d4c2a4bb45baa256582e0ab
+  md5_10: 023273ba9d
+  md5_5: '02327'
+  md5_6: '023273'
+  oomp_key: oomp_mpxhz6115a
+  oomp_key_extra: oomp_symbol_mpxhz6115a
+  oomp_key_full: oomp_symbol_mpxhz6115a_023273
+  oomp_key_simple: mpxhz6115a
   owner_name: kicad
-  symbol_name: sensor_pressure_mpxhz6115a
+  symbol_name: mpxhz6115a
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

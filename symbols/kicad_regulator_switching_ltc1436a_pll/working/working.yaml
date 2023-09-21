@@ -1,3 +1,5 @@
+id: kicad_regulator_switching_ltc1436a_pll
+library: regulator_switching
 library_name: Regulator_Switching
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_ltc1436a_pll/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_ltc1436a_pll/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_ltc1436a_pll/working
-name: regulator_switching_ltc1436a_pll
+name: ltc1436a_pll
 oomp:
   library_name: regulator_switching
-  md5: 337c8c7b6ad8ae2d21e8efb730c8a09f
-  md5_10: 337c8c7b6a
-  md5_5: 337c8
-  md5_6: 337c8c
-  oomp_key: oomp_regulator_switching_ltc1436a_pll
-  oomp_key_extra: oomp_symbol_regulator_switching_ltc1436a_pll
-  oomp_key_full: oomp_symbol_regulator_switching_ltc1436a_pll_337c8c
-  oomp_key_simple: regulator_switching_ltc1436a_pll
+  md5: 30365daff3c5e47133d776c277ce7c82
+  md5_10: 30365daff3
+  md5_5: '30365'
+  md5_6: 30365d
+  oomp_key: oomp_ltc1436a_pll
+  oomp_key_extra: oomp_symbol_ltc1436a_pll
+  oomp_key_full: oomp_symbol_ltc1436a_pll_30365d
+  oomp_key_simple: ltc1436a_pll
   owner_name: kicad
-  symbol_name: regulator_switching_ltc1436a_pll
+  symbol_name: ltc1436a_pll
 oomp_key: oomp_kicad_regulator_switching_ltc1436a_pll
 oomp_key_simple: kicad_regulator_switching_ltc1436a_pll
 owner: kicad

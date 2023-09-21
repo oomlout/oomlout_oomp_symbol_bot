@@ -1,16 +1,20 @@
+id: kicad_amplifier_audio_ir4311
+library: amplifier_audio
 library_name: Amplifier_Audio
+name: ir4311
 oomp:
   library_name: amplifier_audio
-  md5: 24de61fdd577d338f7a56dd1742b644b
-  md5_10: 24de61fdd5
-  md5_5: 24de6
-  md5_6: 24de61
-  oomp_key: oomp_amplifier_audio_ir4311
-  oomp_key_extra: oomp_symbol_amplifier_audio_ir4311
-  oomp_key_full: oomp_symbol_amplifier_audio_ir4311_24de61
-  oomp_key_simple: amplifier_audio_ir4311
+  md5: 902864df1568ed4fa93c1b1a1471c59d
+  md5_10: 902864df15
+  md5_5: '90286'
+  md5_6: '902864'
+  oomp_key: oomp_ir4311
+  oomp_key_extra: oomp_symbol_ir4311
+  oomp_key_full: oomp_symbol_ir4311_902864
+  oomp_key_simple: ir4311
   owner_name: kicad
-  symbol_name: amplifier_audio_ir4311
+  symbol_name: ir4311
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

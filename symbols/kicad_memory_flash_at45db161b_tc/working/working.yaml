@@ -1,16 +1,20 @@
+id: kicad_memory_flash_at45db161b_tc
+library: memory_flash
 library_name: Memory_Flash
+name: at45db161b_tc
 oomp:
   library_name: memory_flash
-  md5: cfc9b5f3309906b03ba998152ee0c247
-  md5_10: cfc9b5f330
-  md5_5: cfc9b
-  md5_6: cfc9b5
-  oomp_key: oomp_memory_flash_at45db161b_tc
-  oomp_key_extra: oomp_symbol_memory_flash_at45db161b_tc
-  oomp_key_full: oomp_symbol_memory_flash_at45db161b_tc_cfc9b5
-  oomp_key_simple: memory_flash_at45db161b_tc
+  md5: 9a2bcc49332f76d7cb952f4573f1391c
+  md5_10: 9a2bcc4933
+  md5_5: 9a2bc
+  md5_6: 9a2bcc
+  oomp_key: oomp_at45db161b_tc
+  oomp_key_extra: oomp_symbol_at45db161b_tc
+  oomp_key_full: oomp_symbol_at45db161b_tc_9a2bcc
+  oomp_key_simple: at45db161b_tc
   owner_name: kicad
-  symbol_name: memory_flash_at45db161b_tc
+  symbol_name: at45db161b_tc
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

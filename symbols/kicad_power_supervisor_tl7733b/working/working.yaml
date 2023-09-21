@@ -1,16 +1,20 @@
+id: kicad_power_supervisor_tl7733b
+library: power_supervisor
 library_name: Power_Supervisor
+name: tl7733b
 oomp:
   library_name: power_supervisor
-  md5: 73eff01fed91a6273fdfc7066a7a79f3
-  md5_10: 73eff01fed
-  md5_5: 73eff
-  md5_6: 73eff0
-  oomp_key: oomp_power_supervisor_tl7733b
-  oomp_key_extra: oomp_symbol_power_supervisor_tl7733b
-  oomp_key_full: oomp_symbol_power_supervisor_tl7733b_73eff0
-  oomp_key_simple: power_supervisor_tl7733b
+  md5: 1d15f15506f5f39aa8b5cecbf822a439
+  md5_10: 1d15f15506
+  md5_5: 1d15f
+  md5_6: 1d15f1
+  oomp_key: oomp_tl7733b
+  oomp_key_extra: oomp_symbol_tl7733b
+  oomp_key_full: oomp_symbol_tl7733b_1d15f1
+  oomp_key_simple: tl7733b
   owner_name: kicad
-  symbol_name: power_supervisor_tl7733b
+  symbol_name: tl7733b
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

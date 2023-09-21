@@ -1,16 +1,20 @@
+id: kicad_converter_dcdc_ih0505d
+library: converter_dcdc
 library_name: Converter_DCDC
+name: ih0505d
 oomp:
   library_name: converter_dcdc
-  md5: d401833a57b7c46d27fc700740e38fa2
-  md5_10: d401833a57
-  md5_5: d4018
-  md5_6: d40183
-  oomp_key: oomp_converter_dcdc_ih0505d
-  oomp_key_extra: oomp_symbol_converter_dcdc_ih0505d
-  oomp_key_full: oomp_symbol_converter_dcdc_ih0505d_d40183
-  oomp_key_simple: converter_dcdc_ih0505d
+  md5: 2002c8c991bbfebb09d75a7d53fd5642
+  md5_10: 2002c8c991
+  md5_5: 2002c
+  md5_6: 2002c8
+  oomp_key: oomp_ih0505d
+  oomp_key_extra: oomp_symbol_ih0505d
+  oomp_key_full: oomp_symbol_ih0505d_2002c8
+  oomp_key_simple: ih0505d
   owner_name: kicad
-  symbol_name: converter_dcdc_ih0505d
+  symbol_name: ih0505d
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

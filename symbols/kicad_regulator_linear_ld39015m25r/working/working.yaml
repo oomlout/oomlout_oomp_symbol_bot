@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_ld39015m25r
+library: regulator_linear
 library_name: Regulator_Linear
+name: ld39015m25r
 oomp:
   library_name: regulator_linear
-  md5: 667699edb50295e0b87264008df3c143
-  md5_10: 667699edb5
-  md5_5: '66769'
-  md5_6: '667699'
-  oomp_key: oomp_regulator_linear_ld39015m25r
-  oomp_key_extra: oomp_symbol_regulator_linear_ld39015m25r
-  oomp_key_full: oomp_symbol_regulator_linear_ld39015m25r_667699
-  oomp_key_simple: regulator_linear_ld39015m25r
+  md5: 5327dfa705b7b1db0bee8f96ace3883e
+  md5_10: 5327dfa705
+  md5_5: 5327d
+  md5_6: 5327df
+  oomp_key: oomp_ld39015m25r
+  oomp_key_extra: oomp_symbol_ld39015m25r
+  oomp_key_full: oomp_symbol_ld39015m25r_5327df
+  oomp_key_simple: ld39015m25r
   owner_name: kicad
-  symbol_name: regulator_linear_ld39015m25r
+  symbol_name: ld39015m25r
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

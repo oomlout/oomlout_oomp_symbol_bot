@@ -1,3 +1,5 @@
+id: kicad_connector_usb3_a
+library: connector
 library_name: Connector
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_usb3_a/working
   oomp_src_flat: symbols_flat/kicad_connector_usb3_a/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_usb3_a/working
-name: connector_usb3_a
+name: usb3_a
 oomp:
   library_name: connector
-  md5: ec930f377c365a4c0002d2f2342eaeb7
-  md5_10: ec930f377c
-  md5_5: ec930
-  md5_6: ec930f
-  oomp_key: oomp_connector_usb3_a
-  oomp_key_extra: oomp_symbol_connector_usb3_a
-  oomp_key_full: oomp_symbol_connector_usb3_a_ec930f
-  oomp_key_simple: connector_usb3_a
+  md5: cda2a94c0cac0efccaed48eb471d1db2
+  md5_10: cda2a94c0c
+  md5_5: cda2a
+  md5_6: cda2a9
+  oomp_key: oomp_usb3_a
+  oomp_key_extra: oomp_symbol_usb3_a
+  oomp_key_full: oomp_symbol_usb3_a_cda2a9
+  oomp_key_simple: usb3_a
   owner_name: kicad
-  symbol_name: connector_usb3_a
+  symbol_name: usb3_a
 oomp_key: oomp_kicad_connector_usb3_a
 oomp_key_simple: kicad_connector_usb3_a
 owner: kicad

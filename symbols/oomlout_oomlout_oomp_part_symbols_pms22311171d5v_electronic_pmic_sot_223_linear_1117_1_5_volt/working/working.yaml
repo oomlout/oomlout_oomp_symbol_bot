@@ -1,3 +1,5 @@
+id: oomlout_oomlout_oomp_part_symbols_pms22311171d5v_electronic_pmic_sot_223_linear_1117_1_5_volt
+library: oomlout_oomp_part_symbols
 library_name: oomlout_oomp_part_symbols
 links:
   github_owner: oomlout
@@ -10,19 +12,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/oomlout_oomlout_oomp_part_symbols_pms22311171d5v_electronic_pmic_sot_223_linear_1117_1_5_volt/working
   oomp_src_flat: symbols_flat/oomlout_oomlout_oomp_part_symbols_pms22311171d5v_electronic_pmic_sot_223_linear_1117_1_5_volt/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/oomlout_oomlout_oomp_part_symbols_pms22311171d5v_electronic_pmic_sot_223_linear_1117_1_5_volt/working
-name: oomp_pms22311171d5v_electronic_pmic_sot_223_linear_1117_1_5_volt
+name: pms22311171d5v_electronic_pmic_sot_223_linear_1117_1_5_volt
 oomp:
   library_name: oomlout_oomp_part_symbols
-  md5: a70256f118db90258a7ff075ab5be44a
-  md5_10: a70256f118
-  md5_5: a7025
-  md5_6: a70256
-  oomp_key: oomp_oomp_pms22311171d5v_electronic_pmic_sot_223_linear_1117_1_5_volt
-  oomp_key_extra: oomp_symbol_oomp_pms22311171d5v_electronic_pmic_sot_223_linear_1117_1_5_volt
-  oomp_key_full: oomp_symbol_oomp_pms22311171d5v_electronic_pmic_sot_223_linear_1117_1_5_volt_a70256
-  oomp_key_simple: oomp_pms22311171d5v_electronic_pmic_sot_223_linear_1117_1_5_volt
+  md5: fc7a2f46f60bbc120a7a0bb76116b7d3
+  md5_10: fc7a2f46f6
+  md5_5: fc7a2
+  md5_6: fc7a2f
+  oomp_key: oomp_pms22311171d5v_electronic_pmic_sot_223_linear_1117_1_5_volt
+  oomp_key_extra: oomp_symbol_pms22311171d5v_electronic_pmic_sot_223_linear_1117_1_5_volt
+  oomp_key_full: oomp_symbol_pms22311171d5v_electronic_pmic_sot_223_linear_1117_1_5_volt_fc7a2f
+  oomp_key_simple: pms22311171d5v_electronic_pmic_sot_223_linear_1117_1_5_volt
   owner_name: oomlout
-  symbol_name: oomp_pms22311171d5v_electronic_pmic_sot_223_linear_1117_1_5_volt
+  symbol_name: pms22311171d5v_electronic_pmic_sot_223_linear_1117_1_5_volt
 oomp_key: oomp_oomlout_oomlout_oomp_part_symbols_pms22311171d5v_electronic_pmic_sot_223_linear_1117_1_5_volt
 oomp_key_simple: oomlout_oomlout_oomp_part_symbols_pms22311171d5v_electronic_pmic_sot_223_linear_1117_1_5_volt
 owner: oomlout
@@ -110,9 +112,9 @@ repo_github:
     url: https://api.github.com/users/oomlout
   private: false
   pulls_url: https://api.github.com/repos/oomlout/oomlout_oomp_part_kicad_symbols/pulls{/number}
-  pushed_at: '2023-09-03T16:13:58Z'
+  pushed_at: '2023-09-17T15:55:00Z'
   releases_url: https://api.github.com/repos/oomlout/oomlout_oomp_part_kicad_symbols/releases{/id}
-  size: 218
+  size: 263
   ssh_url: git@github.com:oomlout/oomlout_oomp_part_kicad_symbols.git
   stargazers_count: 0
   stargazers_url: https://api.github.com/repos/oomlout/oomlout_oomp_part_kicad_symbols/stargazers

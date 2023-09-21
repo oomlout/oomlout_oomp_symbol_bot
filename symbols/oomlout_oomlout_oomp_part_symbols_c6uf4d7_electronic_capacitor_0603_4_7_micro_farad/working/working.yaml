@@ -1,3 +1,5 @@
+id: oomlout_oomlout_oomp_part_symbols_c6uf4d7_electronic_capacitor_0603_4_7_micro_farad
+library: oomlout_oomp_part_symbols
 library_name: oomlout_oomp_part_symbols
 links:
   github_owner: oomlout
@@ -10,19 +12,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/oomlout_oomlout_oomp_part_symbols_c6uf4d7_electronic_capacitor_0603_4_7_micro_farad/working
   oomp_src_flat: symbols_flat/oomlout_oomlout_oomp_part_symbols_c6uf4d7_electronic_capacitor_0603_4_7_micro_farad/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/oomlout_oomlout_oomp_part_symbols_c6uf4d7_electronic_capacitor_0603_4_7_micro_farad/working
-name: oomp_c6uf4d7_electronic_capacitor_0603_4_7_micro_farad
+name: c6uf4d7_electronic_capacitor_0603_4_7_micro_farad
 oomp:
   library_name: oomlout_oomp_part_symbols
-  md5: e2fc884087e216da8e85bffefd9eb2b1
-  md5_10: e2fc884087
-  md5_5: e2fc8
-  md5_6: e2fc88
-  oomp_key: oomp_oomp_c6uf4d7_electronic_capacitor_0603_4_7_micro_farad
-  oomp_key_extra: oomp_symbol_oomp_c6uf4d7_electronic_capacitor_0603_4_7_micro_farad
-  oomp_key_full: oomp_symbol_oomp_c6uf4d7_electronic_capacitor_0603_4_7_micro_farad_e2fc88
-  oomp_key_simple: oomp_c6uf4d7_electronic_capacitor_0603_4_7_micro_farad
+  md5: a7d5e85d76691d03efea9adaa9271b35
+  md5_10: a7d5e85d76
+  md5_5: a7d5e
+  md5_6: a7d5e8
+  oomp_key: oomp_c6uf4d7_electronic_capacitor_0603_4_7_micro_farad
+  oomp_key_extra: oomp_symbol_c6uf4d7_electronic_capacitor_0603_4_7_micro_farad
+  oomp_key_full: oomp_symbol_c6uf4d7_electronic_capacitor_0603_4_7_micro_farad_a7d5e8
+  oomp_key_simple: c6uf4d7_electronic_capacitor_0603_4_7_micro_farad
   owner_name: oomlout
-  symbol_name: oomp_c6uf4d7_electronic_capacitor_0603_4_7_micro_farad
+  symbol_name: c6uf4d7_electronic_capacitor_0603_4_7_micro_farad
 oomp_key: oomp_oomlout_oomlout_oomp_part_symbols_c6uf4d7_electronic_capacitor_0603_4_7_micro_farad
 oomp_key_simple: oomlout_oomlout_oomp_part_symbols_c6uf4d7_electronic_capacitor_0603_4_7_micro_farad
 owner: oomlout
@@ -110,9 +112,9 @@ repo_github:
     url: https://api.github.com/users/oomlout
   private: false
   pulls_url: https://api.github.com/repos/oomlout/oomlout_oomp_part_kicad_symbols/pulls{/number}
-  pushed_at: '2023-09-03T16:13:58Z'
+  pushed_at: '2023-09-17T15:55:00Z'
   releases_url: https://api.github.com/repos/oomlout/oomlout_oomp_part_kicad_symbols/releases{/id}
-  size: 218
+  size: 263
   ssh_url: git@github.com:oomlout/oomlout_oomp_part_kicad_symbols.git
   stargazers_count: 0
   stargazers_url: https://api.github.com/repos/oomlout/oomlout_oomp_part_kicad_symbols/stargazers

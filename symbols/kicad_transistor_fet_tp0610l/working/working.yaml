@@ -1,3 +1,5 @@
+id: kicad_transistor_fet_tp0610l
+library: transistor_fet
 library_name: Transistor_FET
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_transistor_fet_tp0610l/working
   oomp_src_flat: symbols_flat/kicad_transistor_fet_tp0610l/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_transistor_fet_tp0610l/working
-name: transistor_fet_tp0610l
+name: tp0610l
 oomp:
   library_name: transistor_fet
-  md5: 5e7038e3496d8a0e2c2a55b6cf6eadb6
-  md5_10: 5e7038e349
-  md5_5: 5e703
-  md5_6: 5e7038
-  oomp_key: oomp_transistor_fet_tp0610l
-  oomp_key_extra: oomp_symbol_transistor_fet_tp0610l
-  oomp_key_full: oomp_symbol_transistor_fet_tp0610l_5e7038
-  oomp_key_simple: transistor_fet_tp0610l
+  md5: 389997856d40f402d0e15451c8f9e41f
+  md5_10: 389997856d
+  md5_5: '38999'
+  md5_6: '389997'
+  oomp_key: oomp_tp0610l
+  oomp_key_extra: oomp_symbol_tp0610l
+  oomp_key_full: oomp_symbol_tp0610l_389997
+  oomp_key_simple: tp0610l
   owner_name: kicad
-  symbol_name: transistor_fet_tp0610l
+  symbol_name: tp0610l
 oomp_key: oomp_kicad_transistor_fet_tp0610l
 oomp_key_simple: kicad_transistor_fet_tp0610l
 owner: kicad

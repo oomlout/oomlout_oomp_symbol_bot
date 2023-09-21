@@ -1,16 +1,20 @@
+id: kicad_mcu_microchip_pic18_pic18lf4450_ip
+library: mcu_microchip_pic18
 library_name: MCU_Microchip_PIC18
+name: pic18lf4450_ip
 oomp:
   library_name: mcu_microchip_pic18
-  md5: bf558b113b77cfcadca86992b502f133
-  md5_10: bf558b113b
-  md5_5: bf558
-  md5_6: bf558b
-  oomp_key: oomp_mcu_microchip_pic18_pic18lf4450_ip
-  oomp_key_extra: oomp_symbol_mcu_microchip_pic18_pic18lf4450_ip
-  oomp_key_full: oomp_symbol_mcu_microchip_pic18_pic18lf4450_ip_bf558b
-  oomp_key_simple: mcu_microchip_pic18_pic18lf4450_ip
+  md5: 8644b52fa23a0c7986368b98eb252c03
+  md5_10: 8644b52fa2
+  md5_5: 8644b
+  md5_6: 8644b5
+  oomp_key: oomp_pic18lf4450_ip
+  oomp_key_extra: oomp_symbol_pic18lf4450_ip
+  oomp_key_full: oomp_symbol_pic18lf4450_ip_8644b5
+  oomp_key_simple: pic18lf4450_ip
   owner_name: kicad
-  symbol_name: mcu_microchip_pic18_pic18lf4450_ip
+  symbol_name: pic18lf4450_ip
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

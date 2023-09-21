@@ -1,3 +1,5 @@
+id: kicad_mcu_nxp_s08_mc9s08fl16xlc
+library: mcu_nxp_s08
 library_name: MCU_NXP_S08
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_nxp_s08_mc9s08fl16xlc/working
   oomp_src_flat: symbols_flat/kicad_mcu_nxp_s08_mc9s08fl16xlc/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_nxp_s08_mc9s08fl16xlc/working
-name: mcu_nxp_s08_mc9s08fl16xlc
+name: mc9s08fl16xlc
 oomp:
   library_name: mcu_nxp_s08
-  md5: 248be767cdd5cd203aa6b62bc11dce84
-  md5_10: 248be767cd
-  md5_5: 248be
-  md5_6: 248be7
-  oomp_key: oomp_mcu_nxp_s08_mc9s08fl16xlc
-  oomp_key_extra: oomp_symbol_mcu_nxp_s08_mc9s08fl16xlc
-  oomp_key_full: oomp_symbol_mcu_nxp_s08_mc9s08fl16xlc_248be7
-  oomp_key_simple: mcu_nxp_s08_mc9s08fl16xlc
+  md5: 0398b74427d8cb49fd8d418de924e13b
+  md5_10: 0398b74427
+  md5_5: 0398b
+  md5_6: 0398b7
+  oomp_key: oomp_mc9s08fl16xlc
+  oomp_key_extra: oomp_symbol_mc9s08fl16xlc
+  oomp_key_full: oomp_symbol_mc9s08fl16xlc_0398b7
+  oomp_key_simple: mc9s08fl16xlc
   owner_name: kicad
-  symbol_name: mcu_nxp_s08_mc9s08fl16xlc
+  symbol_name: mc9s08fl16xlc
 oomp_key: oomp_kicad_mcu_nxp_s08_mc9s08fl16xlc
 oomp_key_simple: kicad_mcu_nxp_s08_mc9s08fl16xlc
 owner: kicad

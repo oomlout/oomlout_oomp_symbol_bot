@@ -1,16 +1,20 @@
+id: kicad_transistor_fet_buk9m43_100ex
+library: transistor_fet
 library_name: Transistor_FET
+name: buk9m43_100ex
 oomp:
   library_name: transistor_fet
-  md5: 1d57ace6f31c2644ca2ce088206c0131
-  md5_10: 1d57ace6f3
-  md5_5: 1d57a
-  md5_6: 1d57ac
-  oomp_key: oomp_transistor_fet_buk9m43_100ex
-  oomp_key_extra: oomp_symbol_transistor_fet_buk9m43_100ex
-  oomp_key_full: oomp_symbol_transistor_fet_buk9m43_100ex_1d57ac
-  oomp_key_simple: transistor_fet_buk9m43_100ex
+  md5: e08f2bc18061711058016fac3b7eb08c
+  md5_10: e08f2bc180
+  md5_5: e08f2
+  md5_6: e08f2b
+  oomp_key: oomp_buk9m43_100ex
+  oomp_key_extra: oomp_symbol_buk9m43_100ex
+  oomp_key_full: oomp_symbol_buk9m43_100ex_e08f2b
+  oomp_key_simple: buk9m43_100ex
   owner_name: kicad
-  symbol_name: transistor_fet_buk9m43_100ex
+  symbol_name: buk9m43_100ex
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

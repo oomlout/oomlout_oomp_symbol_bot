@@ -1,16 +1,20 @@
+id: kicad_power_management_cap006dg
+library: power_management
 library_name: Power_Management
+name: cap006dg
 oomp:
   library_name: power_management
-  md5: 7036eda0fc612bb7aa8091acb53cf887
-  md5_10: 7036eda0fc
-  md5_5: 7036e
-  md5_6: 7036ed
-  oomp_key: oomp_power_management_cap006dg
-  oomp_key_extra: oomp_symbol_power_management_cap006dg
-  oomp_key_full: oomp_symbol_power_management_cap006dg_7036ed
-  oomp_key_simple: power_management_cap006dg
+  md5: 48fab12e8cfc478470317b5e2ef49bb6
+  md5_10: 48fab12e8c
+  md5_5: 48fab
+  md5_6: 48fab1
+  oomp_key: oomp_cap006dg
+  oomp_key_extra: oomp_symbol_cap006dg
+  oomp_key_full: oomp_symbol_cap006dg_48fab1
+  oomp_key_simple: cap006dg
   owner_name: kicad
-  symbol_name: power_management_cap006dg
+  symbol_name: cap006dg
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

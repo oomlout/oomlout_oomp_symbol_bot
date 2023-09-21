@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_lm22678tj_5
+library: regulator_switching
 library_name: Regulator_Switching
+name: lm22678tj_5
 oomp:
   library_name: regulator_switching
-  md5: 850a935486860d4d652fcfe0dc3798d1
-  md5_10: 850a935486
-  md5_5: 850a9
-  md5_6: 850a93
-  oomp_key: oomp_regulator_switching_lm22678tj_5
-  oomp_key_extra: oomp_symbol_regulator_switching_lm22678tj_5
-  oomp_key_full: oomp_symbol_regulator_switching_lm22678tj_5_850a93
-  oomp_key_simple: regulator_switching_lm22678tj_5
+  md5: d205904aee871a60d4a44fcda43a80f6
+  md5_10: d205904aee
+  md5_5: d2059
+  md5_6: d20590
+  oomp_key: oomp_lm22678tj_5
+  oomp_key_extra: oomp_symbol_lm22678tj_5
+  oomp_key_full: oomp_symbol_lm22678tj_5_d20590
+  oomp_key_simple: lm22678tj_5
   owner_name: kicad
-  symbol_name: regulator_switching_lm22678tj_5
+  symbol_name: lm22678tj_5
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

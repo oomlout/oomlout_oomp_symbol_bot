@@ -1,16 +1,20 @@
+id: kicad_converter_acdc_tmlm10112
+library: converter_acdc
 library_name: Converter_ACDC
+name: tmlm10112
 oomp:
   library_name: converter_acdc
-  md5: 61127ca5a0435cc41419a56926add2ef
-  md5_10: 61127ca5a0
-  md5_5: '61127'
-  md5_6: 61127c
-  oomp_key: oomp_converter_acdc_tmlm10112
-  oomp_key_extra: oomp_symbol_converter_acdc_tmlm10112
-  oomp_key_full: oomp_symbol_converter_acdc_tmlm10112_61127c
-  oomp_key_simple: converter_acdc_tmlm10112
+  md5: 81110448542d8cd870c037dcec3f4bd2
+  md5_10: '8111044854'
+  md5_5: '81110'
+  md5_6: '811104'
+  oomp_key: oomp_tmlm10112
+  oomp_key_extra: oomp_symbol_tmlm10112
+  oomp_key_full: oomp_symbol_tmlm10112_811104
+  oomp_key_simple: tmlm10112
   owner_name: kicad
-  symbol_name: converter_acdc_tmlm10112
+  symbol_name: tmlm10112
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

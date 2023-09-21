@@ -1,16 +1,20 @@
+id: kicad_reference_voltage_ref5025idgk
+library: reference_voltage
 library_name: Reference_Voltage
+name: ref5025idgk
 oomp:
   library_name: reference_voltage
-  md5: ec14d47dfdeed0f553b3443fed9e8524
-  md5_10: ec14d47dfd
-  md5_5: ec14d
-  md5_6: ec14d4
-  oomp_key: oomp_reference_voltage_ref5025idgk
-  oomp_key_extra: oomp_symbol_reference_voltage_ref5025idgk
-  oomp_key_full: oomp_symbol_reference_voltage_ref5025idgk_ec14d4
-  oomp_key_simple: reference_voltage_ref5025idgk
+  md5: f2f30b010d33cd12eb2c1ec4d3d6bddf
+  md5_10: f2f30b010d
+  md5_5: f2f30
+  md5_6: f2f30b
+  oomp_key: oomp_ref5025idgk
+  oomp_key_extra: oomp_symbol_ref5025idgk
+  oomp_key_full: oomp_symbol_ref5025idgk_f2f30b
+  oomp_key_simple: ref5025idgk
   owner_name: kicad
-  symbol_name: reference_voltage_ref5025idgk
+  symbol_name: ref5025idgk
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

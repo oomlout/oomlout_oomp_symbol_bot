@@ -1,16 +1,20 @@
+id: kicad_transistor_fet_fds6930b
+library: transistor_fet
 library_name: Transistor_FET
+name: fds6930b
 oomp:
   library_name: transistor_fet
-  md5: 77e2a06a5ae3fd0c2e1170f9eed10702
-  md5_10: 77e2a06a5a
-  md5_5: 77e2a
-  md5_6: 77e2a0
-  oomp_key: oomp_transistor_fet_fds6930b
-  oomp_key_extra: oomp_symbol_transistor_fet_fds6930b
-  oomp_key_full: oomp_symbol_transistor_fet_fds6930b_77e2a0
-  oomp_key_simple: transistor_fet_fds6930b
+  md5: 65c50f4c1899f52f25da275ef28b141b
+  md5_10: 65c50f4c18
+  md5_5: 65c50
+  md5_6: 65c50f
+  oomp_key: oomp_fds6930b
+  oomp_key_extra: oomp_symbol_fds6930b
+  oomp_key_full: oomp_symbol_fds6930b_65c50f
+  oomp_key_simple: fds6930b
   owner_name: kicad
-  symbol_name: transistor_fet_fds6930b
+  symbol_name: fds6930b
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

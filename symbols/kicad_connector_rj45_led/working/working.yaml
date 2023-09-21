@@ -1,16 +1,20 @@
+id: kicad_connector_rj45_led
+library: connector
 library_name: Connector
+name: rj45_led
 oomp:
   library_name: connector
-  md5: 44ed6206bfe0e0dac78a964d7149e612
-  md5_10: 44ed6206bf
-  md5_5: 44ed6
-  md5_6: 44ed62
-  oomp_key: oomp_connector_rj45_led
-  oomp_key_extra: oomp_symbol_connector_rj45_led
-  oomp_key_full: oomp_symbol_connector_rj45_led_44ed62
-  oomp_key_simple: connector_rj45_led
+  md5: 813c048b954f7e4869f5effb84ebe930
+  md5_10: 813c048b95
+  md5_5: 813c0
+  md5_6: 813c04
+  oomp_key: oomp_rj45_led
+  oomp_key_extra: oomp_symbol_rj45_led
+  oomp_key_full: oomp_symbol_rj45_led_813c04
+  oomp_key_simple: rj45_led
   owner_name: kicad
-  symbol_name: connector_rj45_led
+  symbol_name: rj45_led
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

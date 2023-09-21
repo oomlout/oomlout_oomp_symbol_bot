@@ -1,3 +1,5 @@
+id: kicad_analog_adc_ad7171
+library: analog_adc
 library_name: Analog_ADC
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_analog_adc_ad7171/working
   oomp_src_flat: symbols_flat/kicad_analog_adc_ad7171/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_analog_adc_ad7171/working
-name: analog_adc_ad7171
+name: ad7171
 oomp:
   library_name: analog_adc
-  md5: 98b07bc287d7d360533bde0ec25ec81e
-  md5_10: 98b07bc287
-  md5_5: 98b07
-  md5_6: 98b07b
-  oomp_key: oomp_analog_adc_ad7171
-  oomp_key_extra: oomp_symbol_analog_adc_ad7171
-  oomp_key_full: oomp_symbol_analog_adc_ad7171_98b07b
-  oomp_key_simple: analog_adc_ad7171
+  md5: 50693de4c168c38cf3329c8c5b5df156
+  md5_10: 50693de4c1
+  md5_5: '50693'
+  md5_6: 50693d
+  oomp_key: oomp_ad7171
+  oomp_key_extra: oomp_symbol_ad7171
+  oomp_key_full: oomp_symbol_ad7171_50693d
+  oomp_key_simple: ad7171
   owner_name: kicad
-  symbol_name: analog_adc_ad7171
+  symbol_name: ad7171
 oomp_key: oomp_kicad_analog_adc_ad7171
 oomp_key_simple: kicad_analog_adc_ad7171
 owner: kicad

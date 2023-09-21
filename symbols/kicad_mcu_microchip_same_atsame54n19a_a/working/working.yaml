@@ -1,3 +1,5 @@
+id: kicad_mcu_microchip_same_atsame54n19a_a
+library: mcu_microchip_same
 library_name: MCU_Microchip_SAME
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_microchip_same_atsame54n19a_a/working
   oomp_src_flat: symbols_flat/kicad_mcu_microchip_same_atsame54n19a_a/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_microchip_same_atsame54n19a_a/working
-name: mcu_microchip_same_atsame54n19a_a
+name: atsame54n19a_a
 oomp:
   library_name: mcu_microchip_same
-  md5: a5e6f1423f3e28e9c22f2745f8e17b48
-  md5_10: a5e6f1423f
-  md5_5: a5e6f
-  md5_6: a5e6f1
-  oomp_key: oomp_mcu_microchip_same_atsame54n19a_a
-  oomp_key_extra: oomp_symbol_mcu_microchip_same_atsame54n19a_a
-  oomp_key_full: oomp_symbol_mcu_microchip_same_atsame54n19a_a_a5e6f1
-  oomp_key_simple: mcu_microchip_same_atsame54n19a_a
+  md5: 93afcd3857a4a6952fb613782076cb6c
+  md5_10: 93afcd3857
+  md5_5: 93afc
+  md5_6: 93afcd
+  oomp_key: oomp_atsame54n19a_a
+  oomp_key_extra: oomp_symbol_atsame54n19a_a
+  oomp_key_full: oomp_symbol_atsame54n19a_a_93afcd
+  oomp_key_simple: atsame54n19a_a
   owner_name: kicad
-  symbol_name: mcu_microchip_same_atsame54n19a_a
+  symbol_name: atsame54n19a_a
 oomp_key: oomp_kicad_mcu_microchip_same_atsame54n19a_a
 oomp_key_simple: kicad_mcu_microchip_same_atsame54n19a_a
 owner: kicad

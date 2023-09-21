@@ -1,16 +1,20 @@
+id: kicad_relay_hf3_02
+library: relay
 library_name: Relay
+name: hf3_02
 oomp:
   library_name: relay
-  md5: 60e3d6c98cd3ba53d547a7f974ea6a36
-  md5_10: 60e3d6c98c
-  md5_5: 60e3d
-  md5_6: 60e3d6
-  oomp_key: oomp_relay_hf3_02
-  oomp_key_extra: oomp_symbol_relay_hf3_02
-  oomp_key_full: oomp_symbol_relay_hf3_02_60e3d6
-  oomp_key_simple: relay_hf3_02
+  md5: c8851c6e1c4c2c3b2953d7b9f93ada31
+  md5_10: c8851c6e1c
+  md5_5: c8851
+  md5_6: c8851c
+  oomp_key: oomp_hf3_02
+  oomp_key_extra: oomp_symbol_hf3_02
+  oomp_key_full: oomp_symbol_hf3_02_c8851c
+  oomp_key_simple: hf3_02
   owner_name: kicad
-  symbol_name: relay_hf3_02
+  symbol_name: hf3_02
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

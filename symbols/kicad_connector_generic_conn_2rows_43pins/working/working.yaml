@@ -1,3 +1,5 @@
+id: kicad_connector_generic_conn_2rows_43pins
+library: connector_generic
 library_name: Connector_Generic
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_generic_conn_2rows_43pins/working
   oomp_src_flat: symbols_flat/kicad_connector_generic_conn_2rows_43pins/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_generic_conn_2rows_43pins/working
-name: connector_generic_conn_2rows_43pins
+name: conn_2rows_43pins
 oomp:
   library_name: connector_generic
-  md5: 58c72504bc5c841e4cab21caef59747b
-  md5_10: 58c72504bc
-  md5_5: 58c72
-  md5_6: 58c725
-  oomp_key: oomp_connector_generic_conn_2rows_43pins
-  oomp_key_extra: oomp_symbol_connector_generic_conn_2rows_43pins
-  oomp_key_full: oomp_symbol_connector_generic_conn_2rows_43pins_58c725
-  oomp_key_simple: connector_generic_conn_2rows_43pins
+  md5: a5da16c0ca8c4d762753302069854891
+  md5_10: a5da16c0ca
+  md5_5: a5da1
+  md5_6: a5da16
+  oomp_key: oomp_conn_2rows_43pins
+  oomp_key_extra: oomp_symbol_conn_2rows_43pins
+  oomp_key_full: oomp_symbol_conn_2rows_43pins_a5da16
+  oomp_key_simple: conn_2rows_43pins
   owner_name: kicad
-  symbol_name: connector_generic_conn_2rows_43pins
+  symbol_name: conn_2rows_43pins
 oomp_key: oomp_kicad_connector_generic_conn_2rows_43pins
 oomp_key_simple: kicad_connector_generic_conn_2rows_43pins
 owner: kicad

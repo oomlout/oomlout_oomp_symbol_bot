@@ -1,3 +1,5 @@
+id: arturo182_sensor_touch_extra_iqs525
+library: sensor_touch_extra
 library_name: Sensor_Touch_Extra
 links:
   github_owner: arturo182
@@ -10,19 +12,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/arturo182_sensor_touch_extra_iqs525/working
   oomp_src_flat: symbols_flat/arturo182_sensor_touch_extra_iqs525/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/arturo182_sensor_touch_extra_iqs525/working
-name: sensor_touch_extra_iqs525
+name: iqs525
 oomp:
   library_name: sensor_touch_extra
-  md5: 1ab732f0fbe973a5c094ccc0d927c582
-  md5_10: 1ab732f0fb
-  md5_5: 1ab73
-  md5_6: 1ab732
-  oomp_key: oomp_sensor_touch_extra_iqs525
-  oomp_key_extra: oomp_symbol_sensor_touch_extra_iqs525
-  oomp_key_full: oomp_symbol_sensor_touch_extra_iqs525_1ab732
-  oomp_key_simple: sensor_touch_extra_iqs525
+  md5: aaabd3c7a7da8e126c9e60cced6ddda7
+  md5_10: aaabd3c7a7
+  md5_5: aaabd
+  md5_6: aaabd3
+  oomp_key: oomp_iqs525
+  oomp_key_extra: oomp_symbol_iqs525
+  oomp_key_full: oomp_symbol_iqs525_aaabd3
+  oomp_key_simple: iqs525
   owner_name: arturo182
-  symbol_name: sensor_touch_extra_iqs525
+  symbol_name: iqs525
 oomp_key: oomp_arturo182_sensor_touch_extra_iqs525
 oomp_key_simple: arturo182_sensor_touch_extra_iqs525
 owner: arturo182

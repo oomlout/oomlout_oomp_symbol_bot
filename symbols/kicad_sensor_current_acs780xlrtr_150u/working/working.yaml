@@ -1,16 +1,20 @@
+id: kicad_sensor_current_acs780xlrtr_150u
+library: sensor_current
 library_name: Sensor_Current
+name: acs780xlrtr_150u
 oomp:
   library_name: sensor_current
-  md5: 8247b400935af3989f5be5af5ebe0b01
-  md5_10: 8247b40093
-  md5_5: 8247b
-  md5_6: 8247b4
-  oomp_key: oomp_sensor_current_acs780xlrtr_150u
-  oomp_key_extra: oomp_symbol_sensor_current_acs780xlrtr_150u
-  oomp_key_full: oomp_symbol_sensor_current_acs780xlrtr_150u_8247b4
-  oomp_key_simple: sensor_current_acs780xlrtr_150u
+  md5: 6ea36a98f7c3449368669a5fd7beb2df
+  md5_10: 6ea36a98f7
+  md5_5: 6ea36
+  md5_6: 6ea36a
+  oomp_key: oomp_acs780xlrtr_150u
+  oomp_key_extra: oomp_symbol_acs780xlrtr_150u
+  oomp_key_full: oomp_symbol_acs780xlrtr_150u_6ea36a
+  oomp_key_simple: acs780xlrtr_150u
   owner_name: kicad
-  symbol_name: sensor_current_acs780xlrtr_150u
+  symbol_name: acs780xlrtr_150u
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

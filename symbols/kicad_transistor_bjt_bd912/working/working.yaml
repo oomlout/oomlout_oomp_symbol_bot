@@ -1,16 +1,20 @@
+id: kicad_transistor_bjt_bd912
+library: transistor_bjt
 library_name: Transistor_BJT
+name: bd912
 oomp:
   library_name: transistor_bjt
-  md5: 5af719368f4b4d24364b686f643a39e4
-  md5_10: 5af719368f
-  md5_5: 5af71
-  md5_6: 5af719
-  oomp_key: oomp_transistor_bjt_bd912
-  oomp_key_extra: oomp_symbol_transistor_bjt_bd912
-  oomp_key_full: oomp_symbol_transistor_bjt_bd912_5af719
-  oomp_key_simple: transistor_bjt_bd912
+  md5: d8e8c79d2e29bb3492f0ba9adbe1df2c
+  md5_10: d8e8c79d2e
+  md5_5: d8e8c
+  md5_6: d8e8c7
+  oomp_key: oomp_bd912
+  oomp_key_extra: oomp_symbol_bd912
+  oomp_key_full: oomp_symbol_bd912_d8e8c7
+  oomp_key_simple: bd912
   owner_name: kicad
-  symbol_name: transistor_bjt_bd912
+  symbol_name: bd912
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

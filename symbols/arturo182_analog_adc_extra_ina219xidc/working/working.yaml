@@ -1,3 +1,5 @@
+id: arturo182_analog_adc_extra_ina219xidc
+library: analog_adc_extra
 library_name: Analog_ADC_Extra
 links:
   github_owner: arturo182
@@ -10,19 +12,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/arturo182_analog_adc_extra_ina219xidc/working
   oomp_src_flat: symbols_flat/arturo182_analog_adc_extra_ina219xidc/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/arturo182_analog_adc_extra_ina219xidc/working
-name: analog_adc_extra_ina219xidc
+name: ina219xidc
 oomp:
   library_name: analog_adc_extra
-  md5: 6612e3fd02a69af93c2c524eebb8cbe8
-  md5_10: 6612e3fd02
-  md5_5: 6612e
-  md5_6: 6612e3
-  oomp_key: oomp_analog_adc_extra_ina219xidc
-  oomp_key_extra: oomp_symbol_analog_adc_extra_ina219xidc
-  oomp_key_full: oomp_symbol_analog_adc_extra_ina219xidc_6612e3
-  oomp_key_simple: analog_adc_extra_ina219xidc
+  md5: 7adf6d16bfe45c20cbfcf1f30b1be1a0
+  md5_10: 7adf6d16bf
+  md5_5: 7adf6
+  md5_6: 7adf6d
+  oomp_key: oomp_ina219xidc
+  oomp_key_extra: oomp_symbol_ina219xidc
+  oomp_key_full: oomp_symbol_ina219xidc_7adf6d
+  oomp_key_simple: ina219xidc
   owner_name: arturo182
-  symbol_name: analog_adc_extra_ina219xidc
+  symbol_name: ina219xidc
 oomp_key: oomp_arturo182_analog_adc_extra_ina219xidc
 oomp_key_simple: arturo182_analog_adc_extra_ina219xidc
 owner: arturo182

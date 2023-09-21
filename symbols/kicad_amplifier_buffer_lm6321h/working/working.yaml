@@ -1,3 +1,5 @@
+id: kicad_amplifier_buffer_lm6321h
+library: amplifier_buffer
 library_name: Amplifier_Buffer
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_buffer_lm6321h/working
   oomp_src_flat: symbols_flat/kicad_amplifier_buffer_lm6321h/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_buffer_lm6321h/working
-name: amplifier_buffer_lm6321h
+name: lm6321h
 oomp:
   library_name: amplifier_buffer
-  md5: e6ad318f665bfae39680108332f335bf
-  md5_10: e6ad318f66
-  md5_5: e6ad3
-  md5_6: e6ad31
-  oomp_key: oomp_amplifier_buffer_lm6321h
-  oomp_key_extra: oomp_symbol_amplifier_buffer_lm6321h
-  oomp_key_full: oomp_symbol_amplifier_buffer_lm6321h_e6ad31
-  oomp_key_simple: amplifier_buffer_lm6321h
+  md5: ef927368b9b77d6273a4231913a6f83b
+  md5_10: ef927368b9
+  md5_5: ef927
+  md5_6: ef9273
+  oomp_key: oomp_lm6321h
+  oomp_key_extra: oomp_symbol_lm6321h
+  oomp_key_full: oomp_symbol_lm6321h_ef9273
+  oomp_key_simple: lm6321h
   owner_name: kicad
-  symbol_name: amplifier_buffer_lm6321h
+  symbol_name: lm6321h
 oomp_key: oomp_kicad_amplifier_buffer_lm6321h
 oomp_key_simple: kicad_amplifier_buffer_lm6321h
 owner: kicad

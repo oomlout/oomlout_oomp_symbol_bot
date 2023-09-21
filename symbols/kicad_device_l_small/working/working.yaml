@@ -1,3 +1,5 @@
+id: kicad_device_l_small
+library: device
 library_name: Device
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_l_small/working
   oomp_src_flat: symbols_flat/kicad_device_l_small/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_l_small/working
-name: device_l_small
+name: l_small
 oomp:
   library_name: device
-  md5: 771c67c74bfa2c0bacd12cfd263f7d18
-  md5_10: 771c67c74b
-  md5_5: 771c6
-  md5_6: 771c67
-  oomp_key: oomp_device_l_small
-  oomp_key_extra: oomp_symbol_device_l_small
-  oomp_key_full: oomp_symbol_device_l_small_771c67
-  oomp_key_simple: device_l_small
+  md5: b8cf835f382c2da41ecb8ac2b774a650
+  md5_10: b8cf835f38
+  md5_5: b8cf8
+  md5_6: b8cf83
+  oomp_key: oomp_l_small
+  oomp_key_extra: oomp_symbol_l_small
+  oomp_key_full: oomp_symbol_l_small_b8cf83
+  oomp_key_simple: l_small
   owner_name: kicad
-  symbol_name: device_l_small
+  symbol_name: l_small
 oomp_key: oomp_kicad_device_l_small
 oomp_key_simple: kicad_device_l_small
 owner: kicad

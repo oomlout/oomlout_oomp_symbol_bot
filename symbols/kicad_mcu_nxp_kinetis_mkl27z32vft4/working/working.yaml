@@ -1,16 +1,20 @@
+id: kicad_mcu_nxp_kinetis_mkl27z32vft4
+library: mcu_nxp_kinetis
 library_name: MCU_NXP_Kinetis
+name: mkl27z32vft4
 oomp:
   library_name: mcu_nxp_kinetis
-  md5: 910c997b9732ba30a983a2335d31c4f0
-  md5_10: 910c997b97
-  md5_5: 910c9
-  md5_6: 910c99
-  oomp_key: oomp_mcu_nxp_kinetis_mkl27z32vft4
-  oomp_key_extra: oomp_symbol_mcu_nxp_kinetis_mkl27z32vft4
-  oomp_key_full: oomp_symbol_mcu_nxp_kinetis_mkl27z32vft4_910c99
-  oomp_key_simple: mcu_nxp_kinetis_mkl27z32vft4
+  md5: 1bb2370e704bba6c5ef520d3b019a94e
+  md5_10: 1bb2370e70
+  md5_5: 1bb23
+  md5_6: 1bb237
+  oomp_key: oomp_mkl27z32vft4
+  oomp_key_extra: oomp_symbol_mkl27z32vft4
+  oomp_key_full: oomp_symbol_mkl27z32vft4_1bb237
+  oomp_key_simple: mkl27z32vft4
   owner_name: kicad
-  symbol_name: mcu_nxp_kinetis_mkl27z32vft4
+  symbol_name: mkl27z32vft4
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_power_supervisor_tl7715a
+library: power_supervisor
 library_name: Power_Supervisor
+name: tl7715a
 oomp:
   library_name: power_supervisor
-  md5: 78641ae2569c5054620d92682eb43306
-  md5_10: 78641ae256
-  md5_5: '78641'
-  md5_6: 78641a
-  oomp_key: oomp_power_supervisor_tl7715a
-  oomp_key_extra: oomp_symbol_power_supervisor_tl7715a
-  oomp_key_full: oomp_symbol_power_supervisor_tl7715a_78641a
-  oomp_key_simple: power_supervisor_tl7715a
+  md5: 1581b921253441fc4b693c9715124be9
+  md5_10: 1581b92125
+  md5_5: 1581b
+  md5_6: 1581b9
+  oomp_key: oomp_tl7715a
+  oomp_key_extra: oomp_symbol_tl7715a
+  oomp_key_full: oomp_symbol_tl7715a_1581b9
+  oomp_key_simple: tl7715a
   owner_name: kicad
-  symbol_name: power_supervisor_tl7715a
+  symbol_name: tl7715a
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

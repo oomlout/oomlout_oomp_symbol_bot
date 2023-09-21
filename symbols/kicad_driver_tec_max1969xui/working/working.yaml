@@ -1,16 +1,20 @@
+id: kicad_driver_tec_max1969xui
+library: driver_tec
 library_name: Driver_TEC
+name: max1969xui
 oomp:
   library_name: driver_tec
-  md5: 034ce1673227569d70bcd87c08ffdd4a
-  md5_10: 034ce16732
-  md5_5: 034ce
-  md5_6: 034ce1
-  oomp_key: oomp_driver_tec_max1969xui
-  oomp_key_extra: oomp_symbol_driver_tec_max1969xui
-  oomp_key_full: oomp_symbol_driver_tec_max1969xui_034ce1
-  oomp_key_simple: driver_tec_max1969xui
+  md5: d47f1e64ec08ff22b63a177ae30986fd
+  md5_10: d47f1e64ec
+  md5_5: d47f1
+  md5_6: d47f1e
+  oomp_key: oomp_max1969xui
+  oomp_key_extra: oomp_symbol_max1969xui
+  oomp_key_full: oomp_symbol_max1969xui_d47f1e
+  oomp_key_simple: max1969xui
   owner_name: kicad
-  symbol_name: driver_tec_max1969xui
+  symbol_name: max1969xui
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

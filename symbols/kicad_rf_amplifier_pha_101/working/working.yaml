@@ -1,16 +1,20 @@
+id: kicad_rf_amplifier_pha_101
+library: rf_amplifier
 library_name: RF_Amplifier
+name: pha_101
 oomp:
   library_name: rf_amplifier
-  md5: 75b3dfb3503dceff9d1165080ddaaea2
-  md5_10: 75b3dfb350
-  md5_5: 75b3d
-  md5_6: 75b3df
-  oomp_key: oomp_rf_amplifier_pha_101
-  oomp_key_extra: oomp_symbol_rf_amplifier_pha_101
-  oomp_key_full: oomp_symbol_rf_amplifier_pha_101_75b3df
-  oomp_key_simple: rf_amplifier_pha_101
+  md5: a86d34ee63fca05e41ca449ceee9d023
+  md5_10: a86d34ee63
+  md5_5: a86d3
+  md5_6: a86d34
+  oomp_key: oomp_pha_101
+  oomp_key_extra: oomp_symbol_pha_101
+  oomp_key_full: oomp_symbol_pha_101_a86d34
+  oomp_key_simple: pha_101
   owner_name: kicad
-  symbol_name: rf_amplifier_pha_101
+  symbol_name: pha_101
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

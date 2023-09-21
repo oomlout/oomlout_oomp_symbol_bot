@@ -1,16 +1,20 @@
+id: kicad_interface_ethernet_lan9513i
+library: interface_ethernet
 library_name: Interface_Ethernet
+name: lan9513i
 oomp:
   library_name: interface_ethernet
-  md5: 42492fe0f64f4b796898ab8abf3407cc
-  md5_10: 42492fe0f6
-  md5_5: '42492'
-  md5_6: 42492f
-  oomp_key: oomp_interface_ethernet_lan9513i
-  oomp_key_extra: oomp_symbol_interface_ethernet_lan9513i
-  oomp_key_full: oomp_symbol_interface_ethernet_lan9513i_42492f
-  oomp_key_simple: interface_ethernet_lan9513i
+  md5: 9baed9d1e449320545bd6001827985d5
+  md5_10: 9baed9d1e4
+  md5_5: 9baed
+  md5_6: 9baed9
+  oomp_key: oomp_lan9513i
+  oomp_key_extra: oomp_symbol_lan9513i
+  oomp_key_full: oomp_symbol_lan9513i_9baed9
+  oomp_key_simple: lan9513i
   owner_name: kicad
-  symbol_name: interface_ethernet_lan9513i
+  symbol_name: lan9513i
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

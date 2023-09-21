@@ -1,16 +1,20 @@
+id: kicad_battery_management_bq78350dbt_r1
+library: battery_management
 library_name: Battery_Management
+name: bq78350dbt_r1
 oomp:
   library_name: battery_management
-  md5: 738ab63b3ac2cd8b65edba4cdd34914e
-  md5_10: 738ab63b3a
-  md5_5: 738ab
-  md5_6: 738ab6
-  oomp_key: oomp_battery_management_bq78350dbt_r1
-  oomp_key_extra: oomp_symbol_battery_management_bq78350dbt_r1
-  oomp_key_full: oomp_symbol_battery_management_bq78350dbt_r1_738ab6
-  oomp_key_simple: battery_management_bq78350dbt_r1
+  md5: 8b7f2c121cb41834d48eeb811e7bbb52
+  md5_10: 8b7f2c121c
+  md5_5: 8b7f2
+  md5_6: 8b7f2c
+  oomp_key: oomp_bq78350dbt_r1
+  oomp_key_extra: oomp_symbol_bq78350dbt_r1
+  oomp_key_full: oomp_symbol_bq78350dbt_r1_8b7f2c
+  oomp_key_simple: bq78350dbt_r1
   owner_name: kicad
-  symbol_name: battery_management_bq78350dbt_r1
+  symbol_name: bq78350dbt_r1
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

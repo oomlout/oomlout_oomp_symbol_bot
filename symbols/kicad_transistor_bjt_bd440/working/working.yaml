@@ -1,16 +1,20 @@
+id: kicad_transistor_bjt_bd440
+library: transistor_bjt
 library_name: Transistor_BJT
+name: bd440
 oomp:
   library_name: transistor_bjt
-  md5: 91260e256b0dc0410bf75d0ec799b23c
-  md5_10: 91260e256b
-  md5_5: '91260'
-  md5_6: 91260e
-  oomp_key: oomp_transistor_bjt_bd440
-  oomp_key_extra: oomp_symbol_transistor_bjt_bd440
-  oomp_key_full: oomp_symbol_transistor_bjt_bd440_91260e
-  oomp_key_simple: transistor_bjt_bd440
+  md5: 175d3d3814fdeb2a024c140ca93fee38
+  md5_10: 175d3d3814
+  md5_5: 175d3
+  md5_6: 175d3d
+  oomp_key: oomp_bd440
+  oomp_key_extra: oomp_symbol_bd440
+  oomp_key_full: oomp_symbol_bd440_175d3d
+  oomp_key_simple: bd440
   owner_name: kicad
-  symbol_name: transistor_bjt_bd440
+  symbol_name: bd440
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

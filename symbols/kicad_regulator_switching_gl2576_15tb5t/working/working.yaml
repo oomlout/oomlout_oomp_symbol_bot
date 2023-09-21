@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_gl2576_15tb5t
+library: regulator_switching
 library_name: Regulator_Switching
+name: gl2576_15tb5t
 oomp:
   library_name: regulator_switching
-  md5: 821c7af2c4bef856f51ca620d4481ba0
-  md5_10: 821c7af2c4
-  md5_5: 821c7
-  md5_6: 821c7a
-  oomp_key: oomp_regulator_switching_gl2576_15tb5t
-  oomp_key_extra: oomp_symbol_regulator_switching_gl2576_15tb5t
-  oomp_key_full: oomp_symbol_regulator_switching_gl2576_15tb5t_821c7a
-  oomp_key_simple: regulator_switching_gl2576_15tb5t
+  md5: 61978763a5c8db09f55755612fd1c9fa
+  md5_10: 61978763a5
+  md5_5: '61978'
+  md5_6: '619787'
+  oomp_key: oomp_gl2576_15tb5t
+  oomp_key_extra: oomp_symbol_gl2576_15tb5t
+  oomp_key_full: oomp_symbol_gl2576_15tb5t_619787
+  oomp_key_simple: gl2576_15tb5t
   owner_name: kicad
-  symbol_name: regulator_switching_gl2576_15tb5t
+  symbol_name: gl2576_15tb5t
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

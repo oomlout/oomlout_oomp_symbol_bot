@@ -1,3 +1,5 @@
+id: kicad_sensor_optical_isl29035
+library: sensor_optical
 library_name: Sensor_Optical
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_optical_isl29035/working
   oomp_src_flat: symbols_flat/kicad_sensor_optical_isl29035/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_optical_isl29035/working
-name: sensor_optical_isl29035
+name: isl29035
 oomp:
   library_name: sensor_optical
-  md5: 746deb508eb1e529d075b23759dc037a
-  md5_10: 746deb508e
-  md5_5: 746de
-  md5_6: 746deb
-  oomp_key: oomp_sensor_optical_isl29035
-  oomp_key_extra: oomp_symbol_sensor_optical_isl29035
-  oomp_key_full: oomp_symbol_sensor_optical_isl29035_746deb
-  oomp_key_simple: sensor_optical_isl29035
+  md5: e2897c353d809ca67e67eb3ba8c1b4c6
+  md5_10: e2897c353d
+  md5_5: e2897
+  md5_6: e2897c
+  oomp_key: oomp_isl29035
+  oomp_key_extra: oomp_symbol_isl29035
+  oomp_key_full: oomp_symbol_isl29035_e2897c
+  oomp_key_simple: isl29035
   owner_name: kicad
-  symbol_name: sensor_optical_isl29035
+  symbol_name: isl29035
 oomp_key: oomp_kicad_sensor_optical_isl29035
 oomp_key_simple: kicad_sensor_optical_isl29035
 owner: kicad

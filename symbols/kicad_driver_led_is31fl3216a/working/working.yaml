@@ -1,16 +1,20 @@
+id: kicad_driver_led_is31fl3216a
+library: driver_led
 library_name: Driver_LED
+name: is31fl3216a
 oomp:
   library_name: driver_led
-  md5: 9bef18d2b021985a81a81865859e0f4a
-  md5_10: 9bef18d2b0
-  md5_5: 9bef1
-  md5_6: 9bef18
-  oomp_key: oomp_driver_led_is31fl3216a
-  oomp_key_extra: oomp_symbol_driver_led_is31fl3216a
-  oomp_key_full: oomp_symbol_driver_led_is31fl3216a_9bef18
-  oomp_key_simple: driver_led_is31fl3216a
+  md5: 873fbdefa7ed045a380975138a8d216e
+  md5_10: 873fbdefa7
+  md5_5: 873fb
+  md5_6: 873fbd
+  oomp_key: oomp_is31fl3216a
+  oomp_key_extra: oomp_symbol_is31fl3216a
+  oomp_key_full: oomp_symbol_is31fl3216a_873fbd
+  oomp_key_simple: is31fl3216a
   owner_name: kicad
-  symbol_name: driver_led_is31fl3216a
+  symbol_name: is31fl3216a
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

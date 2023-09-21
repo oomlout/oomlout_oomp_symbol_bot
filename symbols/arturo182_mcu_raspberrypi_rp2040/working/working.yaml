@@ -1,3 +1,5 @@
+id: arturo182_mcu_raspberrypi_rp2040
+library: mcu_raspberrypi
 library_name: MCU_RaspberryPi
 links:
   github_owner: arturo182
@@ -10,19 +12,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/arturo182_mcu_raspberrypi_rp2040/working
   oomp_src_flat: symbols_flat/arturo182_mcu_raspberrypi_rp2040/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/arturo182_mcu_raspberrypi_rp2040/working
-name: mcu_raspberrypi_rp2040
+name: rp2040
 oomp:
   library_name: mcu_raspberrypi
-  md5: 6be971b14a276d4c642da36f9d53f87e
-  md5_10: 6be971b14a
-  md5_5: 6be97
-  md5_6: 6be971
-  oomp_key: oomp_mcu_raspberrypi_rp2040
-  oomp_key_extra: oomp_symbol_mcu_raspberrypi_rp2040
-  oomp_key_full: oomp_symbol_mcu_raspberrypi_rp2040_6be971
-  oomp_key_simple: mcu_raspberrypi_rp2040
+  md5: e9141bf2792d9a53e5b26c9f4c5d5313
+  md5_10: e9141bf279
+  md5_5: e9141
+  md5_6: e9141b
+  oomp_key: oomp_rp2040
+  oomp_key_extra: oomp_symbol_rp2040
+  oomp_key_full: oomp_symbol_rp2040_e9141b
+  oomp_key_simple: rp2040
   owner_name: arturo182
-  symbol_name: mcu_raspberrypi_rp2040
+  symbol_name: rp2040
 oomp_key: oomp_arturo182_mcu_raspberrypi_rp2040
 oomp_key_simple: arturo182_mcu_raspberrypi_rp2040
 owner: arturo182

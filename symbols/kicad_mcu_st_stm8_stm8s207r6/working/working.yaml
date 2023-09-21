@@ -1,16 +1,20 @@
+id: kicad_mcu_st_stm8_stm8s207r6
+library: mcu_st_stm8
 library_name: MCU_ST_STM8
+name: stm8s207r6
 oomp:
   library_name: mcu_st_stm8
-  md5: eaf73dce4a7a783c745665edd35f31cc
-  md5_10: eaf73dce4a
-  md5_5: eaf73
-  md5_6: eaf73d
-  oomp_key: oomp_mcu_st_stm8_stm8s207r6
-  oomp_key_extra: oomp_symbol_mcu_st_stm8_stm8s207r6
-  oomp_key_full: oomp_symbol_mcu_st_stm8_stm8s207r6_eaf73d
-  oomp_key_simple: mcu_st_stm8_stm8s207r6
+  md5: 801f2b368e11d26fddf4a057b3fabb5a
+  md5_10: 801f2b368e
+  md5_5: 801f2
+  md5_6: 801f2b
+  oomp_key: oomp_stm8s207r6
+  oomp_key_extra: oomp_symbol_stm8s207r6
+  oomp_key_full: oomp_symbol_stm8s207r6_801f2b
+  oomp_key_simple: stm8s207r6
   owner_name: kicad
-  symbol_name: mcu_st_stm8_stm8s207r6
+  symbol_name: stm8s207r6
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_memory_eeprom_m24c02_rdw
+library: memory_eeprom
 library_name: Memory_EEPROM
+name: m24c02_rdw
 oomp:
   library_name: memory_eeprom
-  md5: 750f05b98c958fbd0832b66ffdb8f8f1
-  md5_10: 750f05b98c
-  md5_5: 750f0
-  md5_6: 750f05
-  oomp_key: oomp_memory_eeprom_m24c02_rdw
-  oomp_key_extra: oomp_symbol_memory_eeprom_m24c02_rdw
-  oomp_key_full: oomp_symbol_memory_eeprom_m24c02_rdw_750f05
-  oomp_key_simple: memory_eeprom_m24c02_rdw
+  md5: fdb782c7cba815bc383f8152afe2b937
+  md5_10: fdb782c7cb
+  md5_5: fdb78
+  md5_6: fdb782
+  oomp_key: oomp_m24c02_rdw
+  oomp_key_extra: oomp_symbol_m24c02_rdw
+  oomp_key_full: oomp_symbol_m24c02_rdw_fdb782
+  oomp_key_simple: m24c02_rdw
   owner_name: kicad
-  symbol_name: memory_eeprom_m24c02_rdw
+  symbol_name: m24c02_rdw
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

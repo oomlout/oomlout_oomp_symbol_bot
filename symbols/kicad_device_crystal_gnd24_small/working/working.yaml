@@ -1,3 +1,5 @@
+id: kicad_device_crystal_gnd24_small
+library: device
 library_name: Device
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_crystal_gnd24_small/working
   oomp_src_flat: symbols_flat/kicad_device_crystal_gnd24_small/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_crystal_gnd24_small/working
-name: device_crystal_gnd24_small
+name: crystal_gnd24_small
 oomp:
   library_name: device
-  md5: a86e75af980abaabd356960cbea45bec
-  md5_10: a86e75af98
-  md5_5: a86e7
-  md5_6: a86e75
-  oomp_key: oomp_device_crystal_gnd24_small
-  oomp_key_extra: oomp_symbol_device_crystal_gnd24_small
-  oomp_key_full: oomp_symbol_device_crystal_gnd24_small_a86e75
-  oomp_key_simple: device_crystal_gnd24_small
+  md5: ab03c1d7e49fc021242536a0493d890c
+  md5_10: ab03c1d7e4
+  md5_5: ab03c
+  md5_6: ab03c1
+  oomp_key: oomp_crystal_gnd24_small
+  oomp_key_extra: oomp_symbol_crystal_gnd24_small
+  oomp_key_full: oomp_symbol_crystal_gnd24_small_ab03c1
+  oomp_key_simple: crystal_gnd24_small
   owner_name: kicad
-  symbol_name: device_crystal_gnd24_small
+  symbol_name: crystal_gnd24_small
 oomp_key: oomp_kicad_device_crystal_gnd24_small
 oomp_key_simple: kicad_device_crystal_gnd24_small
 owner: kicad

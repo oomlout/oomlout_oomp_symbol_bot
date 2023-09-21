@@ -1,16 +1,20 @@
+id: kicad_mcu_st_stm32g4_stm32g474vehx
+library: mcu_st_stm32g4
 library_name: MCU_ST_STM32G4
+name: stm32g474vehx
 oomp:
   library_name: mcu_st_stm32g4
-  md5: ced71d9140de829b634a35b52f8af972
-  md5_10: ced71d9140
-  md5_5: ced71
-  md5_6: ced71d
-  oomp_key: oomp_mcu_st_stm32g4_stm32g474vehx
-  oomp_key_extra: oomp_symbol_mcu_st_stm32g4_stm32g474vehx
-  oomp_key_full: oomp_symbol_mcu_st_stm32g4_stm32g474vehx_ced71d
-  oomp_key_simple: mcu_st_stm32g4_stm32g474vehx
+  md5: 3c7b27bdd69111221cb7f22df862dd04
+  md5_10: 3c7b27bdd6
+  md5_5: 3c7b2
+  md5_6: 3c7b27
+  oomp_key: oomp_stm32g474vehx
+  oomp_key_extra: oomp_symbol_stm32g474vehx
+  oomp_key_full: oomp_symbol_stm32g474vehx_3c7b27
+  oomp_key_simple: stm32g474vehx
   owner_name: kicad
-  symbol_name: mcu_st_stm32g4_stm32g474vehx
+  symbol_name: stm32g474vehx
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

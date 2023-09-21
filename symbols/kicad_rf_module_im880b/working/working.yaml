@@ -1,16 +1,20 @@
+id: kicad_rf_module_im880b
+library: rf_module
 library_name: RF_Module
+name: im880b
 oomp:
   library_name: rf_module
-  md5: 057b950711db8c22da9d0a1a7339e8bf
-  md5_10: 057b950711
-  md5_5: 057b9
-  md5_6: 057b95
-  oomp_key: oomp_rf_module_im880b
-  oomp_key_extra: oomp_symbol_rf_module_im880b
-  oomp_key_full: oomp_symbol_rf_module_im880b_057b95
-  oomp_key_simple: rf_module_im880b
+  md5: ee86e1fa78150aab3b94581ddca450c2
+  md5_10: ee86e1fa78
+  md5_5: ee86e
+  md5_6: ee86e1
+  oomp_key: oomp_im880b
+  oomp_key_extra: oomp_symbol_im880b
+  oomp_key_full: oomp_symbol_im880b_ee86e1
+  oomp_key_simple: im880b
   owner_name: kicad
-  symbol_name: rf_module_im880b
+  symbol_name: im880b
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

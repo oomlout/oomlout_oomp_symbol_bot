@@ -1,16 +1,20 @@
+id: kicad_interface_uart_mc68a50
+library: interface_uart
 library_name: Interface_UART
+name: mc68a50
 oomp:
   library_name: interface_uart
-  md5: 9498df58fe9241f2f22c3eef8adbf98a
-  md5_10: 9498df58fe
-  md5_5: 9498d
-  md5_6: 9498df
-  oomp_key: oomp_interface_uart_mc68a50
-  oomp_key_extra: oomp_symbol_interface_uart_mc68a50
-  oomp_key_full: oomp_symbol_interface_uart_mc68a50_9498df
-  oomp_key_simple: interface_uart_mc68a50
+  md5: 14217fadb99dffb73dad877018637d73
+  md5_10: 14217fadb9
+  md5_5: '14217'
+  md5_6: 14217f
+  oomp_key: oomp_mc68a50
+  oomp_key_extra: oomp_symbol_mc68a50
+  oomp_key_full: oomp_symbol_mc68a50_14217f
+  oomp_key_simple: mc68a50
   owner_name: kicad
-  symbol_name: interface_uart_mc68a50
+  symbol_name: mc68a50
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_mcu_st_stm32l0_stm32l053r6hx
+library: mcu_st_stm32l0
 library_name: MCU_ST_STM32L0
+name: stm32l053r6hx
 oomp:
   library_name: mcu_st_stm32l0
-  md5: 51869e04a0a030e3070a9f34498821c5
-  md5_10: 51869e04a0
-  md5_5: '51869'
-  md5_6: 51869e
-  oomp_key: oomp_mcu_st_stm32l0_stm32l053r6hx
-  oomp_key_extra: oomp_symbol_mcu_st_stm32l0_stm32l053r6hx
-  oomp_key_full: oomp_symbol_mcu_st_stm32l0_stm32l053r6hx_51869e
-  oomp_key_simple: mcu_st_stm32l0_stm32l053r6hx
+  md5: 41d3ac7994669ec33dea14ae97376d7e
+  md5_10: 41d3ac7994
+  md5_5: 41d3a
+  md5_6: 41d3ac
+  oomp_key: oomp_stm32l053r6hx
+  oomp_key_extra: oomp_symbol_stm32l053r6hx
+  oomp_key_full: oomp_symbol_stm32l053r6hx_41d3ac
+  oomp_key_simple: stm32l053r6hx
   owner_name: kicad
-  symbol_name: mcu_st_stm32l0_stm32l053r6hx
+  symbol_name: stm32l053r6hx
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

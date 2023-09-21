@@ -1,16 +1,20 @@
+id: kicad_mcu_microchip_attiny_attiny13a_mm
+library: mcu_microchip_attiny
 library_name: MCU_Microchip_ATtiny
+name: attiny13a_mm
 oomp:
   library_name: mcu_microchip_attiny
-  md5: 0337c5feba78ef718b00a486070bb788
-  md5_10: 0337c5feba
-  md5_5: 0337c
-  md5_6: 0337c5
-  oomp_key: oomp_mcu_microchip_attiny_attiny13a_mm
-  oomp_key_extra: oomp_symbol_mcu_microchip_attiny_attiny13a_mm
-  oomp_key_full: oomp_symbol_mcu_microchip_attiny_attiny13a_mm_0337c5
-  oomp_key_simple: mcu_microchip_attiny_attiny13a_mm
+  md5: 414d65967ccbd49d46e39aee51f0f30e
+  md5_10: 414d65967c
+  md5_5: 414d6
+  md5_6: 414d65
+  oomp_key: oomp_attiny13a_mm
+  oomp_key_extra: oomp_symbol_attiny13a_mm
+  oomp_key_full: oomp_symbol_attiny13a_mm_414d65
+  oomp_key_simple: attiny13a_mm
   owner_name: kicad
-  symbol_name: mcu_microchip_attiny_attiny13a_mm
+  symbol_name: attiny13a_mm
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

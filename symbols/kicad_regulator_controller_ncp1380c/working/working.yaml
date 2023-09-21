@@ -1,16 +1,20 @@
+id: kicad_regulator_controller_ncp1380c
+library: regulator_controller
 library_name: Regulator_Controller
+name: ncp1380c
 oomp:
   library_name: regulator_controller
-  md5: dc0fd97d8d6b98c3f4796e3b00807bad
-  md5_10: dc0fd97d8d
-  md5_5: dc0fd
-  md5_6: dc0fd9
-  oomp_key: oomp_regulator_controller_ncp1380c
-  oomp_key_extra: oomp_symbol_regulator_controller_ncp1380c
-  oomp_key_full: oomp_symbol_regulator_controller_ncp1380c_dc0fd9
-  oomp_key_simple: regulator_controller_ncp1380c
+  md5: 102c01b88aa8100589d2a8cccc8326d6
+  md5_10: 102c01b88a
+  md5_5: 102c0
+  md5_6: 102c01
+  oomp_key: oomp_ncp1380c
+  oomp_key_extra: oomp_symbol_ncp1380c
+  oomp_key_full: oomp_symbol_ncp1380c_102c01
+  oomp_key_simple: ncp1380c
   owner_name: kicad
-  symbol_name: regulator_controller_ncp1380c
+  symbol_name: ncp1380c
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

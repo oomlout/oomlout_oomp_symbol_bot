@@ -1,16 +1,20 @@
+id: kicad_analog_adc_max1249
+library: analog_adc
 library_name: Analog_ADC
+name: max1249
 oomp:
   library_name: analog_adc
-  md5: fb15917122f592fd1cc94e7447c118b7
-  md5_10: fb15917122
-  md5_5: fb159
-  md5_6: fb1591
-  oomp_key: oomp_analog_adc_max1249
-  oomp_key_extra: oomp_symbol_analog_adc_max1249
-  oomp_key_full: oomp_symbol_analog_adc_max1249_fb1591
-  oomp_key_simple: analog_adc_max1249
+  md5: ea353889a5a9080609b19c9ee239e494
+  md5_10: ea353889a5
+  md5_5: ea353
+  md5_6: ea3538
+  oomp_key: oomp_max1249
+  oomp_key_extra: oomp_symbol_max1249
+  oomp_key_full: oomp_symbol_max1249_ea3538
+  oomp_key_simple: max1249
   owner_name: kicad
-  symbol_name: analog_adc_max1249
+  symbol_name: max1249
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

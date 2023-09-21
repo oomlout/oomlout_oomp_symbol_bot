@@ -1,16 +1,20 @@
+id: kicad_interface_uart_max3227
+library: interface_uart
 library_name: Interface_UART
+name: max3227
 oomp:
   library_name: interface_uart
-  md5: b9375fcbe5561e1f627e367f14052bd1
-  md5_10: b9375fcbe5
-  md5_5: b9375
-  md5_6: b9375f
-  oomp_key: oomp_interface_uart_max3227
-  oomp_key_extra: oomp_symbol_interface_uart_max3227
-  oomp_key_full: oomp_symbol_interface_uart_max3227_b9375f
-  oomp_key_simple: interface_uart_max3227
+  md5: c4a63135c4297bb0e75553a90f5d5746
+  md5_10: c4a63135c4
+  md5_5: c4a63
+  md5_6: c4a631
+  oomp_key: oomp_max3227
+  oomp_key_extra: oomp_symbol_max3227
+  oomp_key_full: oomp_symbol_max3227_c4a631
+  oomp_key_simple: max3227
   owner_name: kicad
-  symbol_name: interface_uart_max3227
+  symbol_name: max3227
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

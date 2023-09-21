@@ -1,3 +1,5 @@
+id: kicad_memory_eeprom_at24cs01_stum
+library: memory_eeprom
 library_name: Memory_EEPROM
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_memory_eeprom_at24cs01_stum/working
   oomp_src_flat: symbols_flat/kicad_memory_eeprom_at24cs01_stum/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_memory_eeprom_at24cs01_stum/working
-name: memory_eeprom_at24cs01_stum
+name: at24cs01_stum
 oomp:
   library_name: memory_eeprom
-  md5: c532f780d1cce9de25a818b141f38007
-  md5_10: c532f780d1
-  md5_5: c532f
-  md5_6: c532f7
-  oomp_key: oomp_memory_eeprom_at24cs01_stum
-  oomp_key_extra: oomp_symbol_memory_eeprom_at24cs01_stum
-  oomp_key_full: oomp_symbol_memory_eeprom_at24cs01_stum_c532f7
-  oomp_key_simple: memory_eeprom_at24cs01_stum
+  md5: 648a6b8cda3db03e55ab54ac8abf9478
+  md5_10: 648a6b8cda
+  md5_5: 648a6
+  md5_6: 648a6b
+  oomp_key: oomp_at24cs01_stum
+  oomp_key_extra: oomp_symbol_at24cs01_stum
+  oomp_key_full: oomp_symbol_at24cs01_stum_648a6b
+  oomp_key_simple: at24cs01_stum
   owner_name: kicad
-  symbol_name: memory_eeprom_at24cs01_stum
+  symbol_name: at24cs01_stum
 oomp_key: oomp_kicad_memory_eeprom_at24cs01_stum
 oomp_key_simple: kicad_memory_eeprom_at24cs01_stum
 owner: kicad

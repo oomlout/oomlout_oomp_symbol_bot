@@ -1,16 +1,20 @@
+id: kicad_mcu_st_stm32l4_stm32l471vgtx
+library: mcu_st_stm32l4
 library_name: MCU_ST_STM32L4
+name: stm32l471vgtx
 oomp:
   library_name: mcu_st_stm32l4
-  md5: 1f5fc8c8e038295ce0d2dbfa52245fa0
-  md5_10: 1f5fc8c8e0
-  md5_5: 1f5fc
-  md5_6: 1f5fc8
-  oomp_key: oomp_mcu_st_stm32l4_stm32l471vgtx
-  oomp_key_extra: oomp_symbol_mcu_st_stm32l4_stm32l471vgtx
-  oomp_key_full: oomp_symbol_mcu_st_stm32l4_stm32l471vgtx_1f5fc8
-  oomp_key_simple: mcu_st_stm32l4_stm32l471vgtx
+  md5: b4ef8920801ea3bf1b37b2e34cd69264
+  md5_10: b4ef892080
+  md5_5: b4ef8
+  md5_6: b4ef89
+  oomp_key: oomp_stm32l471vgtx
+  oomp_key_extra: oomp_symbol_stm32l471vgtx
+  oomp_key_full: oomp_symbol_stm32l471vgtx_b4ef89
+  oomp_key_simple: stm32l471vgtx
   owner_name: kicad
-  symbol_name: mcu_st_stm32l4_stm32l471vgtx
+  symbol_name: stm32l471vgtx
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

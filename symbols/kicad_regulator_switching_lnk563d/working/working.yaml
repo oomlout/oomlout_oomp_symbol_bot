@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_lnk563d
+library: regulator_switching
 library_name: Regulator_Switching
+name: lnk563d
 oomp:
   library_name: regulator_switching
-  md5: 3f4758fba4f10e240f745b9adea7622c
-  md5_10: 3f4758fba4
-  md5_5: 3f475
-  md5_6: 3f4758
-  oomp_key: oomp_regulator_switching_lnk563d
-  oomp_key_extra: oomp_symbol_regulator_switching_lnk563d
-  oomp_key_full: oomp_symbol_regulator_switching_lnk563d_3f4758
-  oomp_key_simple: regulator_switching_lnk563d
+  md5: 6fc91ba4228d747cce5b03b42cba417a
+  md5_10: 6fc91ba422
+  md5_5: 6fc91
+  md5_6: 6fc91b
+  oomp_key: oomp_lnk563d
+  oomp_key_extra: oomp_symbol_lnk563d
+  oomp_key_full: oomp_symbol_lnk563d_6fc91b
+  oomp_key_simple: lnk563d
   owner_name: kicad
-  symbol_name: regulator_switching_lnk563d
+  symbol_name: lnk563d
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

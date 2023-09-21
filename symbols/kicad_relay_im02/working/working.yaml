@@ -1,16 +1,20 @@
+id: kicad_relay_im02
+library: relay
 library_name: Relay
+name: im02
 oomp:
   library_name: relay
-  md5: 2c1761bf789119adbb006c9536a68633
-  md5_10: 2c1761bf78
-  md5_5: 2c176
-  md5_6: 2c1761
-  oomp_key: oomp_relay_im02
-  oomp_key_extra: oomp_symbol_relay_im02
-  oomp_key_full: oomp_symbol_relay_im02_2c1761
-  oomp_key_simple: relay_im02
+  md5: 7138f434f682657f7c006d0177c9482b
+  md5_10: 7138f434f6
+  md5_5: 7138f
+  md5_6: 7138f4
+  oomp_key: oomp_im02
+  oomp_key_extra: oomp_symbol_im02
+  oomp_key_full: oomp_symbol_im02_7138f4
+  oomp_key_simple: im02
   owner_name: kicad
-  symbol_name: relay_im02
+  symbol_name: im02
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

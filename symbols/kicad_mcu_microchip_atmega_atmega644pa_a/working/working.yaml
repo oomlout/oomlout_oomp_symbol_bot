@@ -1,16 +1,20 @@
+id: kicad_mcu_microchip_atmega_atmega644pa_a
+library: mcu_microchip_atmega
 library_name: MCU_Microchip_ATmega
+name: atmega644pa_a
 oomp:
   library_name: mcu_microchip_atmega
-  md5: cd43ba742a1eb63e4904217c1fb57cd4
-  md5_10: cd43ba742a
-  md5_5: cd43b
-  md5_6: cd43ba
-  oomp_key: oomp_mcu_microchip_atmega_atmega644pa_a
-  oomp_key_extra: oomp_symbol_mcu_microchip_atmega_atmega644pa_a
-  oomp_key_full: oomp_symbol_mcu_microchip_atmega_atmega644pa_a_cd43ba
-  oomp_key_simple: mcu_microchip_atmega_atmega644pa_a
+  md5: 47adf99da1d11b9bf777150fb8d5b1e6
+  md5_10: 47adf99da1
+  md5_5: 47adf
+  md5_6: 47adf9
+  oomp_key: oomp_atmega644pa_a
+  oomp_key_extra: oomp_symbol_atmega644pa_a
+  oomp_key_full: oomp_symbol_atmega644pa_a_47adf9
+  oomp_key_simple: atmega644pa_a
   owner_name: kicad
-  symbol_name: mcu_microchip_atmega_atmega644pa_a
+  symbol_name: atmega644pa_a
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

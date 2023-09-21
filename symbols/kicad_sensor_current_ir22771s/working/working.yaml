@@ -1,16 +1,20 @@
+id: kicad_sensor_current_ir22771s
+library: sensor_current
 library_name: Sensor_Current
+name: ir22771s
 oomp:
   library_name: sensor_current
-  md5: 0b70aad288c5cd10975ce33ed74f2798
-  md5_10: 0b70aad288
-  md5_5: 0b70a
-  md5_6: 0b70aa
-  oomp_key: oomp_sensor_current_ir22771s
-  oomp_key_extra: oomp_symbol_sensor_current_ir22771s
-  oomp_key_full: oomp_symbol_sensor_current_ir22771s_0b70aa
-  oomp_key_simple: sensor_current_ir22771s
+  md5: 9575a178bb65a48f49262fdcd5576b4c
+  md5_10: 9575a178bb
+  md5_5: 9575a
+  md5_6: 9575a1
+  oomp_key: oomp_ir22771s
+  oomp_key_extra: oomp_symbol_ir22771s
+  oomp_key_full: oomp_symbol_ir22771s_9575a1
+  oomp_key_simple: ir22771s
   owner_name: kicad
-  symbol_name: sensor_current_ir22771s
+  symbol_name: ir22771s
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

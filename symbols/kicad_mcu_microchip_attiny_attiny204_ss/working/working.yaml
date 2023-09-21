@@ -1,3 +1,5 @@
+id: kicad_mcu_microchip_attiny_attiny204_ss
+library: mcu_microchip_attiny
 library_name: MCU_Microchip_ATtiny
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_microchip_attiny_attiny204_ss/working
   oomp_src_flat: symbols_flat/kicad_mcu_microchip_attiny_attiny204_ss/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_microchip_attiny_attiny204_ss/working
-name: mcu_microchip_attiny_attiny204_ss
+name: attiny204_ss
 oomp:
   library_name: mcu_microchip_attiny
-  md5: 0b92d2d0a195e3889bae873d6e056018
-  md5_10: 0b92d2d0a1
-  md5_5: 0b92d
-  md5_6: 0b92d2
-  oomp_key: oomp_mcu_microchip_attiny_attiny204_ss
-  oomp_key_extra: oomp_symbol_mcu_microchip_attiny_attiny204_ss
-  oomp_key_full: oomp_symbol_mcu_microchip_attiny_attiny204_ss_0b92d2
-  oomp_key_simple: mcu_microchip_attiny_attiny204_ss
+  md5: 326ba6f9a1c063b46e83ab15b5f0f304
+  md5_10: 326ba6f9a1
+  md5_5: 326ba
+  md5_6: 326ba6
+  oomp_key: oomp_attiny204_ss
+  oomp_key_extra: oomp_symbol_attiny204_ss
+  oomp_key_full: oomp_symbol_attiny204_ss_326ba6
+  oomp_key_simple: attiny204_ss
   owner_name: kicad
-  symbol_name: mcu_microchip_attiny_attiny204_ss
+  symbol_name: attiny204_ss
 oomp_key: oomp_kicad_mcu_microchip_attiny_attiny204_ss
 oomp_key_simple: kicad_mcu_microchip_attiny_attiny204_ss
 owner: kicad

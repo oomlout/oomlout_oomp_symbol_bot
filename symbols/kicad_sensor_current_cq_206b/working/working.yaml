@@ -1,16 +1,20 @@
+id: kicad_sensor_current_cq_206b
+library: sensor_current
 library_name: Sensor_Current
+name: cq_206b
 oomp:
   library_name: sensor_current
-  md5: fd51702ac36797f463a2d111f9a12515
-  md5_10: fd51702ac3
-  md5_5: fd517
-  md5_6: fd5170
-  oomp_key: oomp_sensor_current_cq_206b
-  oomp_key_extra: oomp_symbol_sensor_current_cq_206b
-  oomp_key_full: oomp_symbol_sensor_current_cq_206b_fd5170
-  oomp_key_simple: sensor_current_cq_206b
+  md5: cc058b86d6ac0e09ca4fdfd3a51025ba
+  md5_10: cc058b86d6
+  md5_5: cc058
+  md5_6: cc058b
+  oomp_key: oomp_cq_206b
+  oomp_key_extra: oomp_symbol_cq_206b
+  oomp_key_full: oomp_symbol_cq_206b_cc058b
+  oomp_key_simple: cq_206b
   owner_name: kicad
-  symbol_name: sensor_current_cq_206b
+  symbol_name: cq_206b
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

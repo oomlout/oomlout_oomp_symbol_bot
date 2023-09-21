@@ -1,16 +1,20 @@
+id: kicad_relay_fujitsu_ftr_lyca005x
+library: relay
 library_name: Relay
+name: fujitsu_ftr_lyca005x
 oomp:
   library_name: relay
-  md5: 3001a145fb5655a8ab7b5ead22474c05
-  md5_10: 3001a145fb
-  md5_5: 3001a
-  md5_6: 3001a1
-  oomp_key: oomp_relay_fujitsu_ftr_lyca005x
-  oomp_key_extra: oomp_symbol_relay_fujitsu_ftr_lyca005x
-  oomp_key_full: oomp_symbol_relay_fujitsu_ftr_lyca005x_3001a1
-  oomp_key_simple: relay_fujitsu_ftr_lyca005x
+  md5: 435ff18562f13686ad3b4ad2ef0a2e65
+  md5_10: 435ff18562
+  md5_5: 435ff
+  md5_6: 435ff1
+  oomp_key: oomp_fujitsu_ftr_lyca005x
+  oomp_key_extra: oomp_symbol_fujitsu_ftr_lyca005x
+  oomp_key_full: oomp_symbol_fujitsu_ftr_lyca005x_435ff1
+  oomp_key_simple: fujitsu_ftr_lyca005x
   owner_name: kicad
-  symbol_name: relay_fujitsu_ftr_lyca005x
+  symbol_name: fujitsu_ftr_lyca005x
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

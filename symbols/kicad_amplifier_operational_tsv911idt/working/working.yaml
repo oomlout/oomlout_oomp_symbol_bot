@@ -1,16 +1,20 @@
+id: kicad_amplifier_operational_tsv911idt
+library: amplifier_operational
 library_name: Amplifier_Operational
+name: tsv911idt
 oomp:
   library_name: amplifier_operational
-  md5: a72eee3bb1bd5ca362ab344919838788
-  md5_10: a72eee3bb1
-  md5_5: a72ee
-  md5_6: a72eee
-  oomp_key: oomp_amplifier_operational_tsv911idt
-  oomp_key_extra: oomp_symbol_amplifier_operational_tsv911idt
-  oomp_key_full: oomp_symbol_amplifier_operational_tsv911idt_a72eee
-  oomp_key_simple: amplifier_operational_tsv911idt
+  md5: 1c39269d0482e3a4ed3a2b616de70aaa
+  md5_10: 1c39269d04
+  md5_5: 1c392
+  md5_6: 1c3926
+  oomp_key: oomp_tsv911idt
+  oomp_key_extra: oomp_symbol_tsv911idt
+  oomp_key_full: oomp_symbol_tsv911idt_1c3926
+  oomp_key_simple: tsv911idt
   owner_name: kicad
-  symbol_name: amplifier_operational_tsv911idt
+  symbol_name: tsv911idt
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

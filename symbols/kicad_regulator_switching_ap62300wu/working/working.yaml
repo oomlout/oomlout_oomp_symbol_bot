@@ -1,3 +1,5 @@
+id: kicad_regulator_switching_ap62300wu
+library: regulator_switching
 library_name: Regulator_Switching
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_ap62300wu/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_ap62300wu/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_ap62300wu/working
-name: regulator_switching_ap62300wu
+name: ap62300wu
 oomp:
   library_name: regulator_switching
-  md5: 145c4eac92c213dea6fe9831df5118ca
-  md5_10: 145c4eac92
-  md5_5: 145c4
-  md5_6: 145c4e
-  oomp_key: oomp_regulator_switching_ap62300wu
-  oomp_key_extra: oomp_symbol_regulator_switching_ap62300wu
-  oomp_key_full: oomp_symbol_regulator_switching_ap62300wu_145c4e
-  oomp_key_simple: regulator_switching_ap62300wu
+  md5: fc3cd60a4e644f00098840c5698f51fd
+  md5_10: fc3cd60a4e
+  md5_5: fc3cd
+  md5_6: fc3cd6
+  oomp_key: oomp_ap62300wu
+  oomp_key_extra: oomp_symbol_ap62300wu
+  oomp_key_full: oomp_symbol_ap62300wu_fc3cd6
+  oomp_key_simple: ap62300wu
   owner_name: kicad
-  symbol_name: regulator_switching_ap62300wu
+  symbol_name: ap62300wu
 oomp_key: oomp_kicad_regulator_switching_ap62300wu
 oomp_key_simple: kicad_regulator_switching_ap62300wu
 owner: kicad

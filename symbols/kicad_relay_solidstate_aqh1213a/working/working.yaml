@@ -1,16 +1,20 @@
+id: kicad_relay_solidstate_aqh1213a
+library: relay_solidstate
 library_name: Relay_SolidState
+name: aqh1213a
 oomp:
   library_name: relay_solidstate
-  md5: 51aef4ca113d1c149aacf4636bf450b3
-  md5_10: 51aef4ca11
-  md5_5: 51aef
-  md5_6: 51aef4
-  oomp_key: oomp_relay_solidstate_aqh1213a
-  oomp_key_extra: oomp_symbol_relay_solidstate_aqh1213a
-  oomp_key_full: oomp_symbol_relay_solidstate_aqh1213a_51aef4
-  oomp_key_simple: relay_solidstate_aqh1213a
+  md5: dbd5433198302550ef281037a01276a3
+  md5_10: dbd5433198
+  md5_5: dbd54
+  md5_6: dbd543
+  oomp_key: oomp_aqh1213a
+  oomp_key_extra: oomp_symbol_aqh1213a
+  oomp_key_full: oomp_symbol_aqh1213a_dbd543
+  oomp_key_simple: aqh1213a
   owner_name: kicad
-  symbol_name: relay_solidstate_aqh1213a
+  symbol_name: aqh1213a
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

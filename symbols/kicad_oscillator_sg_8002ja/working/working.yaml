@@ -1,3 +1,5 @@
+id: kicad_oscillator_sg_8002ja
+library: oscillator
 library_name: Oscillator
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_oscillator_sg_8002ja/working
   oomp_src_flat: symbols_flat/kicad_oscillator_sg_8002ja/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_oscillator_sg_8002ja/working
-name: oscillator_sg_8002ja
+name: sg_8002ja
 oomp:
   library_name: oscillator
-  md5: 8fdb0f16dd2edb3d16903bde63f79dde
-  md5_10: 8fdb0f16dd
-  md5_5: 8fdb0
-  md5_6: 8fdb0f
-  oomp_key: oomp_oscillator_sg_8002ja
-  oomp_key_extra: oomp_symbol_oscillator_sg_8002ja
-  oomp_key_full: oomp_symbol_oscillator_sg_8002ja_8fdb0f
-  oomp_key_simple: oscillator_sg_8002ja
+  md5: 496efb8f4444380008fe1f120fb2ac8c
+  md5_10: 496efb8f44
+  md5_5: 496ef
+  md5_6: 496efb
+  oomp_key: oomp_sg_8002ja
+  oomp_key_extra: oomp_symbol_sg_8002ja
+  oomp_key_full: oomp_symbol_sg_8002ja_496efb
+  oomp_key_simple: sg_8002ja
   owner_name: kicad
-  symbol_name: oscillator_sg_8002ja
+  symbol_name: sg_8002ja
 oomp_key: oomp_kicad_oscillator_sg_8002ja
 oomp_key_simple: kicad_oscillator_sg_8002ja
 owner: kicad

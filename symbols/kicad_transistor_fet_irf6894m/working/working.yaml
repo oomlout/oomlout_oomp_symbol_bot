@@ -1,16 +1,20 @@
+id: kicad_transistor_fet_irf6894m
+library: transistor_fet
 library_name: Transistor_FET
+name: irf6894m
 oomp:
   library_name: transistor_fet
-  md5: d9cd3340677d702919dd63220cf48b79
-  md5_10: d9cd334067
-  md5_5: d9cd3
-  md5_6: d9cd33
-  oomp_key: oomp_transistor_fet_irf6894m
-  oomp_key_extra: oomp_symbol_transistor_fet_irf6894m
-  oomp_key_full: oomp_symbol_transistor_fet_irf6894m_d9cd33
-  oomp_key_simple: transistor_fet_irf6894m
+  md5: 2c8ca59e20b2ad1538bedc0f3ebedf4b
+  md5_10: 2c8ca59e20
+  md5_5: 2c8ca
+  md5_6: 2c8ca5
+  oomp_key: oomp_irf6894m
+  oomp_key_extra: oomp_symbol_irf6894m
+  oomp_key_full: oomp_symbol_irf6894m_2c8ca5
+  oomp_key_simple: irf6894m
   owner_name: kicad
-  symbol_name: transistor_fet_irf6894m
+  symbol_name: irf6894m
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

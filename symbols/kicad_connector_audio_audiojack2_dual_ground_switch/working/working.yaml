@@ -1,3 +1,5 @@
+id: kicad_connector_audio_audiojack2_dual_ground_switch
+library: connector_audio
 library_name: Connector_Audio
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_audio_audiojack2_dual_ground_switch/working
   oomp_src_flat: symbols_flat/kicad_connector_audio_audiojack2_dual_ground_switch/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_audio_audiojack2_dual_ground_switch/working
-name: connector_audio_audiojack2_dual_ground_switch
+name: audiojack2_dual_ground_switch
 oomp:
   library_name: connector_audio
-  md5: 78567e130bca129167460ab949278eb5
-  md5_10: 78567e130b
-  md5_5: '78567'
-  md5_6: 78567e
-  oomp_key: oomp_connector_audio_audiojack2_dual_ground_switch
-  oomp_key_extra: oomp_symbol_connector_audio_audiojack2_dual_ground_switch
-  oomp_key_full: oomp_symbol_connector_audio_audiojack2_dual_ground_switch_78567e
-  oomp_key_simple: connector_audio_audiojack2_dual_ground_switch
+  md5: 6e7ddceec69a930a00e59304ccbba9d6
+  md5_10: 6e7ddceec6
+  md5_5: 6e7dd
+  md5_6: 6e7ddc
+  oomp_key: oomp_audiojack2_dual_ground_switch
+  oomp_key_extra: oomp_symbol_audiojack2_dual_ground_switch
+  oomp_key_full: oomp_symbol_audiojack2_dual_ground_switch_6e7ddc
+  oomp_key_simple: audiojack2_dual_ground_switch
   owner_name: kicad
-  symbol_name: connector_audio_audiojack2_dual_ground_switch
+  symbol_name: audiojack2_dual_ground_switch
 oomp_key: oomp_kicad_connector_audio_audiojack2_dual_ground_switch
 oomp_key_simple: kicad_connector_audio_audiojack2_dual_ground_switch
 owner: kicad

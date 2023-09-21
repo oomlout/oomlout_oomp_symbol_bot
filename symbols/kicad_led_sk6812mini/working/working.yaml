@@ -1,3 +1,5 @@
+id: kicad_led_sk6812mini
+library: led
 library_name: LED
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_led_sk6812mini/working
   oomp_src_flat: symbols_flat/kicad_led_sk6812mini/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_led_sk6812mini/working
-name: led_sk6812mini
+name: sk6812mini
 oomp:
   library_name: led
-  md5: 88489a3af99350e6abbc0f76ba5418ae
-  md5_10: 88489a3af9
-  md5_5: '88489'
-  md5_6: 88489a
-  oomp_key: oomp_led_sk6812mini
-  oomp_key_extra: oomp_symbol_led_sk6812mini
-  oomp_key_full: oomp_symbol_led_sk6812mini_88489a
-  oomp_key_simple: led_sk6812mini
+  md5: 1ebc4e25736fc3445605adf7ea41cd90
+  md5_10: 1ebc4e2573
+  md5_5: 1ebc4
+  md5_6: 1ebc4e
+  oomp_key: oomp_sk6812mini
+  oomp_key_extra: oomp_symbol_sk6812mini
+  oomp_key_full: oomp_symbol_sk6812mini_1ebc4e
+  oomp_key_simple: sk6812mini
   owner_name: kicad
-  symbol_name: led_sk6812mini
+  symbol_name: sk6812mini
 oomp_key: oomp_kicad_led_sk6812mini
 oomp_key_simple: kicad_led_sk6812mini
 owner: kicad

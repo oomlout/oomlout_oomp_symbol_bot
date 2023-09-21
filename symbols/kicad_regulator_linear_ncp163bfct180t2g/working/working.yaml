@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_ncp163bfct180t2g
+library: regulator_linear
 library_name: Regulator_Linear
+name: ncp163bfct180t2g
 oomp:
   library_name: regulator_linear
-  md5: bebce96688e5947ee9274da323078cbc
-  md5_10: bebce96688
-  md5_5: bebce
-  md5_6: bebce9
-  oomp_key: oomp_regulator_linear_ncp163bfct180t2g
-  oomp_key_extra: oomp_symbol_regulator_linear_ncp163bfct180t2g
-  oomp_key_full: oomp_symbol_regulator_linear_ncp163bfct180t2g_bebce9
-  oomp_key_simple: regulator_linear_ncp163bfct180t2g
+  md5: 2b03af9cc8545bd82720ea85acd9a53d
+  md5_10: 2b03af9cc8
+  md5_5: 2b03a
+  md5_6: 2b03af
+  oomp_key: oomp_ncp163bfct180t2g
+  oomp_key_extra: oomp_symbol_ncp163bfct180t2g
+  oomp_key_full: oomp_symbol_ncp163bfct180t2g_2b03af
+  oomp_key_simple: ncp163bfct180t2g
   owner_name: kicad
-  symbol_name: regulator_linear_ncp163bfct180t2g
+  symbol_name: ncp163bfct180t2g
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

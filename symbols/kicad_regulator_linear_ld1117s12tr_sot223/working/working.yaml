@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_ld1117s12tr_sot223
+library: regulator_linear
 library_name: Regulator_Linear
+name: ld1117s12tr_sot223
 oomp:
   library_name: regulator_linear
-  md5: 406ee657fa1fa227709706527e7a0c84
-  md5_10: 406ee657fa
-  md5_5: 406ee
-  md5_6: 406ee6
-  oomp_key: oomp_regulator_linear_ld1117s12tr_sot223
-  oomp_key_extra: oomp_symbol_regulator_linear_ld1117s12tr_sot223
-  oomp_key_full: oomp_symbol_regulator_linear_ld1117s12tr_sot223_406ee6
-  oomp_key_simple: regulator_linear_ld1117s12tr_sot223
+  md5: 7e1197fe251a44f49b12440abc95dd99
+  md5_10: 7e1197fe25
+  md5_5: 7e119
+  md5_6: 7e1197
+  oomp_key: oomp_ld1117s12tr_sot223
+  oomp_key_extra: oomp_symbol_ld1117s12tr_sot223
+  oomp_key_full: oomp_symbol_ld1117s12tr_sot223_7e1197
+  oomp_key_simple: ld1117s12tr_sot223
   owner_name: kicad
-  symbol_name: regulator_linear_ld1117s12tr_sot223
+  symbol_name: ld1117s12tr_sot223
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

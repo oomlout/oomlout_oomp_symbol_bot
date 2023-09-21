@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_lnk410eg
+library: regulator_switching
 library_name: Regulator_Switching
+name: lnk410eg
 oomp:
   library_name: regulator_switching
-  md5: 6bbd3232ae267c9149145d98b8eb1da9
-  md5_10: 6bbd3232ae
-  md5_5: 6bbd3
-  md5_6: 6bbd32
-  oomp_key: oomp_regulator_switching_lnk410eg
-  oomp_key_extra: oomp_symbol_regulator_switching_lnk410eg
-  oomp_key_full: oomp_symbol_regulator_switching_lnk410eg_6bbd32
-  oomp_key_simple: regulator_switching_lnk410eg
+  md5: e1eb0f5548cbe51b59ba756d39ab3cdf
+  md5_10: e1eb0f5548
+  md5_5: e1eb0
+  md5_6: e1eb0f
+  oomp_key: oomp_lnk410eg
+  oomp_key_extra: oomp_symbol_lnk410eg
+  oomp_key_full: oomp_symbol_lnk410eg_e1eb0f
+  oomp_key_simple: lnk410eg
   owner_name: kicad
-  symbol_name: regulator_switching_lnk410eg
+  symbol_name: lnk410eg
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

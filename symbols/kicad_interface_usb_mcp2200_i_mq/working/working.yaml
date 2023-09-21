@@ -1,3 +1,5 @@
+id: kicad_interface_usb_mcp2200_i_mq
+library: interface_usb
 library_name: Interface_USB
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_usb_mcp2200_i_mq/working
   oomp_src_flat: symbols_flat/kicad_interface_usb_mcp2200_i_mq/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_usb_mcp2200_i_mq/working
-name: interface_usb_mcp2200_i_mq
+name: mcp2200_i_mq
 oomp:
   library_name: interface_usb
-  md5: 055dd59901283e3de4ad165cdb1e774c
-  md5_10: 055dd59901
-  md5_5: 055dd
-  md5_6: 055dd5
-  oomp_key: oomp_interface_usb_mcp2200_i_mq
-  oomp_key_extra: oomp_symbol_interface_usb_mcp2200_i_mq
-  oomp_key_full: oomp_symbol_interface_usb_mcp2200_i_mq_055dd5
-  oomp_key_simple: interface_usb_mcp2200_i_mq
+  md5: a9a21edf55610275c5ddf98022ceee72
+  md5_10: a9a21edf55
+  md5_5: a9a21
+  md5_6: a9a21e
+  oomp_key: oomp_mcp2200_i_mq
+  oomp_key_extra: oomp_symbol_mcp2200_i_mq
+  oomp_key_full: oomp_symbol_mcp2200_i_mq_a9a21e
+  oomp_key_simple: mcp2200_i_mq
   owner_name: kicad
-  symbol_name: interface_usb_mcp2200_i_mq
+  symbol_name: mcp2200_i_mq
 oomp_key: oomp_kicad_interface_usb_mcp2200_i_mq
 oomp_key_simple: kicad_interface_usb_mcp2200_i_mq
 owner: kicad

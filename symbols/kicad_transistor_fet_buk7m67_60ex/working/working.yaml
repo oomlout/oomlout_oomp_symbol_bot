@@ -1,16 +1,20 @@
+id: kicad_transistor_fet_buk7m67_60ex
+library: transistor_fet
 library_name: Transistor_FET
+name: buk7m67_60ex
 oomp:
   library_name: transistor_fet
-  md5: fbfd35473d62a0d11ec5bf34d4eaf672
-  md5_10: fbfd35473d
-  md5_5: fbfd3
-  md5_6: fbfd35
-  oomp_key: oomp_transistor_fet_buk7m67_60ex
-  oomp_key_extra: oomp_symbol_transistor_fet_buk7m67_60ex
-  oomp_key_full: oomp_symbol_transistor_fet_buk7m67_60ex_fbfd35
-  oomp_key_simple: transistor_fet_buk7m67_60ex
+  md5: e12dcbf48276e9a10306a64b3a67a2ac
+  md5_10: e12dcbf482
+  md5_5: e12dc
+  md5_6: e12dcb
+  oomp_key: oomp_buk7m67_60ex
+  oomp_key_extra: oomp_symbol_buk7m67_60ex
+  oomp_key_full: oomp_symbol_buk7m67_60ex_e12dcb
+  oomp_key_simple: buk7m67_60ex
   owner_name: kicad
-  symbol_name: transistor_fet_buk7m67_60ex
+  symbol_name: buk7m67_60ex
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

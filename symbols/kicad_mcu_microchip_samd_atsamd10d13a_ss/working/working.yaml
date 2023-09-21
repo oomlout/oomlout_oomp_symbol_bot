@@ -1,3 +1,5 @@
+id: kicad_mcu_microchip_samd_atsamd10d13a_ss
+library: mcu_microchip_samd
 library_name: MCU_Microchip_SAMD
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_microchip_samd_atsamd10d13a_ss/working
   oomp_src_flat: symbols_flat/kicad_mcu_microchip_samd_atsamd10d13a_ss/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_microchip_samd_atsamd10d13a_ss/working
-name: mcu_microchip_samd_atsamd10d13a_ss
+name: atsamd10d13a_ss
 oomp:
   library_name: mcu_microchip_samd
-  md5: 0feeda2f6c77778830a7ae91c8162f36
-  md5_10: 0feeda2f6c
-  md5_5: 0feed
-  md5_6: 0feeda
-  oomp_key: oomp_mcu_microchip_samd_atsamd10d13a_ss
-  oomp_key_extra: oomp_symbol_mcu_microchip_samd_atsamd10d13a_ss
-  oomp_key_full: oomp_symbol_mcu_microchip_samd_atsamd10d13a_ss_0feeda
-  oomp_key_simple: mcu_microchip_samd_atsamd10d13a_ss
+  md5: e59163ba63156e26f0b8655eb3014cec
+  md5_10: e59163ba63
+  md5_5: e5916
+  md5_6: e59163
+  oomp_key: oomp_atsamd10d13a_ss
+  oomp_key_extra: oomp_symbol_atsamd10d13a_ss
+  oomp_key_full: oomp_symbol_atsamd10d13a_ss_e59163
+  oomp_key_simple: atsamd10d13a_ss
   owner_name: kicad
-  symbol_name: mcu_microchip_samd_atsamd10d13a_ss
+  symbol_name: atsamd10d13a_ss
 oomp_key: oomp_kicad_mcu_microchip_samd_atsamd10d13a_ss
 oomp_key_simple: kicad_mcu_microchip_samd_atsamd10d13a_ss
 owner: kicad

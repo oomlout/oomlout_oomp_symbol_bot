@@ -1,3 +1,5 @@
+id: kicad_memory_eeprom_at24cs16_xhm
+library: memory_eeprom
 library_name: Memory_EEPROM
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_memory_eeprom_at24cs16_xhm/working
   oomp_src_flat: symbols_flat/kicad_memory_eeprom_at24cs16_xhm/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_memory_eeprom_at24cs16_xhm/working
-name: memory_eeprom_at24cs16_xhm
+name: at24cs16_xhm
 oomp:
   library_name: memory_eeprom
-  md5: a59854089b3609164e90873db1f295e9
-  md5_10: a59854089b
-  md5_5: a5985
-  md5_6: a59854
-  oomp_key: oomp_memory_eeprom_at24cs16_xhm
-  oomp_key_extra: oomp_symbol_memory_eeprom_at24cs16_xhm
-  oomp_key_full: oomp_symbol_memory_eeprom_at24cs16_xhm_a59854
-  oomp_key_simple: memory_eeprom_at24cs16_xhm
+  md5: 626daa06d5a2f152b9c9d70283b36de2
+  md5_10: 626daa06d5
+  md5_5: 626da
+  md5_6: 626daa
+  oomp_key: oomp_at24cs16_xhm
+  oomp_key_extra: oomp_symbol_at24cs16_xhm
+  oomp_key_full: oomp_symbol_at24cs16_xhm_626daa
+  oomp_key_simple: at24cs16_xhm
   owner_name: kicad
-  symbol_name: memory_eeprom_at24cs16_xhm
+  symbol_name: at24cs16_xhm
 oomp_key: oomp_kicad_memory_eeprom_at24cs16_xhm
 oomp_key_simple: kicad_memory_eeprom_at24cs16_xhm
 owner: kicad

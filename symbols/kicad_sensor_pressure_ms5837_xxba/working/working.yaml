@@ -1,3 +1,5 @@
+id: kicad_sensor_pressure_ms5837_xxba
+library: sensor_pressure
 library_name: Sensor_Pressure
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_pressure_ms5837_xxba/working
   oomp_src_flat: symbols_flat/kicad_sensor_pressure_ms5837_xxba/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_pressure_ms5837_xxba/working
-name: sensor_pressure_ms5837_xxba
+name: ms5837_xxba
 oomp:
   library_name: sensor_pressure
-  md5: 13cd6bf6226d1afbad2114144539e698
-  md5_10: 13cd6bf622
-  md5_5: 13cd6
-  md5_6: 13cd6b
-  oomp_key: oomp_sensor_pressure_ms5837_xxba
-  oomp_key_extra: oomp_symbol_sensor_pressure_ms5837_xxba
-  oomp_key_full: oomp_symbol_sensor_pressure_ms5837_xxba_13cd6b
-  oomp_key_simple: sensor_pressure_ms5837_xxba
+  md5: 8c227d802296c5c2bababf22b75c1a90
+  md5_10: 8c227d8022
+  md5_5: 8c227
+  md5_6: 8c227d
+  oomp_key: oomp_ms5837_xxba
+  oomp_key_extra: oomp_symbol_ms5837_xxba
+  oomp_key_full: oomp_symbol_ms5837_xxba_8c227d
+  oomp_key_simple: ms5837_xxba
   owner_name: kicad
-  symbol_name: sensor_pressure_ms5837_xxba
+  symbol_name: ms5837_xxba
 oomp_key: oomp_kicad_sensor_pressure_ms5837_xxba
 oomp_key_simple: kicad_sensor_pressure_ms5837_xxba
 owner: kicad

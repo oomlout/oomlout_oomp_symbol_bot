@@ -1,16 +1,20 @@
+id: kicad_audio_that1583
+library: audio
 library_name: Audio
+name: that1583
 oomp:
   library_name: audio
-  md5: bd3d0dadc5ec745a57083951edba0b13
-  md5_10: bd3d0dadc5
-  md5_5: bd3d0
-  md5_6: bd3d0d
-  oomp_key: oomp_audio_that1583
-  oomp_key_extra: oomp_symbol_audio_that1583
-  oomp_key_full: oomp_symbol_audio_that1583_bd3d0d
-  oomp_key_simple: audio_that1583
+  md5: a654b060c6da4d318f2a09a86e54361d
+  md5_10: a654b060c6
+  md5_5: a654b
+  md5_6: a654b0
+  oomp_key: oomp_that1583
+  oomp_key_extra: oomp_symbol_that1583
+  oomp_key_full: oomp_symbol_that1583_a654b0
+  oomp_key_simple: that1583
   owner_name: kicad
-  symbol_name: audio_that1583
+  symbol_name: that1583
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

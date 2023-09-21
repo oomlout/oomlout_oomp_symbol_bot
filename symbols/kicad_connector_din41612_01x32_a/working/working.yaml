@@ -1,3 +1,5 @@
+id: kicad_connector_din41612_01x32_a
+library: connector
 library_name: Connector
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_din41612_01x32_a/working
   oomp_src_flat: symbols_flat/kicad_connector_din41612_01x32_a/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_din41612_01x32_a/working
-name: connector_din41612_01x32_a
+name: din41612_01x32_a
 oomp:
   library_name: connector
-  md5: f2a305dd1c1c9271b4473040193ba8b4
-  md5_10: f2a305dd1c
-  md5_5: f2a30
-  md5_6: f2a305
-  oomp_key: oomp_connector_din41612_01x32_a
-  oomp_key_extra: oomp_symbol_connector_din41612_01x32_a
-  oomp_key_full: oomp_symbol_connector_din41612_01x32_a_f2a305
-  oomp_key_simple: connector_din41612_01x32_a
+  md5: 7fec34d7f4c6eaad1eeb7444406b87d2
+  md5_10: 7fec34d7f4
+  md5_5: 7fec3
+  md5_6: 7fec34
+  oomp_key: oomp_din41612_01x32_a
+  oomp_key_extra: oomp_symbol_din41612_01x32_a
+  oomp_key_full: oomp_symbol_din41612_01x32_a_7fec34
+  oomp_key_simple: din41612_01x32_a
   owner_name: kicad
-  symbol_name: connector_din41612_01x32_a
+  symbol_name: din41612_01x32_a
 oomp_key: oomp_kicad_connector_din41612_01x32_a
 oomp_key_simple: kicad_connector_din41612_01x32_a
 owner: kicad

@@ -1,3 +1,5 @@
+id: kicad_interface_ethernet_lan8720a
+library: interface_ethernet
 library_name: Interface_Ethernet
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_ethernet_lan8720a/working
   oomp_src_flat: symbols_flat/kicad_interface_ethernet_lan8720a/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_ethernet_lan8720a/working
-name: interface_ethernet_lan8720a
+name: lan8720a
 oomp:
   library_name: interface_ethernet
-  md5: 90c8cee04b7c88b5d5eb74f7e95031ef
-  md5_10: 90c8cee04b
-  md5_5: 90c8c
-  md5_6: 90c8ce
-  oomp_key: oomp_interface_ethernet_lan8720a
-  oomp_key_extra: oomp_symbol_interface_ethernet_lan8720a
-  oomp_key_full: oomp_symbol_interface_ethernet_lan8720a_90c8ce
-  oomp_key_simple: interface_ethernet_lan8720a
+  md5: d1b52e2d3c05ca8d91e4ed6298a5ed0d
+  md5_10: d1b52e2d3c
+  md5_5: d1b52
+  md5_6: d1b52e
+  oomp_key: oomp_lan8720a
+  oomp_key_extra: oomp_symbol_lan8720a
+  oomp_key_full: oomp_symbol_lan8720a_d1b52e
+  oomp_key_simple: lan8720a
   owner_name: kicad
-  symbol_name: interface_ethernet_lan8720a
+  symbol_name: lan8720a
 oomp_key: oomp_kicad_interface_ethernet_lan8720a
 oomp_key_simple: kicad_interface_ethernet_lan8720a
 owner: kicad

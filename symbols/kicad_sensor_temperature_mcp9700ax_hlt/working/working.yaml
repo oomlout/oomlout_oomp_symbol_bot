@@ -1,16 +1,20 @@
+id: kicad_sensor_temperature_mcp9700ax_hlt
+library: sensor_temperature
 library_name: Sensor_Temperature
+name: mcp9700ax_hlt
 oomp:
   library_name: sensor_temperature
-  md5: 92b8e30948aa52a2f3ade6897c477d1f
-  md5_10: 92b8e30948
-  md5_5: 92b8e
-  md5_6: 92b8e3
-  oomp_key: oomp_sensor_temperature_mcp9700ax_hlt
-  oomp_key_extra: oomp_symbol_sensor_temperature_mcp9700ax_hlt
-  oomp_key_full: oomp_symbol_sensor_temperature_mcp9700ax_hlt_92b8e3
-  oomp_key_simple: sensor_temperature_mcp9700ax_hlt
+  md5: ddcf199af4e4fdcd81322fbdb5b32eea
+  md5_10: ddcf199af4
+  md5_5: ddcf1
+  md5_6: ddcf19
+  oomp_key: oomp_mcp9700ax_hlt
+  oomp_key_extra: oomp_symbol_mcp9700ax_hlt
+  oomp_key_full: oomp_symbol_mcp9700ax_hlt_ddcf19
+  oomp_key_simple: mcp9700ax_hlt
   owner_name: kicad
-  symbol_name: sensor_temperature_mcp9700ax_hlt
+  symbol_name: mcp9700ax_hlt
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

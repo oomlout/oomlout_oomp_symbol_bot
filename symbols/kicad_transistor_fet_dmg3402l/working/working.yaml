@@ -1,16 +1,20 @@
+id: kicad_transistor_fet_dmg3402l
+library: transistor_fet
 library_name: Transistor_FET
+name: dmg3402l
 oomp:
   library_name: transistor_fet
-  md5: e670b1fb62c1fcd07c17ede019ad70a4
-  md5_10: e670b1fb62
-  md5_5: e670b
-  md5_6: e670b1
-  oomp_key: oomp_transistor_fet_dmg3402l
-  oomp_key_extra: oomp_symbol_transistor_fet_dmg3402l
-  oomp_key_full: oomp_symbol_transistor_fet_dmg3402l_e670b1
-  oomp_key_simple: transistor_fet_dmg3402l
+  md5: 159623705f0c477ce19659acb38e43c0
+  md5_10: 159623705f
+  md5_5: '15962'
+  md5_6: '159623'
+  oomp_key: oomp_dmg3402l
+  oomp_key_extra: oomp_symbol_dmg3402l
+  oomp_key_full: oomp_symbol_dmg3402l_159623
+  oomp_key_simple: dmg3402l
   owner_name: kicad
-  symbol_name: transistor_fet_dmg3402l
+  symbol_name: dmg3402l
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

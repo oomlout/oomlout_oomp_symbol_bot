@@ -1,16 +1,20 @@
+id: kicad_display_graphic_ea_edip160b_7lwtp
+library: display_graphic
 library_name: Display_Graphic
+name: ea_edip160b_7lwtp
 oomp:
   library_name: display_graphic
-  md5: 5c657d3901e0ce5dd280eb9b8620376a
-  md5_10: 5c657d3901
-  md5_5: 5c657
-  md5_6: 5c657d
-  oomp_key: oomp_display_graphic_ea_edip160b_7lwtp
-  oomp_key_extra: oomp_symbol_display_graphic_ea_edip160b_7lwtp
-  oomp_key_full: oomp_symbol_display_graphic_ea_edip160b_7lwtp_5c657d
-  oomp_key_simple: display_graphic_ea_edip160b_7lwtp
+  md5: 51dd9b2a816c43a85b9de633eedc2c12
+  md5_10: 51dd9b2a81
+  md5_5: 51dd9
+  md5_6: 51dd9b
+  oomp_key: oomp_ea_edip160b_7lwtp
+  oomp_key_extra: oomp_symbol_ea_edip160b_7lwtp
+  oomp_key_full: oomp_symbol_ea_edip160b_7lwtp_51dd9b
+  oomp_key_simple: ea_edip160b_7lwtp
   owner_name: kicad
-  symbol_name: display_graphic_ea_edip160b_7lwtp
+  symbol_name: ea_edip160b_7lwtp
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

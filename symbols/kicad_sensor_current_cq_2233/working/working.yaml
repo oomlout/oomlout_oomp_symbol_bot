@@ -1,16 +1,20 @@
+id: kicad_sensor_current_cq_2233
+library: sensor_current
 library_name: Sensor_Current
+name: cq_2233
 oomp:
   library_name: sensor_current
-  md5: dfb998eee2aa834b9cd469734eb6f5bb
-  md5_10: dfb998eee2
-  md5_5: dfb99
-  md5_6: dfb998
-  oomp_key: oomp_sensor_current_cq_2233
-  oomp_key_extra: oomp_symbol_sensor_current_cq_2233
-  oomp_key_full: oomp_symbol_sensor_current_cq_2233_dfb998
-  oomp_key_simple: sensor_current_cq_2233
+  md5: 09d76d4bffc8a2771a1395befc3d3d23
+  md5_10: 09d76d4bff
+  md5_5: 09d76
+  md5_6: 09d76d
+  oomp_key: oomp_cq_2233
+  oomp_key_extra: oomp_symbol_cq_2233
+  oomp_key_full: oomp_symbol_cq_2233_09d76d
+  oomp_key_simple: cq_2233
   owner_name: kicad
-  symbol_name: sensor_current_cq_2233
+  symbol_name: cq_2233
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

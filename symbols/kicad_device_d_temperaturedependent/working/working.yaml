@@ -1,3 +1,5 @@
+id: kicad_device_d_temperaturedependent
+library: device
 library_name: Device
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_d_temperaturedependent/working
   oomp_src_flat: symbols_flat/kicad_device_d_temperaturedependent/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_d_temperaturedependent/working
-name: device_d_temperaturedependent
+name: d_temperaturedependent
 oomp:
   library_name: device
-  md5: c6fee55818177b2150bdb49b5fe10c62
-  md5_10: c6fee55818
-  md5_5: c6fee
-  md5_6: c6fee5
-  oomp_key: oomp_device_d_temperaturedependent
-  oomp_key_extra: oomp_symbol_device_d_temperaturedependent
-  oomp_key_full: oomp_symbol_device_d_temperaturedependent_c6fee5
-  oomp_key_simple: device_d_temperaturedependent
+  md5: b5539443f69e84d519ddcf1ea5e7e8ab
+  md5_10: b5539443f6
+  md5_5: b5539
+  md5_6: b55394
+  oomp_key: oomp_d_temperaturedependent
+  oomp_key_extra: oomp_symbol_d_temperaturedependent
+  oomp_key_full: oomp_symbol_d_temperaturedependent_b55394
+  oomp_key_simple: d_temperaturedependent
   owner_name: kicad
-  symbol_name: device_d_temperaturedependent
+  symbol_name: d_temperaturedependent
 oomp_key: oomp_kicad_device_d_temperaturedependent
 oomp_key_simple: kicad_device_d_temperaturedependent
 owner: kicad

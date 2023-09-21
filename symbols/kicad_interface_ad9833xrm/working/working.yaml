@@ -1,3 +1,5 @@
+id: kicad_interface_ad9833xrm
+library: interface
 library_name: Interface
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_ad9833xrm/working
   oomp_src_flat: symbols_flat/kicad_interface_ad9833xrm/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_ad9833xrm/working
-name: interface_ad9833xrm
+name: ad9833xrm
 oomp:
   library_name: interface
-  md5: d6eedf919177435182be4fe2398e6e7c
-  md5_10: d6eedf9191
-  md5_5: d6eed
-  md5_6: d6eedf
-  oomp_key: oomp_interface_ad9833xrm
-  oomp_key_extra: oomp_symbol_interface_ad9833xrm
-  oomp_key_full: oomp_symbol_interface_ad9833xrm_d6eedf
-  oomp_key_simple: interface_ad9833xrm
+  md5: 205f8070e6f5011ff79649cd7e4a0a00
+  md5_10: 205f8070e6
+  md5_5: 205f8
+  md5_6: 205f80
+  oomp_key: oomp_ad9833xrm
+  oomp_key_extra: oomp_symbol_ad9833xrm
+  oomp_key_full: oomp_symbol_ad9833xrm_205f80
+  oomp_key_simple: ad9833xrm
   owner_name: kicad
-  symbol_name: interface_ad9833xrm
+  symbol_name: ad9833xrm
 oomp_key: oomp_kicad_interface_ad9833xrm
 oomp_key_simple: kicad_interface_ad9833xrm
 owner: kicad

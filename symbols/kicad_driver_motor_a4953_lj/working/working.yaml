@@ -1,16 +1,20 @@
+id: kicad_driver_motor_a4953_lj
+library: driver_motor
 library_name: Driver_Motor
+name: a4953_lj
 oomp:
   library_name: driver_motor
-  md5: 942613fcffd32336190ebbb4fd6b7761
-  md5_10: 942613fcff
-  md5_5: '94261'
-  md5_6: '942613'
-  oomp_key: oomp_driver_motor_a4953_lj
-  oomp_key_extra: oomp_symbol_driver_motor_a4953_lj
-  oomp_key_full: oomp_symbol_driver_motor_a4953_lj_942613
-  oomp_key_simple: driver_motor_a4953_lj
+  md5: 5946292e4336035e1877c28f26af8b18
+  md5_10: 5946292e43
+  md5_5: '59462'
+  md5_6: '594629'
+  oomp_key: oomp_a4953_lj
+  oomp_key_extra: oomp_symbol_a4953_lj
+  oomp_key_full: oomp_symbol_a4953_lj_594629
+  oomp_key_simple: a4953_lj
   owner_name: kicad
-  symbol_name: driver_motor_a4953_lj
+  symbol_name: a4953_lj
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

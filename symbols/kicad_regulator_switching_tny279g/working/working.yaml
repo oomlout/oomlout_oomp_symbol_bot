@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_tny279g
+library: regulator_switching
 library_name: Regulator_Switching
+name: tny279g
 oomp:
   library_name: regulator_switching
-  md5: 394a112261aaf53b218a4da348600e54
-  md5_10: 394a112261
-  md5_5: 394a1
-  md5_6: 394a11
-  oomp_key: oomp_regulator_switching_tny279g
-  oomp_key_extra: oomp_symbol_regulator_switching_tny279g
-  oomp_key_full: oomp_symbol_regulator_switching_tny279g_394a11
-  oomp_key_simple: regulator_switching_tny279g
+  md5: c9083b25bbf1ce3ff24607d1a3fc6a50
+  md5_10: c9083b25bb
+  md5_5: c9083
+  md5_6: c9083b
+  oomp_key: oomp_tny279g
+  oomp_key_extra: oomp_symbol_tny279g
+  oomp_key_full: oomp_symbol_tny279g_c9083b
+  oomp_key_simple: tny279g
   owner_name: kicad
-  symbol_name: regulator_switching_tny279g
+  symbol_name: tny279g
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

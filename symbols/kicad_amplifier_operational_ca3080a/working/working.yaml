@@ -1,16 +1,20 @@
+id: kicad_amplifier_operational_ca3080a
+library: amplifier_operational
 library_name: Amplifier_Operational
+name: ca3080a
 oomp:
   library_name: amplifier_operational
-  md5: b50a8fbb1c54710d4b6cdb8ab9c6ea4b
-  md5_10: b50a8fbb1c
-  md5_5: b50a8
-  md5_6: b50a8f
-  oomp_key: oomp_amplifier_operational_ca3080a
-  oomp_key_extra: oomp_symbol_amplifier_operational_ca3080a
-  oomp_key_full: oomp_symbol_amplifier_operational_ca3080a_b50a8f
-  oomp_key_simple: amplifier_operational_ca3080a
+  md5: 60031cec443d6927cb72ca7fe81eca57
+  md5_10: 60031cec44
+  md5_5: '60031'
+  md5_6: 60031c
+  oomp_key: oomp_ca3080a
+  oomp_key_extra: oomp_symbol_ca3080a
+  oomp_key_full: oomp_symbol_ca3080a_60031c
+  oomp_key_simple: ca3080a
   owner_name: kicad
-  symbol_name: amplifier_operational_ca3080a
+  symbol_name: ca3080a
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

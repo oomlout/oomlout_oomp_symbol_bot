@@ -1,3 +1,5 @@
+id: kicad_regulator_controller_l4984d
+library: regulator_controller
 library_name: Regulator_Controller
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_controller_l4984d/working
   oomp_src_flat: symbols_flat/kicad_regulator_controller_l4984d/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_controller_l4984d/working
-name: regulator_controller_l4984d
+name: l4984d
 oomp:
   library_name: regulator_controller
-  md5: d12b6b093ef666beb81a2daf0bad62a6
-  md5_10: d12b6b093e
-  md5_5: d12b6
-  md5_6: d12b6b
-  oomp_key: oomp_regulator_controller_l4984d
-  oomp_key_extra: oomp_symbol_regulator_controller_l4984d
-  oomp_key_full: oomp_symbol_regulator_controller_l4984d_d12b6b
-  oomp_key_simple: regulator_controller_l4984d
+  md5: d86ca1876e41a60594dea4dcba751c75
+  md5_10: d86ca1876e
+  md5_5: d86ca
+  md5_6: d86ca1
+  oomp_key: oomp_l4984d
+  oomp_key_extra: oomp_symbol_l4984d
+  oomp_key_full: oomp_symbol_l4984d_d86ca1
+  oomp_key_simple: l4984d
   owner_name: kicad
-  symbol_name: regulator_controller_l4984d
+  symbol_name: l4984d
 oomp_key: oomp_kicad_regulator_controller_l4984d
 oomp_key_simple: kicad_regulator_controller_l4984d
 owner: kicad

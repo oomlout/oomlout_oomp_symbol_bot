@@ -1,16 +1,20 @@
+id: kicad_analog_dac_dac6578xpw
+library: analog_dac
 library_name: Analog_DAC
+name: dac6578xpw
 oomp:
   library_name: analog_dac
-  md5: 995f606f0a6a9a8cd934898015b8ae70
-  md5_10: 995f606f0a
-  md5_5: 995f6
-  md5_6: 995f60
-  oomp_key: oomp_analog_dac_dac6578xpw
-  oomp_key_extra: oomp_symbol_analog_dac_dac6578xpw
-  oomp_key_full: oomp_symbol_analog_dac_dac6578xpw_995f60
-  oomp_key_simple: analog_dac_dac6578xpw
+  md5: 67aef211698ab93efb683df246a36f3b
+  md5_10: 67aef21169
+  md5_5: 67aef
+  md5_6: 67aef2
+  oomp_key: oomp_dac6578xpw
+  oomp_key_extra: oomp_symbol_dac6578xpw
+  oomp_key_full: oomp_symbol_dac6578xpw_67aef2
+  oomp_key_simple: dac6578xpw
   owner_name: kicad
-  symbol_name: analog_dac_dac6578xpw
+  symbol_name: dac6578xpw
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

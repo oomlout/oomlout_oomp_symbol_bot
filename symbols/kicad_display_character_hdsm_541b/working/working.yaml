@@ -1,3 +1,5 @@
+id: kicad_display_character_hdsm_541b
+library: display_character
 library_name: Display_Character
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_display_character_hdsm_541b/working
   oomp_src_flat: symbols_flat/kicad_display_character_hdsm_541b/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_display_character_hdsm_541b/working
-name: display_character_hdsm_541b
+name: hdsm_541b
 oomp:
   library_name: display_character
-  md5: cec642d567b4780e87f4653776fdd0c1
-  md5_10: cec642d567
-  md5_5: cec64
-  md5_6: cec642
-  oomp_key: oomp_display_character_hdsm_541b
-  oomp_key_extra: oomp_symbol_display_character_hdsm_541b
-  oomp_key_full: oomp_symbol_display_character_hdsm_541b_cec642
-  oomp_key_simple: display_character_hdsm_541b
+  md5: 2945a716d33678285d4e30b29e6a12db
+  md5_10: 2945a716d3
+  md5_5: 2945a
+  md5_6: 2945a7
+  oomp_key: oomp_hdsm_541b
+  oomp_key_extra: oomp_symbol_hdsm_541b
+  oomp_key_full: oomp_symbol_hdsm_541b_2945a7
+  oomp_key_simple: hdsm_541b
   owner_name: kicad
-  symbol_name: display_character_hdsm_541b
+  symbol_name: hdsm_541b
 oomp_key: oomp_kicad_display_character_hdsm_541b
 oomp_key_simple: kicad_display_character_hdsm_541b
 owner: kicad

@@ -1,3 +1,5 @@
+id: kicad_mcu_nxp_hc11_68hc711_plcc
+library: mcu_nxp_hc11
 library_name: MCU_NXP_HC11
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_nxp_hc11_68hc711_plcc/working
   oomp_src_flat: symbols_flat/kicad_mcu_nxp_hc11_68hc711_plcc/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_nxp_hc11_68hc711_plcc/working
-name: mcu_nxp_hc11_68hc711_plcc
+name: 68hc711_plcc
 oomp:
   library_name: mcu_nxp_hc11
-  md5: adcc03016af7f763628337a2436158db
-  md5_10: adcc03016a
-  md5_5: adcc0
-  md5_6: adcc03
-  oomp_key: oomp_mcu_nxp_hc11_68hc711_plcc
-  oomp_key_extra: oomp_symbol_mcu_nxp_hc11_68hc711_plcc
-  oomp_key_full: oomp_symbol_mcu_nxp_hc11_68hc711_plcc_adcc03
-  oomp_key_simple: mcu_nxp_hc11_68hc711_plcc
+  md5: 3f32199c53a79f70e1de36d37026c422
+  md5_10: 3f32199c53
+  md5_5: 3f321
+  md5_6: 3f3219
+  oomp_key: oomp_68hc711_plcc
+  oomp_key_extra: oomp_symbol_68hc711_plcc
+  oomp_key_full: oomp_symbol_68hc711_plcc_3f3219
+  oomp_key_simple: 68hc711_plcc
   owner_name: kicad
-  symbol_name: mcu_nxp_hc11_68hc711_plcc
+  symbol_name: 68hc711_plcc
 oomp_key: oomp_kicad_mcu_nxp_hc11_68hc711_plcc
 oomp_key_simple: kicad_mcu_nxp_hc11_68hc711_plcc
 owner: kicad

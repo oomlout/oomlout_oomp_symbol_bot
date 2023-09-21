@@ -1,16 +1,20 @@
+id: kicad_sensor_current_acs710xlatr_25bb_nl
+library: sensor_current
 library_name: Sensor_Current
+name: acs710xlatr_25bb_nl
 oomp:
   library_name: sensor_current
-  md5: 3dc3a9e905bbb26078ad4ade0904652d
-  md5_10: 3dc3a9e905
-  md5_5: 3dc3a
-  md5_6: 3dc3a9
-  oomp_key: oomp_sensor_current_acs710xlatr_25bb_nl
-  oomp_key_extra: oomp_symbol_sensor_current_acs710xlatr_25bb_nl
-  oomp_key_full: oomp_symbol_sensor_current_acs710xlatr_25bb_nl_3dc3a9
-  oomp_key_simple: sensor_current_acs710xlatr_25bb_nl
+  md5: b72376441e5e8296f4582e0489f91729
+  md5_10: b72376441e
+  md5_5: b7237
+  md5_6: b72376
+  oomp_key: oomp_acs710xlatr_25bb_nl
+  oomp_key_extra: oomp_symbol_acs710xlatr_25bb_nl
+  oomp_key_full: oomp_symbol_acs710xlatr_25bb_nl_b72376
+  oomp_key_simple: acs710xlatr_25bb_nl
   owner_name: kicad
-  symbol_name: sensor_current_acs710xlatr_25bb_nl
+  symbol_name: acs710xlatr_25bb_nl
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

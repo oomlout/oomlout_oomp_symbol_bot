@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_tps79328_ep
+library: regulator_linear
 library_name: Regulator_Linear
+name: tps79328_ep
 oomp:
   library_name: regulator_linear
-  md5: afd3b18b391c89972ed18f45ffa63e31
-  md5_10: afd3b18b39
-  md5_5: afd3b
-  md5_6: afd3b1
-  oomp_key: oomp_regulator_linear_tps79328_ep
-  oomp_key_extra: oomp_symbol_regulator_linear_tps79328_ep
-  oomp_key_full: oomp_symbol_regulator_linear_tps79328_ep_afd3b1
-  oomp_key_simple: regulator_linear_tps79328_ep
+  md5: 451db287d6779ea896ec2e4ee39e72e0
+  md5_10: 451db287d6
+  md5_5: 451db
+  md5_6: 451db2
+  oomp_key: oomp_tps79328_ep
+  oomp_key_extra: oomp_symbol_tps79328_ep
+  oomp_key_full: oomp_symbol_tps79328_ep_451db2
+  oomp_key_simple: tps79328_ep
   owner_name: kicad
-  symbol_name: regulator_linear_tps79328_ep
+  symbol_name: tps79328_ep
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

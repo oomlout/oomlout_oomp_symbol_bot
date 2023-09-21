@@ -1,3 +1,5 @@
+id: kicad_regulator_switching_tny263p
+library: regulator_switching
 library_name: Regulator_Switching
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_tny263p/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_tny263p/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_tny263p/working
-name: regulator_switching_tny263p
+name: tny263p
 oomp:
   library_name: regulator_switching
-  md5: c35812fff42e885702f78dd0a36a9ab9
-  md5_10: c35812fff4
-  md5_5: c3581
-  md5_6: c35812
-  oomp_key: oomp_regulator_switching_tny263p
-  oomp_key_extra: oomp_symbol_regulator_switching_tny263p
-  oomp_key_full: oomp_symbol_regulator_switching_tny263p_c35812
-  oomp_key_simple: regulator_switching_tny263p
+  md5: 9bdbcca1e0ae037df9a2a5bb8a782354
+  md5_10: 9bdbcca1e0
+  md5_5: 9bdbc
+  md5_6: 9bdbcc
+  oomp_key: oomp_tny263p
+  oomp_key_extra: oomp_symbol_tny263p
+  oomp_key_full: oomp_symbol_tny263p_9bdbcc
+  oomp_key_simple: tny263p
   owner_name: kicad
-  symbol_name: regulator_switching_tny263p
+  symbol_name: tny263p
 oomp_key: oomp_kicad_regulator_switching_tny263p
 oomp_key_simple: kicad_regulator_switching_tny263p
 owner: kicad

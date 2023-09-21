@@ -1,16 +1,20 @@
+id: kicad_cpld_xilinx_xcr3064_vq44
+library: cpld_xilinx
 library_name: CPLD_Xilinx
+name: xcr3064_vq44
 oomp:
   library_name: cpld_xilinx
-  md5: fdccffd0f698f47fa0b04dda1e863a17
-  md5_10: fdccffd0f6
-  md5_5: fdccf
-  md5_6: fdccff
-  oomp_key: oomp_cpld_xilinx_xcr3064_vq44
-  oomp_key_extra: oomp_symbol_cpld_xilinx_xcr3064_vq44
-  oomp_key_full: oomp_symbol_cpld_xilinx_xcr3064_vq44_fdccff
-  oomp_key_simple: cpld_xilinx_xcr3064_vq44
+  md5: f6e265126fc17940565d35331e36a93e
+  md5_10: f6e265126f
+  md5_5: f6e26
+  md5_6: f6e265
+  oomp_key: oomp_xcr3064_vq44
+  oomp_key_extra: oomp_symbol_xcr3064_vq44
+  oomp_key_full: oomp_symbol_xcr3064_vq44_f6e265
+  oomp_key_simple: xcr3064_vq44
   owner_name: kicad
-  symbol_name: cpld_xilinx_xcr3064_vq44
+  symbol_name: xcr3064_vq44
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

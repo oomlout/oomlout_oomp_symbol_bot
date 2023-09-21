@@ -1,16 +1,20 @@
+id: kicad_reference_current_lm334z_lft1
+library: reference_current
 library_name: Reference_Current
+name: lm334z_lft1
 oomp:
   library_name: reference_current
-  md5: 88c53937cca58f2ae921ab9c435eafd4
-  md5_10: 88c53937cc
-  md5_5: 88c53
-  md5_6: 88c539
-  oomp_key: oomp_reference_current_lm334z_lft1
-  oomp_key_extra: oomp_symbol_reference_current_lm334z_lft1
-  oomp_key_full: oomp_symbol_reference_current_lm334z_lft1_88c539
-  oomp_key_simple: reference_current_lm334z_lft1
+  md5: ec136b49c78c9daf93d3f83ccda04e2f
+  md5_10: ec136b49c7
+  md5_5: ec136
+  md5_6: ec136b
+  oomp_key: oomp_lm334z_lft1
+  oomp_key_extra: oomp_symbol_lm334z_lft1
+  oomp_key_full: oomp_symbol_lm334z_lft1_ec136b
+  oomp_key_simple: lm334z_lft1
   owner_name: kicad
-  symbol_name: reference_current_lm334z_lft1
+  symbol_name: lm334z_lft1
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

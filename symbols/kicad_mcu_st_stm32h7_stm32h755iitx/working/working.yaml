@@ -1,3 +1,5 @@
+id: kicad_mcu_st_stm32h7_stm32h755iitx
+library: mcu_st_stm32h7
 library_name: MCU_ST_STM32H7
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_st_stm32h7_stm32h755iitx/working
   oomp_src_flat: symbols_flat/kicad_mcu_st_stm32h7_stm32h755iitx/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_st_stm32h7_stm32h755iitx/working
-name: mcu_st_stm32h7_stm32h755iitx
+name: stm32h755iitx
 oomp:
   library_name: mcu_st_stm32h7
-  md5: b0e07b921e13af70a9573cb5058d4a99
-  md5_10: b0e07b921e
-  md5_5: b0e07
-  md5_6: b0e07b
-  oomp_key: oomp_mcu_st_stm32h7_stm32h755iitx
-  oomp_key_extra: oomp_symbol_mcu_st_stm32h7_stm32h755iitx
-  oomp_key_full: oomp_symbol_mcu_st_stm32h7_stm32h755iitx_b0e07b
-  oomp_key_simple: mcu_st_stm32h7_stm32h755iitx
+  md5: b88649573e723d5bf05e4f82d7745c91
+  md5_10: b88649573e
+  md5_5: b8864
+  md5_6: b88649
+  oomp_key: oomp_stm32h755iitx
+  oomp_key_extra: oomp_symbol_stm32h755iitx
+  oomp_key_full: oomp_symbol_stm32h755iitx_b88649
+  oomp_key_simple: stm32h755iitx
   owner_name: kicad
-  symbol_name: mcu_st_stm32h7_stm32h755iitx
+  symbol_name: stm32h755iitx
 oomp_key: oomp_kicad_mcu_st_stm32h7_stm32h755iitx
 oomp_key_simple: kicad_mcu_st_stm32h7_stm32h755iitx
 owner: kicad

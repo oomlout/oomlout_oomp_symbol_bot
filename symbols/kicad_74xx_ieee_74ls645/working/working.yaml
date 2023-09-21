@@ -1,16 +1,20 @@
+id: kicad_74xx_ieee_74ls645
+library: 74xx_ieee
 library_name: 74xx_IEEE
+name: 74ls645
 oomp:
   library_name: 74xx_ieee
-  md5: da81f194545908f19b0d8c413de27141
-  md5_10: da81f19454
-  md5_5: da81f
-  md5_6: da81f1
-  oomp_key: oomp_74xx_ieee_74ls645
-  oomp_key_extra: oomp_symbol_74xx_ieee_74ls645
-  oomp_key_full: oomp_symbol_74xx_ieee_74ls645_da81f1
-  oomp_key_simple: 74xx_ieee_74ls645
+  md5: 53294d14ce4e99fef03abf91626f4106
+  md5_10: 53294d14ce
+  md5_5: '53294'
+  md5_6: 53294d
+  oomp_key: oomp_74ls645
+  oomp_key_extra: oomp_symbol_74ls645
+  oomp_key_full: oomp_symbol_74ls645_53294d
+  oomp_key_simple: 74ls645
   owner_name: kicad
-  symbol_name: 74xx_ieee_74ls645
+  symbol_name: 74ls645
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

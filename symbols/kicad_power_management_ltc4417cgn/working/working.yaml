@@ -1,3 +1,5 @@
+id: kicad_power_management_ltc4417cgn
+library: power_management
 library_name: Power_Management
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_power_management_ltc4417cgn/working
   oomp_src_flat: symbols_flat/kicad_power_management_ltc4417cgn/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_management_ltc4417cgn/working
-name: power_management_ltc4417cgn
+name: ltc4417cgn
 oomp:
   library_name: power_management
-  md5: 74371da7cb6a51cddebe4ff345af93ca
-  md5_10: 74371da7cb
-  md5_5: '74371'
-  md5_6: 74371d
-  oomp_key: oomp_power_management_ltc4417cgn
-  oomp_key_extra: oomp_symbol_power_management_ltc4417cgn
-  oomp_key_full: oomp_symbol_power_management_ltc4417cgn_74371d
-  oomp_key_simple: power_management_ltc4417cgn
+  md5: 545ef1d267ad3bd21f986ac7bb2c014d
+  md5_10: 545ef1d267
+  md5_5: 545ef
+  md5_6: 545ef1
+  oomp_key: oomp_ltc4417cgn
+  oomp_key_extra: oomp_symbol_ltc4417cgn
+  oomp_key_full: oomp_symbol_ltc4417cgn_545ef1
+  oomp_key_simple: ltc4417cgn
   owner_name: kicad
-  symbol_name: power_management_ltc4417cgn
+  symbol_name: ltc4417cgn
 oomp_key: oomp_kicad_power_management_ltc4417cgn
 oomp_key_simple: kicad_power_management_ltc4417cgn
 owner: kicad

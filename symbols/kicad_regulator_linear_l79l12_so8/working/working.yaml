@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_l79l12_so8
+library: regulator_linear
 library_name: Regulator_Linear
+name: l79l12_so8
 oomp:
   library_name: regulator_linear
-  md5: a87acdc82626bce2cd14695708cf4974
-  md5_10: a87acdc826
-  md5_5: a87ac
-  md5_6: a87acd
-  oomp_key: oomp_regulator_linear_l79l12_so8
-  oomp_key_extra: oomp_symbol_regulator_linear_l79l12_so8
-  oomp_key_full: oomp_symbol_regulator_linear_l79l12_so8_a87acd
-  oomp_key_simple: regulator_linear_l79l12_so8
+  md5: f78a6bf6801660a2bc6547b8f9e3ac09
+  md5_10: f78a6bf680
+  md5_5: f78a6
+  md5_6: f78a6b
+  oomp_key: oomp_l79l12_so8
+  oomp_key_extra: oomp_symbol_l79l12_so8
+  oomp_key_full: oomp_symbol_l79l12_so8_f78a6b
+  oomp_key_simple: l79l12_so8
   owner_name: kicad
-  symbol_name: regulator_linear_l79l12_so8
+  symbol_name: l79l12_so8
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

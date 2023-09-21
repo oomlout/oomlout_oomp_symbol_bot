@@ -1,3 +1,5 @@
+id: kicad_device_q_njfet_gsd
+library: device
 library_name: Device
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_q_njfet_gsd/working
   oomp_src_flat: symbols_flat/kicad_device_q_njfet_gsd/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_q_njfet_gsd/working
-name: device_q_njfet_gsd
+name: q_njfet_gsd
 oomp:
   library_name: device
-  md5: 7e4e3b09749f4827ae7c9413e4d3b045
-  md5_10: 7e4e3b0974
-  md5_5: 7e4e3
-  md5_6: 7e4e3b
-  oomp_key: oomp_device_q_njfet_gsd
-  oomp_key_extra: oomp_symbol_device_q_njfet_gsd
-  oomp_key_full: oomp_symbol_device_q_njfet_gsd_7e4e3b
-  oomp_key_simple: device_q_njfet_gsd
+  md5: ae1ea8cebe137d2078d086aacba44453
+  md5_10: ae1ea8cebe
+  md5_5: ae1ea
+  md5_6: ae1ea8
+  oomp_key: oomp_q_njfet_gsd
+  oomp_key_extra: oomp_symbol_q_njfet_gsd
+  oomp_key_full: oomp_symbol_q_njfet_gsd_ae1ea8
+  oomp_key_simple: q_njfet_gsd
   owner_name: kicad
-  symbol_name: device_q_njfet_gsd
+  symbol_name: q_njfet_gsd
 oomp_key: oomp_kicad_device_q_njfet_gsd
 oomp_key_simple: kicad_device_q_njfet_gsd
 owner: kicad

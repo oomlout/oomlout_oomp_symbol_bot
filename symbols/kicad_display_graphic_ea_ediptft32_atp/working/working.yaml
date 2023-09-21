@@ -1,16 +1,20 @@
+id: kicad_display_graphic_ea_ediptft32_atp
+library: display_graphic
 library_name: Display_Graphic
+name: ea_ediptft32_atp
 oomp:
   library_name: display_graphic
-  md5: 743ab519cb874ef67ea3cb6460775522
-  md5_10: 743ab519cb
-  md5_5: 743ab
-  md5_6: 743ab5
-  oomp_key: oomp_display_graphic_ea_ediptft32_atp
-  oomp_key_extra: oomp_symbol_display_graphic_ea_ediptft32_atp
-  oomp_key_full: oomp_symbol_display_graphic_ea_ediptft32_atp_743ab5
-  oomp_key_simple: display_graphic_ea_ediptft32_atp
+  md5: 7df233aaecfd84c998b26e6266f8a875
+  md5_10: 7df233aaec
+  md5_5: 7df23
+  md5_6: 7df233
+  oomp_key: oomp_ea_ediptft32_atp
+  oomp_key_extra: oomp_symbol_ea_ediptft32_atp
+  oomp_key_full: oomp_symbol_ea_ediptft32_atp_7df233
+  oomp_key_simple: ea_ediptft32_atp
   owner_name: kicad
-  symbol_name: display_graphic_ea_ediptft32_atp
+  symbol_name: ea_ediptft32_atp
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,3 +1,5 @@
+id: kicad_switch_sw_mec_5g_led
+library: switch
 library_name: Switch
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_switch_sw_mec_5g_led/working
   oomp_src_flat: symbols_flat/kicad_switch_sw_mec_5g_led/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_switch_sw_mec_5g_led/working
-name: switch_sw_mec_5g_led
+name: sw_mec_5g_led
 oomp:
   library_name: switch
-  md5: 4b1fe73d0b5c887a8982cda4e017ebf7
-  md5_10: 4b1fe73d0b
-  md5_5: 4b1fe
-  md5_6: 4b1fe7
-  oomp_key: oomp_switch_sw_mec_5g_led
-  oomp_key_extra: oomp_symbol_switch_sw_mec_5g_led
-  oomp_key_full: oomp_symbol_switch_sw_mec_5g_led_4b1fe7
-  oomp_key_simple: switch_sw_mec_5g_led
+  md5: 7fa76676606c35e459e23ef7ad07f89e
+  md5_10: 7fa7667660
+  md5_5: 7fa76
+  md5_6: 7fa766
+  oomp_key: oomp_sw_mec_5g_led
+  oomp_key_extra: oomp_symbol_sw_mec_5g_led
+  oomp_key_full: oomp_symbol_sw_mec_5g_led_7fa766
+  oomp_key_simple: sw_mec_5g_led
   owner_name: kicad
-  symbol_name: switch_sw_mec_5g_led
+  symbol_name: sw_mec_5g_led
 oomp_key: oomp_kicad_switch_sw_mec_5g_led
 oomp_key_simple: kicad_switch_sw_mec_5g_led
 owner: kicad

@@ -1,3 +1,5 @@
+id: arturo182_rf_module_extra_esp32_wroom_32
+library: rf_module_extra
 library_name: RF_Module_Extra
 links:
   github_owner: arturo182
@@ -10,19 +12,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/arturo182_rf_module_extra_esp32_wroom_32/working
   oomp_src_flat: symbols_flat/arturo182_rf_module_extra_esp32_wroom_32/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/arturo182_rf_module_extra_esp32_wroom_32/working
-name: rf_module_extra_esp32_wroom_32
+name: esp32_wroom_32
 oomp:
   library_name: rf_module_extra
-  md5: 7e926348a7021f981e553a6f146ede0b
-  md5_10: 7e926348a7
-  md5_5: 7e926
-  md5_6: 7e9263
-  oomp_key: oomp_rf_module_extra_esp32_wroom_32
-  oomp_key_extra: oomp_symbol_rf_module_extra_esp32_wroom_32
-  oomp_key_full: oomp_symbol_rf_module_extra_esp32_wroom_32_7e9263
-  oomp_key_simple: rf_module_extra_esp32_wroom_32
+  md5: 76900a1b62db061a82e4379f644135dc
+  md5_10: 76900a1b62
+  md5_5: '76900'
+  md5_6: 76900a
+  oomp_key: oomp_esp32_wroom_32
+  oomp_key_extra: oomp_symbol_esp32_wroom_32
+  oomp_key_full: oomp_symbol_esp32_wroom_32_76900a
+  oomp_key_simple: esp32_wroom_32
   owner_name: arturo182
-  symbol_name: rf_module_extra_esp32_wroom_32
+  symbol_name: esp32_wroom_32
 oomp_key: oomp_arturo182_rf_module_extra_esp32_wroom_32
 oomp_key_simple: arturo182_rf_module_extra_esp32_wroom_32
 owner: arturo182

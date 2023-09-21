@@ -1,3 +1,5 @@
+id: kicad_relay_g6su_2
+library: relay
 library_name: Relay
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_relay_g6su_2/working
   oomp_src_flat: symbols_flat/kicad_relay_g6su_2/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_relay_g6su_2/working
-name: relay_g6su_2
+name: g6su_2
 oomp:
   library_name: relay
-  md5: 44937db47b1e0d1bf73acda06d20db48
-  md5_10: 44937db47b
-  md5_5: '44937'
-  md5_6: 44937d
-  oomp_key: oomp_relay_g6su_2
-  oomp_key_extra: oomp_symbol_relay_g6su_2
-  oomp_key_full: oomp_symbol_relay_g6su_2_44937d
-  oomp_key_simple: relay_g6su_2
+  md5: 22ff8335eeb03ddb6ce39f906ec2e482
+  md5_10: 22ff8335ee
+  md5_5: 22ff8
+  md5_6: 22ff83
+  oomp_key: oomp_g6su_2
+  oomp_key_extra: oomp_symbol_g6su_2
+  oomp_key_full: oomp_symbol_g6su_2_22ff83
+  oomp_key_simple: g6su_2
   owner_name: kicad
-  symbol_name: relay_g6su_2
+  symbol_name: g6su_2
 oomp_key: oomp_kicad_relay_g6su_2
 oomp_key_simple: kicad_relay_g6su_2
 owner: kicad

@@ -1,16 +1,20 @@
+id: kicad_relay_finder_44_62
+library: relay
 library_name: Relay
+name: finder_44_62
 oomp:
   library_name: relay
-  md5: f1b94e3437c3ea8a4f906dd692abc71d
-  md5_10: f1b94e3437
-  md5_5: f1b94
-  md5_6: f1b94e
-  oomp_key: oomp_relay_finder_44_62
-  oomp_key_extra: oomp_symbol_relay_finder_44_62
-  oomp_key_full: oomp_symbol_relay_finder_44_62_f1b94e
-  oomp_key_simple: relay_finder_44_62
+  md5: 3cb1a7956b293799fa31f29e6f8e19dc
+  md5_10: 3cb1a7956b
+  md5_5: 3cb1a
+  md5_6: 3cb1a7
+  oomp_key: oomp_finder_44_62
+  oomp_key_extra: oomp_symbol_finder_44_62
+  oomp_key_full: oomp_symbol_finder_44_62_3cb1a7
+  oomp_key_simple: finder_44_62
   owner_name: kicad
-  symbol_name: relay_finder_44_62
+  symbol_name: finder_44_62
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

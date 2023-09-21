@@ -1,16 +1,20 @@
+id: kicad_battery_management_bq24073rgt
+library: battery_management
 library_name: Battery_Management
+name: bq24073rgt
 oomp:
   library_name: battery_management
-  md5: 7ea8460dafc8435dc89b5b31f6a2fa41
-  md5_10: 7ea8460daf
-  md5_5: 7ea84
-  md5_6: 7ea846
-  oomp_key: oomp_battery_management_bq24073rgt
-  oomp_key_extra: oomp_symbol_battery_management_bq24073rgt
-  oomp_key_full: oomp_symbol_battery_management_bq24073rgt_7ea846
-  oomp_key_simple: battery_management_bq24073rgt
+  md5: 349bbb38df9bd84014be8107c0c347a9
+  md5_10: 349bbb38df
+  md5_5: 349bb
+  md5_6: 349bbb
+  oomp_key: oomp_bq24073rgt
+  oomp_key_extra: oomp_symbol_bq24073rgt
+  oomp_key_full: oomp_symbol_bq24073rgt_349bbb
+  oomp_key_simple: bq24073rgt
   owner_name: kicad
-  symbol_name: battery_management_bq24073rgt
+  symbol_name: bq24073rgt
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

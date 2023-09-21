@@ -1,16 +1,20 @@
+id: kicad_mcu_intel_8040
+library: mcu_intel
 library_name: MCU_Intel
+name: '8040'
 oomp:
   library_name: mcu_intel
-  md5: 9bc4c636d3ca29dc6f10047a989a16dd
-  md5_10: 9bc4c636d3
-  md5_5: 9bc4c
-  md5_6: 9bc4c6
-  oomp_key: oomp_mcu_intel_8040
-  oomp_key_extra: oomp_symbol_mcu_intel_8040
-  oomp_key_full: oomp_symbol_mcu_intel_8040_9bc4c6
-  oomp_key_simple: mcu_intel_8040
+  md5: 544defa9fddff50c53b71c43e0da72be
+  md5_10: 544defa9fd
+  md5_5: 544de
+  md5_6: 544def
+  oomp_key: oomp_8040
+  oomp_key_extra: oomp_symbol_8040
+  oomp_key_full: oomp_symbol_8040_544def
+  oomp_key_simple: '8040'
   owner_name: kicad
-  symbol_name: mcu_intel_8040
+  symbol_name: '8040'
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

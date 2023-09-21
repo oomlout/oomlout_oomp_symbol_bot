@@ -1,3 +1,5 @@
+id: kicad_display_graphic_ea_dogxl160_7
+library: display_graphic
 library_name: Display_Graphic
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_display_graphic_ea_dogxl160_7/working
   oomp_src_flat: symbols_flat/kicad_display_graphic_ea_dogxl160_7/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_display_graphic_ea_dogxl160_7/working
-name: display_graphic_ea_dogxl160_7
+name: ea_dogxl160_7
 oomp:
   library_name: display_graphic
-  md5: c768938c777a7781bad3fd106ae922db
-  md5_10: c768938c77
-  md5_5: c7689
-  md5_6: c76893
-  oomp_key: oomp_display_graphic_ea_dogxl160_7
-  oomp_key_extra: oomp_symbol_display_graphic_ea_dogxl160_7
-  oomp_key_full: oomp_symbol_display_graphic_ea_dogxl160_7_c76893
-  oomp_key_simple: display_graphic_ea_dogxl160_7
+  md5: 00fe2851e5bf15eb4e6de5c605cabfce
+  md5_10: 00fe2851e5
+  md5_5: 00fe2
+  md5_6: 00fe28
+  oomp_key: oomp_ea_dogxl160_7
+  oomp_key_extra: oomp_symbol_ea_dogxl160_7
+  oomp_key_full: oomp_symbol_ea_dogxl160_7_00fe28
+  oomp_key_simple: ea_dogxl160_7
   owner_name: kicad
-  symbol_name: display_graphic_ea_dogxl160_7
+  symbol_name: ea_dogxl160_7
 oomp_key: oomp_kicad_display_graphic_ea_dogxl160_7
 oomp_key_simple: kicad_display_graphic_ea_dogxl160_7
 owner: kicad

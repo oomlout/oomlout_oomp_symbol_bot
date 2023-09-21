@@ -1,3 +1,5 @@
+id: kicad_led_apa102_2020
+library: led
 library_name: LED
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_led_apa102_2020/working
   oomp_src_flat: symbols_flat/kicad_led_apa102_2020/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_led_apa102_2020/working
-name: led_apa102_2020
+name: apa102_2020
 oomp:
   library_name: led
-  md5: 4410ea8e700e7c51b39c0e574649d71e
-  md5_10: 4410ea8e70
-  md5_5: 4410e
-  md5_6: 4410ea
-  oomp_key: oomp_led_apa102_2020
-  oomp_key_extra: oomp_symbol_led_apa102_2020
-  oomp_key_full: oomp_symbol_led_apa102_2020_4410ea
-  oomp_key_simple: led_apa102_2020
+  md5: f8afa21a605a91a531fff78f72c3a31a
+  md5_10: f8afa21a60
+  md5_5: f8afa
+  md5_6: f8afa2
+  oomp_key: oomp_apa102_2020
+  oomp_key_extra: oomp_symbol_apa102_2020
+  oomp_key_full: oomp_symbol_apa102_2020_f8afa2
+  oomp_key_simple: apa102_2020
   owner_name: kicad
-  symbol_name: led_apa102_2020
+  symbol_name: apa102_2020
 oomp_key: oomp_kicad_led_apa102_2020
 oomp_key_simple: kicad_led_apa102_2020
 owner: kicad

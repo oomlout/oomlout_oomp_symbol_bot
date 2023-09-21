@@ -1,16 +1,20 @@
+id: kicad_driver_fet_irs2183
+library: driver_fet
 library_name: Driver_FET
+name: irs2183
 oomp:
   library_name: driver_fet
-  md5: 7e18860bd81ca7d2371a83e1f6c839c2
-  md5_10: 7e18860bd8
-  md5_5: 7e188
-  md5_6: 7e1886
-  oomp_key: oomp_driver_fet_irs2183
-  oomp_key_extra: oomp_symbol_driver_fet_irs2183
-  oomp_key_full: oomp_symbol_driver_fet_irs2183_7e1886
-  oomp_key_simple: driver_fet_irs2183
+  md5: c68576ff391a39e71baee5b3dc3cb2b3
+  md5_10: c68576ff39
+  md5_5: c6857
+  md5_6: c68576
+  oomp_key: oomp_irs2183
+  oomp_key_extra: oomp_symbol_irs2183
+  oomp_key_full: oomp_symbol_irs2183_c68576
+  oomp_key_simple: irs2183
   owner_name: kicad
-  symbol_name: driver_fet_irs2183
+  symbol_name: irs2183
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

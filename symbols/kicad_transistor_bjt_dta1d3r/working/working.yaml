@@ -1,3 +1,5 @@
+id: kicad_transistor_bjt_dta1d3r
+library: transistor_bjt
 library_name: Transistor_BJT
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_transistor_bjt_dta1d3r/working
   oomp_src_flat: symbols_flat/kicad_transistor_bjt_dta1d3r/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_transistor_bjt_dta1d3r/working
-name: transistor_bjt_dta1d3r
+name: dta1d3r
 oomp:
   library_name: transistor_bjt
-  md5: 636eaca653048cc7e4d1bf20bc78537c
-  md5_10: 636eaca653
-  md5_5: 636ea
-  md5_6: 636eac
-  oomp_key: oomp_transistor_bjt_dta1d3r
-  oomp_key_extra: oomp_symbol_transistor_bjt_dta1d3r
-  oomp_key_full: oomp_symbol_transistor_bjt_dta1d3r_636eac
-  oomp_key_simple: transistor_bjt_dta1d3r
+  md5: 79446afd5ae9affc6ae178d80ba9f877
+  md5_10: 79446afd5a
+  md5_5: '79446'
+  md5_6: 79446a
+  oomp_key: oomp_dta1d3r
+  oomp_key_extra: oomp_symbol_dta1d3r
+  oomp_key_full: oomp_symbol_dta1d3r_79446a
+  oomp_key_simple: dta1d3r
   owner_name: kicad
-  symbol_name: transistor_bjt_dta1d3r
+  symbol_name: dta1d3r
 oomp_key: oomp_kicad_transistor_bjt_dta1d3r
 oomp_key_simple: kicad_transistor_bjt_dta1d3r
 owner: kicad

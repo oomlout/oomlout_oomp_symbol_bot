@@ -1,16 +1,20 @@
+id: kicad_mcu_intel_8088_min_mode
+library: mcu_intel
 library_name: MCU_Intel
+name: 8088_min_mode
 oomp:
   library_name: mcu_intel
-  md5: 7714c45064dee07045091adbddc1cc83
-  md5_10: 7714c45064
-  md5_5: 7714c
-  md5_6: 7714c4
-  oomp_key: oomp_mcu_intel_8088_min_mode
-  oomp_key_extra: oomp_symbol_mcu_intel_8088_min_mode
-  oomp_key_full: oomp_symbol_mcu_intel_8088_min_mode_7714c4
-  oomp_key_simple: mcu_intel_8088_min_mode
+  md5: 74cb8182fb6876ac071aa230dfc4de5f
+  md5_10: 74cb8182fb
+  md5_5: 74cb8
+  md5_6: 74cb81
+  oomp_key: oomp_8088_min_mode
+  oomp_key_extra: oomp_symbol_8088_min_mode
+  oomp_key_full: oomp_symbol_8088_min_mode_74cb81
+  oomp_key_simple: 8088_min_mode
   owner_name: kicad
-  symbol_name: mcu_intel_8088_min_mode
+  symbol_name: 8088_min_mode
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

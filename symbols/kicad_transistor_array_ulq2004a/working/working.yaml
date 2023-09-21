@@ -1,16 +1,20 @@
+id: kicad_transistor_array_ulq2004a
+library: transistor_array
 library_name: Transistor_Array
+name: ulq2004a
 oomp:
   library_name: transistor_array
-  md5: 9fdc82ba0ff7fede430317652f1b0d49
-  md5_10: 9fdc82ba0f
-  md5_5: 9fdc8
-  md5_6: 9fdc82
-  oomp_key: oomp_transistor_array_ulq2004a
-  oomp_key_extra: oomp_symbol_transistor_array_ulq2004a
-  oomp_key_full: oomp_symbol_transistor_array_ulq2004a_9fdc82
-  oomp_key_simple: transistor_array_ulq2004a
+  md5: dbecff580f0271d8dc1fe73257de5837
+  md5_10: dbecff580f
+  md5_5: dbecf
+  md5_6: dbecff
+  oomp_key: oomp_ulq2004a
+  oomp_key_extra: oomp_symbol_ulq2004a
+  oomp_key_full: oomp_symbol_ulq2004a_dbecff
+  oomp_key_simple: ulq2004a
   owner_name: kicad
-  symbol_name: transistor_array_ulq2004a
+  symbol_name: ulq2004a
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_sensor_proximity_itr8307_l24_tr8
+library: sensor_proximity
 library_name: Sensor_Proximity
+name: itr8307_l24_tr8
 oomp:
   library_name: sensor_proximity
-  md5: 8aac374ff7ea3e060d015027a252717e
-  md5_10: 8aac374ff7
-  md5_5: 8aac3
-  md5_6: 8aac37
-  oomp_key: oomp_sensor_proximity_itr8307_l24_tr8
-  oomp_key_extra: oomp_symbol_sensor_proximity_itr8307_l24_tr8
-  oomp_key_full: oomp_symbol_sensor_proximity_itr8307_l24_tr8_8aac37
-  oomp_key_simple: sensor_proximity_itr8307_l24_tr8
+  md5: 575826b4a38d8d585fc6196d8dde7f30
+  md5_10: 575826b4a3
+  md5_5: '57582'
+  md5_6: '575826'
+  oomp_key: oomp_itr8307_l24_tr8
+  oomp_key_extra: oomp_symbol_itr8307_l24_tr8
+  oomp_key_full: oomp_symbol_itr8307_l24_tr8_575826
+  oomp_key_simple: itr8307_l24_tr8
   owner_name: kicad
-  symbol_name: sensor_proximity_itr8307_l24_tr8
+  symbol_name: itr8307_l24_tr8
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

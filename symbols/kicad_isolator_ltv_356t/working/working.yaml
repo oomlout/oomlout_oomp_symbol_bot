@@ -1,3 +1,5 @@
+id: kicad_isolator_ltv_356t
+library: isolator
 library_name: Isolator
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_isolator_ltv_356t/working
   oomp_src_flat: symbols_flat/kicad_isolator_ltv_356t/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_isolator_ltv_356t/working
-name: isolator_ltv_356t
+name: ltv_356t
 oomp:
   library_name: isolator
-  md5: a5106fe5f95cae992a64dc988194dd2e
-  md5_10: a5106fe5f9
-  md5_5: a5106
-  md5_6: a5106f
-  oomp_key: oomp_isolator_ltv_356t
-  oomp_key_extra: oomp_symbol_isolator_ltv_356t
-  oomp_key_full: oomp_symbol_isolator_ltv_356t_a5106f
-  oomp_key_simple: isolator_ltv_356t
+  md5: 3b0eb2f9471399368e995d1e26e8c86a
+  md5_10: 3b0eb2f947
+  md5_5: 3b0eb
+  md5_6: 3b0eb2
+  oomp_key: oomp_ltv_356t
+  oomp_key_extra: oomp_symbol_ltv_356t
+  oomp_key_full: oomp_symbol_ltv_356t_3b0eb2
+  oomp_key_simple: ltv_356t
   owner_name: kicad
-  symbol_name: isolator_ltv_356t
+  symbol_name: ltv_356t
 oomp_key: oomp_kicad_isolator_ltv_356t
 oomp_key_simple: kicad_isolator_ltv_356t
 owner: kicad

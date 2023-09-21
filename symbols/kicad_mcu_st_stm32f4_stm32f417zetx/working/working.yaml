@@ -1,16 +1,20 @@
+id: kicad_mcu_st_stm32f4_stm32f417zetx
+library: mcu_st_stm32f4
 library_name: MCU_ST_STM32F4
+name: stm32f417zetx
 oomp:
   library_name: mcu_st_stm32f4
-  md5: b08c73b40d4d373a853dca6fc7364c37
-  md5_10: b08c73b40d
-  md5_5: b08c7
-  md5_6: b08c73
-  oomp_key: oomp_mcu_st_stm32f4_stm32f417zetx
-  oomp_key_extra: oomp_symbol_mcu_st_stm32f4_stm32f417zetx
-  oomp_key_full: oomp_symbol_mcu_st_stm32f4_stm32f417zetx_b08c73
-  oomp_key_simple: mcu_st_stm32f4_stm32f417zetx
+  md5: bd65657a1b06807fa925e6c20bd001d9
+  md5_10: bd65657a1b
+  md5_5: bd656
+  md5_6: bd6565
+  oomp_key: oomp_stm32f417zetx
+  oomp_key_extra: oomp_symbol_stm32f417zetx
+  oomp_key_full: oomp_symbol_stm32f417zetx_bd6565
+  oomp_key_simple: stm32f417zetx
   owner_name: kicad
-  symbol_name: mcu_st_stm32f4_stm32f417zetx
+  symbol_name: stm32f417zetx
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

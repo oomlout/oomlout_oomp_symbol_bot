@@ -1,16 +1,20 @@
+id: arturo182_interface_usb_extra_fusb303
+library: interface_usb_extra
 library_name: Interface_USB_Extra
+name: fusb303
 oomp:
   library_name: interface_usb_extra
-  md5: 16c3e22e56ceacb47ee5718215042810
-  md5_10: 16c3e22e56
-  md5_5: 16c3e
-  md5_6: 16c3e2
-  oomp_key: oomp_interface_usb_extra_fusb303
-  oomp_key_extra: oomp_symbol_interface_usb_extra_fusb303
-  oomp_key_full: oomp_symbol_interface_usb_extra_fusb303_16c3e2
-  oomp_key_simple: interface_usb_extra_fusb303
+  md5: 832aee4565fe30ff0c9763be734aebea
+  md5_10: 832aee4565
+  md5_5: 832ae
+  md5_6: 832aee
+  oomp_key: oomp_fusb303
+  oomp_key_extra: oomp_symbol_fusb303
+  oomp_key_full: oomp_symbol_fusb303_832aee
+  oomp_key_simple: fusb303
   owner_name: arturo182
-  symbol_name: interface_usb_extra_fusb303
+  symbol_name: fusb303
+owner: arturo182
 repo:
   github_src: https://github.com/arturo182/kicad-library/Video_Extra.kicad_sym
   name: kicad-library

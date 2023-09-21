@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_lm2594hvm_3_3
+library: regulator_switching
 library_name: Regulator_Switching
+name: lm2594hvm_3_3
 oomp:
   library_name: regulator_switching
-  md5: 02043fe25f88d91ab339891df7e3cee2
-  md5_10: 02043fe25f
-  md5_5: '02043'
-  md5_6: 02043f
-  oomp_key: oomp_regulator_switching_lm2594hvm_3_3
-  oomp_key_extra: oomp_symbol_regulator_switching_lm2594hvm_3_3
-  oomp_key_full: oomp_symbol_regulator_switching_lm2594hvm_3_3_02043f
-  oomp_key_simple: regulator_switching_lm2594hvm_3_3
+  md5: fde2d83a2e383d2ff019c25098cc3939
+  md5_10: fde2d83a2e
+  md5_5: fde2d
+  md5_6: fde2d8
+  oomp_key: oomp_lm2594hvm_3_3
+  oomp_key_extra: oomp_symbol_lm2594hvm_3_3
+  oomp_key_full: oomp_symbol_lm2594hvm_3_3_fde2d8
+  oomp_key_simple: lm2594hvm_3_3
   owner_name: kicad
-  symbol_name: regulator_switching_lm2594hvm_3_3
+  symbol_name: lm2594hvm_3_3
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

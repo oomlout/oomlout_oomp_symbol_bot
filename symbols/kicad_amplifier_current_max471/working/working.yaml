@@ -1,3 +1,5 @@
+id: kicad_amplifier_current_max471
+library: amplifier_current
 library_name: Amplifier_Current
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_current_max471/working
   oomp_src_flat: symbols_flat/kicad_amplifier_current_max471/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_current_max471/working
-name: amplifier_current_max471
+name: max471
 oomp:
   library_name: amplifier_current
-  md5: b8f7b7f14d5d5accd5191e71159cc41f
-  md5_10: b8f7b7f14d
-  md5_5: b8f7b
-  md5_6: b8f7b7
-  oomp_key: oomp_amplifier_current_max471
-  oomp_key_extra: oomp_symbol_amplifier_current_max471
-  oomp_key_full: oomp_symbol_amplifier_current_max471_b8f7b7
-  oomp_key_simple: amplifier_current_max471
+  md5: 87d8ca7d1d43ca9c8eb2b13042136258
+  md5_10: 87d8ca7d1d
+  md5_5: 87d8c
+  md5_6: 87d8ca
+  oomp_key: oomp_max471
+  oomp_key_extra: oomp_symbol_max471
+  oomp_key_full: oomp_symbol_max471_87d8ca
+  oomp_key_simple: max471
   owner_name: kicad
-  symbol_name: amplifier_current_max471
+  symbol_name: max471
 oomp_key: oomp_kicad_amplifier_current_max471
 oomp_key_simple: kicad_amplifier_current_max471
 owner: kicad

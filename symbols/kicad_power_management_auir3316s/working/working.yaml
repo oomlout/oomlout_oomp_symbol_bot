@@ -1,16 +1,20 @@
+id: kicad_power_management_auir3316s
+library: power_management
 library_name: Power_Management
+name: auir3316s
 oomp:
   library_name: power_management
-  md5: 114e2a33ad8fd6f4450b53f228128b54
-  md5_10: 114e2a33ad
-  md5_5: 114e2
-  md5_6: 114e2a
-  oomp_key: oomp_power_management_auir3316s
-  oomp_key_extra: oomp_symbol_power_management_auir3316s
-  oomp_key_full: oomp_symbol_power_management_auir3316s_114e2a
-  oomp_key_simple: power_management_auir3316s
+  md5: bc5d7feefe3c3a5b9a779bacd39d2b2d
+  md5_10: bc5d7feefe
+  md5_5: bc5d7
+  md5_6: bc5d7f
+  oomp_key: oomp_auir3316s
+  oomp_key_extra: oomp_symbol_auir3316s
+  oomp_key_full: oomp_symbol_auir3316s_bc5d7f
+  oomp_key_simple: auir3316s
   owner_name: kicad
-  symbol_name: power_management_auir3316s
+  symbol_name: auir3316s
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

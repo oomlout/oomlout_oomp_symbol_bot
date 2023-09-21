@@ -1,16 +1,20 @@
+id: kicad_regulator_controller_ncp1203p60
+library: regulator_controller
 library_name: Regulator_Controller
+name: ncp1203p60
 oomp:
   library_name: regulator_controller
-  md5: 4733b148c1843d7cfb59d43361067cd5
-  md5_10: 4733b148c1
-  md5_5: 4733b
-  md5_6: 4733b1
-  oomp_key: oomp_regulator_controller_ncp1203p60
-  oomp_key_extra: oomp_symbol_regulator_controller_ncp1203p60
-  oomp_key_full: oomp_symbol_regulator_controller_ncp1203p60_4733b1
-  oomp_key_simple: regulator_controller_ncp1203p60
+  md5: dfaf0debdcc053dce3282b200cc06076
+  md5_10: dfaf0debdc
+  md5_5: dfaf0
+  md5_6: dfaf0d
+  oomp_key: oomp_ncp1203p60
+  oomp_key_extra: oomp_symbol_ncp1203p60
+  oomp_key_full: oomp_symbol_ncp1203p60_dfaf0d
+  oomp_key_simple: ncp1203p60
   owner_name: kicad
-  symbol_name: regulator_controller_ncp1203p60
+  symbol_name: ncp1203p60
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

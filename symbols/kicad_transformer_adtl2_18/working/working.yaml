@@ -1,16 +1,20 @@
+id: kicad_transformer_adtl2_18
+library: transformer
 library_name: Transformer
+name: adtl2_18
 oomp:
   library_name: transformer
-  md5: 0842fe7812f6acf6bba76e902ad4f1cf
-  md5_10: 0842fe7812
-  md5_5: 0842f
-  md5_6: 0842fe
-  oomp_key: oomp_transformer_adtl2_18
-  oomp_key_extra: oomp_symbol_transformer_adtl2_18
-  oomp_key_full: oomp_symbol_transformer_adtl2_18_0842fe
-  oomp_key_simple: transformer_adtl2_18
+  md5: 0ea17b44c7b2b8c18c25f93913ff6fc0
+  md5_10: 0ea17b44c7
+  md5_5: 0ea17
+  md5_6: 0ea17b
+  oomp_key: oomp_adtl2_18
+  oomp_key_extra: oomp_symbol_adtl2_18
+  oomp_key_full: oomp_symbol_adtl2_18_0ea17b
+  oomp_key_simple: adtl2_18
   owner_name: kicad
-  symbol_name: transformer_adtl2_18
+  symbol_name: adtl2_18
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

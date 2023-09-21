@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_ka78m05_to252
+library: regulator_linear
 library_name: Regulator_Linear
+name: ka78m05_to252
 oomp:
   library_name: regulator_linear
-  md5: 2e78cfaaf58b063029ac621f224ff683
-  md5_10: 2e78cfaaf5
-  md5_5: 2e78c
-  md5_6: 2e78cf
-  oomp_key: oomp_regulator_linear_ka78m05_to252
-  oomp_key_extra: oomp_symbol_regulator_linear_ka78m05_to252
-  oomp_key_full: oomp_symbol_regulator_linear_ka78m05_to252_2e78cf
-  oomp_key_simple: regulator_linear_ka78m05_to252
+  md5: 11e4276d59c72b5f6ba621a469a5b867
+  md5_10: 11e4276d59
+  md5_5: 11e42
+  md5_6: 11e427
+  oomp_key: oomp_ka78m05_to252
+  oomp_key_extra: oomp_symbol_ka78m05_to252
+  oomp_key_full: oomp_symbol_ka78m05_to252_11e427
+  oomp_key_simple: ka78m05_to252
   owner_name: kicad
-  symbol_name: regulator_linear_ka78m05_to252
+  symbol_name: ka78m05_to252
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

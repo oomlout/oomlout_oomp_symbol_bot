@@ -1,3 +1,5 @@
+id: kicad_sensor_current_htfs200_p
+library: sensor_current
 library_name: Sensor_Current
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_current_htfs200_p/working
   oomp_src_flat: symbols_flat/kicad_sensor_current_htfs200_p/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_current_htfs200_p/working
-name: sensor_current_htfs200_p
+name: htfs200_p
 oomp:
   library_name: sensor_current
-  md5: c9e486c0d9c6aaeb560a67c0bbdc4a1e
-  md5_10: c9e486c0d9
-  md5_5: c9e48
-  md5_6: c9e486
-  oomp_key: oomp_sensor_current_htfs200_p
-  oomp_key_extra: oomp_symbol_sensor_current_htfs200_p
-  oomp_key_full: oomp_symbol_sensor_current_htfs200_p_c9e486
-  oomp_key_simple: sensor_current_htfs200_p
+  md5: ee622ef9d841be287a6701a43e39d347
+  md5_10: ee622ef9d8
+  md5_5: ee622
+  md5_6: ee622e
+  oomp_key: oomp_htfs200_p
+  oomp_key_extra: oomp_symbol_htfs200_p
+  oomp_key_full: oomp_symbol_htfs200_p_ee622e
+  oomp_key_simple: htfs200_p
   owner_name: kicad
-  symbol_name: sensor_current_htfs200_p
+  symbol_name: htfs200_p
 oomp_key: oomp_kicad_sensor_current_htfs200_p
 oomp_key_simple: kicad_sensor_current_htfs200_p
 owner: kicad

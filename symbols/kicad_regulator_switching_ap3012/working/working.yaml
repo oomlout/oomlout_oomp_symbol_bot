@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_ap3012
+library: regulator_switching
 library_name: Regulator_Switching
+name: ap3012
 oomp:
   library_name: regulator_switching
-  md5: 84d26b1783aea48d459066341e7ac2d4
-  md5_10: 84d26b1783
-  md5_5: 84d26
-  md5_6: 84d26b
-  oomp_key: oomp_regulator_switching_ap3012
-  oomp_key_extra: oomp_symbol_regulator_switching_ap3012
-  oomp_key_full: oomp_symbol_regulator_switching_ap3012_84d26b
-  oomp_key_simple: regulator_switching_ap3012
+  md5: 8bff8dab2024c5fe836636f39cf11886
+  md5_10: 8bff8dab20
+  md5_5: 8bff8
+  md5_6: 8bff8d
+  oomp_key: oomp_ap3012
+  oomp_key_extra: oomp_symbol_ap3012
+  oomp_key_full: oomp_symbol_ap3012_8bff8d
+  oomp_key_simple: ap3012
   owner_name: kicad
-  symbol_name: regulator_switching_ap3012
+  symbol_name: ap3012
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

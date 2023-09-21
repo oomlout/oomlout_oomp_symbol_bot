@@ -1,16 +1,20 @@
+id: kicad_analog_adc_ad7795
+library: analog_adc
 library_name: Analog_ADC
+name: ad7795
 oomp:
   library_name: analog_adc
-  md5: 055b6182d9b271213521961053603a9f
-  md5_10: 055b6182d9
-  md5_5: 055b6
-  md5_6: 055b61
-  oomp_key: oomp_analog_adc_ad7795
-  oomp_key_extra: oomp_symbol_analog_adc_ad7795
-  oomp_key_full: oomp_symbol_analog_adc_ad7795_055b61
-  oomp_key_simple: analog_adc_ad7795
+  md5: 0e1051c84095c26c8ac20d50737ada80
+  md5_10: 0e1051c840
+  md5_5: 0e105
+  md5_6: 0e1051
+  oomp_key: oomp_ad7795
+  oomp_key_extra: oomp_symbol_ad7795
+  oomp_key_full: oomp_symbol_ad7795_0e1051
+  oomp_key_simple: ad7795
   owner_name: kicad
-  symbol_name: analog_adc_ad7795
+  symbol_name: ad7795
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

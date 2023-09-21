@@ -1,16 +1,20 @@
+id: kicad_sensor_temperature_si7053_a20
+library: sensor_temperature
 library_name: Sensor_Temperature
+name: si7053_a20
 oomp:
   library_name: sensor_temperature
-  md5: e5a01b82357539352b9afe50d155baeb
-  md5_10: e5a01b8235
-  md5_5: e5a01
-  md5_6: e5a01b
-  oomp_key: oomp_sensor_temperature_si7053_a20
-  oomp_key_extra: oomp_symbol_sensor_temperature_si7053_a20
-  oomp_key_full: oomp_symbol_sensor_temperature_si7053_a20_e5a01b
-  oomp_key_simple: sensor_temperature_si7053_a20
+  md5: ba1541cd56edba297e0370a06a766d16
+  md5_10: ba1541cd56
+  md5_5: ba154
+  md5_6: ba1541
+  oomp_key: oomp_si7053_a20
+  oomp_key_extra: oomp_symbol_si7053_a20
+  oomp_key_full: oomp_symbol_si7053_a20_ba1541
+  oomp_key_simple: si7053_a20
   owner_name: kicad
-  symbol_name: sensor_temperature_si7053_a20
+  symbol_name: si7053_a20
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

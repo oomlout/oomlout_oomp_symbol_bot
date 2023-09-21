@@ -1,3 +1,5 @@
+id: arturo182_battery_management_extra_mcp73831
+library: battery_management_extra
 library_name: Battery_Management_Extra
 links:
   github_owner: arturo182
@@ -10,19 +12,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/arturo182_battery_management_extra_mcp73831/working
   oomp_src_flat: symbols_flat/arturo182_battery_management_extra_mcp73831/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/arturo182_battery_management_extra_mcp73831/working
-name: battery_management_extra_mcp73831
+name: mcp73831
 oomp:
   library_name: battery_management_extra
-  md5: 72fb50cee97c0003ace9880a48fe9235
-  md5_10: 72fb50cee9
-  md5_5: 72fb5
-  md5_6: 72fb50
-  oomp_key: oomp_battery_management_extra_mcp73831
-  oomp_key_extra: oomp_symbol_battery_management_extra_mcp73831
-  oomp_key_full: oomp_symbol_battery_management_extra_mcp73831_72fb50
-  oomp_key_simple: battery_management_extra_mcp73831
+  md5: 0187c340e5c9bacb330f03daadf0575a
+  md5_10: 0187c340e5
+  md5_5: 0187c
+  md5_6: 0187c3
+  oomp_key: oomp_mcp73831
+  oomp_key_extra: oomp_symbol_mcp73831
+  oomp_key_full: oomp_symbol_mcp73831_0187c3
+  oomp_key_simple: mcp73831
   owner_name: arturo182
-  symbol_name: battery_management_extra_mcp73831
+  symbol_name: mcp73831
 oomp_key: oomp_arturo182_battery_management_extra_mcp73831
 oomp_key_simple: arturo182_battery_management_extra_mcp73831
 owner: arturo182

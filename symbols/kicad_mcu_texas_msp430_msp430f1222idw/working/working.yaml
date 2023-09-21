@@ -1,3 +1,5 @@
+id: kicad_mcu_texas_msp430_msp430f1222idw
+library: mcu_texas_msp430
 library_name: MCU_Texas_MSP430
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_texas_msp430_msp430f1222idw/working
   oomp_src_flat: symbols_flat/kicad_mcu_texas_msp430_msp430f1222idw/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_texas_msp430_msp430f1222idw/working
-name: mcu_texas_msp430_msp430f1222idw
+name: msp430f1222idw
 oomp:
   library_name: mcu_texas_msp430
-  md5: a5f02646fe7b6af6b131dc551d71acab
-  md5_10: a5f02646fe
-  md5_5: a5f02
-  md5_6: a5f026
-  oomp_key: oomp_mcu_texas_msp430_msp430f1222idw
-  oomp_key_extra: oomp_symbol_mcu_texas_msp430_msp430f1222idw
-  oomp_key_full: oomp_symbol_mcu_texas_msp430_msp430f1222idw_a5f026
-  oomp_key_simple: mcu_texas_msp430_msp430f1222idw
+  md5: 753ace4916f1ed5176652e3fb7eed045
+  md5_10: 753ace4916
+  md5_5: 753ac
+  md5_6: 753ace
+  oomp_key: oomp_msp430f1222idw
+  oomp_key_extra: oomp_symbol_msp430f1222idw
+  oomp_key_full: oomp_symbol_msp430f1222idw_753ace
+  oomp_key_simple: msp430f1222idw
   owner_name: kicad
-  symbol_name: mcu_texas_msp430_msp430f1222idw
+  symbol_name: msp430f1222idw
 oomp_key: oomp_kicad_mcu_texas_msp430_msp430f1222idw
 oomp_key_simple: kicad_mcu_texas_msp430_msp430f1222idw
 owner: kicad

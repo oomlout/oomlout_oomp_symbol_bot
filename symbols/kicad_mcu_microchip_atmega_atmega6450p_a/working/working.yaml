@@ -1,16 +1,20 @@
+id: kicad_mcu_microchip_atmega_atmega6450p_a
+library: mcu_microchip_atmega
 library_name: MCU_Microchip_ATmega
+name: atmega6450p_a
 oomp:
   library_name: mcu_microchip_atmega
-  md5: 26989212df51c3d2303ec561f5324568
-  md5_10: 26989212df
-  md5_5: '26989'
-  md5_6: '269892'
-  oomp_key: oomp_mcu_microchip_atmega_atmega6450p_a
-  oomp_key_extra: oomp_symbol_mcu_microchip_atmega_atmega6450p_a
-  oomp_key_full: oomp_symbol_mcu_microchip_atmega_atmega6450p_a_269892
-  oomp_key_simple: mcu_microchip_atmega_atmega6450p_a
+  md5: 02d9443b4eb2292711dcf30e9455176c
+  md5_10: 02d9443b4e
+  md5_5: 02d94
+  md5_6: 02d944
+  oomp_key: oomp_atmega6450p_a
+  oomp_key_extra: oomp_symbol_atmega6450p_a
+  oomp_key_full: oomp_symbol_atmega6450p_a_02d944
+  oomp_key_simple: atmega6450p_a
   owner_name: kicad
-  symbol_name: mcu_microchip_atmega_atmega6450p_a
+  symbol_name: atmega6450p_a
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

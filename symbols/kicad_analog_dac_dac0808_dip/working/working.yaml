@@ -1,16 +1,20 @@
+id: kicad_analog_dac_dac0808_dip
+library: analog_dac
 library_name: Analog_DAC
+name: dac0808_dip
 oomp:
   library_name: analog_dac
-  md5: 91e70a42b4166822d73f1798403fbdb3
-  md5_10: 91e70a42b4
-  md5_5: 91e70
-  md5_6: 91e70a
-  oomp_key: oomp_analog_dac_dac0808_dip
-  oomp_key_extra: oomp_symbol_analog_dac_dac0808_dip
-  oomp_key_full: oomp_symbol_analog_dac_dac0808_dip_91e70a
-  oomp_key_simple: analog_dac_dac0808_dip
+  md5: 91d67b95bb0e3f529b251f89d7e3fea5
+  md5_10: 91d67b95bb
+  md5_5: 91d67
+  md5_6: 91d67b
+  oomp_key: oomp_dac0808_dip
+  oomp_key_extra: oomp_symbol_dac0808_dip
+  oomp_key_full: oomp_symbol_dac0808_dip_91d67b
+  oomp_key_simple: dac0808_dip
   owner_name: kicad
-  symbol_name: analog_dac_dac0808_dip
+  symbol_name: dac0808_dip
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

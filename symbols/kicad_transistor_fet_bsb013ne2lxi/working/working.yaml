@@ -1,16 +1,20 @@
+id: kicad_transistor_fet_bsb013ne2lxi
+library: transistor_fet
 library_name: Transistor_FET
+name: bsb013ne2lxi
 oomp:
   library_name: transistor_fet
-  md5: 6985a9894737a409e4ec1108f11c4281
-  md5_10: 6985a98947
-  md5_5: 6985a
-  md5_6: 6985a9
-  oomp_key: oomp_transistor_fet_bsb013ne2lxi
-  oomp_key_extra: oomp_symbol_transistor_fet_bsb013ne2lxi
-  oomp_key_full: oomp_symbol_transistor_fet_bsb013ne2lxi_6985a9
-  oomp_key_simple: transistor_fet_bsb013ne2lxi
+  md5: 80496d9824cbe99b9f14fc7f0c057152
+  md5_10: 80496d9824
+  md5_5: '80496'
+  md5_6: 80496d
+  oomp_key: oomp_bsb013ne2lxi
+  oomp_key_extra: oomp_symbol_bsb013ne2lxi
+  oomp_key_full: oomp_symbol_bsb013ne2lxi_80496d
+  oomp_key_simple: bsb013ne2lxi
   owner_name: kicad
-  symbol_name: transistor_fet_bsb013ne2lxi
+  symbol_name: bsb013ne2lxi
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

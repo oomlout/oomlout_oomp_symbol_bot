@@ -1,16 +1,20 @@
+id: kicad_driver_fet_fl5160mx
+library: driver_fet
 library_name: Driver_FET
+name: fl5160mx
 oomp:
   library_name: driver_fet
-  md5: a3d024699bb6e264617a69ee88f73e60
-  md5_10: a3d024699b
-  md5_5: a3d02
-  md5_6: a3d024
-  oomp_key: oomp_driver_fet_fl5160mx
-  oomp_key_extra: oomp_symbol_driver_fet_fl5160mx
-  oomp_key_full: oomp_symbol_driver_fet_fl5160mx_a3d024
-  oomp_key_simple: driver_fet_fl5160mx
+  md5: 97ba80285c08bf18675dd6e9d1191a56
+  md5_10: 97ba80285c
+  md5_5: 97ba8
+  md5_6: 97ba80
+  oomp_key: oomp_fl5160mx
+  oomp_key_extra: oomp_symbol_fl5160mx
+  oomp_key_full: oomp_symbol_fl5160mx_97ba80
+  oomp_key_simple: fl5160mx
   owner_name: kicad
-  symbol_name: driver_fet_fl5160mx
+  symbol_name: fl5160mx
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_connector_audio_ncj10fi_h
+library: connector_audio
 library_name: Connector_Audio
+name: ncj10fi_h
 oomp:
   library_name: connector_audio
-  md5: a6966d7e50674ef26b4c0fa1084af383
-  md5_10: a6966d7e50
-  md5_5: a6966
-  md5_6: a6966d
-  oomp_key: oomp_connector_audio_ncj10fi_h
-  oomp_key_extra: oomp_symbol_connector_audio_ncj10fi_h
-  oomp_key_full: oomp_symbol_connector_audio_ncj10fi_h_a6966d
-  oomp_key_simple: connector_audio_ncj10fi_h
+  md5: eda21613e691834be45ac9fafac20651
+  md5_10: eda21613e6
+  md5_5: eda21
+  md5_6: eda216
+  oomp_key: oomp_ncj10fi_h
+  oomp_key_extra: oomp_symbol_ncj10fi_h
+  oomp_key_full: oomp_symbol_ncj10fi_h_eda216
+  oomp_key_simple: ncj10fi_h
   owner_name: kicad
-  symbol_name: connector_audio_ncj10fi_h
+  symbol_name: ncj10fi_h
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

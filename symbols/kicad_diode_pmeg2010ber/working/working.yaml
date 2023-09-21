@@ -1,16 +1,20 @@
+id: kicad_diode_pmeg2010ber
+library: diode
 library_name: Diode
+name: pmeg2010ber
 oomp:
   library_name: diode
-  md5: 78162b2cb35282624799a3b031ce6b17
-  md5_10: 78162b2cb3
-  md5_5: '78162'
-  md5_6: 78162b
-  oomp_key: oomp_diode_pmeg2010ber
-  oomp_key_extra: oomp_symbol_diode_pmeg2010ber
-  oomp_key_full: oomp_symbol_diode_pmeg2010ber_78162b
-  oomp_key_simple: diode_pmeg2010ber
+  md5: 0e4e206c2c5b09ed167d68e9e7d6e9ed
+  md5_10: 0e4e206c2c
+  md5_5: 0e4e2
+  md5_6: 0e4e20
+  oomp_key: oomp_pmeg2010ber
+  oomp_key_extra: oomp_symbol_pmeg2010ber
+  oomp_key_full: oomp_symbol_pmeg2010ber_0e4e20
+  oomp_key_simple: pmeg2010ber
   owner_name: kicad
-  symbol_name: diode_pmeg2010ber
+  symbol_name: pmeg2010ber
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

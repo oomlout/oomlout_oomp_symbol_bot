@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_l7806
+library: regulator_linear
 library_name: Regulator_Linear
+name: l7806
 oomp:
   library_name: regulator_linear
-  md5: 1fbe74e02a2d430b30491de37a0aa79c
-  md5_10: 1fbe74e02a
-  md5_5: 1fbe7
-  md5_6: 1fbe74
-  oomp_key: oomp_regulator_linear_l7806
-  oomp_key_extra: oomp_symbol_regulator_linear_l7806
-  oomp_key_full: oomp_symbol_regulator_linear_l7806_1fbe74
-  oomp_key_simple: regulator_linear_l7806
+  md5: 40dda1bf3ac71680773848b16fae40f8
+  md5_10: 40dda1bf3a
+  md5_5: 40dda
+  md5_6: 40dda1
+  oomp_key: oomp_l7806
+  oomp_key_extra: oomp_symbol_l7806
+  oomp_key_full: oomp_symbol_l7806_40dda1
+  oomp_key_simple: l7806
   owner_name: kicad
-  symbol_name: regulator_linear_l7806
+  symbol_name: l7806
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_driver_fet_zxgd3003e6
+library: driver_fet
 library_name: Driver_FET
+name: zxgd3003e6
 oomp:
   library_name: driver_fet
-  md5: e09d51039c731474947cfa66e1c21677
-  md5_10: e09d51039c
-  md5_5: e09d5
-  md5_6: e09d51
-  oomp_key: oomp_driver_fet_zxgd3003e6
-  oomp_key_extra: oomp_symbol_driver_fet_zxgd3003e6
-  oomp_key_full: oomp_symbol_driver_fet_zxgd3003e6_e09d51
-  oomp_key_simple: driver_fet_zxgd3003e6
+  md5: 8c43324461981cd437b491afb1fe2d72
+  md5_10: 8c43324461
+  md5_5: 8c433
+  md5_6: 8c4332
+  oomp_key: oomp_zxgd3003e6
+  oomp_key_extra: oomp_symbol_zxgd3003e6
+  oomp_key_full: oomp_symbol_zxgd3003e6_8c4332
+  oomp_key_simple: zxgd3003e6
   owner_name: kicad
-  symbol_name: driver_fet_zxgd3003e6
+  symbol_name: zxgd3003e6
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

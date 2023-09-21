@@ -1,16 +1,20 @@
+id: kicad_sensor_temperature_tmp116xxdrv
+library: sensor_temperature
 library_name: Sensor_Temperature
+name: tmp116xxdrv
 oomp:
   library_name: sensor_temperature
-  md5: 8ec9a6697418531bc1fc0c5ea2fe3f21
-  md5_10: 8ec9a66974
-  md5_5: 8ec9a
-  md5_6: 8ec9a6
-  oomp_key: oomp_sensor_temperature_tmp116xxdrv
-  oomp_key_extra: oomp_symbol_sensor_temperature_tmp116xxdrv
-  oomp_key_full: oomp_symbol_sensor_temperature_tmp116xxdrv_8ec9a6
-  oomp_key_simple: sensor_temperature_tmp116xxdrv
+  md5: ee3158efdc8b5bfd61719b27f661e89a
+  md5_10: ee3158efdc
+  md5_5: ee315
+  md5_6: ee3158
+  oomp_key: oomp_tmp116xxdrv
+  oomp_key_extra: oomp_symbol_tmp116xxdrv
+  oomp_key_full: oomp_symbol_tmp116xxdrv_ee3158
+  oomp_key_simple: tmp116xxdrv
   owner_name: kicad
-  symbol_name: sensor_temperature_tmp116xxdrv
+  symbol_name: tmp116xxdrv
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,3 +1,5 @@
+id: arturo182_power_extra_vadj
+library: power_extra
 library_name: power_extra
 links:
   github_owner: arturo182
@@ -10,19 +12,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/arturo182_power_extra_vadj/working
   oomp_src_flat: symbols_flat/arturo182_power_extra_vadj/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/arturo182_power_extra_vadj/working
-name: power_extra_vadj
+name: vadj
 oomp:
   library_name: power_extra
-  md5: 73fc35ab2925f539a45f78126fabe5fb
-  md5_10: 73fc35ab29
-  md5_5: 73fc3
-  md5_6: 73fc35
-  oomp_key: oomp_power_extra_vadj
-  oomp_key_extra: oomp_symbol_power_extra_vadj
-  oomp_key_full: oomp_symbol_power_extra_vadj_73fc35
-  oomp_key_simple: power_extra_vadj
+  md5: 77c3f62965a90e3badc13205a61ea135
+  md5_10: 77c3f62965
+  md5_5: 77c3f
+  md5_6: 77c3f6
+  oomp_key: oomp_vadj
+  oomp_key_extra: oomp_symbol_vadj
+  oomp_key_full: oomp_symbol_vadj_77c3f6
+  oomp_key_simple: vadj
   owner_name: arturo182
-  symbol_name: power_extra_vadj
+  symbol_name: vadj
 oomp_key: oomp_arturo182_power_extra_vadj
 oomp_key_simple: arturo182_power_extra_vadj
 owner: arturo182

@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_lnk615dg
+library: regulator_switching
 library_name: Regulator_Switching
+name: lnk615dg
 oomp:
   library_name: regulator_switching
-  md5: aa2bf28616070c4cf0e5a6d1cf3ff491
-  md5_10: aa2bf28616
-  md5_5: aa2bf
-  md5_6: aa2bf2
-  oomp_key: oomp_regulator_switching_lnk615dg
-  oomp_key_extra: oomp_symbol_regulator_switching_lnk615dg
-  oomp_key_full: oomp_symbol_regulator_switching_lnk615dg_aa2bf2
-  oomp_key_simple: regulator_switching_lnk615dg
+  md5: 1ef763352c4e8133e5ef06bfd3749fe6
+  md5_10: 1ef763352c
+  md5_5: 1ef76
+  md5_6: 1ef763
+  oomp_key: oomp_lnk615dg
+  oomp_key_extra: oomp_symbol_lnk615dg
+  oomp_key_full: oomp_symbol_lnk615dg_1ef763
+  oomp_key_simple: lnk615dg
   owner_name: kicad
-  symbol_name: regulator_switching_lnk615dg
+  symbol_name: lnk615dg
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

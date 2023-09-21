@@ -1,3 +1,5 @@
+id: kicad_device_microphone_crystal
+library: device
 library_name: Device
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_microphone_crystal/working
   oomp_src_flat: symbols_flat/kicad_device_microphone_crystal/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_microphone_crystal/working
-name: device_microphone_crystal
+name: microphone_crystal
 oomp:
   library_name: device
-  md5: 7f7000689c30e4e332b015d69a9b674d
-  md5_10: 7f7000689c
-  md5_5: 7f700
-  md5_6: 7f7000
-  oomp_key: oomp_device_microphone_crystal
-  oomp_key_extra: oomp_symbol_device_microphone_crystal
-  oomp_key_full: oomp_symbol_device_microphone_crystal_7f7000
-  oomp_key_simple: device_microphone_crystal
+  md5: 33bb0f3dc5a6f3b375982283521e9ac7
+  md5_10: 33bb0f3dc5
+  md5_5: 33bb0
+  md5_6: 33bb0f
+  oomp_key: oomp_microphone_crystal
+  oomp_key_extra: oomp_symbol_microphone_crystal
+  oomp_key_full: oomp_symbol_microphone_crystal_33bb0f
+  oomp_key_simple: microphone_crystal
   owner_name: kicad
-  symbol_name: device_microphone_crystal
+  symbol_name: microphone_crystal
 oomp_key: oomp_kicad_device_microphone_crystal
 oomp_key_simple: kicad_device_microphone_crystal
 owner: kicad

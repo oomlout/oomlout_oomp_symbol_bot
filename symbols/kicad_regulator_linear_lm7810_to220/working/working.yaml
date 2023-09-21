@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_lm7810_to220
+library: regulator_linear
 library_name: Regulator_Linear
+name: lm7810_to220
 oomp:
   library_name: regulator_linear
-  md5: 430fab5bc16f7a2bbbc4549bf6e09add
-  md5_10: 430fab5bc1
-  md5_5: 430fa
-  md5_6: 430fab
-  oomp_key: oomp_regulator_linear_lm7810_to220
-  oomp_key_extra: oomp_symbol_regulator_linear_lm7810_to220
-  oomp_key_full: oomp_symbol_regulator_linear_lm7810_to220_430fab
-  oomp_key_simple: regulator_linear_lm7810_to220
+  md5: 0801594c074336da3bdfbc43cc4e2889
+  md5_10: 0801594c07
+  md5_5: 08015
+  md5_6: 080159
+  oomp_key: oomp_lm7810_to220
+  oomp_key_extra: oomp_symbol_lm7810_to220
+  oomp_key_full: oomp_symbol_lm7810_to220_080159
+  oomp_key_simple: lm7810_to220
   owner_name: kicad
-  symbol_name: regulator_linear_lm7810_to220
+  symbol_name: lm7810_to220
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

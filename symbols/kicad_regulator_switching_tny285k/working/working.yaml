@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_tny285k
+library: regulator_switching
 library_name: Regulator_Switching
+name: tny285k
 oomp:
   library_name: regulator_switching
-  md5: 4292018cdf4169b5bca2c9c2df604424
-  md5_10: 4292018cdf
-  md5_5: '42920'
-  md5_6: '429201'
-  oomp_key: oomp_regulator_switching_tny285k
-  oomp_key_extra: oomp_symbol_regulator_switching_tny285k
-  oomp_key_full: oomp_symbol_regulator_switching_tny285k_429201
-  oomp_key_simple: regulator_switching_tny285k
+  md5: 340827b5401efb9f7cd77e95cdfea000
+  md5_10: 340827b540
+  md5_5: '34082'
+  md5_6: '340827'
+  oomp_key: oomp_tny285k
+  oomp_key_extra: oomp_symbol_tny285k
+  oomp_key_full: oomp_symbol_tny285k_340827
+  oomp_key_simple: tny285k
   owner_name: kicad
-  symbol_name: regulator_switching_tny285k
+  symbol_name: tny285k
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

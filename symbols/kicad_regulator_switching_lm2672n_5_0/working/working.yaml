@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_lm2672n_5_0
+library: regulator_switching
 library_name: Regulator_Switching
+name: lm2672n_5_0
 oomp:
   library_name: regulator_switching
-  md5: 5a06171d35778075ee7ff9c3b3a78cac
-  md5_10: 5a06171d35
-  md5_5: 5a061
-  md5_6: 5a0617
-  oomp_key: oomp_regulator_switching_lm2672n_5_0
-  oomp_key_extra: oomp_symbol_regulator_switching_lm2672n_5_0
-  oomp_key_full: oomp_symbol_regulator_switching_lm2672n_5_0_5a0617
-  oomp_key_simple: regulator_switching_lm2672n_5_0
+  md5: 353639c20d82963fafcec00d5654c631
+  md5_10: 353639c20d
+  md5_5: '35363'
+  md5_6: '353639'
+  oomp_key: oomp_lm2672n_5_0
+  oomp_key_extra: oomp_symbol_lm2672n_5_0
+  oomp_key_full: oomp_symbol_lm2672n_5_0_353639
+  oomp_key_simple: lm2672n_5_0
   owner_name: kicad
-  symbol_name: regulator_switching_lm2672n_5_0
+  symbol_name: lm2672n_5_0
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_reference_voltage_ref194
+library: reference_voltage
 library_name: Reference_Voltage
+name: ref194
 oomp:
   library_name: reference_voltage
-  md5: bf1193d7cdfc3f247b70389d82031520
-  md5_10: bf1193d7cd
-  md5_5: bf119
-  md5_6: bf1193
-  oomp_key: oomp_reference_voltage_ref194
-  oomp_key_extra: oomp_symbol_reference_voltage_ref194
-  oomp_key_full: oomp_symbol_reference_voltage_ref194_bf1193
-  oomp_key_simple: reference_voltage_ref194
+  md5: a426be8739819faf0c08869d00179858
+  md5_10: a426be8739
+  md5_5: a426b
+  md5_6: a426be
+  oomp_key: oomp_ref194
+  oomp_key_extra: oomp_symbol_ref194
+  oomp_key_full: oomp_symbol_ref194_a426be
+  oomp_key_simple: ref194
   owner_name: kicad
-  symbol_name: reference_voltage_ref194
+  symbol_name: ref194
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

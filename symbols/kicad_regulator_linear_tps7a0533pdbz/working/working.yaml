@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_tps7a0533pdbz
+library: regulator_linear
 library_name: Regulator_Linear
+name: tps7a0533pdbz
 oomp:
   library_name: regulator_linear
-  md5: 5db74b34b4e0d9ce6f7960a91a627875
-  md5_10: 5db74b34b4
-  md5_5: 5db74
-  md5_6: 5db74b
-  oomp_key: oomp_regulator_linear_tps7a0533pdbz
-  oomp_key_extra: oomp_symbol_regulator_linear_tps7a0533pdbz
-  oomp_key_full: oomp_symbol_regulator_linear_tps7a0533pdbz_5db74b
-  oomp_key_simple: regulator_linear_tps7a0533pdbz
+  md5: 8b1ff49148193ff11ebb082d22ff051a
+  md5_10: 8b1ff49148
+  md5_5: 8b1ff
+  md5_6: 8b1ff4
+  oomp_key: oomp_tps7a0533pdbz
+  oomp_key_extra: oomp_symbol_tps7a0533pdbz
+  oomp_key_full: oomp_symbol_tps7a0533pdbz_8b1ff4
+  oomp_key_simple: tps7a0533pdbz
   owner_name: kicad
-  symbol_name: regulator_linear_tps7a0533pdbz
+  symbol_name: tps7a0533pdbz
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

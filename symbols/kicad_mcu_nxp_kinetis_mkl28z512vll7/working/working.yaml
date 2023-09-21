@@ -1,3 +1,5 @@
+id: kicad_mcu_nxp_kinetis_mkl28z512vll7
+library: mcu_nxp_kinetis
 library_name: MCU_NXP_Kinetis
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_nxp_kinetis_mkl28z512vll7/working
   oomp_src_flat: symbols_flat/kicad_mcu_nxp_kinetis_mkl28z512vll7/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_nxp_kinetis_mkl28z512vll7/working
-name: mcu_nxp_kinetis_mkl28z512vll7
+name: mkl28z512vll7
 oomp:
   library_name: mcu_nxp_kinetis
-  md5: 49031d8108439da1f9769b2bbdc4e9f8
-  md5_10: 49031d8108
-  md5_5: '49031'
-  md5_6: 49031d
-  oomp_key: oomp_mcu_nxp_kinetis_mkl28z512vll7
-  oomp_key_extra: oomp_symbol_mcu_nxp_kinetis_mkl28z512vll7
-  oomp_key_full: oomp_symbol_mcu_nxp_kinetis_mkl28z512vll7_49031d
-  oomp_key_simple: mcu_nxp_kinetis_mkl28z512vll7
+  md5: e384823987249720604560cbf56d6c30
+  md5_10: e384823987
+  md5_5: e3848
+  md5_6: e38482
+  oomp_key: oomp_mkl28z512vll7
+  oomp_key_extra: oomp_symbol_mkl28z512vll7
+  oomp_key_full: oomp_symbol_mkl28z512vll7_e38482
+  oomp_key_simple: mkl28z512vll7
   owner_name: kicad
-  symbol_name: mcu_nxp_kinetis_mkl28z512vll7
+  symbol_name: mkl28z512vll7
 oomp_key: oomp_kicad_mcu_nxp_kinetis_mkl28z512vll7
 oomp_key_simple: kicad_mcu_nxp_kinetis_mkl28z512vll7
 owner: kicad

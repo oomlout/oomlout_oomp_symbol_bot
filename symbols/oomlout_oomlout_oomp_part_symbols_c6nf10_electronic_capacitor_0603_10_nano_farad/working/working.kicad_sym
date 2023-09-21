@@ -15,7 +15,7 @@
     (property "ki_keywords" "cap capacitor" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "ki_description" "Unpolarized capacitor" (at 0 0 0)
+    (property "ki_description" "[electronic_capacitor_0603_10_nano_farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_10_nano_farad/working)<br><br>[Yageo - CC0603KRX7R9BB103](https://www.yageo.com/en/Chart/Download/pdf/CC0603KRX7R9BB103)" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "ki_fp_filters" "C_*" (at 0 0 0)

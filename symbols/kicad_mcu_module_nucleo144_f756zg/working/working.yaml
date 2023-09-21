@@ -1,16 +1,20 @@
+id: kicad_mcu_module_nucleo144_f756zg
+library: mcu_module
 library_name: MCU_Module
+name: nucleo144_f756zg
 oomp:
   library_name: mcu_module
-  md5: d17c82311a72f79dc0f629acb97e22fc
-  md5_10: d17c82311a
-  md5_5: d17c8
-  md5_6: d17c82
-  oomp_key: oomp_mcu_module_nucleo144_f756zg
-  oomp_key_extra: oomp_symbol_mcu_module_nucleo144_f756zg
-  oomp_key_full: oomp_symbol_mcu_module_nucleo144_f756zg_d17c82
-  oomp_key_simple: mcu_module_nucleo144_f756zg
+  md5: 8c6c7a164cd04c3da70cf50820edece1
+  md5_10: 8c6c7a164c
+  md5_5: 8c6c7
+  md5_6: 8c6c7a
+  oomp_key: oomp_nucleo144_f756zg
+  oomp_key_extra: oomp_symbol_nucleo144_f756zg
+  oomp_key_full: oomp_symbol_nucleo144_f756zg_8c6c7a
+  oomp_key_simple: nucleo144_f756zg
   owner_name: kicad
-  symbol_name: mcu_module_nucleo144_f756zg
+  symbol_name: nucleo144_f756zg
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,3 +1,5 @@
+id: kicad_memory_eeprom_cat24m01y
+library: memory_eeprom
 library_name: Memory_EEPROM
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_memory_eeprom_cat24m01y/working
   oomp_src_flat: symbols_flat/kicad_memory_eeprom_cat24m01y/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_memory_eeprom_cat24m01y/working
-name: memory_eeprom_cat24m01y
+name: cat24m01y
 oomp:
   library_name: memory_eeprom
-  md5: 343188baeaf8b5b9c0add5c411b9458e
-  md5_10: 343188baea
-  md5_5: '34318'
-  md5_6: '343188'
-  oomp_key: oomp_memory_eeprom_cat24m01y
-  oomp_key_extra: oomp_symbol_memory_eeprom_cat24m01y
-  oomp_key_full: oomp_symbol_memory_eeprom_cat24m01y_343188
-  oomp_key_simple: memory_eeprom_cat24m01y
+  md5: dc09b60c2b5b744f33d290ef2812f99f
+  md5_10: dc09b60c2b
+  md5_5: dc09b
+  md5_6: dc09b6
+  oomp_key: oomp_cat24m01y
+  oomp_key_extra: oomp_symbol_cat24m01y
+  oomp_key_full: oomp_symbol_cat24m01y_dc09b6
+  oomp_key_simple: cat24m01y
   owner_name: kicad
-  symbol_name: memory_eeprom_cat24m01y
+  symbol_name: cat24m01y
 oomp_key: oomp_kicad_memory_eeprom_cat24m01y
 oomp_key_simple: kicad_memory_eeprom_cat24m01y
 owner: kicad

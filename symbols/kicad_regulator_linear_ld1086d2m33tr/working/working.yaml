@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_ld1086d2m33tr
+library: regulator_linear
 library_name: Regulator_Linear
+name: ld1086d2m33tr
 oomp:
   library_name: regulator_linear
-  md5: ac1fdf89b1e5abf3b1a347aa20060af6
-  md5_10: ac1fdf89b1
-  md5_5: ac1fd
-  md5_6: ac1fdf
-  oomp_key: oomp_regulator_linear_ld1086d2m33tr
-  oomp_key_extra: oomp_symbol_regulator_linear_ld1086d2m33tr
-  oomp_key_full: oomp_symbol_regulator_linear_ld1086d2m33tr_ac1fdf
-  oomp_key_simple: regulator_linear_ld1086d2m33tr
+  md5: 6f8a80f428a9e3eb5e9ef2942e408ddf
+  md5_10: 6f8a80f428
+  md5_5: 6f8a8
+  md5_6: 6f8a80
+  oomp_key: oomp_ld1086d2m33tr
+  oomp_key_extra: oomp_symbol_ld1086d2m33tr
+  oomp_key_full: oomp_symbol_ld1086d2m33tr_6f8a80
+  oomp_key_simple: ld1086d2m33tr
   owner_name: kicad
-  symbol_name: regulator_linear_ld1086d2m33tr
+  symbol_name: ld1086d2m33tr
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_tps62201dbv
+library: regulator_switching
 library_name: Regulator_Switching
+name: tps62201dbv
 oomp:
   library_name: regulator_switching
-  md5: 24cf622b8587346279ce107e609e821b
-  md5_10: 24cf622b85
-  md5_5: 24cf6
-  md5_6: 24cf62
-  oomp_key: oomp_regulator_switching_tps62201dbv
-  oomp_key_extra: oomp_symbol_regulator_switching_tps62201dbv
-  oomp_key_full: oomp_symbol_regulator_switching_tps62201dbv_24cf62
-  oomp_key_simple: regulator_switching_tps62201dbv
+  md5: d9498dc7bdd4888130d2599880076fdf
+  md5_10: d9498dc7bd
+  md5_5: d9498
+  md5_6: d9498d
+  oomp_key: oomp_tps62201dbv
+  oomp_key_extra: oomp_symbol_tps62201dbv
+  oomp_key_full: oomp_symbol_tps62201dbv_d9498d
+  oomp_key_simple: tps62201dbv
   owner_name: kicad
-  symbol_name: regulator_switching_tps62201dbv
+  symbol_name: tps62201dbv
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

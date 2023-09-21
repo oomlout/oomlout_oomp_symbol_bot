@@ -1,16 +1,20 @@
+id: kicad_transistor_bjt_ffb2227a
+library: transistor_bjt
 library_name: Transistor_BJT
+name: ffb2227a
 oomp:
   library_name: transistor_bjt
-  md5: cdc7a1f1a7cf26e056a8c3e04da4d483
-  md5_10: cdc7a1f1a7
-  md5_5: cdc7a
-  md5_6: cdc7a1
-  oomp_key: oomp_transistor_bjt_ffb2227a
-  oomp_key_extra: oomp_symbol_transistor_bjt_ffb2227a
-  oomp_key_full: oomp_symbol_transistor_bjt_ffb2227a_cdc7a1
-  oomp_key_simple: transistor_bjt_ffb2227a
+  md5: a384c4dfd71b63a7eb65d296ed35f05c
+  md5_10: a384c4dfd7
+  md5_5: a384c
+  md5_6: a384c4
+  oomp_key: oomp_ffb2227a
+  oomp_key_extra: oomp_symbol_ffb2227a
+  oomp_key_full: oomp_symbol_ffb2227a_a384c4
+  oomp_key_simple: ffb2227a
   owner_name: kicad
-  symbol_name: transistor_bjt_ffb2227a
+  symbol_name: ffb2227a
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

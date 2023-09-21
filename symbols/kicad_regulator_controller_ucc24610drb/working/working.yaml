@@ -1,3 +1,5 @@
+id: kicad_regulator_controller_ucc24610drb
+library: regulator_controller
 library_name: Regulator_Controller
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_controller_ucc24610drb/working
   oomp_src_flat: symbols_flat/kicad_regulator_controller_ucc24610drb/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_controller_ucc24610drb/working
-name: regulator_controller_ucc24610drb
+name: ucc24610drb
 oomp:
   library_name: regulator_controller
-  md5: 6cdfeb3985640a27eebb5196f07d9990
-  md5_10: 6cdfeb3985
-  md5_5: 6cdfe
-  md5_6: 6cdfeb
-  oomp_key: oomp_regulator_controller_ucc24610drb
-  oomp_key_extra: oomp_symbol_regulator_controller_ucc24610drb
-  oomp_key_full: oomp_symbol_regulator_controller_ucc24610drb_6cdfeb
-  oomp_key_simple: regulator_controller_ucc24610drb
+  md5: 68239050be4490991978599425774212
+  md5_10: 68239050be
+  md5_5: '68239'
+  md5_6: '682390'
+  oomp_key: oomp_ucc24610drb
+  oomp_key_extra: oomp_symbol_ucc24610drb
+  oomp_key_full: oomp_symbol_ucc24610drb_682390
+  oomp_key_simple: ucc24610drb
   owner_name: kicad
-  symbol_name: regulator_controller_ucc24610drb
+  symbol_name: ucc24610drb
 oomp_key: oomp_kicad_regulator_controller_ucc24610drb
 oomp_key_simple: kicad_regulator_controller_ucc24610drb
 owner: kicad

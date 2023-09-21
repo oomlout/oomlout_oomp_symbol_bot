@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_lm7824_to220
+library: regulator_linear
 library_name: Regulator_Linear
+name: lm7824_to220
 oomp:
   library_name: regulator_linear
-  md5: 3234d53648e854e9cd09788ac61a3b29
-  md5_10: 3234d53648
-  md5_5: 3234d
-  md5_6: 3234d5
-  oomp_key: oomp_regulator_linear_lm7824_to220
-  oomp_key_extra: oomp_symbol_regulator_linear_lm7824_to220
-  oomp_key_full: oomp_symbol_regulator_linear_lm7824_to220_3234d5
-  oomp_key_simple: regulator_linear_lm7824_to220
+  md5: 6d5cb9cd6e84367331a7e94f79cb394a
+  md5_10: 6d5cb9cd6e
+  md5_5: 6d5cb
+  md5_6: 6d5cb9
+  oomp_key: oomp_lm7824_to220
+  oomp_key_extra: oomp_symbol_lm7824_to220
+  oomp_key_full: oomp_symbol_lm7824_to220_6d5cb9
+  oomp_key_simple: lm7824_to220
   owner_name: kicad
-  symbol_name: regulator_linear_lm7824_to220
+  symbol_name: lm7824_to220
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

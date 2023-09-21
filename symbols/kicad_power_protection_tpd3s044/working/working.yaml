@@ -1,16 +1,20 @@
+id: kicad_power_protection_tpd3s044
+library: power_protection
 library_name: Power_Protection
+name: tpd3s044
 oomp:
   library_name: power_protection
-  md5: c9ab44cd7c9f440530a4310b4ee3dd86
-  md5_10: c9ab44cd7c
-  md5_5: c9ab4
-  md5_6: c9ab44
-  oomp_key: oomp_power_protection_tpd3s044
-  oomp_key_extra: oomp_symbol_power_protection_tpd3s044
-  oomp_key_full: oomp_symbol_power_protection_tpd3s044_c9ab44
-  oomp_key_simple: power_protection_tpd3s044
+  md5: f48877914141b2199bcacb1257162217
+  md5_10: f488779141
+  md5_5: f4887
+  md5_6: f48877
+  oomp_key: oomp_tpd3s044
+  oomp_key_extra: oomp_symbol_tpd3s044
+  oomp_key_full: oomp_symbol_tpd3s044_f48877
+  oomp_key_simple: tpd3s044
   owner_name: kicad
-  symbol_name: power_protection_tpd3s044
+  symbol_name: tpd3s044
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_diode_us1a
+library: diode
 library_name: Diode
+name: us1a
 oomp:
   library_name: diode
-  md5: f73fd4a8fefffc5fbbf8a4723b403c8a
-  md5_10: f73fd4a8fe
-  md5_5: f73fd
-  md5_6: f73fd4
-  oomp_key: oomp_diode_us1a
-  oomp_key_extra: oomp_symbol_diode_us1a
-  oomp_key_full: oomp_symbol_diode_us1a_f73fd4
-  oomp_key_simple: diode_us1a
+  md5: 9cc9e87601ff9982e715145357510959
+  md5_10: 9cc9e87601
+  md5_5: 9cc9e
+  md5_6: 9cc9e8
+  oomp_key: oomp_us1a
+  oomp_key_extra: oomp_symbol_us1a
+  oomp_key_full: oomp_symbol_us1a_9cc9e8
+  oomp_key_simple: us1a
   owner_name: kicad
-  symbol_name: diode_us1a
+  symbol_name: us1a
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

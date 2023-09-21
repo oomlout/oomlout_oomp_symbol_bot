@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_ua7812
+library: regulator_linear
 library_name: Regulator_Linear
+name: ua7812
 oomp:
   library_name: regulator_linear
-  md5: 26c4ea5597be054290c284de90bb82c2
-  md5_10: 26c4ea5597
-  md5_5: 26c4e
-  md5_6: 26c4ea
-  oomp_key: oomp_regulator_linear_ua7812
-  oomp_key_extra: oomp_symbol_regulator_linear_ua7812
-  oomp_key_full: oomp_symbol_regulator_linear_ua7812_26c4ea
-  oomp_key_simple: regulator_linear_ua7812
+  md5: e8b3c882d310d9ae31b861d71f2aae47
+  md5_10: e8b3c882d3
+  md5_5: e8b3c
+  md5_6: e8b3c8
+  oomp_key: oomp_ua7812
+  oomp_key_extra: oomp_symbol_ua7812
+  oomp_key_full: oomp_symbol_ua7812_e8b3c8
+  oomp_key_simple: ua7812
   owner_name: kicad
-  symbol_name: regulator_linear_ua7812
+  symbol_name: ua7812
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_regulator_controller_ncp4308dd
+library: regulator_controller
 library_name: Regulator_Controller
+name: ncp4308dd
 oomp:
   library_name: regulator_controller
-  md5: bb005b9bea4c7a7ee2b21fd49bc262eb
-  md5_10: bb005b9bea
-  md5_5: bb005
-  md5_6: bb005b
-  oomp_key: oomp_regulator_controller_ncp4308dd
-  oomp_key_extra: oomp_symbol_regulator_controller_ncp4308dd
-  oomp_key_full: oomp_symbol_regulator_controller_ncp4308dd_bb005b
-  oomp_key_simple: regulator_controller_ncp4308dd
+  md5: 697fa2ea2bcd0fa159307738e3923973
+  md5_10: 697fa2ea2b
+  md5_5: 697fa
+  md5_6: 697fa2
+  oomp_key: oomp_ncp4308dd
+  oomp_key_extra: oomp_symbol_ncp4308dd
+  oomp_key_full: oomp_symbol_ncp4308dd_697fa2
+  oomp_key_simple: ncp4308dd
   owner_name: kicad
-  symbol_name: regulator_controller_ncp4308dd
+  symbol_name: ncp4308dd
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

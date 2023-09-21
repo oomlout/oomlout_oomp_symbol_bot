@@ -1,16 +1,20 @@
+id: kicad_transistor_fet_bss84
+library: transistor_fet
 library_name: Transistor_FET
+name: bss84
 oomp:
   library_name: transistor_fet
-  md5: 42047e566b50bc28ddad0f3856d5ed2f
-  md5_10: 42047e566b
-  md5_5: '42047'
-  md5_6: 42047e
-  oomp_key: oomp_transistor_fet_bss84
-  oomp_key_extra: oomp_symbol_transistor_fet_bss84
-  oomp_key_full: oomp_symbol_transistor_fet_bss84_42047e
-  oomp_key_simple: transistor_fet_bss84
+  md5: e8bdab4936484e139447071d6c5dcf03
+  md5_10: e8bdab4936
+  md5_5: e8bda
+  md5_6: e8bdab
+  oomp_key: oomp_bss84
+  oomp_key_extra: oomp_symbol_bss84
+  oomp_key_full: oomp_symbol_bss84_e8bdab
+  oomp_key_simple: bss84
   owner_name: kicad
-  symbol_name: transistor_fet_bss84
+  symbol_name: bss84
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

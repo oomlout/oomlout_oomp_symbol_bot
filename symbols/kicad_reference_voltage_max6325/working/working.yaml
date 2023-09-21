@@ -1,16 +1,20 @@
+id: kicad_reference_voltage_max6325
+library: reference_voltage
 library_name: Reference_Voltage
+name: max6325
 oomp:
   library_name: reference_voltage
-  md5: 74984d361d05289e68c9c31d885cbeee
-  md5_10: 74984d361d
-  md5_5: '74984'
-  md5_6: 74984d
-  oomp_key: oomp_reference_voltage_max6325
-  oomp_key_extra: oomp_symbol_reference_voltage_max6325
-  oomp_key_full: oomp_symbol_reference_voltage_max6325_74984d
-  oomp_key_simple: reference_voltage_max6325
+  md5: ddad21c6a7d4c28658af018866111a95
+  md5_10: ddad21c6a7
+  md5_5: ddad2
+  md5_6: ddad21
+  oomp_key: oomp_max6325
+  oomp_key_extra: oomp_symbol_max6325
+  oomp_key_full: oomp_symbol_max6325_ddad21
+  oomp_key_simple: max6325
   owner_name: kicad
-  symbol_name: reference_voltage_max6325
+  symbol_name: max6325
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

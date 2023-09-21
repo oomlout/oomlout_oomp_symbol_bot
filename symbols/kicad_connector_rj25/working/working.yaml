@@ -1,16 +1,20 @@
+id: kicad_connector_rj25
+library: connector
 library_name: Connector
+name: rj25
 oomp:
   library_name: connector
-  md5: c281f138fdea9c22b929c6402b93ec91
-  md5_10: c281f138fd
-  md5_5: c281f
-  md5_6: c281f1
-  oomp_key: oomp_connector_rj25
-  oomp_key_extra: oomp_symbol_connector_rj25
-  oomp_key_full: oomp_symbol_connector_rj25_c281f1
-  oomp_key_simple: connector_rj25
+  md5: 6532e36738d261515b4ba94074d60f62
+  md5_10: 6532e36738
+  md5_5: 6532e
+  md5_6: 6532e3
+  oomp_key: oomp_rj25
+  oomp_key_extra: oomp_symbol_rj25
+  oomp_key_full: oomp_symbol_rj25_6532e3
+  oomp_key_simple: rj25
   owner_name: kicad
-  symbol_name: connector_rj25
+  symbol_name: rj25
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

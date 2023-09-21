@@ -1,3 +1,5 @@
+id: kicad_device_l_coupled_small_1324
+library: device
 library_name: Device
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_l_coupled_small_1324/working
   oomp_src_flat: symbols_flat/kicad_device_l_coupled_small_1324/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_l_coupled_small_1324/working
-name: device_l_coupled_small_1324
+name: l_coupled_small_1324
 oomp:
   library_name: device
-  md5: 27ef216701bf05597e89a08e8d7b9492
-  md5_10: 27ef216701
-  md5_5: 27ef2
-  md5_6: 27ef21
-  oomp_key: oomp_device_l_coupled_small_1324
-  oomp_key_extra: oomp_symbol_device_l_coupled_small_1324
-  oomp_key_full: oomp_symbol_device_l_coupled_small_1324_27ef21
-  oomp_key_simple: device_l_coupled_small_1324
+  md5: 9892e80cdc77cd9762ad5dbcbd4b9982
+  md5_10: 9892e80cdc
+  md5_5: 9892e
+  md5_6: 9892e8
+  oomp_key: oomp_l_coupled_small_1324
+  oomp_key_extra: oomp_symbol_l_coupled_small_1324
+  oomp_key_full: oomp_symbol_l_coupled_small_1324_9892e8
+  oomp_key_simple: l_coupled_small_1324
   owner_name: kicad
-  symbol_name: device_l_coupled_small_1324
+  symbol_name: l_coupled_small_1324
 oomp_key: oomp_kicad_device_l_coupled_small_1324
 oomp_key_simple: kicad_device_l_coupled_small_1324
 owner: kicad

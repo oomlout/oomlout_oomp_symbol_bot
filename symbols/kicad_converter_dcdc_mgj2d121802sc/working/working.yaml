@@ -1,16 +1,20 @@
+id: kicad_converter_dcdc_mgj2d121802sc
+library: converter_dcdc
 library_name: Converter_DCDC
+name: mgj2d121802sc
 oomp:
   library_name: converter_dcdc
-  md5: 1f4e197b86c3afe6674c7b32319bfcbc
-  md5_10: 1f4e197b86
-  md5_5: 1f4e1
-  md5_6: 1f4e19
-  oomp_key: oomp_converter_dcdc_mgj2d121802sc
-  oomp_key_extra: oomp_symbol_converter_dcdc_mgj2d121802sc
-  oomp_key_full: oomp_symbol_converter_dcdc_mgj2d121802sc_1f4e19
-  oomp_key_simple: converter_dcdc_mgj2d121802sc
+  md5: 5e5c6e272de4d5954a3adea06fd11710
+  md5_10: 5e5c6e272d
+  md5_5: 5e5c6
+  md5_6: 5e5c6e
+  oomp_key: oomp_mgj2d121802sc
+  oomp_key_extra: oomp_symbol_mgj2d121802sc
+  oomp_key_full: oomp_symbol_mgj2d121802sc_5e5c6e
+  oomp_key_simple: mgj2d121802sc
   owner_name: kicad
-  symbol_name: converter_dcdc_mgj2d121802sc
+  symbol_name: mgj2d121802sc
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

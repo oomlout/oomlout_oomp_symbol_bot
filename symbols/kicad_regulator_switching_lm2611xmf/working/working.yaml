@@ -1,3 +1,5 @@
+id: kicad_regulator_switching_lm2611xmf
+library: regulator_switching
 library_name: Regulator_Switching
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_lm2611xmf/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_lm2611xmf/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_lm2611xmf/working
-name: regulator_switching_lm2611xmf
+name: lm2611xmf
 oomp:
   library_name: regulator_switching
-  md5: 07c832595ebc742347e16aaf0d32747b
-  md5_10: 07c832595e
-  md5_5: 07c83
-  md5_6: 07c832
-  oomp_key: oomp_regulator_switching_lm2611xmf
-  oomp_key_extra: oomp_symbol_regulator_switching_lm2611xmf
-  oomp_key_full: oomp_symbol_regulator_switching_lm2611xmf_07c832
-  oomp_key_simple: regulator_switching_lm2611xmf
+  md5: 8b77d90a393bc21201e1bf57d51aafaf
+  md5_10: 8b77d90a39
+  md5_5: 8b77d
+  md5_6: 8b77d9
+  oomp_key: oomp_lm2611xmf
+  oomp_key_extra: oomp_symbol_lm2611xmf
+  oomp_key_full: oomp_symbol_lm2611xmf_8b77d9
+  oomp_key_simple: lm2611xmf
   owner_name: kicad
-  symbol_name: regulator_switching_lm2611xmf
+  symbol_name: lm2611xmf
 oomp_key: oomp_kicad_regulator_switching_lm2611xmf
 oomp_key_simple: kicad_regulator_switching_lm2611xmf
 owner: kicad

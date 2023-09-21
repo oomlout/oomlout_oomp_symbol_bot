@@ -1,16 +1,20 @@
+id: kicad_driver_fet_its716g
+library: driver_fet
 library_name: Driver_FET
+name: its716g
 oomp:
   library_name: driver_fet
-  md5: b32fe93c0d9523d604f21e0012bf76c2
-  md5_10: b32fe93c0d
-  md5_5: b32fe
-  md5_6: b32fe9
-  oomp_key: oomp_driver_fet_its716g
-  oomp_key_extra: oomp_symbol_driver_fet_its716g
-  oomp_key_full: oomp_symbol_driver_fet_its716g_b32fe9
-  oomp_key_simple: driver_fet_its716g
+  md5: ab162756eaa85a9dbf4a524ed8e105a5
+  md5_10: ab162756ea
+  md5_5: ab162
+  md5_6: ab1627
+  oomp_key: oomp_its716g
+  oomp_key_extra: oomp_symbol_its716g
+  oomp_key_full: oomp_symbol_its716g_ab1627
+  oomp_key_simple: its716g
   owner_name: kicad
-  symbol_name: driver_fet_its716g
+  symbol_name: its716g
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

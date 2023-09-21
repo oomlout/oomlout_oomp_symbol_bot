@@ -1,16 +1,20 @@
+id: kicad_mcu_st_stm32l4_stm32l433rbix
+library: mcu_st_stm32l4
 library_name: MCU_ST_STM32L4
+name: stm32l433rbix
 oomp:
   library_name: mcu_st_stm32l4
-  md5: aa85e40750b788932b0078ab910978a3
-  md5_10: aa85e40750
-  md5_5: aa85e
-  md5_6: aa85e4
-  oomp_key: oomp_mcu_st_stm32l4_stm32l433rbix
-  oomp_key_extra: oomp_symbol_mcu_st_stm32l4_stm32l433rbix
-  oomp_key_full: oomp_symbol_mcu_st_stm32l4_stm32l433rbix_aa85e4
-  oomp_key_simple: mcu_st_stm32l4_stm32l433rbix
+  md5: 770aff86029c36bc1b8ff890c4830af8
+  md5_10: 770aff8602
+  md5_5: 770af
+  md5_6: 770aff
+  oomp_key: oomp_stm32l433rbix
+  oomp_key_extra: oomp_symbol_stm32l433rbix
+  oomp_key_full: oomp_symbol_stm32l433rbix_770aff
+  oomp_key_simple: stm32l433rbix
   owner_name: kicad
-  symbol_name: mcu_st_stm32l4_stm32l433rbix
+  symbol_name: stm32l433rbix
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

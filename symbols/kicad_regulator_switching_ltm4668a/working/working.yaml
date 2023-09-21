@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_ltm4668a
+library: regulator_switching
 library_name: Regulator_Switching
+name: ltm4668a
 oomp:
   library_name: regulator_switching
-  md5: 443927e3774fe701cadef05a4abd0cd8
-  md5_10: 443927e377
-  md5_5: '44392'
-  md5_6: '443927'
-  oomp_key: oomp_regulator_switching_ltm4668a
-  oomp_key_extra: oomp_symbol_regulator_switching_ltm4668a
-  oomp_key_full: oomp_symbol_regulator_switching_ltm4668a_443927
-  oomp_key_simple: regulator_switching_ltm4668a
+  md5: 9a9b0e33c562b8fa3488c457c4762f27
+  md5_10: 9a9b0e33c5
+  md5_5: 9a9b0
+  md5_6: 9a9b0e
+  oomp_key: oomp_ltm4668a
+  oomp_key_extra: oomp_symbol_ltm4668a
+  oomp_key_full: oomp_symbol_ltm4668a_9a9b0e
+  oomp_key_simple: ltm4668a
   owner_name: kicad
-  symbol_name: regulator_switching_ltm4668a
+  symbol_name: ltm4668a
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

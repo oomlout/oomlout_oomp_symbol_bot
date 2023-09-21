@@ -1,16 +1,20 @@
+id: kicad_mcu_microchip_atmega_atmega328pb_a
+library: mcu_microchip_atmega
 library_name: MCU_Microchip_ATmega
+name: atmega328pb_a
 oomp:
   library_name: mcu_microchip_atmega
-  md5: 0be315185cd36e9e64dc6c26e8705edb
-  md5_10: 0be315185c
-  md5_5: 0be31
-  md5_6: 0be315
-  oomp_key: oomp_mcu_microchip_atmega_atmega328pb_a
-  oomp_key_extra: oomp_symbol_mcu_microchip_atmega_atmega328pb_a
-  oomp_key_full: oomp_symbol_mcu_microchip_atmega_atmega328pb_a_0be315
-  oomp_key_simple: mcu_microchip_atmega_atmega328pb_a
+  md5: 41b780ff4a7e3d3080b0a74f0c6b2290
+  md5_10: 41b780ff4a
+  md5_5: 41b78
+  md5_6: 41b780
+  oomp_key: oomp_atmega328pb_a
+  oomp_key_extra: oomp_symbol_atmega328pb_a
+  oomp_key_full: oomp_symbol_atmega328pb_a_41b780
+  oomp_key_simple: atmega328pb_a
   owner_name: kicad
-  symbol_name: mcu_microchip_atmega_atmega328pb_a
+  symbol_name: atmega328pb_a
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,3 +1,5 @@
+id: kicad_interface_can_lin_mcp2022a_xxxxst
+library: interface_can_lin
 library_name: Interface_CAN_LIN
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_can_lin_mcp2022a_xxxxst/working
   oomp_src_flat: symbols_flat/kicad_interface_can_lin_mcp2022a_xxxxst/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_can_lin_mcp2022a_xxxxst/working
-name: interface_can_lin_mcp2022a_xxxxst
+name: mcp2022a_xxxxst
 oomp:
   library_name: interface_can_lin
-  md5: ad118b02284f00f2a0f08771240358bb
-  md5_10: ad118b0228
-  md5_5: ad118
-  md5_6: ad118b
-  oomp_key: oomp_interface_can_lin_mcp2022a_xxxxst
-  oomp_key_extra: oomp_symbol_interface_can_lin_mcp2022a_xxxxst
-  oomp_key_full: oomp_symbol_interface_can_lin_mcp2022a_xxxxst_ad118b
-  oomp_key_simple: interface_can_lin_mcp2022a_xxxxst
+  md5: 6c129b332a2821fdb14ac4d2f1d30c2c
+  md5_10: 6c129b332a
+  md5_5: 6c129
+  md5_6: 6c129b
+  oomp_key: oomp_mcp2022a_xxxxst
+  oomp_key_extra: oomp_symbol_mcp2022a_xxxxst
+  oomp_key_full: oomp_symbol_mcp2022a_xxxxst_6c129b
+  oomp_key_simple: mcp2022a_xxxxst
   owner_name: kicad
-  symbol_name: interface_can_lin_mcp2022a_xxxxst
+  symbol_name: mcp2022a_xxxxst
 oomp_key: oomp_kicad_interface_can_lin_mcp2022a_xxxxst
 oomp_key_simple: kicad_interface_can_lin_mcp2022a_xxxxst
 owner: kicad

@@ -1,3 +1,5 @@
+id: kicad_regulator_linear_ape8865y5_12_hf_3
+library: regulator_linear
 library_name: Regulator_Linear
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_linear_ape8865y5_12_hf_3/working
   oomp_src_flat: symbols_flat/kicad_regulator_linear_ape8865y5_12_hf_3/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_linear_ape8865y5_12_hf_3/working
-name: regulator_linear_ape8865y5_12_hf_3
+name: ape8865y5_12_hf_3
 oomp:
   library_name: regulator_linear
-  md5: 67dabd6aabee7e591bb85a80dd950e1b
-  md5_10: 67dabd6aab
-  md5_5: 67dab
-  md5_6: 67dabd
-  oomp_key: oomp_regulator_linear_ape8865y5_12_hf_3
-  oomp_key_extra: oomp_symbol_regulator_linear_ape8865y5_12_hf_3
-  oomp_key_full: oomp_symbol_regulator_linear_ape8865y5_12_hf_3_67dabd
-  oomp_key_simple: regulator_linear_ape8865y5_12_hf_3
+  md5: e61977ce4d5464f06786f32f69a429a6
+  md5_10: e61977ce4d
+  md5_5: e6197
+  md5_6: e61977
+  oomp_key: oomp_ape8865y5_12_hf_3
+  oomp_key_extra: oomp_symbol_ape8865y5_12_hf_3
+  oomp_key_full: oomp_symbol_ape8865y5_12_hf_3_e61977
+  oomp_key_simple: ape8865y5_12_hf_3
   owner_name: kicad
-  symbol_name: regulator_linear_ape8865y5_12_hf_3
+  symbol_name: ape8865y5_12_hf_3
 oomp_key: oomp_kicad_regulator_linear_ape8865y5_12_hf_3
 oomp_key_simple: kicad_regulator_linear_ape8865y5_12_hf_3
 owner: kicad

@@ -1,16 +1,20 @@
+id: kicad_mcu_st_stm32f3_stm32f303vctx
+library: mcu_st_stm32f3
 library_name: MCU_ST_STM32F3
+name: stm32f303vctx
 oomp:
   library_name: mcu_st_stm32f3
-  md5: 40cd8d1b5a9273d4b6bdc90a6d536c53
-  md5_10: 40cd8d1b5a
-  md5_5: 40cd8
-  md5_6: 40cd8d
-  oomp_key: oomp_mcu_st_stm32f3_stm32f303vctx
-  oomp_key_extra: oomp_symbol_mcu_st_stm32f3_stm32f303vctx
-  oomp_key_full: oomp_symbol_mcu_st_stm32f3_stm32f303vctx_40cd8d
-  oomp_key_simple: mcu_st_stm32f3_stm32f303vctx
+  md5: 0ea4a263a02e236b9842e5def9ecd4e3
+  md5_10: 0ea4a263a0
+  md5_5: 0ea4a
+  md5_6: 0ea4a2
+  oomp_key: oomp_stm32f303vctx
+  oomp_key_extra: oomp_symbol_stm32f303vctx
+  oomp_key_full: oomp_symbol_stm32f303vctx_0ea4a2
+  oomp_key_simple: stm32f303vctx
   owner_name: kicad
-  symbol_name: mcu_st_stm32f3_stm32f303vctx
+  symbol_name: stm32f303vctx
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

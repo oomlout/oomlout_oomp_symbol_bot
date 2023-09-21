@@ -1,3 +1,5 @@
+id: kicad_mcu_module_chip_pro
+library: mcu_module
 library_name: MCU_Module
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_module_chip_pro/working
   oomp_src_flat: symbols_flat/kicad_mcu_module_chip_pro/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_module_chip_pro/working
-name: mcu_module_chip_pro
+name: chip_pro
 oomp:
   library_name: mcu_module
-  md5: d95c90c20dcdfcd3444859b49736344c
-  md5_10: d95c90c20d
-  md5_5: d95c9
-  md5_6: d95c90
-  oomp_key: oomp_mcu_module_chip_pro
-  oomp_key_extra: oomp_symbol_mcu_module_chip_pro
-  oomp_key_full: oomp_symbol_mcu_module_chip_pro_d95c90
-  oomp_key_simple: mcu_module_chip_pro
+  md5: ceadb374e65ef827ce6e4639880e16a0
+  md5_10: ceadb374e6
+  md5_5: ceadb
+  md5_6: ceadb3
+  oomp_key: oomp_chip_pro
+  oomp_key_extra: oomp_symbol_chip_pro
+  oomp_key_full: oomp_symbol_chip_pro_ceadb3
+  oomp_key_simple: chip_pro
   owner_name: kicad
-  symbol_name: mcu_module_chip_pro
+  symbol_name: chip_pro
 oomp_key: oomp_kicad_mcu_module_chip_pro
 oomp_key_simple: kicad_mcu_module_chip_pro
 owner: kicad

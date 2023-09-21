@@ -1,16 +1,20 @@
+id: kicad_mcu_st_stm32g4_stm32g491mesx
+library: mcu_st_stm32g4
 library_name: MCU_ST_STM32G4
+name: stm32g491mesx
 oomp:
   library_name: mcu_st_stm32g4
-  md5: f273e433d40bc592730c3396cd1f0baa
-  md5_10: f273e433d4
-  md5_5: f273e
-  md5_6: f273e4
-  oomp_key: oomp_mcu_st_stm32g4_stm32g491mesx
-  oomp_key_extra: oomp_symbol_mcu_st_stm32g4_stm32g491mesx
-  oomp_key_full: oomp_symbol_mcu_st_stm32g4_stm32g491mesx_f273e4
-  oomp_key_simple: mcu_st_stm32g4_stm32g491mesx
+  md5: 4d1172d18855db557008a47e48e7a046
+  md5_10: 4d1172d188
+  md5_5: 4d117
+  md5_6: 4d1172
+  oomp_key: oomp_stm32g491mesx
+  oomp_key_extra: oomp_symbol_stm32g491mesx
+  oomp_key_full: oomp_symbol_stm32g491mesx_4d1172
+  oomp_key_simple: stm32g491mesx
   owner_name: kicad
-  symbol_name: mcu_st_stm32g4_stm32g491mesx
+  symbol_name: stm32g491mesx
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

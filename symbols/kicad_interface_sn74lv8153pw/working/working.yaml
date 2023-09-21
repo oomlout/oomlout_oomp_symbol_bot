@@ -1,16 +1,20 @@
+id: kicad_interface_sn74lv8153pw
+library: interface
 library_name: Interface
+name: sn74lv8153pw
 oomp:
   library_name: interface
-  md5: 2b43cde685e63fb5dbe0a3b07a4acd75
-  md5_10: 2b43cde685
-  md5_5: 2b43c
-  md5_6: 2b43cd
-  oomp_key: oomp_interface_sn74lv8153pw
-  oomp_key_extra: oomp_symbol_interface_sn74lv8153pw
-  oomp_key_full: oomp_symbol_interface_sn74lv8153pw_2b43cd
-  oomp_key_simple: interface_sn74lv8153pw
+  md5: 55488fea9f68e3456efd33ad0e80708a
+  md5_10: 55488fea9f
+  md5_5: '55488'
+  md5_6: 55488f
+  oomp_key: oomp_sn74lv8153pw
+  oomp_key_extra: oomp_symbol_sn74lv8153pw
+  oomp_key_full: oomp_symbol_sn74lv8153pw_55488f
+  oomp_key_simple: sn74lv8153pw
   owner_name: kicad
-  symbol_name: interface_sn74lv8153pw
+  symbol_name: sn74lv8153pw
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

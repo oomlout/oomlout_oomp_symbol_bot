@@ -1,16 +1,20 @@
+id: kicad_amplifier_instrumentation_ad623bnz
+library: amplifier_instrumentation
 library_name: Amplifier_Instrumentation
+name: ad623bnz
 oomp:
   library_name: amplifier_instrumentation
-  md5: 3fe227d6e926941fabe98057e686544b
-  md5_10: 3fe227d6e9
-  md5_5: 3fe22
-  md5_6: 3fe227
-  oomp_key: oomp_amplifier_instrumentation_ad623bnz
-  oomp_key_extra: oomp_symbol_amplifier_instrumentation_ad623bnz
-  oomp_key_full: oomp_symbol_amplifier_instrumentation_ad623bnz_3fe227
-  oomp_key_simple: amplifier_instrumentation_ad623bnz
+  md5: d5ff3f34b9081126a3d78854b785bf9d
+  md5_10: d5ff3f34b9
+  md5_5: d5ff3
+  md5_6: d5ff3f
+  oomp_key: oomp_ad623bnz
+  oomp_key_extra: oomp_symbol_ad623bnz
+  oomp_key_full: oomp_symbol_ad623bnz_d5ff3f
+  oomp_key_simple: ad623bnz
   owner_name: kicad
-  symbol_name: amplifier_instrumentation_ad623bnz
+  symbol_name: ad623bnz
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

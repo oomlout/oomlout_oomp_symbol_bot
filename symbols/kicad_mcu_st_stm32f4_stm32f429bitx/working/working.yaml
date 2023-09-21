@@ -1,16 +1,20 @@
+id: kicad_mcu_st_stm32f4_stm32f429bitx
+library: mcu_st_stm32f4
 library_name: MCU_ST_STM32F4
+name: stm32f429bitx
 oomp:
   library_name: mcu_st_stm32f4
-  md5: 08365900bd8fbf7b6abcd79c6a4e1722
-  md5_10: 08365900bd
-  md5_5: 08365
-  md5_6: 083659
-  oomp_key: oomp_mcu_st_stm32f4_stm32f429bitx
-  oomp_key_extra: oomp_symbol_mcu_st_stm32f4_stm32f429bitx
-  oomp_key_full: oomp_symbol_mcu_st_stm32f4_stm32f429bitx_083659
-  oomp_key_simple: mcu_st_stm32f4_stm32f429bitx
+  md5: 3dfc07542e7d6ffa0b630825c1f724af
+  md5_10: 3dfc07542e
+  md5_5: 3dfc0
+  md5_6: 3dfc07
+  oomp_key: oomp_stm32f429bitx
+  oomp_key_extra: oomp_symbol_stm32f429bitx
+  oomp_key_full: oomp_symbol_stm32f429bitx_3dfc07
+  oomp_key_simple: stm32f429bitx
   owner_name: kicad
-  symbol_name: mcu_st_stm32f4_stm32f429bitx
+  symbol_name: stm32f429bitx
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

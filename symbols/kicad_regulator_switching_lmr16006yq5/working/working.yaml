@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_lmr16006yq5
+library: regulator_switching
 library_name: Regulator_Switching
+name: lmr16006yq5
 oomp:
   library_name: regulator_switching
-  md5: 92ec81d46915592817f0a872ff5a3850
-  md5_10: 92ec81d469
-  md5_5: 92ec8
-  md5_6: 92ec81
-  oomp_key: oomp_regulator_switching_lmr16006yq5
-  oomp_key_extra: oomp_symbol_regulator_switching_lmr16006yq5
-  oomp_key_full: oomp_symbol_regulator_switching_lmr16006yq5_92ec81
-  oomp_key_simple: regulator_switching_lmr16006yq5
+  md5: 2d791b997a7316cc4d1c50fa66e595ba
+  md5_10: 2d791b997a
+  md5_5: 2d791
+  md5_6: 2d791b
+  oomp_key: oomp_lmr16006yq5
+  oomp_key_extra: oomp_symbol_lmr16006yq5
+  oomp_key_full: oomp_symbol_lmr16006yq5_2d791b
+  oomp_key_simple: lmr16006yq5
   owner_name: kicad
-  symbol_name: regulator_switching_lmr16006yq5
+  symbol_name: lmr16006yq5
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,3 +1,5 @@
+id: kicad_regulator_switching_ap6502
+library: regulator_switching
 library_name: Regulator_Switching
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_ap6502/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_ap6502/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_ap6502/working
-name: regulator_switching_ap6502
+name: ap6502
 oomp:
   library_name: regulator_switching
-  md5: 6dfbae161dd0327fa0d686bbbfd9f017
-  md5_10: 6dfbae161d
-  md5_5: 6dfba
-  md5_6: 6dfbae
-  oomp_key: oomp_regulator_switching_ap6502
-  oomp_key_extra: oomp_symbol_regulator_switching_ap6502
-  oomp_key_full: oomp_symbol_regulator_switching_ap6502_6dfbae
-  oomp_key_simple: regulator_switching_ap6502
+  md5: e5a4839704405daaefe916fb5e4d9d5b
+  md5_10: e5a4839704
+  md5_5: e5a48
+  md5_6: e5a483
+  oomp_key: oomp_ap6502
+  oomp_key_extra: oomp_symbol_ap6502
+  oomp_key_full: oomp_symbol_ap6502_e5a483
+  oomp_key_simple: ap6502
   owner_name: kicad
-  symbol_name: regulator_switching_ap6502
+  symbol_name: ap6502
 oomp_key: oomp_kicad_regulator_switching_ap6502
 oomp_key_simple: kicad_regulator_switching_ap6502
 owner: kicad

@@ -1,3 +1,5 @@
+id: kicad_sensor_current_ho8_nsm
+library: sensor_current
 library_name: Sensor_Current
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_current_ho8_nsm/working
   oomp_src_flat: symbols_flat/kicad_sensor_current_ho8_nsm/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_current_ho8_nsm/working
-name: sensor_current_ho8_nsm
+name: ho8_nsm
 oomp:
   library_name: sensor_current
-  md5: 6ff2c181b9ed9e2d69a728f4805c1b21
-  md5_10: 6ff2c181b9
-  md5_5: 6ff2c
-  md5_6: 6ff2c1
-  oomp_key: oomp_sensor_current_ho8_nsm
-  oomp_key_extra: oomp_symbol_sensor_current_ho8_nsm
-  oomp_key_full: oomp_symbol_sensor_current_ho8_nsm_6ff2c1
-  oomp_key_simple: sensor_current_ho8_nsm
+  md5: 08c7ab8b36f5f8e061fd9ced2cc41e92
+  md5_10: 08c7ab8b36
+  md5_5: 08c7a
+  md5_6: 08c7ab
+  oomp_key: oomp_ho8_nsm
+  oomp_key_extra: oomp_symbol_ho8_nsm
+  oomp_key_full: oomp_symbol_ho8_nsm_08c7ab
+  oomp_key_simple: ho8_nsm
   owner_name: kicad
-  symbol_name: sensor_current_ho8_nsm
+  symbol_name: ho8_nsm
 oomp_key: oomp_kicad_sensor_current_ho8_nsm
 oomp_key_simple: kicad_sensor_current_ho8_nsm
 owner: kicad

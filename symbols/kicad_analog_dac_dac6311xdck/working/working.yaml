@@ -1,16 +1,20 @@
+id: kicad_analog_dac_dac6311xdck
+library: analog_dac
 library_name: Analog_DAC
+name: dac6311xdck
 oomp:
   library_name: analog_dac
-  md5: 46150a049685f9139265f3312967904f
-  md5_10: 46150a0496
-  md5_5: '46150'
-  md5_6: 46150a
-  oomp_key: oomp_analog_dac_dac6311xdck
-  oomp_key_extra: oomp_symbol_analog_dac_dac6311xdck
-  oomp_key_full: oomp_symbol_analog_dac_dac6311xdck_46150a
-  oomp_key_simple: analog_dac_dac6311xdck
+  md5: f1fe3179408c5a942a6b7e855a272431
+  md5_10: f1fe317940
+  md5_5: f1fe3
+  md5_6: f1fe31
+  oomp_key: oomp_dac6311xdck
+  oomp_key_extra: oomp_symbol_dac6311xdck
+  oomp_key_full: oomp_symbol_dac6311xdck_f1fe31
+  oomp_key_simple: dac6311xdck
   owner_name: kicad
-  symbol_name: analog_dac_dac6311xdck
+  symbol_name: dac6311xdck
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

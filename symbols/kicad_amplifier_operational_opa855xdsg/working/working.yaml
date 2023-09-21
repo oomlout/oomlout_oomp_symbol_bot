@@ -1,16 +1,20 @@
+id: kicad_amplifier_operational_opa855xdsg
+library: amplifier_operational
 library_name: Amplifier_Operational
+name: opa855xdsg
 oomp:
   library_name: amplifier_operational
-  md5: 13d0c29810d16e624b5ae458962b751d
-  md5_10: 13d0c29810
-  md5_5: 13d0c
-  md5_6: 13d0c2
-  oomp_key: oomp_amplifier_operational_opa855xdsg
-  oomp_key_extra: oomp_symbol_amplifier_operational_opa855xdsg
-  oomp_key_full: oomp_symbol_amplifier_operational_opa855xdsg_13d0c2
-  oomp_key_simple: amplifier_operational_opa855xdsg
+  md5: 89c8b746617e7e41d64d470340091b29
+  md5_10: 89c8b74661
+  md5_5: 89c8b
+  md5_6: 89c8b7
+  oomp_key: oomp_opa855xdsg
+  oomp_key_extra: oomp_symbol_opa855xdsg
+  oomp_key_full: oomp_symbol_opa855xdsg_89c8b7
+  oomp_key_simple: opa855xdsg
   owner_name: kicad
-  symbol_name: amplifier_operational_opa855xdsg
+  symbol_name: opa855xdsg
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

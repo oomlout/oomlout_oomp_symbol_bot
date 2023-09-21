@@ -1,3 +1,5 @@
+id: kicad_device_d_dual_commonanode_kka_split
+library: device
 library_name: Device
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_d_dual_commonanode_kka_split/working
   oomp_src_flat: symbols_flat/kicad_device_d_dual_commonanode_kka_split/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_d_dual_commonanode_kka_split/working
-name: device_d_dual_commonanode_kka_split
+name: d_dual_commonanode_kka_split
 oomp:
   library_name: device
-  md5: a4a17d829653af1baf97d7eeec2c6a76
-  md5_10: a4a17d8296
-  md5_5: a4a17
-  md5_6: a4a17d
-  oomp_key: oomp_device_d_dual_commonanode_kka_split
-  oomp_key_extra: oomp_symbol_device_d_dual_commonanode_kka_split
-  oomp_key_full: oomp_symbol_device_d_dual_commonanode_kka_split_a4a17d
-  oomp_key_simple: device_d_dual_commonanode_kka_split
+  md5: c53e8d62d2d193445b23465f5198600d
+  md5_10: c53e8d62d2
+  md5_5: c53e8
+  md5_6: c53e8d
+  oomp_key: oomp_d_dual_commonanode_kka_split
+  oomp_key_extra: oomp_symbol_d_dual_commonanode_kka_split
+  oomp_key_full: oomp_symbol_d_dual_commonanode_kka_split_c53e8d
+  oomp_key_simple: d_dual_commonanode_kka_split
   owner_name: kicad
-  symbol_name: device_d_dual_commonanode_kka_split
+  symbol_name: d_dual_commonanode_kka_split
 oomp_key: oomp_kicad_device_d_dual_commonanode_kka_split
 oomp_key_simple: kicad_device_d_dual_commonanode_kka_split
 owner: kicad

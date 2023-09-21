@@ -1,16 +1,20 @@
+id: kicad_relay_rt314a12
+library: relay
 library_name: Relay
+name: rt314a12
 oomp:
   library_name: relay
-  md5: 033028755ab40751bd7b1729cee1665b
-  md5_10: 033028755a
-  md5_5: '03302'
-  md5_6: 033028
-  oomp_key: oomp_relay_rt314a12
-  oomp_key_extra: oomp_symbol_relay_rt314a12
-  oomp_key_full: oomp_symbol_relay_rt314a12_033028
-  oomp_key_simple: relay_rt314a12
+  md5: 221b438732d9acc18739509547893d1c
+  md5_10: 221b438732
+  md5_5: 221b4
+  md5_6: 221b43
+  oomp_key: oomp_rt314a12
+  oomp_key_extra: oomp_symbol_rt314a12
+  oomp_key_full: oomp_symbol_rt314a12_221b43
+  oomp_key_simple: rt314a12
   owner_name: kicad
-  symbol_name: relay_rt314a12
+  symbol_name: rt314a12
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

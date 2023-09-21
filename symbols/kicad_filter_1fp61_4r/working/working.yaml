@@ -1,16 +1,20 @@
+id: kicad_filter_1fp61_4r
+library: filter
 library_name: Filter
+name: 1fp61_4r
 oomp:
   library_name: filter
-  md5: d49425ca12e351672efc99256c386ef3
-  md5_10: d49425ca12
-  md5_5: d4942
-  md5_6: d49425
-  oomp_key: oomp_filter_1fp61_4r
-  oomp_key_extra: oomp_symbol_filter_1fp61_4r
-  oomp_key_full: oomp_symbol_filter_1fp61_4r_d49425
-  oomp_key_simple: filter_1fp61_4r
+  md5: 2ac66076eea4ceadd5f60fbc34135ecd
+  md5_10: 2ac66076ee
+  md5_5: 2ac66
+  md5_6: 2ac660
+  oomp_key: oomp_1fp61_4r
+  oomp_key_extra: oomp_symbol_1fp61_4r
+  oomp_key_full: oomp_symbol_1fp61_4r_2ac660
+  oomp_key_simple: 1fp61_4r
   owner_name: kicad
-  symbol_name: filter_1fp61_4r
+  symbol_name: 1fp61_4r
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

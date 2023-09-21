@@ -1,3 +1,5 @@
+id: kicad_driver_led_is31fl3731_qf
+library: driver_led
 library_name: Driver_LED
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_driver_led_is31fl3731_qf/working
   oomp_src_flat: symbols_flat/kicad_driver_led_is31fl3731_qf/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_driver_led_is31fl3731_qf/working
-name: driver_led_is31fl3731_qf
+name: is31fl3731_qf
 oomp:
   library_name: driver_led
-  md5: e5b8083c429c662cc3fe79e06051235a
-  md5_10: e5b8083c42
-  md5_5: e5b80
-  md5_6: e5b808
-  oomp_key: oomp_driver_led_is31fl3731_qf
-  oomp_key_extra: oomp_symbol_driver_led_is31fl3731_qf
-  oomp_key_full: oomp_symbol_driver_led_is31fl3731_qf_e5b808
-  oomp_key_simple: driver_led_is31fl3731_qf
+  md5: 100b6f67f5127ebf02b82d5f535a088d
+  md5_10: 100b6f67f5
+  md5_5: 100b6
+  md5_6: 100b6f
+  oomp_key: oomp_is31fl3731_qf
+  oomp_key_extra: oomp_symbol_is31fl3731_qf
+  oomp_key_full: oomp_symbol_is31fl3731_qf_100b6f
+  oomp_key_simple: is31fl3731_qf
   owner_name: kicad
-  symbol_name: driver_led_is31fl3731_qf
+  symbol_name: is31fl3731_qf
 oomp_key: oomp_kicad_driver_led_is31fl3731_qf
 oomp_key_simple: kicad_driver_led_is31fl3731_qf
 owner: kicad

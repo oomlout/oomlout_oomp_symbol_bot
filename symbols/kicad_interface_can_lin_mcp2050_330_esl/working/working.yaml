@@ -1,3 +1,5 @@
+id: kicad_interface_can_lin_mcp2050_330_esl
+library: interface_can_lin
 library_name: Interface_CAN_LIN
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_can_lin_mcp2050_330_esl/working
   oomp_src_flat: symbols_flat/kicad_interface_can_lin_mcp2050_330_esl/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_can_lin_mcp2050_330_esl/working
-name: interface_can_lin_mcp2050_330_esl
+name: mcp2050_330_esl
 oomp:
   library_name: interface_can_lin
-  md5: 259be69355becdaac26fa4fcf12883f2
-  md5_10: 259be69355
-  md5_5: 259be
-  md5_6: 259be6
-  oomp_key: oomp_interface_can_lin_mcp2050_330_esl
-  oomp_key_extra: oomp_symbol_interface_can_lin_mcp2050_330_esl
-  oomp_key_full: oomp_symbol_interface_can_lin_mcp2050_330_esl_259be6
-  oomp_key_simple: interface_can_lin_mcp2050_330_esl
+  md5: 52a42524bfa77d3d2f9f4da6c068f1e3
+  md5_10: 52a42524bf
+  md5_5: 52a42
+  md5_6: 52a425
+  oomp_key: oomp_mcp2050_330_esl
+  oomp_key_extra: oomp_symbol_mcp2050_330_esl
+  oomp_key_full: oomp_symbol_mcp2050_330_esl_52a425
+  oomp_key_simple: mcp2050_330_esl
   owner_name: kicad
-  symbol_name: interface_can_lin_mcp2050_330_esl
+  symbol_name: mcp2050_330_esl
 oomp_key: oomp_kicad_interface_can_lin_mcp2050_330_esl
 oomp_key_simple: kicad_interface_can_lin_mcp2050_330_esl
 owner: kicad

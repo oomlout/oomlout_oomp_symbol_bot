@@ -1,3 +1,5 @@
+id: kicad_transistor_fet_bsf030ne2lq
+library: transistor_fet
 library_name: Transistor_FET
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_transistor_fet_bsf030ne2lq/working
   oomp_src_flat: symbols_flat/kicad_transistor_fet_bsf030ne2lq/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_transistor_fet_bsf030ne2lq/working
-name: transistor_fet_bsf030ne2lq
+name: bsf030ne2lq
 oomp:
   library_name: transistor_fet
-  md5: b67a09ce4ab8acdc305397a367d4438c
-  md5_10: b67a09ce4a
-  md5_5: b67a0
-  md5_6: b67a09
-  oomp_key: oomp_transistor_fet_bsf030ne2lq
-  oomp_key_extra: oomp_symbol_transistor_fet_bsf030ne2lq
-  oomp_key_full: oomp_symbol_transistor_fet_bsf030ne2lq_b67a09
-  oomp_key_simple: transistor_fet_bsf030ne2lq
+  md5: f3333259dfcaea286090ee879c676c13
+  md5_10: f3333259df
+  md5_5: f3333
+  md5_6: f33332
+  oomp_key: oomp_bsf030ne2lq
+  oomp_key_extra: oomp_symbol_bsf030ne2lq
+  oomp_key_full: oomp_symbol_bsf030ne2lq_f33332
+  oomp_key_simple: bsf030ne2lq
   owner_name: kicad
-  symbol_name: transistor_fet_bsf030ne2lq
+  symbol_name: bsf030ne2lq
 oomp_key: oomp_kicad_transistor_fet_bsf030ne2lq
 oomp_key_simple: kicad_transistor_fet_bsf030ne2lq
 owner: kicad

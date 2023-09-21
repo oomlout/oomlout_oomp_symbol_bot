@@ -1,16 +1,20 @@
+id: kicad_transistor_bjt_mbt3904dw1
+library: transistor_bjt
 library_name: Transistor_BJT
+name: mbt3904dw1
 oomp:
   library_name: transistor_bjt
-  md5: 3a4eb95a4a49cb6641e9dccfb10754a0
-  md5_10: 3a4eb95a4a
-  md5_5: 3a4eb
-  md5_6: 3a4eb9
-  oomp_key: oomp_transistor_bjt_mbt3904dw1
-  oomp_key_extra: oomp_symbol_transistor_bjt_mbt3904dw1
-  oomp_key_full: oomp_symbol_transistor_bjt_mbt3904dw1_3a4eb9
-  oomp_key_simple: transistor_bjt_mbt3904dw1
+  md5: cabc316a9022c21be6ca24efc3fcc549
+  md5_10: cabc316a90
+  md5_5: cabc3
+  md5_6: cabc31
+  oomp_key: oomp_mbt3904dw1
+  oomp_key_extra: oomp_symbol_mbt3904dw1
+  oomp_key_full: oomp_symbol_mbt3904dw1_cabc31
+  oomp_key_simple: mbt3904dw1
   owner_name: kicad
-  symbol_name: transistor_bjt_mbt3904dw1
+  symbol_name: mbt3904dw1
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

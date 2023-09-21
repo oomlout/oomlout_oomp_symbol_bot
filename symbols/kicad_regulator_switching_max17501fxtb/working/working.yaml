@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_max17501fxtb
+library: regulator_switching
 library_name: Regulator_Switching
+name: max17501fxtb
 oomp:
   library_name: regulator_switching
-  md5: 6c22a726633fdeb7bde6125f3ba58bf8
-  md5_10: 6c22a72663
-  md5_5: 6c22a
-  md5_6: 6c22a7
-  oomp_key: oomp_regulator_switching_max17501fxtb
-  oomp_key_extra: oomp_symbol_regulator_switching_max17501fxtb
-  oomp_key_full: oomp_symbol_regulator_switching_max17501fxtb_6c22a7
-  oomp_key_simple: regulator_switching_max17501fxtb
+  md5: 52507bb570952514c2eaf783803ab623
+  md5_10: 52507bb570
+  md5_5: '52507'
+  md5_6: 52507b
+  oomp_key: oomp_max17501fxtb
+  oomp_key_extra: oomp_symbol_max17501fxtb
+  oomp_key_full: oomp_symbol_max17501fxtb_52507b
+  oomp_key_simple: max17501fxtb
   owner_name: kicad
-  symbol_name: regulator_switching_max17501fxtb
+  symbol_name: max17501fxtb
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

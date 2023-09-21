@@ -1,3 +1,5 @@
+id: arturo182_display_graphic_extra_tl040hds01ct_inverted
+library: display_graphic_extra
 library_name: Display_Graphic_Extra
 links:
   github_owner: arturo182
@@ -10,19 +12,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/arturo182_display_graphic_extra_tl040hds01ct_inverted/working
   oomp_src_flat: symbols_flat/arturo182_display_graphic_extra_tl040hds01ct_inverted/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/arturo182_display_graphic_extra_tl040hds01ct_inverted/working
-name: display_graphic_extra_tl040hds01ct_inverted
+name: tl040hds01ct_inverted
 oomp:
   library_name: display_graphic_extra
-  md5: 556ee684a208dcb289bc390816546c9f
-  md5_10: 556ee684a2
-  md5_5: 556ee
-  md5_6: 556ee6
-  oomp_key: oomp_display_graphic_extra_tl040hds01ct_inverted
-  oomp_key_extra: oomp_symbol_display_graphic_extra_tl040hds01ct_inverted
-  oomp_key_full: oomp_symbol_display_graphic_extra_tl040hds01ct_inverted_556ee6
-  oomp_key_simple: display_graphic_extra_tl040hds01ct_inverted
+  md5: 8c1362b091e5e8d63cdf0b18ab598db8
+  md5_10: 8c1362b091
+  md5_5: 8c136
+  md5_6: 8c1362
+  oomp_key: oomp_tl040hds01ct_inverted
+  oomp_key_extra: oomp_symbol_tl040hds01ct_inverted
+  oomp_key_full: oomp_symbol_tl040hds01ct_inverted_8c1362
+  oomp_key_simple: tl040hds01ct_inverted
   owner_name: arturo182
-  symbol_name: display_graphic_extra_tl040hds01ct_inverted
+  symbol_name: tl040hds01ct_inverted
 oomp_key: oomp_arturo182_display_graphic_extra_tl040hds01ct_inverted
 oomp_key_simple: arturo182_display_graphic_extra_tl040hds01ct_inverted
 owner: arturo182

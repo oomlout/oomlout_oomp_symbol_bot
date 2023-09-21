@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_spx2920s_5_0_so8
+library: regulator_linear
 library_name: Regulator_Linear
+name: spx2920s_5_0_so8
 oomp:
   library_name: regulator_linear
-  md5: 87fc594a778054e108ccb20b5ceb8e38
-  md5_10: 87fc594a77
-  md5_5: 87fc5
-  md5_6: 87fc59
-  oomp_key: oomp_regulator_linear_spx2920s_5_0_so8
-  oomp_key_extra: oomp_symbol_regulator_linear_spx2920s_5_0_so8
-  oomp_key_full: oomp_symbol_regulator_linear_spx2920s_5_0_so8_87fc59
-  oomp_key_simple: regulator_linear_spx2920s_5_0_so8
+  md5: e5430a0c263e7e3c5dea3e60a284acab
+  md5_10: e5430a0c26
+  md5_5: e5430
+  md5_6: e5430a
+  oomp_key: oomp_spx2920s_5_0_so8
+  oomp_key_extra: oomp_symbol_spx2920s_5_0_so8
+  oomp_key_full: oomp_symbol_spx2920s_5_0_so8_e5430a
+  oomp_key_simple: spx2920s_5_0_so8
   owner_name: kicad
-  symbol_name: regulator_linear_spx2920s_5_0_so8
+  symbol_name: spx2920s_5_0_so8
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

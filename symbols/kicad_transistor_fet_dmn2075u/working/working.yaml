@@ -1,16 +1,20 @@
+id: kicad_transistor_fet_dmn2075u
+library: transistor_fet
 library_name: Transistor_FET
+name: dmn2075u
 oomp:
   library_name: transistor_fet
-  md5: 6a659e391919a761e005aa6f903ae39a
-  md5_10: 6a659e3919
-  md5_5: 6a659
-  md5_6: 6a659e
-  oomp_key: oomp_transistor_fet_dmn2075u
-  oomp_key_extra: oomp_symbol_transistor_fet_dmn2075u
-  oomp_key_full: oomp_symbol_transistor_fet_dmn2075u_6a659e
-  oomp_key_simple: transistor_fet_dmn2075u
+  md5: 43730b3167a039d82b5e186bcc01d2d6
+  md5_10: 43730b3167
+  md5_5: '43730'
+  md5_6: 43730b
+  oomp_key: oomp_dmn2075u
+  oomp_key_extra: oomp_symbol_dmn2075u
+  oomp_key_full: oomp_symbol_dmn2075u_43730b
+  oomp_key_simple: dmn2075u
   owner_name: kicad
-  symbol_name: transistor_fet_dmn2075u
+  symbol_name: dmn2075u
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_amplifier_audio_tda7297
+library: amplifier_audio
 library_name: Amplifier_Audio
+name: tda7297
 oomp:
   library_name: amplifier_audio
-  md5: 898e1c27903a37b02a12cb1aeb432c51
-  md5_10: 898e1c2790
-  md5_5: 898e1
-  md5_6: 898e1c
-  oomp_key: oomp_amplifier_audio_tda7297
-  oomp_key_extra: oomp_symbol_amplifier_audio_tda7297
-  oomp_key_full: oomp_symbol_amplifier_audio_tda7297_898e1c
-  oomp_key_simple: amplifier_audio_tda7297
+  md5: 1fbfc2d2d26cb57f441bfa67da01848c
+  md5_10: 1fbfc2d2d2
+  md5_5: 1fbfc
+  md5_6: 1fbfc2
+  oomp_key: oomp_tda7297
+  oomp_key_extra: oomp_symbol_tda7297
+  oomp_key_full: oomp_symbol_tda7297_1fbfc2
+  oomp_key_simple: tda7297
   owner_name: kicad
-  symbol_name: amplifier_audio_tda7297
+  symbol_name: tda7297
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

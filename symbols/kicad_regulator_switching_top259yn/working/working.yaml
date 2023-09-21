@@ -1,3 +1,5 @@
+id: kicad_regulator_switching_top259yn
+library: regulator_switching
 library_name: Regulator_Switching
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_top259yn/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_top259yn/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_top259yn/working
-name: regulator_switching_top259yn
+name: top259yn
 oomp:
   library_name: regulator_switching
-  md5: e21dedacf0f5b138d72c994e0cf1438e
-  md5_10: e21dedacf0
-  md5_5: e21de
-  md5_6: e21ded
-  oomp_key: oomp_regulator_switching_top259yn
-  oomp_key_extra: oomp_symbol_regulator_switching_top259yn
-  oomp_key_full: oomp_symbol_regulator_switching_top259yn_e21ded
-  oomp_key_simple: regulator_switching_top259yn
+  md5: e5749cede9e4eb1b978f4287cce4c825
+  md5_10: e5749cede9
+  md5_5: e5749
+  md5_6: e5749c
+  oomp_key: oomp_top259yn
+  oomp_key_extra: oomp_symbol_top259yn
+  oomp_key_full: oomp_symbol_top259yn_e5749c
+  oomp_key_simple: top259yn
   owner_name: kicad
-  symbol_name: regulator_switching_top259yn
+  symbol_name: top259yn
 oomp_key: oomp_kicad_regulator_switching_top259yn
 oomp_key_simple: kicad_regulator_switching_top259yn
 owner: kicad

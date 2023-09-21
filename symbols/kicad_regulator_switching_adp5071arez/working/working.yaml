@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_adp5071arez
+library: regulator_switching
 library_name: Regulator_Switching
+name: adp5071arez
 oomp:
   library_name: regulator_switching
-  md5: 32eb739fba0492de22340260eb3bfebb
-  md5_10: 32eb739fba
-  md5_5: 32eb7
-  md5_6: 32eb73
-  oomp_key: oomp_regulator_switching_adp5071arez
-  oomp_key_extra: oomp_symbol_regulator_switching_adp5071arez
-  oomp_key_full: oomp_symbol_regulator_switching_adp5071arez_32eb73
-  oomp_key_simple: regulator_switching_adp5071arez
+  md5: c73bc6247467a2c1ca4278a5f9b15125
+  md5_10: c73bc62474
+  md5_5: c73bc
+  md5_6: c73bc6
+  oomp_key: oomp_adp5071arez
+  oomp_key_extra: oomp_symbol_adp5071arez
+  oomp_key_full: oomp_symbol_adp5071arez_c73bc6
+  oomp_key_simple: adp5071arez
   owner_name: kicad
-  symbol_name: regulator_switching_adp5071arez
+  symbol_name: adp5071arez
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_diode_mmbzxx
+library: diode
 library_name: Diode
+name: mmbzxx
 oomp:
   library_name: diode
-  md5: 72d9a3466b1517ded9879f49922cb97b
-  md5_10: 72d9a3466b
-  md5_5: 72d9a
-  md5_6: 72d9a3
-  oomp_key: oomp_diode_mmbzxx
-  oomp_key_extra: oomp_symbol_diode_mmbzxx
-  oomp_key_full: oomp_symbol_diode_mmbzxx_72d9a3
-  oomp_key_simple: diode_mmbzxx
+  md5: 2696ef05efa8ba2740313d685cb9dd58
+  md5_10: 2696ef05ef
+  md5_5: 2696e
+  md5_6: 2696ef
+  oomp_key: oomp_mmbzxx
+  oomp_key_extra: oomp_symbol_mmbzxx
+  oomp_key_full: oomp_symbol_mmbzxx_2696ef
+  oomp_key_simple: mmbzxx
   owner_name: kicad
-  symbol_name: diode_mmbzxx
+  symbol_name: mmbzxx
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

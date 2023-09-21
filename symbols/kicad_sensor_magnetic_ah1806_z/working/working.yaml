@@ -1,3 +1,5 @@
+id: kicad_sensor_magnetic_ah1806_z
+library: sensor_magnetic
 library_name: Sensor_Magnetic
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_magnetic_ah1806_z/working
   oomp_src_flat: symbols_flat/kicad_sensor_magnetic_ah1806_z/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_magnetic_ah1806_z/working
-name: sensor_magnetic_ah1806_z
+name: ah1806_z
 oomp:
   library_name: sensor_magnetic
-  md5: c70838eefdb4fac7ac08e2a91ec52fd4
-  md5_10: c70838eefd
-  md5_5: c7083
-  md5_6: c70838
-  oomp_key: oomp_sensor_magnetic_ah1806_z
-  oomp_key_extra: oomp_symbol_sensor_magnetic_ah1806_z
-  oomp_key_full: oomp_symbol_sensor_magnetic_ah1806_z_c70838
-  oomp_key_simple: sensor_magnetic_ah1806_z
+  md5: 2db51c7274103e1d4fad610ee883cec0
+  md5_10: 2db51c7274
+  md5_5: 2db51
+  md5_6: 2db51c
+  oomp_key: oomp_ah1806_z
+  oomp_key_extra: oomp_symbol_ah1806_z
+  oomp_key_full: oomp_symbol_ah1806_z_2db51c
+  oomp_key_simple: ah1806_z
   owner_name: kicad
-  symbol_name: sensor_magnetic_ah1806_z
+  symbol_name: ah1806_z
 oomp_key: oomp_kicad_sensor_magnetic_ah1806_z
 oomp_key_simple: kicad_sensor_magnetic_ah1806_z
 owner: kicad

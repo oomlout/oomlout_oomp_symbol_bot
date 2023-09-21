@@ -1,16 +1,20 @@
+id: kicad_oscillator_sit9366xx_xbx_xxn
+library: oscillator
 library_name: Oscillator
+name: sit9366xx_xbx_xxn
 oomp:
   library_name: oscillator
-  md5: 60ad88bb66bf755d035bd8f1892167c3
-  md5_10: 60ad88bb66
-  md5_5: 60ad8
-  md5_6: 60ad88
-  oomp_key: oomp_oscillator_sit9366xx_xbx_xxn
-  oomp_key_extra: oomp_symbol_oscillator_sit9366xx_xbx_xxn
-  oomp_key_full: oomp_symbol_oscillator_sit9366xx_xbx_xxn_60ad88
-  oomp_key_simple: oscillator_sit9366xx_xbx_xxn
+  md5: b9169e82dea2deb89778e86a7cfd18f4
+  md5_10: b9169e82de
+  md5_5: b9169
+  md5_6: b9169e
+  oomp_key: oomp_sit9366xx_xbx_xxn
+  oomp_key_extra: oomp_symbol_sit9366xx_xbx_xxn
+  oomp_key_full: oomp_symbol_sit9366xx_xbx_xxn_b9169e
+  oomp_key_simple: sit9366xx_xbx_xxn
   owner_name: kicad
-  symbol_name: oscillator_sit9366xx_xbx_xxn
+  symbol_name: sit9366xx_xbx_xxn
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

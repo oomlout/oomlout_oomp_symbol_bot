@@ -1,16 +1,20 @@
+id: kicad_mcu_st_stm32g4_stm32g474rbtx
+library: mcu_st_stm32g4
 library_name: MCU_ST_STM32G4
+name: stm32g474rbtx
 oomp:
   library_name: mcu_st_stm32g4
-  md5: d8f488a4c26d579122708dfe89784b9e
-  md5_10: d8f488a4c2
-  md5_5: d8f48
-  md5_6: d8f488
-  oomp_key: oomp_mcu_st_stm32g4_stm32g474rbtx
-  oomp_key_extra: oomp_symbol_mcu_st_stm32g4_stm32g474rbtx
-  oomp_key_full: oomp_symbol_mcu_st_stm32g4_stm32g474rbtx_d8f488
-  oomp_key_simple: mcu_st_stm32g4_stm32g474rbtx
+  md5: 1fb569315e169fddccab783b322490e9
+  md5_10: 1fb569315e
+  md5_5: 1fb56
+  md5_6: 1fb569
+  oomp_key: oomp_stm32g474rbtx
+  oomp_key_extra: oomp_symbol_stm32g474rbtx
+  oomp_key_full: oomp_symbol_stm32g474rbtx_1fb569
+  oomp_key_simple: stm32g474rbtx
   owner_name: kicad
-  symbol_name: mcu_st_stm32g4_stm32g474rbtx
+  symbol_name: stm32g474rbtx
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,3 +1,5 @@
+id: kicad_device_d_dual_commoncathode_aak_split
+library: device
 library_name: Device
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_d_dual_commoncathode_aak_split/working
   oomp_src_flat: symbols_flat/kicad_device_d_dual_commoncathode_aak_split/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_d_dual_commoncathode_aak_split/working
-name: device_d_dual_commoncathode_aak_split
+name: d_dual_commoncathode_aak_split
 oomp:
   library_name: device
-  md5: e0ca69ee81a335a696f052143502de9f
-  md5_10: e0ca69ee81
-  md5_5: e0ca6
-  md5_6: e0ca69
-  oomp_key: oomp_device_d_dual_commoncathode_aak_split
-  oomp_key_extra: oomp_symbol_device_d_dual_commoncathode_aak_split
-  oomp_key_full: oomp_symbol_device_d_dual_commoncathode_aak_split_e0ca69
-  oomp_key_simple: device_d_dual_commoncathode_aak_split
+  md5: 18e148a8ffc8c1ff3a2d3282cc73e91f
+  md5_10: 18e148a8ff
+  md5_5: 18e14
+  md5_6: 18e148
+  oomp_key: oomp_d_dual_commoncathode_aak_split
+  oomp_key_extra: oomp_symbol_d_dual_commoncathode_aak_split
+  oomp_key_full: oomp_symbol_d_dual_commoncathode_aak_split_18e148
+  oomp_key_simple: d_dual_commoncathode_aak_split
   owner_name: kicad
-  symbol_name: device_d_dual_commoncathode_aak_split
+  symbol_name: d_dual_commoncathode_aak_split
 oomp_key: oomp_kicad_device_d_dual_commoncathode_aak_split
 oomp_key_simple: kicad_device_d_dual_commoncathode_aak_split
 owner: kicad

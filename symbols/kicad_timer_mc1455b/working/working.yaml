@@ -1,16 +1,20 @@
+id: kicad_timer_mc1455b
+library: timer
 library_name: Timer
+name: mc1455b
 oomp:
   library_name: timer
-  md5: 51d4ccd4a26d0bdfe082a6f7a8dddd16
-  md5_10: 51d4ccd4a2
-  md5_5: 51d4c
-  md5_6: 51d4cc
-  oomp_key: oomp_timer_mc1455b
-  oomp_key_extra: oomp_symbol_timer_mc1455b
-  oomp_key_full: oomp_symbol_timer_mc1455b_51d4cc
-  oomp_key_simple: timer_mc1455b
+  md5: 96253bcd6e753f54cf3670d2a317bc77
+  md5_10: 96253bcd6e
+  md5_5: '96253'
+  md5_6: 96253b
+  oomp_key: oomp_mc1455b
+  oomp_key_extra: oomp_symbol_mc1455b
+  oomp_key_full: oomp_symbol_mc1455b_96253b
+  oomp_key_simple: mc1455b
   owner_name: kicad
-  symbol_name: timer_mc1455b
+  symbol_name: mc1455b
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

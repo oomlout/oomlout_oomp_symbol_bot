@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_tps61041dbv
+library: regulator_switching
 library_name: Regulator_Switching
+name: tps61041dbv
 oomp:
   library_name: regulator_switching
-  md5: 9ae94dc6089a72c42dcf6b9ceec9664d
-  md5_10: 9ae94dc608
-  md5_5: 9ae94
-  md5_6: 9ae94d
-  oomp_key: oomp_regulator_switching_tps61041dbv
-  oomp_key_extra: oomp_symbol_regulator_switching_tps61041dbv
-  oomp_key_full: oomp_symbol_regulator_switching_tps61041dbv_9ae94d
-  oomp_key_simple: regulator_switching_tps61041dbv
+  md5: 52b3d6b83aff993837c281c62560712f
+  md5_10: 52b3d6b83a
+  md5_5: 52b3d
+  md5_6: 52b3d6
+  oomp_key: oomp_tps61041dbv
+  oomp_key_extra: oomp_symbol_tps61041dbv
+  oomp_key_full: oomp_symbol_tps61041dbv_52b3d6
+  oomp_key_simple: tps61041dbv
   owner_name: kicad
-  symbol_name: regulator_switching_tps61041dbv
+  symbol_name: tps61041dbv
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

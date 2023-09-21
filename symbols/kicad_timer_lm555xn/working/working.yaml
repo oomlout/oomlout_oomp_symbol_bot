@@ -1,16 +1,20 @@
+id: kicad_timer_lm555xn
+library: timer
 library_name: Timer
+name: lm555xn
 oomp:
   library_name: timer
-  md5: 479470dfe59ad5d7e8cb0daed732ff6d
-  md5_10: 479470dfe5
-  md5_5: '47947'
-  md5_6: '479470'
-  oomp_key: oomp_timer_lm555xn
-  oomp_key_extra: oomp_symbol_timer_lm555xn
-  oomp_key_full: oomp_symbol_timer_lm555xn_479470
-  oomp_key_simple: timer_lm555xn
+  md5: 2bfebb6a42bdcfebc7fa1dad90edc2c7
+  md5_10: 2bfebb6a42
+  md5_5: 2bfeb
+  md5_6: 2bfebb
+  oomp_key: oomp_lm555xn
+  oomp_key_extra: oomp_symbol_lm555xn
+  oomp_key_full: oomp_symbol_lm555xn_2bfebb
+  oomp_key_simple: lm555xn
   owner_name: kicad
-  symbol_name: timer_lm555xn
+  symbol_name: lm555xn
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

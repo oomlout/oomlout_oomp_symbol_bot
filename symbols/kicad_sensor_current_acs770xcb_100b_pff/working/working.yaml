@@ -1,16 +1,20 @@
+id: kicad_sensor_current_acs770xcb_100b_pff
+library: sensor_current
 library_name: Sensor_Current
+name: acs770xcb_100b_pff
 oomp:
   library_name: sensor_current
-  md5: 4337ea4102c9d0d816ba3b14269e42fe
-  md5_10: 4337ea4102
-  md5_5: 4337e
-  md5_6: 4337ea
-  oomp_key: oomp_sensor_current_acs770xcb_100b_pff
-  oomp_key_extra: oomp_symbol_sensor_current_acs770xcb_100b_pff
-  oomp_key_full: oomp_symbol_sensor_current_acs770xcb_100b_pff_4337ea
-  oomp_key_simple: sensor_current_acs770xcb_100b_pff
+  md5: a10b3e40515ea22064b91d3eae6a3f1b
+  md5_10: a10b3e4051
+  md5_5: a10b3
+  md5_6: a10b3e
+  oomp_key: oomp_acs770xcb_100b_pff
+  oomp_key_extra: oomp_symbol_acs770xcb_100b_pff
+  oomp_key_full: oomp_symbol_acs770xcb_100b_pff_a10b3e
+  oomp_key_simple: acs770xcb_100b_pff
   owner_name: kicad
-  symbol_name: sensor_current_acs770xcb_100b_pff
+  symbol_name: acs770xcb_100b_pff
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

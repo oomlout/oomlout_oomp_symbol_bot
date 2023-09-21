@@ -1,16 +1,20 @@
+id: kicad_converter_dcdc_tpsm53604rda
+library: converter_dcdc
 library_name: Converter_DCDC
+name: tpsm53604rda
 oomp:
   library_name: converter_dcdc
-  md5: fff6967ab4494e90ddbb557c321e3e81
-  md5_10: fff6967ab4
-  md5_5: fff69
-  md5_6: fff696
-  oomp_key: oomp_converter_dcdc_tpsm53604rda
-  oomp_key_extra: oomp_symbol_converter_dcdc_tpsm53604rda
-  oomp_key_full: oomp_symbol_converter_dcdc_tpsm53604rda_fff696
-  oomp_key_simple: converter_dcdc_tpsm53604rda
+  md5: d28f072525bfd9901f74d242d84109e2
+  md5_10: d28f072525
+  md5_5: d28f0
+  md5_6: d28f07
+  oomp_key: oomp_tpsm53604rda
+  oomp_key_extra: oomp_symbol_tpsm53604rda
+  oomp_key_full: oomp_symbol_tpsm53604rda_d28f07
+  oomp_key_simple: tpsm53604rda
   owner_name: kicad
-  symbol_name: converter_dcdc_tpsm53604rda
+  symbol_name: tpsm53604rda
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

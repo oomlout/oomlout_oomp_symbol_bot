@@ -1,16 +1,20 @@
+id: kicad_reference_voltage_ref03gs
+library: reference_voltage
 library_name: Reference_Voltage
+name: ref03gs
 oomp:
   library_name: reference_voltage
-  md5: faf0eba1781bac70505e4b1060a4b36b
-  md5_10: faf0eba178
-  md5_5: faf0e
-  md5_6: faf0eb
-  oomp_key: oomp_reference_voltage_ref03gs
-  oomp_key_extra: oomp_symbol_reference_voltage_ref03gs
-  oomp_key_full: oomp_symbol_reference_voltage_ref03gs_faf0eb
-  oomp_key_simple: reference_voltage_ref03gs
+  md5: f162fb5b5579e80b1bf0e26ae98c1c66
+  md5_10: f162fb5b55
+  md5_5: f162f
+  md5_6: f162fb
+  oomp_key: oomp_ref03gs
+  oomp_key_extra: oomp_symbol_ref03gs
+  oomp_key_full: oomp_symbol_ref03gs_f162fb
+  oomp_key_simple: ref03gs
   owner_name: kicad
-  symbol_name: reference_voltage_ref03gs
+  symbol_name: ref03gs
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

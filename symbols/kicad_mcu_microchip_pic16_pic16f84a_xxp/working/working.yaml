@@ -1,3 +1,5 @@
+id: kicad_mcu_microchip_pic16_pic16f84a_xxp
+library: mcu_microchip_pic16
 library_name: MCU_Microchip_PIC16
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_microchip_pic16_pic16f84a_xxp/working
   oomp_src_flat: symbols_flat/kicad_mcu_microchip_pic16_pic16f84a_xxp/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_microchip_pic16_pic16f84a_xxp/working
-name: mcu_microchip_pic16_pic16f84a_xxp
+name: pic16f84a_xxp
 oomp:
   library_name: mcu_microchip_pic16
-  md5: 6e983cc2eae4a7430952596543978d0f
-  md5_10: 6e983cc2ea
-  md5_5: 6e983
-  md5_6: 6e983c
-  oomp_key: oomp_mcu_microchip_pic16_pic16f84a_xxp
-  oomp_key_extra: oomp_symbol_mcu_microchip_pic16_pic16f84a_xxp
-  oomp_key_full: oomp_symbol_mcu_microchip_pic16_pic16f84a_xxp_6e983c
-  oomp_key_simple: mcu_microchip_pic16_pic16f84a_xxp
+  md5: e4bd69e3b4fc9cab176d5288f12ae842
+  md5_10: e4bd69e3b4
+  md5_5: e4bd6
+  md5_6: e4bd69
+  oomp_key: oomp_pic16f84a_xxp
+  oomp_key_extra: oomp_symbol_pic16f84a_xxp
+  oomp_key_full: oomp_symbol_pic16f84a_xxp_e4bd69
+  oomp_key_simple: pic16f84a_xxp
   owner_name: kicad
-  symbol_name: mcu_microchip_pic16_pic16f84a_xxp
+  symbol_name: pic16f84a_xxp
 oomp_key: oomp_kicad_mcu_microchip_pic16_pic16f84a_xxp
 oomp_key_simple: kicad_mcu_microchip_pic16_pic16f84a_xxp
 owner: kicad

@@ -1,16 +1,20 @@
+id: kicad_timer_ltc6993xs6_3
+library: timer
 library_name: Timer
+name: ltc6993xs6_3
 oomp:
   library_name: timer
-  md5: 2439845f0d0bfdc241018d260f7347b1
-  md5_10: 2439845f0d
-  md5_5: '24398'
-  md5_6: '243984'
-  oomp_key: oomp_timer_ltc6993xs6_3
-  oomp_key_extra: oomp_symbol_timer_ltc6993xs6_3
-  oomp_key_full: oomp_symbol_timer_ltc6993xs6_3_243984
-  oomp_key_simple: timer_ltc6993xs6_3
+  md5: 7b8281ebfa27243b4079283803e1dd1b
+  md5_10: 7b8281ebfa
+  md5_5: 7b828
+  md5_6: 7b8281
+  oomp_key: oomp_ltc6993xs6_3
+  oomp_key_extra: oomp_symbol_ltc6993xs6_3
+  oomp_key_full: oomp_symbol_ltc6993xs6_3_7b8281
+  oomp_key_simple: ltc6993xs6_3
   owner_name: kicad
-  symbol_name: timer_ltc6993xs6_3
+  symbol_name: ltc6993xs6_3
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_ld3985g25r_tsot23
+library: regulator_linear
 library_name: Regulator_Linear
+name: ld3985g25r_tsot23
 oomp:
   library_name: regulator_linear
-  md5: 4e56f796bb14ea50cccbf87cf1147850
-  md5_10: 4e56f796bb
-  md5_5: 4e56f
-  md5_6: 4e56f7
-  oomp_key: oomp_regulator_linear_ld3985g25r_tsot23
-  oomp_key_extra: oomp_symbol_regulator_linear_ld3985g25r_tsot23
-  oomp_key_full: oomp_symbol_regulator_linear_ld3985g25r_tsot23_4e56f7
-  oomp_key_simple: regulator_linear_ld3985g25r_tsot23
+  md5: efc3bb3675bd71e5bdf327807c643023
+  md5_10: efc3bb3675
+  md5_5: efc3b
+  md5_6: efc3bb
+  oomp_key: oomp_ld3985g25r_tsot23
+  oomp_key_extra: oomp_symbol_ld3985g25r_tsot23
+  oomp_key_full: oomp_symbol_ld3985g25r_tsot23_efc3bb
+  oomp_key_simple: ld3985g25r_tsot23
   owner_name: kicad
-  symbol_name: regulator_linear_ld3985g25r_tsot23
+  symbol_name: ld3985g25r_tsot23
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

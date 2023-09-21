@@ -1,3 +1,5 @@
+id: arturo182_video_extra_tfp401
+library: video_extra
 library_name: Video_Extra
 links:
   github_owner: arturo182
@@ -10,19 +12,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/arturo182_video_extra_tfp401/working
   oomp_src_flat: symbols_flat/arturo182_video_extra_tfp401/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/arturo182_video_extra_tfp401/working
-name: video_extra_tfp401
+name: tfp401
 oomp:
   library_name: video_extra
-  md5: 9cc1d5ed426130c79974eab6e5512c5b
-  md5_10: 9cc1d5ed42
-  md5_5: 9cc1d
-  md5_6: 9cc1d5
-  oomp_key: oomp_video_extra_tfp401
-  oomp_key_extra: oomp_symbol_video_extra_tfp401
-  oomp_key_full: oomp_symbol_video_extra_tfp401_9cc1d5
-  oomp_key_simple: video_extra_tfp401
+  md5: f9e4a3f8387c66f3e865197054633031
+  md5_10: f9e4a3f838
+  md5_5: f9e4a
+  md5_6: f9e4a3
+  oomp_key: oomp_tfp401
+  oomp_key_extra: oomp_symbol_tfp401
+  oomp_key_full: oomp_symbol_tfp401_f9e4a3
+  oomp_key_simple: tfp401
   owner_name: arturo182
-  symbol_name: video_extra_tfp401
+  symbol_name: tfp401
 oomp_key: oomp_arturo182_video_extra_tfp401
 oomp_key_simple: arturo182_video_extra_tfp401
 owner: arturo182

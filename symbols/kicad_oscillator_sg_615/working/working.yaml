@@ -1,16 +1,20 @@
+id: kicad_oscillator_sg_615
+library: oscillator
 library_name: Oscillator
+name: sg_615
 oomp:
   library_name: oscillator
-  md5: 57ebfac284e844de5a0b8567c21eece0
-  md5_10: 57ebfac284
-  md5_5: 57ebf
-  md5_6: 57ebfa
-  oomp_key: oomp_oscillator_sg_615
-  oomp_key_extra: oomp_symbol_oscillator_sg_615
-  oomp_key_full: oomp_symbol_oscillator_sg_615_57ebfa
-  oomp_key_simple: oscillator_sg_615
+  md5: 819279d007a9b8a4103d46e57928dc6e
+  md5_10: 819279d007
+  md5_5: '81927'
+  md5_6: '819279'
+  oomp_key: oomp_sg_615
+  oomp_key_extra: oomp_symbol_sg_615
+  oomp_key_full: oomp_symbol_sg_615_819279
+  oomp_key_simple: sg_615
   owner_name: kicad
-  symbol_name: oscillator_sg_615
+  symbol_name: sg_615
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

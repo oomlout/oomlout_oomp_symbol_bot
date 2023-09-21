@@ -1,3 +1,5 @@
+id: kicad_amplifier_current_ad8203
+library: amplifier_current
 library_name: Amplifier_Current
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_current_ad8203/working
   oomp_src_flat: symbols_flat/kicad_amplifier_current_ad8203/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_current_ad8203/working
-name: amplifier_current_ad8203
+name: ad8203
 oomp:
   library_name: amplifier_current
-  md5: d575c0efd15707b9ea681c6efab58538
-  md5_10: d575c0efd1
-  md5_5: d575c
-  md5_6: d575c0
-  oomp_key: oomp_amplifier_current_ad8203
-  oomp_key_extra: oomp_symbol_amplifier_current_ad8203
-  oomp_key_full: oomp_symbol_amplifier_current_ad8203_d575c0
-  oomp_key_simple: amplifier_current_ad8203
+  md5: 405796c1a4dd35d660440967840d7df5
+  md5_10: 405796c1a4
+  md5_5: '40579'
+  md5_6: '405796'
+  oomp_key: oomp_ad8203
+  oomp_key_extra: oomp_symbol_ad8203
+  oomp_key_full: oomp_symbol_ad8203_405796
+  oomp_key_simple: ad8203
   owner_name: kicad
-  symbol_name: amplifier_current_ad8203
+  symbol_name: ad8203
 oomp_key: oomp_kicad_amplifier_current_ad8203
 oomp_key_simple: kicad_amplifier_current_ad8203
 owner: kicad

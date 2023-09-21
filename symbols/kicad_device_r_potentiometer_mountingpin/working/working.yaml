@@ -1,3 +1,5 @@
+id: kicad_device_r_potentiometer_mountingpin
+library: device
 library_name: Device
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_r_potentiometer_mountingpin/working
   oomp_src_flat: symbols_flat/kicad_device_r_potentiometer_mountingpin/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_r_potentiometer_mountingpin/working
-name: device_r_potentiometer_mountingpin
+name: r_potentiometer_mountingpin
 oomp:
   library_name: device
-  md5: dc10cb5825710d90ff648bddaf7f5991
-  md5_10: dc10cb5825
-  md5_5: dc10c
-  md5_6: dc10cb
-  oomp_key: oomp_device_r_potentiometer_mountingpin
-  oomp_key_extra: oomp_symbol_device_r_potentiometer_mountingpin
-  oomp_key_full: oomp_symbol_device_r_potentiometer_mountingpin_dc10cb
-  oomp_key_simple: device_r_potentiometer_mountingpin
+  md5: f018e4ced5b6564cfe6027542195de9f
+  md5_10: f018e4ced5
+  md5_5: f018e
+  md5_6: f018e4
+  oomp_key: oomp_r_potentiometer_mountingpin
+  oomp_key_extra: oomp_symbol_r_potentiometer_mountingpin
+  oomp_key_full: oomp_symbol_r_potentiometer_mountingpin_f018e4
+  oomp_key_simple: r_potentiometer_mountingpin
   owner_name: kicad
-  symbol_name: device_r_potentiometer_mountingpin
+  symbol_name: r_potentiometer_mountingpin
 oomp_key: oomp_kicad_device_r_potentiometer_mountingpin
 oomp_key_simple: kicad_device_r_potentiometer_mountingpin
 owner: kicad

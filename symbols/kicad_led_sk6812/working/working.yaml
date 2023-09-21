@@ -1,3 +1,5 @@
+id: kicad_led_sk6812
+library: led
 library_name: LED
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_led_sk6812/working
   oomp_src_flat: symbols_flat/kicad_led_sk6812/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_led_sk6812/working
-name: led_sk6812
+name: sk6812
 oomp:
   library_name: led
-  md5: afce3ec99a9e995963bd49fb1e731793
-  md5_10: afce3ec99a
-  md5_5: afce3
-  md5_6: afce3e
-  oomp_key: oomp_led_sk6812
-  oomp_key_extra: oomp_symbol_led_sk6812
-  oomp_key_full: oomp_symbol_led_sk6812_afce3e
-  oomp_key_simple: led_sk6812
+  md5: 2b5e45033e10a6f0914bf0cfc7700e28
+  md5_10: 2b5e45033e
+  md5_5: 2b5e4
+  md5_6: 2b5e45
+  oomp_key: oomp_sk6812
+  oomp_key_extra: oomp_symbol_sk6812
+  oomp_key_full: oomp_symbol_sk6812_2b5e45
+  oomp_key_simple: sk6812
   owner_name: kicad
-  symbol_name: led_sk6812
+  symbol_name: sk6812
 oomp_key: oomp_kicad_led_sk6812
 oomp_key_simple: kicad_led_sk6812
 owner: kicad

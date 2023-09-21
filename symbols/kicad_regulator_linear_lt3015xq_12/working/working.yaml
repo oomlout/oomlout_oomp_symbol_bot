@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_lt3015xq_12
+library: regulator_linear
 library_name: Regulator_Linear
+name: lt3015xq_12
 oomp:
   library_name: regulator_linear
-  md5: 2c3759edccb69781cd113e8313c64ac6
-  md5_10: 2c3759edcc
-  md5_5: 2c375
-  md5_6: 2c3759
-  oomp_key: oomp_regulator_linear_lt3015xq_12
-  oomp_key_extra: oomp_symbol_regulator_linear_lt3015xq_12
-  oomp_key_full: oomp_symbol_regulator_linear_lt3015xq_12_2c3759
-  oomp_key_simple: regulator_linear_lt3015xq_12
+  md5: e74ad90df2ee9e2683e44b392ffa1e47
+  md5_10: e74ad90df2
+  md5_5: e74ad
+  md5_6: e74ad9
+  oomp_key: oomp_lt3015xq_12
+  oomp_key_extra: oomp_symbol_lt3015xq_12
+  oomp_key_full: oomp_symbol_lt3015xq_12_e74ad9
+  oomp_key_simple: lt3015xq_12
   owner_name: kicad
-  symbol_name: regulator_linear_lt3015xq_12
+  symbol_name: lt3015xq_12
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

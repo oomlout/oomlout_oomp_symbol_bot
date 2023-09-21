@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_lm27313xmf
+library: regulator_switching
 library_name: Regulator_Switching
+name: lm27313xmf
 oomp:
   library_name: regulator_switching
-  md5: c421a92383a4699af1773913d384a045
-  md5_10: c421a92383
-  md5_5: c421a
-  md5_6: c421a9
-  oomp_key: oomp_regulator_switching_lm27313xmf
-  oomp_key_extra: oomp_symbol_regulator_switching_lm27313xmf
-  oomp_key_full: oomp_symbol_regulator_switching_lm27313xmf_c421a9
-  oomp_key_simple: regulator_switching_lm27313xmf
+  md5: 95d895b68c25704f2c2aa18d02c60cc1
+  md5_10: 95d895b68c
+  md5_5: 95d89
+  md5_6: 95d895
+  oomp_key: oomp_lm27313xmf
+  oomp_key_extra: oomp_symbol_lm27313xmf
+  oomp_key_full: oomp_symbol_lm27313xmf_95d895
+  oomp_key_simple: lm27313xmf
   owner_name: kicad
-  symbol_name: regulator_switching_lm27313xmf
+  symbol_name: lm27313xmf
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

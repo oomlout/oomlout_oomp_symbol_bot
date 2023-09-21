@@ -1,16 +1,20 @@
+id: kicad_converter_acdc_rac05_24sk
+library: converter_acdc
 library_name: Converter_ACDC
+name: rac05_24sk
 oomp:
   library_name: converter_acdc
-  md5: 71069afbe06032071aae263d1205ed75
-  md5_10: 71069afbe0
-  md5_5: '71069'
-  md5_6: 71069a
-  oomp_key: oomp_converter_acdc_rac05_24sk
-  oomp_key_extra: oomp_symbol_converter_acdc_rac05_24sk
-  oomp_key_full: oomp_symbol_converter_acdc_rac05_24sk_71069a
-  oomp_key_simple: converter_acdc_rac05_24sk
+  md5: 98307a857900b4ec6c31e9bfd35cebb5
+  md5_10: 98307a8579
+  md5_5: '98307'
+  md5_6: 98307a
+  oomp_key: oomp_rac05_24sk
+  oomp_key_extra: oomp_symbol_rac05_24sk
+  oomp_key_full: oomp_symbol_rac05_24sk_98307a
+  oomp_key_simple: rac05_24sk
   owner_name: kicad
-  symbol_name: converter_acdc_rac05_24sk
+  symbol_name: rac05_24sk
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

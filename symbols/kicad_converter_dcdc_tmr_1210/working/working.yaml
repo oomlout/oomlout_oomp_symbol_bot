@@ -1,16 +1,20 @@
+id: kicad_converter_dcdc_tmr_1210
+library: converter_dcdc
 library_name: Converter_DCDC
+name: tmr_1210
 oomp:
   library_name: converter_dcdc
-  md5: 1e94f6845685d7e2b446ccd564e162fb
-  md5_10: 1e94f68456
-  md5_5: 1e94f
-  md5_6: 1e94f6
-  oomp_key: oomp_converter_dcdc_tmr_1210
-  oomp_key_extra: oomp_symbol_converter_dcdc_tmr_1210
-  oomp_key_full: oomp_symbol_converter_dcdc_tmr_1210_1e94f6
-  oomp_key_simple: converter_dcdc_tmr_1210
+  md5: 9dfd3852e4b129ead323289abee8ff9a
+  md5_10: 9dfd3852e4
+  md5_5: 9dfd3
+  md5_6: 9dfd38
+  oomp_key: oomp_tmr_1210
+  oomp_key_extra: oomp_symbol_tmr_1210
+  oomp_key_full: oomp_symbol_tmr_1210_9dfd38
+  oomp_key_simple: tmr_1210
   owner_name: kicad
-  symbol_name: converter_dcdc_tmr_1210
+  symbol_name: tmr_1210
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

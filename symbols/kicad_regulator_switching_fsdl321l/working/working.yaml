@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_fsdl321l
+library: regulator_switching
 library_name: Regulator_Switching
+name: fsdl321l
 oomp:
   library_name: regulator_switching
-  md5: e75b226312afe978829dcbde91d346b8
-  md5_10: e75b226312
-  md5_5: e75b2
-  md5_6: e75b22
-  oomp_key: oomp_regulator_switching_fsdl321l
-  oomp_key_extra: oomp_symbol_regulator_switching_fsdl321l
-  oomp_key_full: oomp_symbol_regulator_switching_fsdl321l_e75b22
-  oomp_key_simple: regulator_switching_fsdl321l
+  md5: b8837eba50193f0bbb1430a9cbdd8650
+  md5_10: b8837eba50
+  md5_5: b8837
+  md5_6: b8837e
+  oomp_key: oomp_fsdl321l
+  oomp_key_extra: oomp_symbol_fsdl321l
+  oomp_key_full: oomp_symbol_fsdl321l_b8837e
+  oomp_key_simple: fsdl321l
   owner_name: kicad
-  symbol_name: regulator_switching_fsdl321l
+  symbol_name: fsdl321l
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

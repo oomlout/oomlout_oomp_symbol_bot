@@ -1,16 +1,20 @@
+id: kicad_interface_ltc6957xms_4
+library: interface
 library_name: Interface
+name: ltc6957xms_4
 oomp:
   library_name: interface
-  md5: 26513ed96d7198570547b7bdab9f45cd
-  md5_10: 26513ed96d
-  md5_5: '26513'
-  md5_6: 26513e
-  oomp_key: oomp_interface_ltc6957xms_4
-  oomp_key_extra: oomp_symbol_interface_ltc6957xms_4
-  oomp_key_full: oomp_symbol_interface_ltc6957xms_4_26513e
-  oomp_key_simple: interface_ltc6957xms_4
+  md5: 978648b0a00f1d169edc90cf0c1dfb7d
+  md5_10: 978648b0a0
+  md5_5: '97864'
+  md5_6: '978648'
+  oomp_key: oomp_ltc6957xms_4
+  oomp_key_extra: oomp_symbol_ltc6957xms_4
+  oomp_key_full: oomp_symbol_ltc6957xms_4_978648
+  oomp_key_simple: ltc6957xms_4
   owner_name: kicad
-  symbol_name: interface_ltc6957xms_4
+  symbol_name: ltc6957xms_4
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_comparator_tl331
+library: comparator
 library_name: Comparator
+name: tl331
 oomp:
   library_name: comparator
-  md5: bfdd644106477eabd7501f4f2078b653
-  md5_10: bfdd644106
-  md5_5: bfdd6
-  md5_6: bfdd64
-  oomp_key: oomp_comparator_tl331
-  oomp_key_extra: oomp_symbol_comparator_tl331
-  oomp_key_full: oomp_symbol_comparator_tl331_bfdd64
-  oomp_key_simple: comparator_tl331
+  md5: 8676c4badeeab5ad7302c29a13b84a3e
+  md5_10: 8676c4bade
+  md5_5: 8676c
+  md5_6: 8676c4
+  oomp_key: oomp_tl331
+  oomp_key_extra: oomp_symbol_tl331
+  oomp_key_full: oomp_symbol_tl331_8676c4
+  oomp_key_simple: tl331
   owner_name: kicad
-  symbol_name: comparator_tl331
+  symbol_name: tl331
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

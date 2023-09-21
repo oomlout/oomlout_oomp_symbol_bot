@@ -1,16 +1,20 @@
+id: kicad_valve_ecc83
+library: valve
 library_name: Valve
+name: ecc83
 oomp:
   library_name: valve
-  md5: 01305d9d0c79812bbd60c90b045a9bb3
-  md5_10: 01305d9d0c
-  md5_5: '01305'
-  md5_6: 01305d
-  oomp_key: oomp_valve_ecc83
-  oomp_key_extra: oomp_symbol_valve_ecc83
-  oomp_key_full: oomp_symbol_valve_ecc83_01305d
-  oomp_key_simple: valve_ecc83
+  md5: 4eb87ee8a6b15ac98cac840d9d186c91
+  md5_10: 4eb87ee8a6
+  md5_5: 4eb87
+  md5_6: 4eb87e
+  oomp_key: oomp_ecc83
+  oomp_key_extra: oomp_symbol_ecc83
+  oomp_key_full: oomp_symbol_ecc83_4eb87e
+  oomp_key_simple: ecc83
   owner_name: kicad
-  symbol_name: valve_ecc83
+  symbol_name: ecc83
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

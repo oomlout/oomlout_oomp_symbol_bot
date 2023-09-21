@@ -1,16 +1,20 @@
+id: kicad_transistor_fet_mmbf170
+library: transistor_fet
 library_name: Transistor_FET
+name: mmbf170
 oomp:
   library_name: transistor_fet
-  md5: 6c0db895f3ddba60c350e40320f196c8
-  md5_10: 6c0db895f3
-  md5_5: 6c0db
-  md5_6: 6c0db8
-  oomp_key: oomp_transistor_fet_mmbf170
-  oomp_key_extra: oomp_symbol_transistor_fet_mmbf170
-  oomp_key_full: oomp_symbol_transistor_fet_mmbf170_6c0db8
-  oomp_key_simple: transistor_fet_mmbf170
+  md5: 960504536480db53e53b1de6e332fdeb
+  md5_10: '9605045364'
+  md5_5: '96050'
+  md5_6: '960504'
+  oomp_key: oomp_mmbf170
+  oomp_key_extra: oomp_symbol_mmbf170
+  oomp_key_full: oomp_symbol_mmbf170_960504
+  oomp_key_simple: mmbf170
   owner_name: kicad
-  symbol_name: transistor_fet_mmbf170
+  symbol_name: mmbf170
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,3 +1,5 @@
+id: kicad_mcu_st_stm32f0_stm32f091rcyx
+library: mcu_st_stm32f0
 library_name: MCU_ST_STM32F0
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_st_stm32f0_stm32f091rcyx/working
   oomp_src_flat: symbols_flat/kicad_mcu_st_stm32f0_stm32f091rcyx/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_st_stm32f0_stm32f091rcyx/working
-name: mcu_st_stm32f0_stm32f091rcyx
+name: stm32f091rcyx
 oomp:
   library_name: mcu_st_stm32f0
-  md5: bf534ff22b7dc4fd646214c6dbfe0e1a
-  md5_10: bf534ff22b
-  md5_5: bf534
-  md5_6: bf534f
-  oomp_key: oomp_mcu_st_stm32f0_stm32f091rcyx
-  oomp_key_extra: oomp_symbol_mcu_st_stm32f0_stm32f091rcyx
-  oomp_key_full: oomp_symbol_mcu_st_stm32f0_stm32f091rcyx_bf534f
-  oomp_key_simple: mcu_st_stm32f0_stm32f091rcyx
+  md5: 02e2bab542ef8ddcc60acf3e0e7bcaa6
+  md5_10: 02e2bab542
+  md5_5: 02e2b
+  md5_6: 02e2ba
+  oomp_key: oomp_stm32f091rcyx
+  oomp_key_extra: oomp_symbol_stm32f091rcyx
+  oomp_key_full: oomp_symbol_stm32f091rcyx_02e2ba
+  oomp_key_simple: stm32f091rcyx
   owner_name: kicad
-  symbol_name: mcu_st_stm32f0_stm32f091rcyx
+  symbol_name: stm32f091rcyx
 oomp_key: oomp_kicad_mcu_st_stm32f0_stm32f091rcyx
 oomp_key_simple: kicad_mcu_st_stm32f0_stm32f091rcyx
 owner: kicad

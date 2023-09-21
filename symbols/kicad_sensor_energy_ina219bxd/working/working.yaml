@@ -1,16 +1,20 @@
+id: kicad_sensor_energy_ina219bxd
+library: sensor_energy
 library_name: Sensor_Energy
+name: ina219bxd
 oomp:
   library_name: sensor_energy
-  md5: a4bb560b2048af24c9f8c50cb52584b2
-  md5_10: a4bb560b20
-  md5_5: a4bb5
-  md5_6: a4bb56
-  oomp_key: oomp_sensor_energy_ina219bxd
-  oomp_key_extra: oomp_symbol_sensor_energy_ina219bxd
-  oomp_key_full: oomp_symbol_sensor_energy_ina219bxd_a4bb56
-  oomp_key_simple: sensor_energy_ina219bxd
+  md5: 3b6f928b5d20f737068b8ddec76f4ebd
+  md5_10: 3b6f928b5d
+  md5_5: 3b6f9
+  md5_6: 3b6f92
+  oomp_key: oomp_ina219bxd
+  oomp_key_extra: oomp_symbol_ina219bxd
+  oomp_key_full: oomp_symbol_ina219bxd_3b6f92
+  oomp_key_simple: ina219bxd
   owner_name: kicad
-  symbol_name: sensor_energy_ina219bxd
+  symbol_name: ina219bxd
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

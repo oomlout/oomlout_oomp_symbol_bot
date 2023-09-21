@@ -1,16 +1,20 @@
+id: kicad_display_character_d148k
+library: display_character
 library_name: Display_Character
+name: d148k
 oomp:
   library_name: display_character
-  md5: 3a30bdbd0188e166df547bbac98ac264
-  md5_10: 3a30bdbd01
-  md5_5: 3a30b
-  md5_6: 3a30bd
-  oomp_key: oomp_display_character_d148k
-  oomp_key_extra: oomp_symbol_display_character_d148k
-  oomp_key_full: oomp_symbol_display_character_d148k_3a30bd
-  oomp_key_simple: display_character_d148k
+  md5: 7911fbd5b2b1fd674eb47f1e1ba6a585
+  md5_10: 7911fbd5b2
+  md5_5: 7911f
+  md5_6: 7911fb
+  oomp_key: oomp_d148k
+  oomp_key_extra: oomp_symbol_d148k
+  oomp_key_full: oomp_symbol_d148k_7911fb
+  oomp_key_simple: d148k
   owner_name: kicad
-  symbol_name: display_character_d148k
+  symbol_name: d148k
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

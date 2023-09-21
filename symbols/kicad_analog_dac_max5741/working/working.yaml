@@ -1,3 +1,5 @@
+id: kicad_analog_dac_max5741
+library: analog_dac
 library_name: Analog_DAC
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_analog_dac_max5741/working
   oomp_src_flat: symbols_flat/kicad_analog_dac_max5741/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_analog_dac_max5741/working
-name: analog_dac_max5741
+name: max5741
 oomp:
   library_name: analog_dac
-  md5: e1eabf34a0af5f6145fee459b2a8e607
-  md5_10: e1eabf34a0
-  md5_5: e1eab
-  md5_6: e1eabf
-  oomp_key: oomp_analog_dac_max5741
-  oomp_key_extra: oomp_symbol_analog_dac_max5741
-  oomp_key_full: oomp_symbol_analog_dac_max5741_e1eabf
-  oomp_key_simple: analog_dac_max5741
+  md5: 7ce6bd717ebb2eefd991bd7617441367
+  md5_10: 7ce6bd717e
+  md5_5: 7ce6b
+  md5_6: 7ce6bd
+  oomp_key: oomp_max5741
+  oomp_key_extra: oomp_symbol_max5741
+  oomp_key_full: oomp_symbol_max5741_7ce6bd
+  oomp_key_simple: max5741
   owner_name: kicad
-  symbol_name: analog_dac_max5741
+  symbol_name: max5741
 oomp_key: oomp_kicad_analog_dac_max5741
 oomp_key_simple: kicad_analog_dac_max5741
 owner: kicad

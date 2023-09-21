@@ -1,16 +1,20 @@
+id: kicad_transistor_fet_dmn10h700s
+library: transistor_fet
 library_name: Transistor_FET
+name: dmn10h700s
 oomp:
   library_name: transistor_fet
-  md5: 684df04c5559db0ca8d03e528f2d3432
-  md5_10: 684df04c55
-  md5_5: 684df
-  md5_6: 684df0
-  oomp_key: oomp_transistor_fet_dmn10h700s
-  oomp_key_extra: oomp_symbol_transistor_fet_dmn10h700s
-  oomp_key_full: oomp_symbol_transistor_fet_dmn10h700s_684df0
-  oomp_key_simple: transistor_fet_dmn10h700s
+  md5: df4a853b9f3212eb7e7cfceed0d14212
+  md5_10: df4a853b9f
+  md5_5: df4a8
+  md5_6: df4a85
+  oomp_key: oomp_dmn10h700s
+  oomp_key_extra: oomp_symbol_dmn10h700s
+  oomp_key_full: oomp_symbol_dmn10h700s_df4a85
+  oomp_key_simple: dmn10h700s
   owner_name: kicad
-  symbol_name: transistor_fet_dmn10h700s
+  symbol_name: dmn10h700s
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

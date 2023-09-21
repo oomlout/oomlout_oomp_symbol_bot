@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_ap2204k_1_8
+library: regulator_linear
 library_name: Regulator_Linear
+name: ap2204k_1_8
 oomp:
   library_name: regulator_linear
-  md5: 08f287913b04d0cf90ce0c0f49d1e735
-  md5_10: 08f287913b
-  md5_5: 08f28
-  md5_6: 08f287
-  oomp_key: oomp_regulator_linear_ap2204k_1_8
-  oomp_key_extra: oomp_symbol_regulator_linear_ap2204k_1_8
-  oomp_key_full: oomp_symbol_regulator_linear_ap2204k_1_8_08f287
-  oomp_key_simple: regulator_linear_ap2204k_1_8
+  md5: 71295d7b9d714efc51989b17abbd44cc
+  md5_10: 71295d7b9d
+  md5_5: '71295'
+  md5_6: 71295d
+  oomp_key: oomp_ap2204k_1_8
+  oomp_key_extra: oomp_symbol_ap2204k_1_8
+  oomp_key_full: oomp_symbol_ap2204k_1_8_71295d
+  oomp_key_simple: ap2204k_1_8
   owner_name: kicad
-  symbol_name: regulator_linear_ap2204k_1_8
+  symbol_name: ap2204k_1_8
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

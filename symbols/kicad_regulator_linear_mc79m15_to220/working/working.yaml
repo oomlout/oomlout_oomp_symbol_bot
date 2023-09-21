@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_mc79m15_to220
+library: regulator_linear
 library_name: Regulator_Linear
+name: mc79m15_to220
 oomp:
   library_name: regulator_linear
-  md5: 89a4e5719362779c09d1bd966ff47544
-  md5_10: 89a4e57193
-  md5_5: 89a4e
-  md5_6: 89a4e5
-  oomp_key: oomp_regulator_linear_mc79m15_to220
-  oomp_key_extra: oomp_symbol_regulator_linear_mc79m15_to220
-  oomp_key_full: oomp_symbol_regulator_linear_mc79m15_to220_89a4e5
-  oomp_key_simple: regulator_linear_mc79m15_to220
+  md5: 52c9ae3b7eb5b640790b033659ea6de0
+  md5_10: 52c9ae3b7e
+  md5_5: 52c9a
+  md5_6: 52c9ae
+  oomp_key: oomp_mc79m15_to220
+  oomp_key_extra: oomp_symbol_mc79m15_to220
+  oomp_key_full: oomp_symbol_mc79m15_to220_52c9ae
+  oomp_key_simple: mc79m15_to220
   owner_name: kicad
-  symbol_name: regulator_linear_mc79m15_to220
+  symbol_name: mc79m15_to220
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_connector_rj45_led_shielded_x2
+library: connector
 library_name: Connector
+name: rj45_led_shielded_x2
 oomp:
   library_name: connector
-  md5: 7524dfa4c491f1dceeefa771dc7f8fbd
-  md5_10: 7524dfa4c4
-  md5_5: 7524d
-  md5_6: 7524df
-  oomp_key: oomp_connector_rj45_led_shielded_x2
-  oomp_key_extra: oomp_symbol_connector_rj45_led_shielded_x2
-  oomp_key_full: oomp_symbol_connector_rj45_led_shielded_x2_7524df
-  oomp_key_simple: connector_rj45_led_shielded_x2
+  md5: 910116522663c1debd846cde8f46d363
+  md5_10: '9101165226'
+  md5_5: '91011'
+  md5_6: '910116'
+  oomp_key: oomp_rj45_led_shielded_x2
+  oomp_key_extra: oomp_symbol_rj45_led_shielded_x2
+  oomp_key_full: oomp_symbol_rj45_led_shielded_x2_910116
+  oomp_key_simple: rj45_led_shielded_x2
   owner_name: kicad
-  symbol_name: connector_rj45_led_shielded_x2
+  symbol_name: rj45_led_shielded_x2
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

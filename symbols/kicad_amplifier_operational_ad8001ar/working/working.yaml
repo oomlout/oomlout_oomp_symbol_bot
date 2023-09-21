@@ -1,16 +1,20 @@
+id: kicad_amplifier_operational_ad8001ar
+library: amplifier_operational
 library_name: Amplifier_Operational
+name: ad8001ar
 oomp:
   library_name: amplifier_operational
-  md5: 3efca80fff6331b3387cfd7e8ad1e617
-  md5_10: 3efca80fff
-  md5_5: 3efca
-  md5_6: 3efca8
-  oomp_key: oomp_amplifier_operational_ad8001ar
-  oomp_key_extra: oomp_symbol_amplifier_operational_ad8001ar
-  oomp_key_full: oomp_symbol_amplifier_operational_ad8001ar_3efca8
-  oomp_key_simple: amplifier_operational_ad8001ar
+  md5: 615dc42b360083036575d9b056d41190
+  md5_10: 615dc42b36
+  md5_5: 615dc
+  md5_6: 615dc4
+  oomp_key: oomp_ad8001ar
+  oomp_key_extra: oomp_symbol_ad8001ar
+  oomp_key_full: oomp_symbol_ad8001ar_615dc4
+  oomp_key_simple: ad8001ar
   owner_name: kicad
-  symbol_name: amplifier_operational_ad8001ar
+  symbol_name: ad8001ar
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

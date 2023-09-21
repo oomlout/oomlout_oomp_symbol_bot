@@ -1,3 +1,5 @@
+id: kicad_connector_conn_01x15_pin
+library: connector
 library_name: Connector
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_conn_01x15_pin/working
   oomp_src_flat: symbols_flat/kicad_connector_conn_01x15_pin/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_conn_01x15_pin/working
-name: connector_conn_01x15_pin
+name: conn_01x15_pin
 oomp:
   library_name: connector
-  md5: f01f9964ed73a771a35dfd51445b028c
-  md5_10: f01f9964ed
-  md5_5: f01f9
-  md5_6: f01f99
-  oomp_key: oomp_connector_conn_01x15_pin
-  oomp_key_extra: oomp_symbol_connector_conn_01x15_pin
-  oomp_key_full: oomp_symbol_connector_conn_01x15_pin_f01f99
-  oomp_key_simple: connector_conn_01x15_pin
+  md5: f25d7d782a38da8dd4d2ad1d5b191baa
+  md5_10: f25d7d782a
+  md5_5: f25d7
+  md5_6: f25d7d
+  oomp_key: oomp_conn_01x15_pin
+  oomp_key_extra: oomp_symbol_conn_01x15_pin
+  oomp_key_full: oomp_symbol_conn_01x15_pin_f25d7d
+  oomp_key_simple: conn_01x15_pin
   owner_name: kicad
-  symbol_name: connector_conn_01x15_pin
+  symbol_name: conn_01x15_pin
 oomp_key: oomp_kicad_connector_conn_01x15_pin
 oomp_key_simple: kicad_connector_conn_01x15_pin
 owner: kicad

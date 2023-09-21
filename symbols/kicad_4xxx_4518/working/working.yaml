@@ -1,3 +1,5 @@
+id: kicad_4xxx_4518
+library: 4xxx
 library_name: 4xxx
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_4xxx_4518/working
   oomp_src_flat: symbols_flat/kicad_4xxx_4518/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_4xxx_4518/working
-name: 4xxx_4518
+name: '4518'
 oomp:
   library_name: 4xxx
-  md5: 05e35079f4d57ae80149a1fc06702428
-  md5_10: 05e35079f4
-  md5_5: 05e35
-  md5_6: 05e350
-  oomp_key: oomp_4xxx_4518
-  oomp_key_extra: oomp_symbol_4xxx_4518
-  oomp_key_full: oomp_symbol_4xxx_4518_05e350
-  oomp_key_simple: 4xxx_4518
+  md5: 597c7b407a02cc0a92167e7a371eca25
+  md5_10: 597c7b407a
+  md5_5: 597c7
+  md5_6: 597c7b
+  oomp_key: oomp_4518
+  oomp_key_extra: oomp_symbol_4518
+  oomp_key_full: oomp_symbol_4518_597c7b
+  oomp_key_simple: '4518'
   owner_name: kicad
-  symbol_name: 4xxx_4518
+  symbol_name: '4518'
 oomp_key: oomp_kicad_4xxx_4518
 oomp_key_simple: kicad_4xxx_4518
 owner: kicad

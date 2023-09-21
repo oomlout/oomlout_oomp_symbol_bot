@@ -1,16 +1,20 @@
+id: kicad_mcu_st_stm32l5_stm32l552rctx
+library: mcu_st_stm32l5
 library_name: MCU_ST_STM32L5
+name: stm32l552rctx
 oomp:
   library_name: mcu_st_stm32l5
-  md5: 1e9400c90f626cf8286a00ef503b62ec
-  md5_10: 1e9400c90f
-  md5_5: 1e940
-  md5_6: 1e9400
-  oomp_key: oomp_mcu_st_stm32l5_stm32l552rctx
-  oomp_key_extra: oomp_symbol_mcu_st_stm32l5_stm32l552rctx
-  oomp_key_full: oomp_symbol_mcu_st_stm32l5_stm32l552rctx_1e9400
-  oomp_key_simple: mcu_st_stm32l5_stm32l552rctx
+  md5: 7a678cb614a407b430c0811a5b6dbf0b
+  md5_10: 7a678cb614
+  md5_5: 7a678
+  md5_6: 7a678c
+  oomp_key: oomp_stm32l552rctx
+  oomp_key_extra: oomp_symbol_stm32l552rctx
+  oomp_key_full: oomp_symbol_stm32l552rctx_7a678c
+  oomp_key_simple: stm32l552rctx
   owner_name: kicad
-  symbol_name: mcu_st_stm32l5_stm32l552rctx
+  symbol_name: stm32l552rctx
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

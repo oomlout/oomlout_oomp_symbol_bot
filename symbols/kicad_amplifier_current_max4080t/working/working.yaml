@@ -1,16 +1,20 @@
+id: kicad_amplifier_current_max4080t
+library: amplifier_current
 library_name: Amplifier_Current
+name: max4080t
 oomp:
   library_name: amplifier_current
-  md5: a291ba0ddaaee6135a8272371923e2b8
-  md5_10: a291ba0dda
-  md5_5: a291b
-  md5_6: a291ba
-  oomp_key: oomp_amplifier_current_max4080t
-  oomp_key_extra: oomp_symbol_amplifier_current_max4080t
-  oomp_key_full: oomp_symbol_amplifier_current_max4080t_a291ba
-  oomp_key_simple: amplifier_current_max4080t
+  md5: f580b92ec0f333bc05ee842187f989d3
+  md5_10: f580b92ec0
+  md5_5: f580b
+  md5_6: f580b9
+  oomp_key: oomp_max4080t
+  oomp_key_extra: oomp_symbol_max4080t
+  oomp_key_full: oomp_symbol_max4080t_f580b9
+  oomp_key_simple: max4080t
   owner_name: kicad
-  symbol_name: amplifier_current_max4080t
+  symbol_name: max4080t
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

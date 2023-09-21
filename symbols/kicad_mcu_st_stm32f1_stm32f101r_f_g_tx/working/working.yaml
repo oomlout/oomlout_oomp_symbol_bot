@@ -1,3 +1,5 @@
+id: kicad_mcu_st_stm32f1_stm32f101r_f_g_tx
+library: mcu_st_stm32f1
 library_name: MCU_ST_STM32F1
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_st_stm32f1_stm32f101r_f_g_tx/working
   oomp_src_flat: symbols_flat/kicad_mcu_st_stm32f1_stm32f101r_f_g_tx/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_st_stm32f1_stm32f101r_f_g_tx/working
-name: mcu_st_stm32f1_stm32f101r_f_g_tx
+name: stm32f101r_f_g_tx
 oomp:
   library_name: mcu_st_stm32f1
-  md5: e0da070fed33c16f80611671df9a45d4
-  md5_10: e0da070fed
-  md5_5: e0da0
-  md5_6: e0da07
-  oomp_key: oomp_mcu_st_stm32f1_stm32f101r_f_g_tx
-  oomp_key_extra: oomp_symbol_mcu_st_stm32f1_stm32f101r_f_g_tx
-  oomp_key_full: oomp_symbol_mcu_st_stm32f1_stm32f101r_f_g_tx_e0da07
-  oomp_key_simple: mcu_st_stm32f1_stm32f101r_f_g_tx
+  md5: 1991b32702e55684b9d20c2ef8213a4b
+  md5_10: 1991b32702
+  md5_5: 1991b
+  md5_6: 1991b3
+  oomp_key: oomp_stm32f101r_f_g_tx
+  oomp_key_extra: oomp_symbol_stm32f101r_f_g_tx
+  oomp_key_full: oomp_symbol_stm32f101r_f_g_tx_1991b3
+  oomp_key_simple: stm32f101r_f_g_tx
   owner_name: kicad
-  symbol_name: mcu_st_stm32f1_stm32f101r_f_g_tx
+  symbol_name: stm32f101r_f_g_tx
 oomp_key: oomp_kicad_mcu_st_stm32f1_stm32f101r_f_g_tx
 oomp_key_simple: kicad_mcu_st_stm32f1_stm32f101r_f_g_tx
 owner: kicad

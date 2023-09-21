@@ -1,16 +1,20 @@
+id: kicad_relay_rte4xxxx
+library: relay
 library_name: Relay
+name: rte4xxxx
 oomp:
   library_name: relay
-  md5: db2d336a52d378dc690df4850b51d40c
-  md5_10: db2d336a52
-  md5_5: db2d3
-  md5_6: db2d33
-  oomp_key: oomp_relay_rte4xxxx
-  oomp_key_extra: oomp_symbol_relay_rte4xxxx
-  oomp_key_full: oomp_symbol_relay_rte4xxxx_db2d33
-  oomp_key_simple: relay_rte4xxxx
+  md5: 87c27217eda2be8068b18b37875b08ec
+  md5_10: 87c27217ed
+  md5_5: 87c27
+  md5_6: 87c272
+  oomp_key: oomp_rte4xxxx
+  oomp_key_extra: oomp_symbol_rte4xxxx
+  oomp_key_full: oomp_symbol_rte4xxxx_87c272
+  oomp_key_simple: rte4xxxx
   owner_name: kicad
-  symbol_name: relay_rte4xxxx
+  symbol_name: rte4xxxx
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

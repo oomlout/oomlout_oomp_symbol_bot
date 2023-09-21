@@ -1,3 +1,5 @@
+id: kicad_transistor_array_ulq2003a
+library: transistor_array
 library_name: Transistor_Array
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_transistor_array_ulq2003a/working
   oomp_src_flat: symbols_flat/kicad_transistor_array_ulq2003a/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_transistor_array_ulq2003a/working
-name: transistor_array_ulq2003a
+name: ulq2003a
 oomp:
   library_name: transistor_array
-  md5: d812925ac551beddde15085c522945af
-  md5_10: d812925ac5
-  md5_5: d8129
-  md5_6: d81292
-  oomp_key: oomp_transistor_array_ulq2003a
-  oomp_key_extra: oomp_symbol_transistor_array_ulq2003a
-  oomp_key_full: oomp_symbol_transistor_array_ulq2003a_d81292
-  oomp_key_simple: transistor_array_ulq2003a
+  md5: b48d12d716a3e704f37b9bad71ce8e41
+  md5_10: b48d12d716
+  md5_5: b48d1
+  md5_6: b48d12
+  oomp_key: oomp_ulq2003a
+  oomp_key_extra: oomp_symbol_ulq2003a
+  oomp_key_full: oomp_symbol_ulq2003a_b48d12
+  oomp_key_simple: ulq2003a
   owner_name: kicad
-  symbol_name: transistor_array_ulq2003a
+  symbol_name: ulq2003a
 oomp_key: oomp_kicad_transistor_array_ulq2003a
 oomp_key_simple: kicad_transistor_array_ulq2003a
 owner: kicad

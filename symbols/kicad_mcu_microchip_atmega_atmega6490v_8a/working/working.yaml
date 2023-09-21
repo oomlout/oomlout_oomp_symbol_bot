@@ -1,16 +1,20 @@
+id: kicad_mcu_microchip_atmega_atmega6490v_8a
+library: mcu_microchip_atmega
 library_name: MCU_Microchip_ATmega
+name: atmega6490v_8a
 oomp:
   library_name: mcu_microchip_atmega
-  md5: ddb4c0debb8eb2a83a358beeb942b5dd
-  md5_10: ddb4c0debb
-  md5_5: ddb4c
-  md5_6: ddb4c0
-  oomp_key: oomp_mcu_microchip_atmega_atmega6490v_8a
-  oomp_key_extra: oomp_symbol_mcu_microchip_atmega_atmega6490v_8a
-  oomp_key_full: oomp_symbol_mcu_microchip_atmega_atmega6490v_8a_ddb4c0
-  oomp_key_simple: mcu_microchip_atmega_atmega6490v_8a
+  md5: 7f71b5466ed4e812c24420f686e7a8ed
+  md5_10: 7f71b5466e
+  md5_5: 7f71b
+  md5_6: 7f71b5
+  oomp_key: oomp_atmega6490v_8a
+  oomp_key_extra: oomp_symbol_atmega6490v_8a
+  oomp_key_full: oomp_symbol_atmega6490v_8a_7f71b5
+  oomp_key_simple: atmega6490v_8a
   owner_name: kicad
-  symbol_name: mcu_microchip_atmega_atmega6490v_8a
+  symbol_name: atmega6490v_8a
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

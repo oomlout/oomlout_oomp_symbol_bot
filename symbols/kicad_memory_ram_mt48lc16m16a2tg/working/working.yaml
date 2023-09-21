@@ -1,3 +1,5 @@
+id: kicad_memory_ram_mt48lc16m16a2tg
+library: memory_ram
 library_name: Memory_RAM
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_memory_ram_mt48lc16m16a2tg/working
   oomp_src_flat: symbols_flat/kicad_memory_ram_mt48lc16m16a2tg/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_memory_ram_mt48lc16m16a2tg/working
-name: memory_ram_mt48lc16m16a2tg
+name: mt48lc16m16a2tg
 oomp:
   library_name: memory_ram
-  md5: fcf1599219d1efe162238d92a7ebf022
-  md5_10: fcf1599219
-  md5_5: fcf15
-  md5_6: fcf159
-  oomp_key: oomp_memory_ram_mt48lc16m16a2tg
-  oomp_key_extra: oomp_symbol_memory_ram_mt48lc16m16a2tg
-  oomp_key_full: oomp_symbol_memory_ram_mt48lc16m16a2tg_fcf159
-  oomp_key_simple: memory_ram_mt48lc16m16a2tg
+  md5: 194d1f665480bc9961a599d2250af5cc
+  md5_10: 194d1f6654
+  md5_5: 194d1
+  md5_6: 194d1f
+  oomp_key: oomp_mt48lc16m16a2tg
+  oomp_key_extra: oomp_symbol_mt48lc16m16a2tg
+  oomp_key_full: oomp_symbol_mt48lc16m16a2tg_194d1f
+  oomp_key_simple: mt48lc16m16a2tg
   owner_name: kicad
-  symbol_name: memory_ram_mt48lc16m16a2tg
+  symbol_name: mt48lc16m16a2tg
 oomp_key: oomp_kicad_memory_ram_mt48lc16m16a2tg
 oomp_key_simple: kicad_memory_ram_mt48lc16m16a2tg
 owner: kicad

@@ -1,16 +1,20 @@
+id: kicad_analog_switch_adg419bn
+library: analog_switch
 library_name: Analog_Switch
+name: adg419bn
 oomp:
   library_name: analog_switch
-  md5: 0744c748ab8e69254918b335a6a22a54
-  md5_10: 0744c748ab
-  md5_5: 0744c
-  md5_6: 0744c7
-  oomp_key: oomp_analog_switch_adg419bn
-  oomp_key_extra: oomp_symbol_analog_switch_adg419bn
-  oomp_key_full: oomp_symbol_analog_switch_adg419bn_0744c7
-  oomp_key_simple: analog_switch_adg419bn
+  md5: c9cad766e8cf4255bcd628ad018c718e
+  md5_10: c9cad766e8
+  md5_5: c9cad
+  md5_6: c9cad7
+  oomp_key: oomp_adg419bn
+  oomp_key_extra: oomp_symbol_adg419bn
+  oomp_key_full: oomp_symbol_adg419bn_c9cad7
+  oomp_key_simple: adg419bn
   owner_name: kicad
-  symbol_name: analog_switch_adg419bn
+  symbol_name: adg419bn
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

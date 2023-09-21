@@ -1,16 +1,20 @@
+id: kicad_timer_na555p
+library: timer
 library_name: Timer
+name: na555p
 oomp:
   library_name: timer
-  md5: 55ed390dd0b302ee53081a6c6a862867
-  md5_10: 55ed390dd0
-  md5_5: 55ed3
-  md5_6: 55ed39
-  oomp_key: oomp_timer_na555p
-  oomp_key_extra: oomp_symbol_timer_na555p
-  oomp_key_full: oomp_symbol_timer_na555p_55ed39
-  oomp_key_simple: timer_na555p
+  md5: a10d691d6fb7eebd9427918444259a5c
+  md5_10: a10d691d6f
+  md5_5: a10d6
+  md5_6: a10d69
+  oomp_key: oomp_na555p
+  oomp_key_extra: oomp_symbol_na555p
+  oomp_key_full: oomp_symbol_na555p_a10d69
+  oomp_key_simple: na555p
   owner_name: kicad
-  symbol_name: timer_na555p
+  symbol_name: na555p
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

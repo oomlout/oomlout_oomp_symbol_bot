@@ -1,16 +1,20 @@
+id: kicad_transistor_fet_buk7m21_40ex
+library: transistor_fet
 library_name: Transistor_FET
+name: buk7m21_40ex
 oomp:
   library_name: transistor_fet
-  md5: 694443598cf227720ca76b917b32df54
-  md5_10: 694443598c
-  md5_5: '69444'
-  md5_6: '694443'
-  oomp_key: oomp_transistor_fet_buk7m21_40ex
-  oomp_key_extra: oomp_symbol_transistor_fet_buk7m21_40ex
-  oomp_key_full: oomp_symbol_transistor_fet_buk7m21_40ex_694443
-  oomp_key_simple: transistor_fet_buk7m21_40ex
+  md5: c0c6e8cc264c4411591f30c6733ac91f
+  md5_10: c0c6e8cc26
+  md5_5: c0c6e
+  md5_6: c0c6e8
+  oomp_key: oomp_buk7m21_40ex
+  oomp_key_extra: oomp_symbol_buk7m21_40ex
+  oomp_key_full: oomp_symbol_buk7m21_40ex_c0c6e8
+  oomp_key_simple: buk7m21_40ex
   owner_name: kicad
-  symbol_name: transistor_fet_buk7m21_40ex
+  symbol_name: buk7m21_40ex
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

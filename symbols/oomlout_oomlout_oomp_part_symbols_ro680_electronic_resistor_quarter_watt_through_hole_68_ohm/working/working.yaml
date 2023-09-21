@@ -1,3 +1,5 @@
+id: oomlout_oomlout_oomp_part_symbols_ro680_electronic_resistor_quarter_watt_through_hole_68_ohm
+library: oomlout_oomp_part_symbols
 library_name: oomlout_oomp_part_symbols
 links:
   github_owner: oomlout
@@ -10,19 +12,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/oomlout_oomlout_oomp_part_symbols_ro680_electronic_resistor_quarter_watt_through_hole_68_ohm/working
   oomp_src_flat: symbols_flat/oomlout_oomlout_oomp_part_symbols_ro680_electronic_resistor_quarter_watt_through_hole_68_ohm/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/oomlout_oomlout_oomp_part_symbols_ro680_electronic_resistor_quarter_watt_through_hole_68_ohm/working
-name: oomp_ro680_electronic_resistor_quarter_watt_through_hole_68_ohm
+name: ro680_electronic_resistor_quarter_watt_through_hole_68_ohm
 oomp:
   library_name: oomlout_oomp_part_symbols
-  md5: 90b9d7606306d747ca75b5b7afcb338a
-  md5_10: 90b9d76063
-  md5_5: 90b9d
-  md5_6: 90b9d7
-  oomp_key: oomp_oomp_ro680_electronic_resistor_quarter_watt_through_hole_68_ohm
-  oomp_key_extra: oomp_symbol_oomp_ro680_electronic_resistor_quarter_watt_through_hole_68_ohm
-  oomp_key_full: oomp_symbol_oomp_ro680_electronic_resistor_quarter_watt_through_hole_68_ohm_90b9d7
-  oomp_key_simple: oomp_ro680_electronic_resistor_quarter_watt_through_hole_68_ohm
+  md5: 1889351f0bf0b9950bf028749cd3545f
+  md5_10: 1889351f0b
+  md5_5: '18893'
+  md5_6: '188935'
+  oomp_key: oomp_ro680_electronic_resistor_quarter_watt_through_hole_68_ohm
+  oomp_key_extra: oomp_symbol_ro680_electronic_resistor_quarter_watt_through_hole_68_ohm
+  oomp_key_full: oomp_symbol_ro680_electronic_resistor_quarter_watt_through_hole_68_ohm_188935
+  oomp_key_simple: ro680_electronic_resistor_quarter_watt_through_hole_68_ohm
   owner_name: oomlout
-  symbol_name: oomp_ro680_electronic_resistor_quarter_watt_through_hole_68_ohm
+  symbol_name: ro680_electronic_resistor_quarter_watt_through_hole_68_ohm
 oomp_key: oomp_oomlout_oomlout_oomp_part_symbols_ro680_electronic_resistor_quarter_watt_through_hole_68_ohm
 oomp_key_simple: oomlout_oomlout_oomp_part_symbols_ro680_electronic_resistor_quarter_watt_through_hole_68_ohm
 owner: oomlout
@@ -110,9 +112,9 @@ repo_github:
     url: https://api.github.com/users/oomlout
   private: false
   pulls_url: https://api.github.com/repos/oomlout/oomlout_oomp_part_kicad_symbols/pulls{/number}
-  pushed_at: '2023-09-03T16:13:58Z'
+  pushed_at: '2023-09-17T15:55:00Z'
   releases_url: https://api.github.com/repos/oomlout/oomlout_oomp_part_kicad_symbols/releases{/id}
-  size: 218
+  size: 263
   ssh_url: git@github.com:oomlout/oomlout_oomp_part_kicad_symbols.git
   stargazers_count: 0
   stargazers_url: https://api.github.com/repos/oomlout/oomlout_oomp_part_kicad_symbols/stargazers

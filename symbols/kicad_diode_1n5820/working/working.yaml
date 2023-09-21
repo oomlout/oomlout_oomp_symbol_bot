@@ -1,3 +1,5 @@
+id: kicad_diode_1n5820
+library: diode
 library_name: Diode
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_diode_1n5820/working
   oomp_src_flat: symbols_flat/kicad_diode_1n5820/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_diode_1n5820/working
-name: diode_1n5820
+name: 1n5820
 oomp:
   library_name: diode
-  md5: 7e6aa19da5c288b8a2cd2cd8b3238dca
-  md5_10: 7e6aa19da5
-  md5_5: 7e6aa
-  md5_6: 7e6aa1
-  oomp_key: oomp_diode_1n5820
-  oomp_key_extra: oomp_symbol_diode_1n5820
-  oomp_key_full: oomp_symbol_diode_1n5820_7e6aa1
-  oomp_key_simple: diode_1n5820
+  md5: 0ce8b72753ca6d1295ec1c62f4603c6e
+  md5_10: 0ce8b72753
+  md5_5: 0ce8b
+  md5_6: 0ce8b7
+  oomp_key: oomp_1n5820
+  oomp_key_extra: oomp_symbol_1n5820
+  oomp_key_full: oomp_symbol_1n5820_0ce8b7
+  oomp_key_simple: 1n5820
   owner_name: kicad
-  symbol_name: diode_1n5820
+  symbol_name: 1n5820
 oomp_key: oomp_kicad_diode_1n5820
 oomp_key_simple: kicad_diode_1n5820
 owner: kicad

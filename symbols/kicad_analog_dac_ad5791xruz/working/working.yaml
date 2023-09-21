@@ -1,16 +1,20 @@
+id: kicad_analog_dac_ad5791xruz
+library: analog_dac
 library_name: Analog_DAC
+name: ad5791xruz
 oomp:
   library_name: analog_dac
-  md5: 5eef28cf80581ccb38581360216d4014
-  md5_10: 5eef28cf80
-  md5_5: 5eef2
-  md5_6: 5eef28
-  oomp_key: oomp_analog_dac_ad5791xruz
-  oomp_key_extra: oomp_symbol_analog_dac_ad5791xruz
-  oomp_key_full: oomp_symbol_analog_dac_ad5791xruz_5eef28
-  oomp_key_simple: analog_dac_ad5791xruz
+  md5: c1e5bd2b6603a7998e9c8d36a08e3dcf
+  md5_10: c1e5bd2b66
+  md5_5: c1e5b
+  md5_6: c1e5bd
+  oomp_key: oomp_ad5791xruz
+  oomp_key_extra: oomp_symbol_ad5791xruz
+  oomp_key_full: oomp_symbol_ad5791xruz_c1e5bd
+  oomp_key_simple: ad5791xruz
   owner_name: kicad
-  symbol_name: analog_dac_ad5791xruz
+  symbol_name: ad5791xruz
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_driver_fet_its711l1
+library: driver_fet
 library_name: Driver_FET
+name: its711l1
 oomp:
   library_name: driver_fet
-  md5: fc64c8f77053f7a9eed74f17d1a54393
-  md5_10: fc64c8f770
-  md5_5: fc64c
-  md5_6: fc64c8
-  oomp_key: oomp_driver_fet_its711l1
-  oomp_key_extra: oomp_symbol_driver_fet_its711l1
-  oomp_key_full: oomp_symbol_driver_fet_its711l1_fc64c8
-  oomp_key_simple: driver_fet_its711l1
+  md5: 67d91b8b9045ca7b31c84bbe60816488
+  md5_10: 67d91b8b90
+  md5_5: 67d91
+  md5_6: 67d91b
+  oomp_key: oomp_its711l1
+  oomp_key_extra: oomp_symbol_its711l1
+  oomp_key_full: oomp_symbol_its711l1_67d91b
+  oomp_key_simple: its711l1
   owner_name: kicad
-  symbol_name: driver_fet_its711l1
+  symbol_name: its711l1
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,3 +1,5 @@
+id: arturo182_power_extra_vbat
+library: power_extra
 library_name: power_extra
 links:
   github_owner: arturo182
@@ -10,19 +12,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/arturo182_power_extra_vbat/working
   oomp_src_flat: symbols_flat/arturo182_power_extra_vbat/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/arturo182_power_extra_vbat/working
-name: power_extra_vbat
+name: vbat
 oomp:
   library_name: power_extra
-  md5: 6be9665935827864b677822202a201be
-  md5_10: 6be9665935
-  md5_5: 6be96
-  md5_6: 6be966
-  oomp_key: oomp_power_extra_vbat
-  oomp_key_extra: oomp_symbol_power_extra_vbat
-  oomp_key_full: oomp_symbol_power_extra_vbat_6be966
-  oomp_key_simple: power_extra_vbat
+  md5: cd918477e62e143aa96c8b38d139ae02
+  md5_10: cd918477e6
+  md5_5: cd918
+  md5_6: cd9184
+  oomp_key: oomp_vbat
+  oomp_key_extra: oomp_symbol_vbat
+  oomp_key_full: oomp_symbol_vbat_cd9184
+  oomp_key_simple: vbat
   owner_name: arturo182
-  symbol_name: power_extra_vbat
+  symbol_name: vbat
 oomp_key: oomp_arturo182_power_extra_vbat
 oomp_key_simple: arturo182_power_extra_vbat
 owner: arturo182

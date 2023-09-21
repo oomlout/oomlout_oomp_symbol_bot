@@ -1,16 +1,20 @@
+id: kicad_logic_leveltranslator_txs0101drl
+library: logic_leveltranslator
 library_name: Logic_LevelTranslator
+name: txs0101drl
 oomp:
   library_name: logic_leveltranslator
-  md5: e6cafbae98f20758838a69ceeddc097f
-  md5_10: e6cafbae98
-  md5_5: e6caf
-  md5_6: e6cafb
-  oomp_key: oomp_logic_leveltranslator_txs0101drl
-  oomp_key_extra: oomp_symbol_logic_leveltranslator_txs0101drl
-  oomp_key_full: oomp_symbol_logic_leveltranslator_txs0101drl_e6cafb
-  oomp_key_simple: logic_leveltranslator_txs0101drl
+  md5: 15c4023257aa8b1a6307bcf6b0ee26eb
+  md5_10: 15c4023257
+  md5_5: 15c40
+  md5_6: 15c402
+  oomp_key: oomp_txs0101drl
+  oomp_key_extra: oomp_symbol_txs0101drl
+  oomp_key_full: oomp_symbol_txs0101drl_15c402
+  oomp_key_simple: txs0101drl
   owner_name: kicad
-  symbol_name: logic_leveltranslator_txs0101drl
+  symbol_name: txs0101drl
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

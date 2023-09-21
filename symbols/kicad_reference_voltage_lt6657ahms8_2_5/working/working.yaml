@@ -1,3 +1,5 @@
+id: kicad_reference_voltage_lt6657ahms8_2_5
+library: reference_voltage
 library_name: Reference_Voltage
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_reference_voltage_lt6657ahms8_2_5/working
   oomp_src_flat: symbols_flat/kicad_reference_voltage_lt6657ahms8_2_5/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_reference_voltage_lt6657ahms8_2_5/working
-name: reference_voltage_lt6657ahms8_2_5
+name: lt6657ahms8_2_5
 oomp:
   library_name: reference_voltage
-  md5: 84d25e86819152054d43d227c10e5ae3
-  md5_10: 84d25e8681
-  md5_5: 84d25
-  md5_6: 84d25e
-  oomp_key: oomp_reference_voltage_lt6657ahms8_2_5
-  oomp_key_extra: oomp_symbol_reference_voltage_lt6657ahms8_2_5
-  oomp_key_full: oomp_symbol_reference_voltage_lt6657ahms8_2_5_84d25e
-  oomp_key_simple: reference_voltage_lt6657ahms8_2_5
+  md5: 0823f17fb25dbcf9b9169dc2f857e071
+  md5_10: 0823f17fb2
+  md5_5: 0823f
+  md5_6: 0823f1
+  oomp_key: oomp_lt6657ahms8_2_5
+  oomp_key_extra: oomp_symbol_lt6657ahms8_2_5
+  oomp_key_full: oomp_symbol_lt6657ahms8_2_5_0823f1
+  oomp_key_simple: lt6657ahms8_2_5
   owner_name: kicad
-  symbol_name: reference_voltage_lt6657ahms8_2_5
+  symbol_name: lt6657ahms8_2_5
 oomp_key: oomp_kicad_reference_voltage_lt6657ahms8_2_5
 oomp_key_simple: kicad_reference_voltage_lt6657ahms8_2_5
 owner: kicad

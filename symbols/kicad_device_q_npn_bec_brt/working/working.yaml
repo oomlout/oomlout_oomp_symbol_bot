@@ -1,3 +1,5 @@
+id: kicad_device_q_npn_bec_brt
+library: device
 library_name: Device
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_q_npn_bec_brt/working
   oomp_src_flat: symbols_flat/kicad_device_q_npn_bec_brt/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_q_npn_bec_brt/working
-name: device_q_npn_bec_brt
+name: q_npn_bec_brt
 oomp:
   library_name: device
-  md5: a7840c4926ac48cb6aae29d011a64f0d
-  md5_10: a7840c4926
-  md5_5: a7840
-  md5_6: a7840c
-  oomp_key: oomp_device_q_npn_bec_brt
-  oomp_key_extra: oomp_symbol_device_q_npn_bec_brt
-  oomp_key_full: oomp_symbol_device_q_npn_bec_brt_a7840c
-  oomp_key_simple: device_q_npn_bec_brt
+  md5: c38ef9b023de0d90f60673e37371e0cf
+  md5_10: c38ef9b023
+  md5_5: c38ef
+  md5_6: c38ef9
+  oomp_key: oomp_q_npn_bec_brt
+  oomp_key_extra: oomp_symbol_q_npn_bec_brt
+  oomp_key_full: oomp_symbol_q_npn_bec_brt_c38ef9
+  oomp_key_simple: q_npn_bec_brt
   owner_name: kicad
-  symbol_name: device_q_npn_bec_brt
+  symbol_name: q_npn_bec_brt
 oomp_key: oomp_kicad_device_q_npn_bec_brt
 oomp_key_simple: kicad_device_q_npn_bec_brt
 owner: kicad

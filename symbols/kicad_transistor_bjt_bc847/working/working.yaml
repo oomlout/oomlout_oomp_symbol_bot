@@ -1,16 +1,20 @@
+id: kicad_transistor_bjt_bc847
+library: transistor_bjt
 library_name: Transistor_BJT
+name: bc847
 oomp:
   library_name: transistor_bjt
-  md5: 7e710681c791c95b674ab4e7ee329cfc
-  md5_10: 7e710681c7
-  md5_5: 7e710
-  md5_6: 7e7106
-  oomp_key: oomp_transistor_bjt_bc847
-  oomp_key_extra: oomp_symbol_transistor_bjt_bc847
-  oomp_key_full: oomp_symbol_transistor_bjt_bc847_7e7106
-  oomp_key_simple: transistor_bjt_bc847
+  md5: 80f586f6447087626baa4cede0a4bcff
+  md5_10: 80f586f644
+  md5_5: 80f58
+  md5_6: 80f586
+  oomp_key: oomp_bc847
+  oomp_key_extra: oomp_symbol_bc847
+  oomp_key_full: oomp_symbol_bc847_80f586
+  oomp_key_simple: bc847
   owner_name: kicad
-  symbol_name: transistor_bjt_bc847
+  symbol_name: bc847
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,3 +1,5 @@
+id: kicad_regulator_switching_lt3439
+library: regulator_switching
 library_name: Regulator_Switching
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_lt3439/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_lt3439/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_lt3439/working
-name: regulator_switching_lt3439
+name: lt3439
 oomp:
   library_name: regulator_switching
-  md5: 74579cbf396817f2678190b0280b3b28
-  md5_10: 74579cbf39
-  md5_5: '74579'
-  md5_6: 74579c
-  oomp_key: oomp_regulator_switching_lt3439
-  oomp_key_extra: oomp_symbol_regulator_switching_lt3439
-  oomp_key_full: oomp_symbol_regulator_switching_lt3439_74579c
-  oomp_key_simple: regulator_switching_lt3439
+  md5: 5943fd15aecf9492aad15dfc2e311497
+  md5_10: 5943fd15ae
+  md5_5: 5943f
+  md5_6: 5943fd
+  oomp_key: oomp_lt3439
+  oomp_key_extra: oomp_symbol_lt3439
+  oomp_key_full: oomp_symbol_lt3439_5943fd
+  oomp_key_simple: lt3439
   owner_name: kicad
-  symbol_name: regulator_switching_lt3439
+  symbol_name: lt3439
 oomp_key: oomp_kicad_regulator_switching_lt3439
 oomp_key_simple: kicad_regulator_switching_lt3439
 owner: kicad

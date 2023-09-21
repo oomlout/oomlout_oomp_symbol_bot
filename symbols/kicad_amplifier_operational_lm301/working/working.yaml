@@ -1,16 +1,20 @@
+id: kicad_amplifier_operational_lm301
+library: amplifier_operational
 library_name: Amplifier_Operational
+name: lm301
 oomp:
   library_name: amplifier_operational
-  md5: d2f7c541a826e0e07101c335bcb856ff
-  md5_10: d2f7c541a8
-  md5_5: d2f7c
-  md5_6: d2f7c5
-  oomp_key: oomp_amplifier_operational_lm301
-  oomp_key_extra: oomp_symbol_amplifier_operational_lm301
-  oomp_key_full: oomp_symbol_amplifier_operational_lm301_d2f7c5
-  oomp_key_simple: amplifier_operational_lm301
+  md5: fea2638999b8201f009ba3e34f7f4a60
+  md5_10: fea2638999
+  md5_5: fea26
+  md5_6: fea263
+  oomp_key: oomp_lm301
+  oomp_key_extra: oomp_symbol_lm301
+  oomp_key_full: oomp_symbol_lm301_fea263
+  oomp_key_simple: lm301
   owner_name: kicad
-  symbol_name: amplifier_operational_lm301
+  symbol_name: lm301
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

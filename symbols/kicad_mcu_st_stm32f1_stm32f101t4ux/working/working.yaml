@@ -1,16 +1,20 @@
+id: kicad_mcu_st_stm32f1_stm32f101t4ux
+library: mcu_st_stm32f1
 library_name: MCU_ST_STM32F1
+name: stm32f101t4ux
 oomp:
   library_name: mcu_st_stm32f1
-  md5: 608038d3b989552c154a98d42b1cf7e9
-  md5_10: 608038d3b9
-  md5_5: '60803'
-  md5_6: '608038'
-  oomp_key: oomp_mcu_st_stm32f1_stm32f101t4ux
-  oomp_key_extra: oomp_symbol_mcu_st_stm32f1_stm32f101t4ux
-  oomp_key_full: oomp_symbol_mcu_st_stm32f1_stm32f101t4ux_608038
-  oomp_key_simple: mcu_st_stm32f1_stm32f101t4ux
+  md5: 21ddc2a01599321983d26a975f863cdc
+  md5_10: 21ddc2a015
+  md5_5: 21ddc
+  md5_6: 21ddc2
+  oomp_key: oomp_stm32f101t4ux
+  oomp_key_extra: oomp_symbol_stm32f101t4ux
+  oomp_key_full: oomp_symbol_stm32f101t4ux_21ddc2
+  oomp_key_simple: stm32f101t4ux
   owner_name: kicad
-  symbol_name: mcu_st_stm32f1_stm32f101t4ux
+  symbol_name: stm32f101t4ux
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

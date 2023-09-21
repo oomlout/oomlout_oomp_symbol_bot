@@ -1,16 +1,20 @@
+id: kicad_cpu_nxp_68000_68010d
+library: cpu_nxp_68000
 library_name: CPU_NXP_68000
+name: 68010d
 oomp:
   library_name: cpu_nxp_68000
-  md5: 82ee9ae5da32ae9d74a9ad8c99888195
-  md5_10: 82ee9ae5da
-  md5_5: 82ee9
-  md5_6: 82ee9a
-  oomp_key: oomp_cpu_nxp_68000_68010d
-  oomp_key_extra: oomp_symbol_cpu_nxp_68000_68010d
-  oomp_key_full: oomp_symbol_cpu_nxp_68000_68010d_82ee9a
-  oomp_key_simple: cpu_nxp_68000_68010d
+  md5: 6dbbf4f482ab46aa3ea186d8ee690e25
+  md5_10: 6dbbf4f482
+  md5_5: 6dbbf
+  md5_6: 6dbbf4
+  oomp_key: oomp_68010d
+  oomp_key_extra: oomp_symbol_68010d
+  oomp_key_full: oomp_symbol_68010d_6dbbf4
+  oomp_key_simple: 68010d
   owner_name: kicad
-  symbol_name: cpu_nxp_68000_68010d
+  symbol_name: 68010d
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

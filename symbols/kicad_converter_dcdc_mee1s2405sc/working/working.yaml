@@ -1,16 +1,20 @@
+id: kicad_converter_dcdc_mee1s2405sc
+library: converter_dcdc
 library_name: Converter_DCDC
+name: mee1s2405sc
 oomp:
   library_name: converter_dcdc
-  md5: a309b41b87df06580f713ecef83bdbc4
-  md5_10: a309b41b87
-  md5_5: a309b
-  md5_6: a309b4
-  oomp_key: oomp_converter_dcdc_mee1s2405sc
-  oomp_key_extra: oomp_symbol_converter_dcdc_mee1s2405sc
-  oomp_key_full: oomp_symbol_converter_dcdc_mee1s2405sc_a309b4
-  oomp_key_simple: converter_dcdc_mee1s2405sc
+  md5: 1c12e55d60e2c6f130c1b41d23e212c8
+  md5_10: 1c12e55d60
+  md5_5: 1c12e
+  md5_6: 1c12e5
+  oomp_key: oomp_mee1s2405sc
+  oomp_key_extra: oomp_symbol_mee1s2405sc
+  oomp_key_full: oomp_symbol_mee1s2405sc_1c12e5
+  oomp_key_simple: mee1s2405sc
   owner_name: kicad
-  symbol_name: converter_dcdc_mee1s2405sc
+  symbol_name: mee1s2405sc
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

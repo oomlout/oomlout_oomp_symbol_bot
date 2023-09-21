@@ -1,16 +1,20 @@
+id: kicad_led_ld274
+library: led
 library_name: LED
+name: ld274
 oomp:
   library_name: led
-  md5: c348b90fc09a168821353d6e945c3905
-  md5_10: c348b90fc0
-  md5_5: c348b
-  md5_6: c348b9
-  oomp_key: oomp_led_ld274
-  oomp_key_extra: oomp_symbol_led_ld274
-  oomp_key_full: oomp_symbol_led_ld274_c348b9
-  oomp_key_simple: led_ld274
+  md5: 8086dcc58bd5b75dc2daaada41339a44
+  md5_10: 8086dcc58b
+  md5_5: 8086d
+  md5_6: 8086dc
+  oomp_key: oomp_ld274
+  oomp_key_extra: oomp_symbol_ld274
+  oomp_key_full: oomp_symbol_ld274_8086dc
+  oomp_key_simple: ld274
   owner_name: kicad
-  symbol_name: led_ld274
+  symbol_name: ld274
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

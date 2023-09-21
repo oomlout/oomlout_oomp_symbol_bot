@@ -1,3 +1,5 @@
+id: kicad_device_led_rgkb
+library: device
 library_name: Device
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_led_rgkb/working
   oomp_src_flat: symbols_flat/kicad_device_led_rgkb/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_led_rgkb/working
-name: device_led_rgkb
+name: led_rgkb
 oomp:
   library_name: device
-  md5: a8b6a892d132036e6af2c6bcc7625d6d
-  md5_10: a8b6a892d1
-  md5_5: a8b6a
-  md5_6: a8b6a8
-  oomp_key: oomp_device_led_rgkb
-  oomp_key_extra: oomp_symbol_device_led_rgkb
-  oomp_key_full: oomp_symbol_device_led_rgkb_a8b6a8
-  oomp_key_simple: device_led_rgkb
+  md5: e1417505e42092d074f8e15c8bb3a9a4
+  md5_10: e1417505e4
+  md5_5: e1417
+  md5_6: e14175
+  oomp_key: oomp_led_rgkb
+  oomp_key_extra: oomp_symbol_led_rgkb
+  oomp_key_full: oomp_symbol_led_rgkb_e14175
+  oomp_key_simple: led_rgkb
   owner_name: kicad
-  symbol_name: device_led_rgkb
+  symbol_name: led_rgkb
 oomp_key: oomp_kicad_device_led_rgkb
 oomp_key_simple: kicad_device_led_rgkb
 owner: kicad

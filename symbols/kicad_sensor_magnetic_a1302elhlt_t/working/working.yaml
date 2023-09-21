@@ -1,16 +1,20 @@
+id: kicad_sensor_magnetic_a1302elhlt_t
+library: sensor_magnetic
 library_name: Sensor_Magnetic
+name: a1302elhlt_t
 oomp:
   library_name: sensor_magnetic
-  md5: b06f1ead799a4267877a972226d5aeae
-  md5_10: b06f1ead79
-  md5_5: b06f1
-  md5_6: b06f1e
-  oomp_key: oomp_sensor_magnetic_a1302elhlt_t
-  oomp_key_extra: oomp_symbol_sensor_magnetic_a1302elhlt_t
-  oomp_key_full: oomp_symbol_sensor_magnetic_a1302elhlt_t_b06f1e
-  oomp_key_simple: sensor_magnetic_a1302elhlt_t
+  md5: b539ce762b6018f89c91e500c2fa8b0d
+  md5_10: b539ce762b
+  md5_5: b539c
+  md5_6: b539ce
+  oomp_key: oomp_a1302elhlt_t
+  oomp_key_extra: oomp_symbol_a1302elhlt_t
+  oomp_key_full: oomp_symbol_a1302elhlt_t_b539ce
+  oomp_key_simple: a1302elhlt_t
   owner_name: kicad
-  symbol_name: sensor_magnetic_a1302elhlt_t
+  symbol_name: a1302elhlt_t
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

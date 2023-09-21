@@ -1,16 +1,20 @@
+id: kicad_memory_eeprom_at24cs64_mahm
+library: memory_eeprom
 library_name: Memory_EEPROM
+name: at24cs64_mahm
 oomp:
   library_name: memory_eeprom
-  md5: ebbacac4e7400412b05d72caabe686bf
-  md5_10: ebbacac4e7
-  md5_5: ebbac
-  md5_6: ebbaca
-  oomp_key: oomp_memory_eeprom_at24cs64_mahm
-  oomp_key_extra: oomp_symbol_memory_eeprom_at24cs64_mahm
-  oomp_key_full: oomp_symbol_memory_eeprom_at24cs64_mahm_ebbaca
-  oomp_key_simple: memory_eeprom_at24cs64_mahm
+  md5: f82ca7a46d3c73b99b44dff9846f27fc
+  md5_10: f82ca7a46d
+  md5_5: f82ca
+  md5_6: f82ca7
+  oomp_key: oomp_at24cs64_mahm
+  oomp_key_extra: oomp_symbol_at24cs64_mahm
+  oomp_key_full: oomp_symbol_at24cs64_mahm_f82ca7
+  oomp_key_simple: at24cs64_mahm
   owner_name: kicad
-  symbol_name: memory_eeprom_at24cs64_mahm
+  symbol_name: at24cs64_mahm
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_relay_solidstate_s116s01
+library: relay_solidstate
 library_name: Relay_SolidState
+name: s116s01
 oomp:
   library_name: relay_solidstate
-  md5: 35c6be8b71dcafc5dff936414638968b
-  md5_10: 35c6be8b71
-  md5_5: 35c6b
-  md5_6: 35c6be
-  oomp_key: oomp_relay_solidstate_s116s01
-  oomp_key_extra: oomp_symbol_relay_solidstate_s116s01
-  oomp_key_full: oomp_symbol_relay_solidstate_s116s01_35c6be
-  oomp_key_simple: relay_solidstate_s116s01
+  md5: c09b8cb2dbc02403789871165a0d894c
+  md5_10: c09b8cb2db
+  md5_5: c09b8
+  md5_6: c09b8c
+  oomp_key: oomp_s116s01
+  oomp_key_extra: oomp_symbol_s116s01
+  oomp_key_full: oomp_symbol_s116s01_c09b8c
+  oomp_key_simple: s116s01
   owner_name: kicad
-  symbol_name: relay_solidstate_s116s01
+  symbol_name: s116s01
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

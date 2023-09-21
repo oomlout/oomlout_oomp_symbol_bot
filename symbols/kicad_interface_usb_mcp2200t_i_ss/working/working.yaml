@@ -1,16 +1,20 @@
+id: kicad_interface_usb_mcp2200t_i_ss
+library: interface_usb
 library_name: Interface_USB
+name: mcp2200t_i_ss
 oomp:
   library_name: interface_usb
-  md5: 67fa0029fe07ae53349fc82aed1bd506
-  md5_10: 67fa0029fe
-  md5_5: 67fa0
-  md5_6: 67fa00
-  oomp_key: oomp_interface_usb_mcp2200t_i_ss
-  oomp_key_extra: oomp_symbol_interface_usb_mcp2200t_i_ss
-  oomp_key_full: oomp_symbol_interface_usb_mcp2200t_i_ss_67fa00
-  oomp_key_simple: interface_usb_mcp2200t_i_ss
+  md5: 4180c44704a8a38254a655358b4fe2d5
+  md5_10: 4180c44704
+  md5_5: 4180c
+  md5_6: 4180c4
+  oomp_key: oomp_mcp2200t_i_ss
+  oomp_key_extra: oomp_symbol_mcp2200t_i_ss
+  oomp_key_full: oomp_symbol_mcp2200t_i_ss_4180c4
+  oomp_key_simple: mcp2200t_i_ss
   owner_name: kicad
-  symbol_name: interface_usb_mcp2200t_i_ss
+  symbol_name: mcp2200t_i_ss
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

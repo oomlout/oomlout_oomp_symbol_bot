@@ -1,3 +1,5 @@
+id: kicad_device_r_pack03
+library: device
 library_name: Device
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_r_pack03/working
   oomp_src_flat: symbols_flat/kicad_device_r_pack03/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_r_pack03/working
-name: device_r_pack03
+name: r_pack03
 oomp:
   library_name: device
-  md5: eba2dce7290cebd52f0a678d03dc0200
-  md5_10: eba2dce729
-  md5_5: eba2d
-  md5_6: eba2dc
-  oomp_key: oomp_device_r_pack03
-  oomp_key_extra: oomp_symbol_device_r_pack03
-  oomp_key_full: oomp_symbol_device_r_pack03_eba2dc
-  oomp_key_simple: device_r_pack03
+  md5: e3b4493420767d7777436fd6d392ac18
+  md5_10: e3b4493420
+  md5_5: e3b44
+  md5_6: e3b449
+  oomp_key: oomp_r_pack03
+  oomp_key_extra: oomp_symbol_r_pack03
+  oomp_key_full: oomp_symbol_r_pack03_e3b449
+  oomp_key_simple: r_pack03
   owner_name: kicad
-  symbol_name: device_r_pack03
+  symbol_name: r_pack03
 oomp_key: oomp_kicad_device_r_pack03
 oomp_key_simple: kicad_device_r_pack03
 owner: kicad

@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_lm2675n_12
+library: regulator_switching
 library_name: Regulator_Switching
+name: lm2675n_12
 oomp:
   library_name: regulator_switching
-  md5: 8ad61ffcf1b0dea075bc532a0284d457
-  md5_10: 8ad61ffcf1
-  md5_5: 8ad61
-  md5_6: 8ad61f
-  oomp_key: oomp_regulator_switching_lm2675n_12
-  oomp_key_extra: oomp_symbol_regulator_switching_lm2675n_12
-  oomp_key_full: oomp_symbol_regulator_switching_lm2675n_12_8ad61f
-  oomp_key_simple: regulator_switching_lm2675n_12
+  md5: ae3ccee2dd6abc2082c6d1f58a2c8107
+  md5_10: ae3ccee2dd
+  md5_5: ae3cc
+  md5_6: ae3cce
+  oomp_key: oomp_lm2675n_12
+  oomp_key_extra: oomp_symbol_lm2675n_12
+  oomp_key_full: oomp_symbol_lm2675n_12_ae3cce
+  oomp_key_simple: lm2675n_12
   owner_name: kicad
-  symbol_name: regulator_switching_lm2675n_12
+  symbol_name: lm2675n_12
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

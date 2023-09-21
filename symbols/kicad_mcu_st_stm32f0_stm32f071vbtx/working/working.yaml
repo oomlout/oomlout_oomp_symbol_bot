@@ -1,16 +1,20 @@
+id: kicad_mcu_st_stm32f0_stm32f071vbtx
+library: mcu_st_stm32f0
 library_name: MCU_ST_STM32F0
+name: stm32f071vbtx
 oomp:
   library_name: mcu_st_stm32f0
-  md5: b65086fc175705fc4144284998c09117
-  md5_10: b65086fc17
-  md5_5: b6508
-  md5_6: b65086
-  oomp_key: oomp_mcu_st_stm32f0_stm32f071vbtx
-  oomp_key_extra: oomp_symbol_mcu_st_stm32f0_stm32f071vbtx
-  oomp_key_full: oomp_symbol_mcu_st_stm32f0_stm32f071vbtx_b65086
-  oomp_key_simple: mcu_st_stm32f0_stm32f071vbtx
+  md5: 026bbca85837c1289213b58376024fef
+  md5_10: 026bbca858
+  md5_5: 026bb
+  md5_6: 026bbc
+  oomp_key: oomp_stm32f071vbtx
+  oomp_key_extra: oomp_symbol_stm32f071vbtx
+  oomp_key_full: oomp_symbol_stm32f071vbtx_026bbc
+  oomp_key_simple: stm32f071vbtx
   owner_name: kicad
-  symbol_name: mcu_st_stm32f0_stm32f071vbtx
+  symbol_name: stm32f071vbtx
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

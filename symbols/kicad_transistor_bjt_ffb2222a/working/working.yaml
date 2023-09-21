@@ -1,16 +1,20 @@
+id: kicad_transistor_bjt_ffb2222a
+library: transistor_bjt
 library_name: Transistor_BJT
+name: ffb2222a
 oomp:
   library_name: transistor_bjt
-  md5: d215a39db4c7090fb48786aff1890939
-  md5_10: d215a39db4
-  md5_5: d215a
-  md5_6: d215a3
-  oomp_key: oomp_transistor_bjt_ffb2222a
-  oomp_key_extra: oomp_symbol_transistor_bjt_ffb2222a
-  oomp_key_full: oomp_symbol_transistor_bjt_ffb2222a_d215a3
-  oomp_key_simple: transistor_bjt_ffb2222a
+  md5: 74d3b43c041c84abedefbc46ddb0fd81
+  md5_10: 74d3b43c04
+  md5_5: 74d3b
+  md5_6: 74d3b4
+  oomp_key: oomp_ffb2222a
+  oomp_key_extra: oomp_symbol_ffb2222a
+  oomp_key_full: oomp_symbol_ffb2222a_74d3b4
+  oomp_key_simple: ffb2222a
   owner_name: kicad
-  symbol_name: transistor_bjt_ffb2222a
+  symbol_name: ffb2222a
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

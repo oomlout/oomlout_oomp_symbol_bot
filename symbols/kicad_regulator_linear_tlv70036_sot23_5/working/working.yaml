@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_tlv70036_sot23_5
+library: regulator_linear
 library_name: Regulator_Linear
+name: tlv70036_sot23_5
 oomp:
   library_name: regulator_linear
-  md5: 389521a54524d9c10fac6cc6c59122a8
-  md5_10: 389521a545
-  md5_5: '38952'
-  md5_6: '389521'
-  oomp_key: oomp_regulator_linear_tlv70036_sot23_5
-  oomp_key_extra: oomp_symbol_regulator_linear_tlv70036_sot23_5
-  oomp_key_full: oomp_symbol_regulator_linear_tlv70036_sot23_5_389521
-  oomp_key_simple: regulator_linear_tlv70036_sot23_5
+  md5: 845e9ab1ebf1c28145445f38f485cabb
+  md5_10: 845e9ab1eb
+  md5_5: 845e9
+  md5_6: 845e9a
+  oomp_key: oomp_tlv70036_sot23_5
+  oomp_key_extra: oomp_symbol_tlv70036_sot23_5
+  oomp_key_full: oomp_symbol_tlv70036_sot23_5_845e9a
+  oomp_key_simple: tlv70036_sot23_5
   owner_name: kicad
-  symbol_name: regulator_linear_tlv70036_sot23_5
+  symbol_name: tlv70036_sot23_5
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

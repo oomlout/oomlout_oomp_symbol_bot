@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_sc34063ap
+library: regulator_switching
 library_name: Regulator_Switching
+name: sc34063ap
 oomp:
   library_name: regulator_switching
-  md5: e42f963d2622200ddc49e7b5834d460c
-  md5_10: e42f963d26
-  md5_5: e42f9
-  md5_6: e42f96
-  oomp_key: oomp_regulator_switching_sc34063ap
-  oomp_key_extra: oomp_symbol_regulator_switching_sc34063ap
-  oomp_key_full: oomp_symbol_regulator_switching_sc34063ap_e42f96
-  oomp_key_simple: regulator_switching_sc34063ap
+  md5: b28b64a0568a7370294ca2a00d3ff5f7
+  md5_10: b28b64a056
+  md5_5: b28b6
+  md5_6: b28b64
+  oomp_key: oomp_sc34063ap
+  oomp_key_extra: oomp_symbol_sc34063ap
+  oomp_key_full: oomp_symbol_sc34063ap_b28b64
+  oomp_key_simple: sc34063ap
   owner_name: kicad
-  symbol_name: regulator_switching_sc34063ap
+  symbol_name: sc34063ap
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

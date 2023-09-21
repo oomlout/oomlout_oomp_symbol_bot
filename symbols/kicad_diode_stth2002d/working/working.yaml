@@ -1,3 +1,5 @@
+id: kicad_diode_stth2002d
+library: diode
 library_name: Diode
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_diode_stth2002d/working
   oomp_src_flat: symbols_flat/kicad_diode_stth2002d/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_diode_stth2002d/working
-name: diode_stth2002d
+name: stth2002d
 oomp:
   library_name: diode
-  md5: f068be41cdff86dee6214938d935421b
-  md5_10: f068be41cd
-  md5_5: f068b
-  md5_6: f068be
-  oomp_key: oomp_diode_stth2002d
-  oomp_key_extra: oomp_symbol_diode_stth2002d
-  oomp_key_full: oomp_symbol_diode_stth2002d_f068be
-  oomp_key_simple: diode_stth2002d
+  md5: ddc23da5b7403b8cae2b5cbba7f4e2ba
+  md5_10: ddc23da5b7
+  md5_5: ddc23
+  md5_6: ddc23d
+  oomp_key: oomp_stth2002d
+  oomp_key_extra: oomp_symbol_stth2002d
+  oomp_key_full: oomp_symbol_stth2002d_ddc23d
+  oomp_key_simple: stth2002d
   owner_name: kicad
-  symbol_name: diode_stth2002d
+  symbol_name: stth2002d
 oomp_key: oomp_kicad_diode_stth2002d
 oomp_key_simple: kicad_diode_stth2002d
 owner: kicad

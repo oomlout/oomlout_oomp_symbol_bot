@@ -15,7 +15,7 @@
     (property "ki_keywords" "R res resistor" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "ki_description" "Resistor" (at 0 0 0)
+    (property "ki_description" "[electronic_resistor_0201_8200_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_8200_ohm/working)<br><br>[Uniroyal - NQ01WMJ0822TEE- not in jlc basic parts]()" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "ki_fp_filters" "R_*" (at 0 0 0)

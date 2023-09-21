@@ -1,16 +1,20 @@
+id: kicad_transistor_fet_dmg2302u
+library: transistor_fet
 library_name: Transistor_FET
+name: dmg2302u
 oomp:
   library_name: transistor_fet
-  md5: d5752ececcc4699458b92bf9b8f6e959
-  md5_10: d5752ececc
-  md5_5: d5752
-  md5_6: d5752e
-  oomp_key: oomp_transistor_fet_dmg2302u
-  oomp_key_extra: oomp_symbol_transistor_fet_dmg2302u
-  oomp_key_full: oomp_symbol_transistor_fet_dmg2302u_d5752e
-  oomp_key_simple: transistor_fet_dmg2302u
+  md5: b43656a8bd07dceb918f95fc1e3da5b1
+  md5_10: b43656a8bd
+  md5_5: b4365
+  md5_6: b43656
+  oomp_key: oomp_dmg2302u
+  oomp_key_extra: oomp_symbol_dmg2302u
+  oomp_key_full: oomp_symbol_dmg2302u_b43656
+  oomp_key_simple: dmg2302u
   owner_name: kicad
-  symbol_name: transistor_fet_dmg2302u
+  symbol_name: dmg2302u
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,3 +1,5 @@
+id: kicad_regulator_linear_max1615xuk
+library: regulator_linear
 library_name: Regulator_Linear
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_linear_max1615xuk/working
   oomp_src_flat: symbols_flat/kicad_regulator_linear_max1615xuk/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_linear_max1615xuk/working
-name: regulator_linear_max1615xuk
+name: max1615xuk
 oomp:
   library_name: regulator_linear
-  md5: 30a31d6c32e178e51e43827d999aa095
-  md5_10: 30a31d6c32
-  md5_5: 30a31
-  md5_6: 30a31d
-  oomp_key: oomp_regulator_linear_max1615xuk
-  oomp_key_extra: oomp_symbol_regulator_linear_max1615xuk
-  oomp_key_full: oomp_symbol_regulator_linear_max1615xuk_30a31d
-  oomp_key_simple: regulator_linear_max1615xuk
+  md5: 374cfb9b3fc11de707a15d571b453cd4
+  md5_10: 374cfb9b3f
+  md5_5: 374cf
+  md5_6: 374cfb
+  oomp_key: oomp_max1615xuk
+  oomp_key_extra: oomp_symbol_max1615xuk
+  oomp_key_full: oomp_symbol_max1615xuk_374cfb
+  oomp_key_simple: max1615xuk
   owner_name: kicad
-  symbol_name: regulator_linear_max1615xuk
+  symbol_name: max1615xuk
 oomp_key: oomp_kicad_regulator_linear_max1615xuk
 oomp_key_simple: kicad_regulator_linear_max1615xuk
 owner: kicad

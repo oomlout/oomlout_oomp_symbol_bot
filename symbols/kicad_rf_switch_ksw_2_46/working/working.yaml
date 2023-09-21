@@ -1,3 +1,5 @@
+id: kicad_rf_switch_ksw_2_46
+library: rf_switch
 library_name: RF_Switch
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_rf_switch_ksw_2_46/working
   oomp_src_flat: symbols_flat/kicad_rf_switch_ksw_2_46/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_rf_switch_ksw_2_46/working
-name: rf_switch_ksw_2_46
+name: ksw_2_46
 oomp:
   library_name: rf_switch
-  md5: 248b007ad417fa910864348fbd2fb999
-  md5_10: 248b007ad4
-  md5_5: 248b0
-  md5_6: 248b00
-  oomp_key: oomp_rf_switch_ksw_2_46
-  oomp_key_extra: oomp_symbol_rf_switch_ksw_2_46
-  oomp_key_full: oomp_symbol_rf_switch_ksw_2_46_248b00
-  oomp_key_simple: rf_switch_ksw_2_46
+  md5: 26a0e66944e322c15ab7426d5c709ed8
+  md5_10: 26a0e66944
+  md5_5: 26a0e
+  md5_6: 26a0e6
+  oomp_key: oomp_ksw_2_46
+  oomp_key_extra: oomp_symbol_ksw_2_46
+  oomp_key_full: oomp_symbol_ksw_2_46_26a0e6
+  oomp_key_simple: ksw_2_46
   owner_name: kicad
-  symbol_name: rf_switch_ksw_2_46
+  symbol_name: ksw_2_46
 oomp_key: oomp_kicad_rf_switch_ksw_2_46
 oomp_key_simple: kicad_rf_switch_ksw_2_46
 owner: kicad

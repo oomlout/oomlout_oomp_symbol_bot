@@ -1,16 +1,20 @@
+id: kicad_diode_bridge_w04g
+library: diode_bridge
 library_name: Diode_Bridge
+name: w04g
 oomp:
   library_name: diode_bridge
-  md5: 9d7d3d7bcd4ab2d98533e3c2a39ca455
-  md5_10: 9d7d3d7bcd
-  md5_5: 9d7d3
-  md5_6: 9d7d3d
-  oomp_key: oomp_diode_bridge_w04g
-  oomp_key_extra: oomp_symbol_diode_bridge_w04g
-  oomp_key_full: oomp_symbol_diode_bridge_w04g_9d7d3d
-  oomp_key_simple: diode_bridge_w04g
+  md5: a45b785adee9c7b8ce728fd5274c7c84
+  md5_10: a45b785ade
+  md5_5: a45b7
+  md5_6: a45b78
+  oomp_key: oomp_w04g
+  oomp_key_extra: oomp_symbol_w04g
+  oomp_key_full: oomp_symbol_w04g_a45b78
+  oomp_key_simple: w04g
   owner_name: kicad
-  symbol_name: diode_bridge_w04g
+  symbol_name: w04g
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

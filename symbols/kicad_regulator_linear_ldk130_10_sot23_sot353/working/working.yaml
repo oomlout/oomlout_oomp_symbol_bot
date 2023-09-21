@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_ldk130_10_sot23_sot353
+library: regulator_linear
 library_name: Regulator_Linear
+name: ldk130_10_sot23_sot353
 oomp:
   library_name: regulator_linear
-  md5: 2e018ea7a73663acab28af8ad1ed457b
-  md5_10: 2e018ea7a7
-  md5_5: 2e018
-  md5_6: 2e018e
-  oomp_key: oomp_regulator_linear_ldk130_10_sot23_sot353
-  oomp_key_extra: oomp_symbol_regulator_linear_ldk130_10_sot23_sot353
-  oomp_key_full: oomp_symbol_regulator_linear_ldk130_10_sot23_sot353_2e018e
-  oomp_key_simple: regulator_linear_ldk130_10_sot23_sot353
+  md5: ad32279386f812addb9c05302e1128fa
+  md5_10: ad32279386
+  md5_5: ad322
+  md5_6: ad3227
+  oomp_key: oomp_ldk130_10_sot23_sot353
+  oomp_key_extra: oomp_symbol_ldk130_10_sot23_sot353
+  oomp_key_full: oomp_symbol_ldk130_10_sot23_sot353_ad3227
+  oomp_key_simple: ldk130_10_sot23_sot353
   owner_name: kicad
-  symbol_name: regulator_linear_ldk130_10_sot23_sot353
+  symbol_name: ldk130_10_sot23_sot353
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

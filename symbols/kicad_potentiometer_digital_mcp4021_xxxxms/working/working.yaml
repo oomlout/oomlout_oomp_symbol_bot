@@ -1,16 +1,20 @@
+id: kicad_potentiometer_digital_mcp4021_xxxxms
+library: potentiometer_digital
 library_name: Potentiometer_Digital
+name: mcp4021_xxxxms
 oomp:
   library_name: potentiometer_digital
-  md5: fb5e4e3b5579b788971cd693c132a155
-  md5_10: fb5e4e3b55
-  md5_5: fb5e4
-  md5_6: fb5e4e
-  oomp_key: oomp_potentiometer_digital_mcp4021_xxxxms
-  oomp_key_extra: oomp_symbol_potentiometer_digital_mcp4021_xxxxms
-  oomp_key_full: oomp_symbol_potentiometer_digital_mcp4021_xxxxms_fb5e4e
-  oomp_key_simple: potentiometer_digital_mcp4021_xxxxms
+  md5: a89796177d8dc80947f6e63e9ece406d
+  md5_10: a89796177d
+  md5_5: a8979
+  md5_6: a89796
+  oomp_key: oomp_mcp4021_xxxxms
+  oomp_key_extra: oomp_symbol_mcp4021_xxxxms
+  oomp_key_full: oomp_symbol_mcp4021_xxxxms_a89796
+  oomp_key_simple: mcp4021_xxxxms
   owner_name: kicad
-  symbol_name: potentiometer_digital_mcp4021_xxxxms
+  symbol_name: mcp4021_xxxxms
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

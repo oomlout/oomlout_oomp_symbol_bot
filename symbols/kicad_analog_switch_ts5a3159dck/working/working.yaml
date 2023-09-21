@@ -1,16 +1,20 @@
+id: kicad_analog_switch_ts5a3159dck
+library: analog_switch
 library_name: Analog_Switch
+name: ts5a3159dck
 oomp:
   library_name: analog_switch
-  md5: e702fed1ef47376c5991df086716159f
-  md5_10: e702fed1ef
-  md5_5: e702f
-  md5_6: e702fe
-  oomp_key: oomp_analog_switch_ts5a3159dck
-  oomp_key_extra: oomp_symbol_analog_switch_ts5a3159dck
-  oomp_key_full: oomp_symbol_analog_switch_ts5a3159dck_e702fe
-  oomp_key_simple: analog_switch_ts5a3159dck
+  md5: d9f36aa1835465863113fd6b3dc8334b
+  md5_10: d9f36aa183
+  md5_5: d9f36
+  md5_6: d9f36a
+  oomp_key: oomp_ts5a3159dck
+  oomp_key_extra: oomp_symbol_ts5a3159dck
+  oomp_key_full: oomp_symbol_ts5a3159dck_d9f36a
+  oomp_key_simple: ts5a3159dck
   owner_name: kicad
-  symbol_name: analog_switch_ts5a3159dck
+  symbol_name: ts5a3159dck
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

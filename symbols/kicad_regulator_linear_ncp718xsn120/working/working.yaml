@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_ncp718xsn120
+library: regulator_linear
 library_name: Regulator_Linear
+name: ncp718xsn120
 oomp:
   library_name: regulator_linear
-  md5: 39d7a03a411d01f210fa0a194ed11e25
-  md5_10: 39d7a03a41
-  md5_5: 39d7a
-  md5_6: 39d7a0
-  oomp_key: oomp_regulator_linear_ncp718xsn120
-  oomp_key_extra: oomp_symbol_regulator_linear_ncp718xsn120
-  oomp_key_full: oomp_symbol_regulator_linear_ncp718xsn120_39d7a0
-  oomp_key_simple: regulator_linear_ncp718xsn120
+  md5: c4a5717e1e65ce10a1df57da10721b95
+  md5_10: c4a5717e1e
+  md5_5: c4a57
+  md5_6: c4a571
+  oomp_key: oomp_ncp718xsn120
+  oomp_key_extra: oomp_symbol_ncp718xsn120
+  oomp_key_full: oomp_symbol_ncp718xsn120_c4a571
+  oomp_key_simple: ncp718xsn120
   owner_name: kicad
-  symbol_name: regulator_linear_ncp718xsn120
+  symbol_name: ncp718xsn120
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_rf_filter_sxbp_100
+library: rf_filter
 library_name: RF_Filter
+name: sxbp_100
 oomp:
   library_name: rf_filter
-  md5: 7acc591ac2a29024597715e5c0df8078
-  md5_10: 7acc591ac2
-  md5_5: 7acc5
-  md5_6: 7acc59
-  oomp_key: oomp_rf_filter_sxbp_100
-  oomp_key_extra: oomp_symbol_rf_filter_sxbp_100
-  oomp_key_full: oomp_symbol_rf_filter_sxbp_100_7acc59
-  oomp_key_simple: rf_filter_sxbp_100
+  md5: 14c0c749c92b5bbbab367bd373da9622
+  md5_10: 14c0c749c9
+  md5_5: 14c0c
+  md5_6: 14c0c7
+  oomp_key: oomp_sxbp_100
+  oomp_key_extra: oomp_symbol_sxbp_100
+  oomp_key_full: oomp_symbol_sxbp_100_14c0c7
+  oomp_key_simple: sxbp_100
   owner_name: kicad
-  symbol_name: rf_filter_sxbp_100
+  symbol_name: sxbp_100
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

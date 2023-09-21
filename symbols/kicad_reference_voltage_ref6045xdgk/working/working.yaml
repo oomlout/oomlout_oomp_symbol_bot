@@ -1,16 +1,20 @@
+id: kicad_reference_voltage_ref6045xdgk
+library: reference_voltage
 library_name: Reference_Voltage
+name: ref6045xdgk
 oomp:
   library_name: reference_voltage
-  md5: 15ac080a03f236c0dcb7b1b86fb27caf
-  md5_10: 15ac080a03
-  md5_5: 15ac0
-  md5_6: 15ac08
-  oomp_key: oomp_reference_voltage_ref6045xdgk
-  oomp_key_extra: oomp_symbol_reference_voltage_ref6045xdgk
-  oomp_key_full: oomp_symbol_reference_voltage_ref6045xdgk_15ac08
-  oomp_key_simple: reference_voltage_ref6045xdgk
+  md5: a157650e3c036771f5383cd296115071
+  md5_10: a157650e3c
+  md5_5: a1576
+  md5_6: a15765
+  oomp_key: oomp_ref6045xdgk
+  oomp_key_extra: oomp_symbol_ref6045xdgk
+  oomp_key_full: oomp_symbol_ref6045xdgk_a15765
+  oomp_key_simple: ref6045xdgk
   owner_name: kicad
-  symbol_name: reference_voltage_ref6045xdgk
+  symbol_name: ref6045xdgk
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

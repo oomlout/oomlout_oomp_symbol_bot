@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_adp1108an_3_3
+library: regulator_switching
 library_name: Regulator_Switching
+name: adp1108an_3_3
 oomp:
   library_name: regulator_switching
-  md5: 2032b83c6a6610fdda9a9dc5b3e9c339
-  md5_10: 2032b83c6a
-  md5_5: 2032b
-  md5_6: 2032b8
-  oomp_key: oomp_regulator_switching_adp1108an_3_3
-  oomp_key_extra: oomp_symbol_regulator_switching_adp1108an_3_3
-  oomp_key_full: oomp_symbol_regulator_switching_adp1108an_3_3_2032b8
-  oomp_key_simple: regulator_switching_adp1108an_3_3
+  md5: 2297d664309ab74f93dbf54aaa85e4e0
+  md5_10: 2297d66430
+  md5_5: 2297d
+  md5_6: 2297d6
+  oomp_key: oomp_adp1108an_3_3
+  oomp_key_extra: oomp_symbol_adp1108an_3_3
+  oomp_key_full: oomp_symbol_adp1108an_3_3_2297d6
+  oomp_key_simple: adp1108an_3_3
   owner_name: kicad
-  symbol_name: regulator_switching_adp1108an_3_3
+  symbol_name: adp1108an_3_3
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

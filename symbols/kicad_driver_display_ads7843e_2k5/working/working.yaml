@@ -1,16 +1,20 @@
+id: kicad_driver_display_ads7843e_2k5
+library: driver_display
 library_name: Driver_Display
+name: ads7843e_2k5
 oomp:
   library_name: driver_display
-  md5: 9468c2b94a3798f04dbd7f3fb22ebb8a
-  md5_10: 9468c2b94a
-  md5_5: 9468c
-  md5_6: 9468c2
-  oomp_key: oomp_driver_display_ads7843e_2k5
-  oomp_key_extra: oomp_symbol_driver_display_ads7843e_2k5
-  oomp_key_full: oomp_symbol_driver_display_ads7843e_2k5_9468c2
-  oomp_key_simple: driver_display_ads7843e_2k5
+  md5: 83866105efc9a1bd77af053c498800e7
+  md5_10: 83866105ef
+  md5_5: '83866'
+  md5_6: '838661'
+  oomp_key: oomp_ads7843e_2k5
+  oomp_key_extra: oomp_symbol_ads7843e_2k5
+  oomp_key_full: oomp_symbol_ads7843e_2k5_838661
+  oomp_key_simple: ads7843e_2k5
   owner_name: kicad
-  symbol_name: driver_display_ads7843e_2k5
+  symbol_name: ads7843e_2k5
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

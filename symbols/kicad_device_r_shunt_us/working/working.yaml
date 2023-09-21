@@ -1,3 +1,5 @@
+id: kicad_device_r_shunt_us
+library: device
 library_name: Device
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_r_shunt_us/working
   oomp_src_flat: symbols_flat/kicad_device_r_shunt_us/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_r_shunt_us/working
-name: device_r_shunt_us
+name: r_shunt_us
 oomp:
   library_name: device
-  md5: 695713f08e5bd8e0c0120506df2a578e
-  md5_10: 695713f08e
-  md5_5: '69571'
-  md5_6: '695713'
-  oomp_key: oomp_device_r_shunt_us
-  oomp_key_extra: oomp_symbol_device_r_shunt_us
-  oomp_key_full: oomp_symbol_device_r_shunt_us_695713
-  oomp_key_simple: device_r_shunt_us
+  md5: a10245fee34356ccf3f25f02497935ed
+  md5_10: a10245fee3
+  md5_5: a1024
+  md5_6: a10245
+  oomp_key: oomp_r_shunt_us
+  oomp_key_extra: oomp_symbol_r_shunt_us
+  oomp_key_full: oomp_symbol_r_shunt_us_a10245
+  oomp_key_simple: r_shunt_us
   owner_name: kicad
-  symbol_name: device_r_shunt_us
+  symbol_name: r_shunt_us
 oomp_key: oomp_kicad_device_r_shunt_us
 oomp_key_simple: kicad_device_r_shunt_us
 owner: kicad

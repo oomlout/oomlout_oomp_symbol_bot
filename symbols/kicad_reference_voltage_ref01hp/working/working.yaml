@@ -1,16 +1,20 @@
+id: kicad_reference_voltage_ref01hp
+library: reference_voltage
 library_name: Reference_Voltage
+name: ref01hp
 oomp:
   library_name: reference_voltage
-  md5: cb113663c13e6fc89358887fec05e181
-  md5_10: cb113663c1
-  md5_5: cb113
-  md5_6: cb1136
-  oomp_key: oomp_reference_voltage_ref01hp
-  oomp_key_extra: oomp_symbol_reference_voltage_ref01hp
-  oomp_key_full: oomp_symbol_reference_voltage_ref01hp_cb1136
-  oomp_key_simple: reference_voltage_ref01hp
+  md5: 55c346121be378df0713f20c1602d34c
+  md5_10: 55c346121b
+  md5_5: 55c34
+  md5_6: 55c346
+  oomp_key: oomp_ref01hp
+  oomp_key_extra: oomp_symbol_ref01hp
+  oomp_key_full: oomp_symbol_ref01hp_55c346
+  oomp_key_simple: ref01hp
   owner_name: kicad
-  symbol_name: reference_voltage_ref01hp
+  symbol_name: ref01hp
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

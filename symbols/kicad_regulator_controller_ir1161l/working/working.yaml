@@ -1,3 +1,5 @@
+id: kicad_regulator_controller_ir1161l
+library: regulator_controller
 library_name: Regulator_Controller
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_controller_ir1161l/working
   oomp_src_flat: symbols_flat/kicad_regulator_controller_ir1161l/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_controller_ir1161l/working
-name: regulator_controller_ir1161l
+name: ir1161l
 oomp:
   library_name: regulator_controller
-  md5: 998eafee73787bdb7ea97911a1f8cd43
-  md5_10: 998eafee73
-  md5_5: 998ea
-  md5_6: 998eaf
-  oomp_key: oomp_regulator_controller_ir1161l
-  oomp_key_extra: oomp_symbol_regulator_controller_ir1161l
-  oomp_key_full: oomp_symbol_regulator_controller_ir1161l_998eaf
-  oomp_key_simple: regulator_controller_ir1161l
+  md5: c64cbabcb370af868d12cbd0316f2c0f
+  md5_10: c64cbabcb3
+  md5_5: c64cb
+  md5_6: c64cba
+  oomp_key: oomp_ir1161l
+  oomp_key_extra: oomp_symbol_ir1161l
+  oomp_key_full: oomp_symbol_ir1161l_c64cba
+  oomp_key_simple: ir1161l
   owner_name: kicad
-  symbol_name: regulator_controller_ir1161l
+  symbol_name: ir1161l
 oomp_key: oomp_kicad_regulator_controller_ir1161l
 oomp_key_simple: kicad_regulator_controller_ir1161l
 owner: kicad

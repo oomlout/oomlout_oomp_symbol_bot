@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_ncp163afcs290t2g
+library: regulator_linear
 library_name: Regulator_Linear
+name: ncp163afcs290t2g
 oomp:
   library_name: regulator_linear
-  md5: 0d8876c7f24a9b3ddb1ec3c8298e2040
-  md5_10: 0d8876c7f2
-  md5_5: 0d887
-  md5_6: 0d8876
-  oomp_key: oomp_regulator_linear_ncp163afcs290t2g
-  oomp_key_extra: oomp_symbol_regulator_linear_ncp163afcs290t2g
-  oomp_key_full: oomp_symbol_regulator_linear_ncp163afcs290t2g_0d8876
-  oomp_key_simple: regulator_linear_ncp163afcs290t2g
+  md5: afc9a1d00585a80c9d2d4ac023c762b1
+  md5_10: afc9a1d005
+  md5_5: afc9a
+  md5_6: afc9a1
+  oomp_key: oomp_ncp163afcs290t2g
+  oomp_key_extra: oomp_symbol_ncp163afcs290t2g
+  oomp_key_full: oomp_symbol_ncp163afcs290t2g_afc9a1
+  oomp_key_simple: ncp163afcs290t2g
   owner_name: kicad
-  symbol_name: regulator_linear_ncp163afcs290t2g
+  symbol_name: ncp163afcs290t2g
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

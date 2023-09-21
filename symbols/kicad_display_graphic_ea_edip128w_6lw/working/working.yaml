@@ -1,16 +1,20 @@
+id: kicad_display_graphic_ea_edip128w_6lw
+library: display_graphic
 library_name: Display_Graphic
+name: ea_edip128w_6lw
 oomp:
   library_name: display_graphic
-  md5: 41159abffb26fcc38a4f4ff80cd5f527
-  md5_10: 41159abffb
-  md5_5: '41159'
-  md5_6: 41159a
-  oomp_key: oomp_display_graphic_ea_edip128w_6lw
-  oomp_key_extra: oomp_symbol_display_graphic_ea_edip128w_6lw
-  oomp_key_full: oomp_symbol_display_graphic_ea_edip128w_6lw_41159a
-  oomp_key_simple: display_graphic_ea_edip128w_6lw
+  md5: f7cdbbee496da8643b960888aef9d2bd
+  md5_10: f7cdbbee49
+  md5_5: f7cdb
+  md5_6: f7cdbb
+  oomp_key: oomp_ea_edip128w_6lw
+  oomp_key_extra: oomp_symbol_ea_edip128w_6lw
+  oomp_key_full: oomp_symbol_ea_edip128w_6lw_f7cdbb
+  oomp_key_simple: ea_edip128w_6lw
   owner_name: kicad
-  symbol_name: display_graphic_ea_edip128w_6lw
+  symbol_name: ea_edip128w_6lw
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

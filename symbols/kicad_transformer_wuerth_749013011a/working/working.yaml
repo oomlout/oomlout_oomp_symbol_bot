@@ -1,16 +1,20 @@
+id: kicad_transformer_wuerth_749013011a
+library: transformer
 library_name: Transformer
+name: wuerth_749013011a
 oomp:
   library_name: transformer
-  md5: 09628a590fcbc81d2b4ccacfe0a0fe3b
-  md5_10: 09628a590f
-  md5_5: 09628
-  md5_6: 09628a
-  oomp_key: oomp_transformer_wuerth_749013011a
-  oomp_key_extra: oomp_symbol_transformer_wuerth_749013011a
-  oomp_key_full: oomp_symbol_transformer_wuerth_749013011a_09628a
-  oomp_key_simple: transformer_wuerth_749013011a
+  md5: 8f259649063f5cc4445cb6923aa9f02b
+  md5_10: 8f25964906
+  md5_5: 8f259
+  md5_6: 8f2596
+  oomp_key: oomp_wuerth_749013011a
+  oomp_key_extra: oomp_symbol_wuerth_749013011a
+  oomp_key_full: oomp_symbol_wuerth_749013011a_8f2596
+  oomp_key_simple: wuerth_749013011a
   owner_name: kicad
-  symbol_name: transformer_wuerth_749013011a
+  symbol_name: wuerth_749013011a
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

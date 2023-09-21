@@ -1,3 +1,5 @@
+id: kicad_regulator_switching_ltc3406bes5_1_2
+library: regulator_switching
 library_name: Regulator_Switching
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_ltc3406bes5_1_2/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_ltc3406bes5_1_2/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_ltc3406bes5_1_2/working
-name: regulator_switching_ltc3406bes5_1_2
+name: ltc3406bes5_1_2
 oomp:
   library_name: regulator_switching
-  md5: d93713ea4f33602e2c10b4d7a99b0315
-  md5_10: d93713ea4f
-  md5_5: d9371
-  md5_6: d93713
-  oomp_key: oomp_regulator_switching_ltc3406bes5_1_2
-  oomp_key_extra: oomp_symbol_regulator_switching_ltc3406bes5_1_2
-  oomp_key_full: oomp_symbol_regulator_switching_ltc3406bes5_1_2_d93713
-  oomp_key_simple: regulator_switching_ltc3406bes5_1_2
+  md5: 4b8e111dbad1bf483f928fecc814f570
+  md5_10: 4b8e111dba
+  md5_5: 4b8e1
+  md5_6: 4b8e11
+  oomp_key: oomp_ltc3406bes5_1_2
+  oomp_key_extra: oomp_symbol_ltc3406bes5_1_2
+  oomp_key_full: oomp_symbol_ltc3406bes5_1_2_4b8e11
+  oomp_key_simple: ltc3406bes5_1_2
   owner_name: kicad
-  symbol_name: regulator_switching_ltc3406bes5_1_2
+  symbol_name: ltc3406bes5_1_2
 oomp_key: oomp_kicad_regulator_switching_ltc3406bes5_1_2
 oomp_key_simple: kicad_regulator_switching_ltc3406bes5_1_2
 owner: kicad

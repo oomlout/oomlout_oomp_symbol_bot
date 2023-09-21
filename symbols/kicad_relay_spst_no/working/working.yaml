@@ -1,0 +1,36 @@
+id: kicad_relay_spst_no
+library: relay
+library_name: Relay
+links:
+  github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
+  github_src_repo: https://gitlab.com/kicad/libraries/kicad-symbols
+  oomp_bot: kicad_relay_spst_no/working
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_relay_spst_no/working
+  oomp_doc: kicad_relay_spst_no/working
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_relay_spst_no/working
+  oomp_src_flat: symbols_flat/kicad_relay_spst_no/working
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_relay_spst_no/working
+name: spst_no
+oomp:
+  library_name: relay
+  md5: 53ce6eff8a0b78783969ff6d3191e30c
+  md5_10: 53ce6eff8a
+  md5_5: 53ce6
+  md5_6: 53ce6e
+  oomp_key: oomp_spst_no
+  oomp_key_extra: oomp_symbol_spst_no
+  oomp_key_full: oomp_symbol_spst_no_53ce6e
+  oomp_key_simple: spst_no
+  owner_name: kicad
+  symbol_name: spst_no
+oomp_key: oomp_kicad_relay_spst_no
+oomp_key_simple: kicad_relay_spst_no
+owner: kicad
+repo:
+  github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
+  name: kicad-symbols
+  owner: kicad
+  url: https://gitlab.com/kicad/libraries/kicad-symbols
+repo_github:
+  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
+  message: Not Found

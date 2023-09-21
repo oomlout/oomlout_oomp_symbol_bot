@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_ap131_35
+library: regulator_linear
 library_name: Regulator_Linear
+name: ap131_35
 oomp:
   library_name: regulator_linear
-  md5: 364acb6424359879d2ec4a6d626c9c86
-  md5_10: 364acb6424
-  md5_5: 364ac
-  md5_6: 364acb
-  oomp_key: oomp_regulator_linear_ap131_35
-  oomp_key_extra: oomp_symbol_regulator_linear_ap131_35
-  oomp_key_full: oomp_symbol_regulator_linear_ap131_35_364acb
-  oomp_key_simple: regulator_linear_ap131_35
+  md5: 470bca7f5c8393a3df69b0f463ad9238
+  md5_10: 470bca7f5c
+  md5_5: 470bc
+  md5_6: 470bca
+  oomp_key: oomp_ap131_35
+  oomp_key_extra: oomp_symbol_ap131_35
+  oomp_key_full: oomp_symbol_ap131_35_470bca
+  oomp_key_simple: ap131_35
   owner_name: kicad
-  symbol_name: regulator_linear_ap131_35
+  symbol_name: ap131_35
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_mcu_microchip_pic18_pic18lf14k50_eso
+library: mcu_microchip_pic18
 library_name: MCU_Microchip_PIC18
+name: pic18lf14k50_eso
 oomp:
   library_name: mcu_microchip_pic18
-  md5: e9318cf2e0755c2e687933ed10d34cd0
-  md5_10: e9318cf2e0
-  md5_5: e9318
-  md5_6: e9318c
-  oomp_key: oomp_mcu_microchip_pic18_pic18lf14k50_eso
-  oomp_key_extra: oomp_symbol_mcu_microchip_pic18_pic18lf14k50_eso
-  oomp_key_full: oomp_symbol_mcu_microchip_pic18_pic18lf14k50_eso_e9318c
-  oomp_key_simple: mcu_microchip_pic18_pic18lf14k50_eso
+  md5: ed0e99576200d8c6c369a10657689a83
+  md5_10: ed0e995762
+  md5_5: ed0e9
+  md5_6: ed0e99
+  oomp_key: oomp_pic18lf14k50_eso
+  oomp_key_extra: oomp_symbol_pic18lf14k50_eso
+  oomp_key_full: oomp_symbol_pic18lf14k50_eso_ed0e99
+  oomp_key_simple: pic18lf14k50_eso
   owner_name: kicad
-  symbol_name: mcu_microchip_pic18_pic18lf14k50_eso
+  symbol_name: pic18lf14k50_eso
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

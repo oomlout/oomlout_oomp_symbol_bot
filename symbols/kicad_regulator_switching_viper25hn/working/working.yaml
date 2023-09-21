@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_viper25hn
+library: regulator_switching
 library_name: Regulator_Switching
+name: viper25hn
 oomp:
   library_name: regulator_switching
-  md5: dda3a64d7846b1b794f5d112cdc50b48
-  md5_10: dda3a64d78
-  md5_5: dda3a
-  md5_6: dda3a6
-  oomp_key: oomp_regulator_switching_viper25hn
-  oomp_key_extra: oomp_symbol_regulator_switching_viper25hn
-  oomp_key_full: oomp_symbol_regulator_switching_viper25hn_dda3a6
-  oomp_key_simple: regulator_switching_viper25hn
+  md5: dbf8b5e38cfae91dbe027f42e0330983
+  md5_10: dbf8b5e38c
+  md5_5: dbf8b
+  md5_6: dbf8b5
+  oomp_key: oomp_viper25hn
+  oomp_key_extra: oomp_symbol_viper25hn
+  oomp_key_full: oomp_symbol_viper25hn_dbf8b5
+  oomp_key_simple: viper25hn
   owner_name: kicad
-  symbol_name: regulator_switching_viper25hn
+  symbol_name: viper25hn
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

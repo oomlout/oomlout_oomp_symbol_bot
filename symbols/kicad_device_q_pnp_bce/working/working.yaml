@@ -1,3 +1,5 @@
+id: kicad_device_q_pnp_bce
+library: device
 library_name: Device
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_q_pnp_bce/working
   oomp_src_flat: symbols_flat/kicad_device_q_pnp_bce/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_q_pnp_bce/working
-name: device_q_pnp_bce
+name: q_pnp_bce
 oomp:
   library_name: device
-  md5: d4cd8de44cd5e505076a4812e5f5db5f
-  md5_10: d4cd8de44c
-  md5_5: d4cd8
-  md5_6: d4cd8d
-  oomp_key: oomp_device_q_pnp_bce
-  oomp_key_extra: oomp_symbol_device_q_pnp_bce
-  oomp_key_full: oomp_symbol_device_q_pnp_bce_d4cd8d
-  oomp_key_simple: device_q_pnp_bce
+  md5: 4897caeb045b5f123ae7953b40ab1214
+  md5_10: 4897caeb04
+  md5_5: 4897c
+  md5_6: 4897ca
+  oomp_key: oomp_q_pnp_bce
+  oomp_key_extra: oomp_symbol_q_pnp_bce
+  oomp_key_full: oomp_symbol_q_pnp_bce_4897ca
+  oomp_key_simple: q_pnp_bce
   owner_name: kicad
-  symbol_name: device_q_pnp_bce
+  symbol_name: q_pnp_bce
 oomp_key: oomp_kicad_device_q_pnp_bce
 oomp_key_simple: kicad_device_q_pnp_bce
 owner: kicad

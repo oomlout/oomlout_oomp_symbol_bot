@@ -1,16 +1,20 @@
+id: kicad_memory_nvram_47c16
+library: memory_nvram
 library_name: Memory_NVRAM
+name: 47c16
 oomp:
   library_name: memory_nvram
-  md5: ee4cd86de00978b279e793fe6cfdb171
-  md5_10: ee4cd86de0
-  md5_5: ee4cd
-  md5_6: ee4cd8
-  oomp_key: oomp_memory_nvram_47c16
-  oomp_key_extra: oomp_symbol_memory_nvram_47c16
-  oomp_key_full: oomp_symbol_memory_nvram_47c16_ee4cd8
-  oomp_key_simple: memory_nvram_47c16
+  md5: 57bb4e2b5050d4b52b8531066544de1b
+  md5_10: 57bb4e2b50
+  md5_5: 57bb4
+  md5_6: 57bb4e
+  oomp_key: oomp_47c16
+  oomp_key_extra: oomp_symbol_47c16
+  oomp_key_full: oomp_symbol_47c16_57bb4e
+  oomp_key_simple: 47c16
   owner_name: kicad
-  symbol_name: memory_nvram_47c16
+  symbol_name: 47c16
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

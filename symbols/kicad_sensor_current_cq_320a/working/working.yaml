@@ -1,16 +1,20 @@
+id: kicad_sensor_current_cq_320a
+library: sensor_current
 library_name: Sensor_Current
+name: cq_320a
 oomp:
   library_name: sensor_current
-  md5: ff1b9d4083726e48b90bcc37c70a0ff8
-  md5_10: ff1b9d4083
-  md5_5: ff1b9
-  md5_6: ff1b9d
-  oomp_key: oomp_sensor_current_cq_320a
-  oomp_key_extra: oomp_symbol_sensor_current_cq_320a
-  oomp_key_full: oomp_symbol_sensor_current_cq_320a_ff1b9d
-  oomp_key_simple: sensor_current_cq_320a
+  md5: c9c500154c097d61cb83ab8587e3a7b5
+  md5_10: c9c500154c
+  md5_5: c9c50
+  md5_6: c9c500
+  oomp_key: oomp_cq_320a
+  oomp_key_extra: oomp_symbol_cq_320a
+  oomp_key_full: oomp_symbol_cq_320a_c9c500
+  oomp_key_simple: cq_320a
   owner_name: kicad
-  symbol_name: sensor_current_cq_320a
+  symbol_name: cq_320a
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

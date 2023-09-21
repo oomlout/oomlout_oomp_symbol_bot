@@ -1,16 +1,20 @@
+id: kicad_power_supervisor_max811leus_t
+library: power_supervisor
 library_name: Power_Supervisor
+name: max811leus_t
 oomp:
   library_name: power_supervisor
-  md5: 6b7d20f9da1d08b7e669412c66106a7c
-  md5_10: 6b7d20f9da
-  md5_5: 6b7d2
-  md5_6: 6b7d20
-  oomp_key: oomp_power_supervisor_max811leus_t
-  oomp_key_extra: oomp_symbol_power_supervisor_max811leus_t
-  oomp_key_full: oomp_symbol_power_supervisor_max811leus_t_6b7d20
-  oomp_key_simple: power_supervisor_max811leus_t
+  md5: bb77e1a4299369cc7b6bb52a2b6140fd
+  md5_10: bb77e1a429
+  md5_5: bb77e
+  md5_6: bb77e1
+  oomp_key: oomp_max811leus_t
+  oomp_key_extra: oomp_symbol_max811leus_t
+  oomp_key_full: oomp_symbol_max811leus_t_bb77e1
+  oomp_key_simple: max811leus_t
   owner_name: kicad
-  symbol_name: power_supervisor_max811leus_t
+  symbol_name: max811leus_t
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

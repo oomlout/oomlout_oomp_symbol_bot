@@ -1,3 +1,5 @@
+id: kicad_connector_conn_01x23_socket
+library: connector
 library_name: Connector
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_conn_01x23_socket/working
   oomp_src_flat: symbols_flat/kicad_connector_conn_01x23_socket/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_conn_01x23_socket/working
-name: connector_conn_01x23_socket
+name: conn_01x23_socket
 oomp:
   library_name: connector
-  md5: 2b22fcce88f0cb5eeb7552952a26bea8
-  md5_10: 2b22fcce88
-  md5_5: 2b22f
-  md5_6: 2b22fc
-  oomp_key: oomp_connector_conn_01x23_socket
-  oomp_key_extra: oomp_symbol_connector_conn_01x23_socket
-  oomp_key_full: oomp_symbol_connector_conn_01x23_socket_2b22fc
-  oomp_key_simple: connector_conn_01x23_socket
+  md5: 06b76592b2941efe33073fc01e61705d
+  md5_10: 06b76592b2
+  md5_5: 06b76
+  md5_6: 06b765
+  oomp_key: oomp_conn_01x23_socket
+  oomp_key_extra: oomp_symbol_conn_01x23_socket
+  oomp_key_full: oomp_symbol_conn_01x23_socket_06b765
+  oomp_key_simple: conn_01x23_socket
   owner_name: kicad
-  symbol_name: connector_conn_01x23_socket
+  symbol_name: conn_01x23_socket
 oomp_key: oomp_kicad_connector_conn_01x23_socket
 oomp_key_simple: kicad_connector_conn_01x23_socket
 owner: kicad

@@ -1,16 +1,20 @@
+id: kicad_amplifier_operational_mc33178
+library: amplifier_operational
 library_name: Amplifier_Operational
+name: mc33178
 oomp:
   library_name: amplifier_operational
-  md5: c09107b35cb0b13da1706e5561a7c877
-  md5_10: c09107b35c
-  md5_5: c0910
-  md5_6: c09107
-  oomp_key: oomp_amplifier_operational_mc33178
-  oomp_key_extra: oomp_symbol_amplifier_operational_mc33178
-  oomp_key_full: oomp_symbol_amplifier_operational_mc33178_c09107
-  oomp_key_simple: amplifier_operational_mc33178
+  md5: 6eff97eeec2b000c37fde46f1f319662
+  md5_10: 6eff97eeec
+  md5_5: 6eff9
+  md5_6: 6eff97
+  oomp_key: oomp_mc33178
+  oomp_key_extra: oomp_symbol_mc33178
+  oomp_key_full: oomp_symbol_mc33178_6eff97
+  oomp_key_simple: mc33178
   owner_name: kicad
-  symbol_name: amplifier_operational_mc33178
+  symbol_name: mc33178
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

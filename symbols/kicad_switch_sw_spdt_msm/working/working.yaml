@@ -1,3 +1,5 @@
+id: kicad_switch_sw_spdt_msm
+library: switch
 library_name: Switch
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_switch_sw_spdt_msm/working
   oomp_src_flat: symbols_flat/kicad_switch_sw_spdt_msm/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_switch_sw_spdt_msm/working
-name: switch_sw_spdt_msm
+name: sw_spdt_msm
 oomp:
   library_name: switch
-  md5: 9256a108e44b7c2ca5313e42747d083d
-  md5_10: 9256a108e4
-  md5_5: 9256a
-  md5_6: 9256a1
-  oomp_key: oomp_switch_sw_spdt_msm
-  oomp_key_extra: oomp_symbol_switch_sw_spdt_msm
-  oomp_key_full: oomp_symbol_switch_sw_spdt_msm_9256a1
-  oomp_key_simple: switch_sw_spdt_msm
+  md5: f1ac8467d37ade63f19b928f35f86a04
+  md5_10: f1ac8467d3
+  md5_5: f1ac8
+  md5_6: f1ac84
+  oomp_key: oomp_sw_spdt_msm
+  oomp_key_extra: oomp_symbol_sw_spdt_msm
+  oomp_key_full: oomp_symbol_sw_spdt_msm_f1ac84
+  oomp_key_simple: sw_spdt_msm
   owner_name: kicad
-  symbol_name: switch_sw_spdt_msm
+  symbol_name: sw_spdt_msm
 oomp_key: oomp_kicad_switch_sw_spdt_msm
 oomp_key_simple: kicad_switch_sw_spdt_msm
 owner: kicad

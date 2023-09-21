@@ -1,3 +1,5 @@
+id: kicad_regulator_linear_tlv70012_sot353
+library: regulator_linear
 library_name: Regulator_Linear
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_linear_tlv70012_sot353/working
   oomp_src_flat: symbols_flat/kicad_regulator_linear_tlv70012_sot353/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_linear_tlv70012_sot353/working
-name: regulator_linear_tlv70012_sot353
+name: tlv70012_sot353
 oomp:
   library_name: regulator_linear
-  md5: 6471faa006bc5cb5dd3ae3fdd41c2355
-  md5_10: 6471faa006
-  md5_5: 6471f
-  md5_6: 6471fa
-  oomp_key: oomp_regulator_linear_tlv70012_sot353
-  oomp_key_extra: oomp_symbol_regulator_linear_tlv70012_sot353
-  oomp_key_full: oomp_symbol_regulator_linear_tlv70012_sot353_6471fa
-  oomp_key_simple: regulator_linear_tlv70012_sot353
+  md5: 6f9794873aedff5a1cc8fd8cab70c41a
+  md5_10: 6f9794873a
+  md5_5: 6f979
+  md5_6: 6f9794
+  oomp_key: oomp_tlv70012_sot353
+  oomp_key_extra: oomp_symbol_tlv70012_sot353
+  oomp_key_full: oomp_symbol_tlv70012_sot353_6f9794
+  oomp_key_simple: tlv70012_sot353
   owner_name: kicad
-  symbol_name: regulator_linear_tlv70012_sot353
+  symbol_name: tlv70012_sot353
 oomp_key: oomp_kicad_regulator_linear_tlv70012_sot353
 oomp_key_simple: kicad_regulator_linear_tlv70012_sot353
 owner: kicad

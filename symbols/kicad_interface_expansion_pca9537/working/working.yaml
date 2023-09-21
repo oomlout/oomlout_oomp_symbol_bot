@@ -1,3 +1,5 @@
+id: kicad_interface_expansion_pca9537
+library: interface_expansion
 library_name: Interface_Expansion
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_expansion_pca9537/working
   oomp_src_flat: symbols_flat/kicad_interface_expansion_pca9537/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_expansion_pca9537/working
-name: interface_expansion_pca9537
+name: pca9537
 oomp:
   library_name: interface_expansion
-  md5: 88b7edce2bc26f71fa3e66126461d5ac
-  md5_10: 88b7edce2b
-  md5_5: 88b7e
-  md5_6: 88b7ed
-  oomp_key: oomp_interface_expansion_pca9537
-  oomp_key_extra: oomp_symbol_interface_expansion_pca9537
-  oomp_key_full: oomp_symbol_interface_expansion_pca9537_88b7ed
-  oomp_key_simple: interface_expansion_pca9537
+  md5: 81afc9f8a51e1169a99d5c5f6d502df2
+  md5_10: 81afc9f8a5
+  md5_5: 81afc
+  md5_6: 81afc9
+  oomp_key: oomp_pca9537
+  oomp_key_extra: oomp_symbol_pca9537
+  oomp_key_full: oomp_symbol_pca9537_81afc9
+  oomp_key_simple: pca9537
   owner_name: kicad
-  symbol_name: interface_expansion_pca9537
+  symbol_name: pca9537
 oomp_key: oomp_kicad_interface_expansion_pca9537
 oomp_key_simple: kicad_interface_expansion_pca9537
 owner: kicad

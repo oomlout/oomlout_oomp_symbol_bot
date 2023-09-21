@@ -1,16 +1,20 @@
+id: kicad_memory_eeprom_at25xxx_ma
+library: memory_eeprom
 library_name: Memory_EEPROM
+name: at25xxx_ma
 oomp:
   library_name: memory_eeprom
-  md5: 42aa357c21b80b7d295d0f9b80b87bca
-  md5_10: 42aa357c21
-  md5_5: 42aa3
-  md5_6: 42aa35
-  oomp_key: oomp_memory_eeprom_at25xxx_ma
-  oomp_key_extra: oomp_symbol_memory_eeprom_at25xxx_ma
-  oomp_key_full: oomp_symbol_memory_eeprom_at25xxx_ma_42aa35
-  oomp_key_simple: memory_eeprom_at25xxx_ma
+  md5: 2542720711cce1884299e84d46e10c6b
+  md5_10: '2542720711'
+  md5_5: '25427'
+  md5_6: '254272'
+  oomp_key: oomp_at25xxx_ma
+  oomp_key_extra: oomp_symbol_at25xxx_ma
+  oomp_key_full: oomp_symbol_at25xxx_ma_254272
+  oomp_key_simple: at25xxx_ma
   owner_name: kicad
-  symbol_name: memory_eeprom_at25xxx_ma
+  symbol_name: at25xxx_ma
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

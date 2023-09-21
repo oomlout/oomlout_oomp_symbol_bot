@@ -1,16 +1,20 @@
+id: kicad_regulator_controller_ncp1653a
+library: regulator_controller
 library_name: Regulator_Controller
+name: ncp1653a
 oomp:
   library_name: regulator_controller
-  md5: 73e730ed2a18e55e3a45e4e7c416b88d
-  md5_10: 73e730ed2a
-  md5_5: 73e73
-  md5_6: 73e730
-  oomp_key: oomp_regulator_controller_ncp1653a
-  oomp_key_extra: oomp_symbol_regulator_controller_ncp1653a
-  oomp_key_full: oomp_symbol_regulator_controller_ncp1653a_73e730
-  oomp_key_simple: regulator_controller_ncp1653a
+  md5: d2d495397d3179f9615b3b9958fc54a0
+  md5_10: d2d495397d
+  md5_5: d2d49
+  md5_6: d2d495
+  oomp_key: oomp_ncp1653a
+  oomp_key_extra: oomp_symbol_ncp1653a
+  oomp_key_full: oomp_symbol_ncp1653a_d2d495
+  oomp_key_simple: ncp1653a
   owner_name: kicad
-  symbol_name: regulator_controller_ncp1653a
+  symbol_name: ncp1653a
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

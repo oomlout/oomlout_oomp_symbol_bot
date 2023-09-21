@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_ka378r33
+library: regulator_linear
 library_name: Regulator_Linear
+name: ka378r33
 oomp:
   library_name: regulator_linear
-  md5: 7173705d8b625c71fa1b06e0f2a13ec4
-  md5_10: 7173705d8b
-  md5_5: '71737'
-  md5_6: '717370'
-  oomp_key: oomp_regulator_linear_ka378r33
-  oomp_key_extra: oomp_symbol_regulator_linear_ka378r33
-  oomp_key_full: oomp_symbol_regulator_linear_ka378r33_717370
-  oomp_key_simple: regulator_linear_ka378r33
+  md5: 184b2c4537e2c3a8c1f575b62e528b1f
+  md5_10: 184b2c4537
+  md5_5: 184b2
+  md5_6: 184b2c
+  oomp_key: oomp_ka378r33
+  oomp_key_extra: oomp_symbol_ka378r33
+  oomp_key_full: oomp_symbol_ka378r33_184b2c
+  oomp_key_simple: ka378r33
   owner_name: kicad
-  symbol_name: regulator_linear_ka378r33
+  symbol_name: ka378r33
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

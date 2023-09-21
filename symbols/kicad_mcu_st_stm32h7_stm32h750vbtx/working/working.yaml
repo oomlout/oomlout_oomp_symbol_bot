@@ -1,3 +1,5 @@
+id: kicad_mcu_st_stm32h7_stm32h750vbtx
+library: mcu_st_stm32h7
 library_name: MCU_ST_STM32H7
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_st_stm32h7_stm32h750vbtx/working
   oomp_src_flat: symbols_flat/kicad_mcu_st_stm32h7_stm32h750vbtx/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_st_stm32h7_stm32h750vbtx/working
-name: mcu_st_stm32h7_stm32h750vbtx
+name: stm32h750vbtx
 oomp:
   library_name: mcu_st_stm32h7
-  md5: 17f1f389d40fdc8f88aa7c379d0c824b
-  md5_10: 17f1f389d4
-  md5_5: 17f1f
-  md5_6: 17f1f3
-  oomp_key: oomp_mcu_st_stm32h7_stm32h750vbtx
-  oomp_key_extra: oomp_symbol_mcu_st_stm32h7_stm32h750vbtx
-  oomp_key_full: oomp_symbol_mcu_st_stm32h7_stm32h750vbtx_17f1f3
-  oomp_key_simple: mcu_st_stm32h7_stm32h750vbtx
+  md5: 96b710c34238e0029fbdcc2cf6abcd13
+  md5_10: 96b710c342
+  md5_5: 96b71
+  md5_6: 96b710
+  oomp_key: oomp_stm32h750vbtx
+  oomp_key_extra: oomp_symbol_stm32h750vbtx
+  oomp_key_full: oomp_symbol_stm32h750vbtx_96b710
+  oomp_key_simple: stm32h750vbtx
   owner_name: kicad
-  symbol_name: mcu_st_stm32h7_stm32h750vbtx
+  symbol_name: stm32h750vbtx
 oomp_key: oomp_kicad_mcu_st_stm32h7_stm32h750vbtx
 oomp_key_simple: kicad_mcu_st_stm32h7_stm32h750vbtx
 owner: kicad

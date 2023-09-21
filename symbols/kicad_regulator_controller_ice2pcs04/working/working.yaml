@@ -1,16 +1,20 @@
+id: kicad_regulator_controller_ice2pcs04
+library: regulator_controller
 library_name: Regulator_Controller
+name: ice2pcs04
 oomp:
   library_name: regulator_controller
-  md5: c332f745319e5996f89c059635fcaf70
-  md5_10: c332f74531
-  md5_5: c332f
-  md5_6: c332f7
-  oomp_key: oomp_regulator_controller_ice2pcs04
-  oomp_key_extra: oomp_symbol_regulator_controller_ice2pcs04
-  oomp_key_full: oomp_symbol_regulator_controller_ice2pcs04_c332f7
-  oomp_key_simple: regulator_controller_ice2pcs04
+  md5: 34a8c4f7bc17c65bd1403b661ae26d79
+  md5_10: 34a8c4f7bc
+  md5_5: 34a8c
+  md5_6: 34a8c4
+  oomp_key: oomp_ice2pcs04
+  oomp_key_extra: oomp_symbol_ice2pcs04
+  oomp_key_full: oomp_symbol_ice2pcs04_34a8c4
+  oomp_key_simple: ice2pcs04
   owner_name: kicad
-  symbol_name: regulator_controller_ice2pcs04
+  symbol_name: ice2pcs04
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

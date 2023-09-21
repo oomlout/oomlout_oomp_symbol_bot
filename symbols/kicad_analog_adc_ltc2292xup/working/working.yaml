@@ -1,16 +1,20 @@
+id: kicad_analog_adc_ltc2292xup
+library: analog_adc
 library_name: Analog_ADC
+name: ltc2292xup
 oomp:
   library_name: analog_adc
-  md5: 67316cceec48006a3168caa4b2180d4e
-  md5_10: 67316cceec
-  md5_5: '67316'
-  md5_6: 67316c
-  oomp_key: oomp_analog_adc_ltc2292xup
-  oomp_key_extra: oomp_symbol_analog_adc_ltc2292xup
-  oomp_key_full: oomp_symbol_analog_adc_ltc2292xup_67316c
-  oomp_key_simple: analog_adc_ltc2292xup
+  md5: fc83a1a4fa42689deb6875e83f25b7da
+  md5_10: fc83a1a4fa
+  md5_5: fc83a
+  md5_6: fc83a1
+  oomp_key: oomp_ltc2292xup
+  oomp_key_extra: oomp_symbol_ltc2292xup
+  oomp_key_full: oomp_symbol_ltc2292xup_fc83a1
+  oomp_key_simple: ltc2292xup
   owner_name: kicad
-  symbol_name: analog_adc_ltc2292xup
+  symbol_name: ltc2292xup
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_analog_dac_ltc1446l
+library: analog_dac
 library_name: Analog_DAC
+name: ltc1446l
 oomp:
   library_name: analog_dac
-  md5: 90c52b3d62dcebc39ec9feb10f55673a
-  md5_10: 90c52b3d62
-  md5_5: 90c52
-  md5_6: 90c52b
-  oomp_key: oomp_analog_dac_ltc1446l
-  oomp_key_extra: oomp_symbol_analog_dac_ltc1446l
-  oomp_key_full: oomp_symbol_analog_dac_ltc1446l_90c52b
-  oomp_key_simple: analog_dac_ltc1446l
+  md5: 3799af347ab13100f7f85a24c5cb1ffc
+  md5_10: 3799af347a
+  md5_5: 3799a
+  md5_6: 3799af
+  oomp_key: oomp_ltc1446l
+  oomp_key_extra: oomp_symbol_ltc1446l
+  oomp_key_full: oomp_symbol_ltc1446l_3799af
+  oomp_key_simple: ltc1446l
   owner_name: kicad
-  symbol_name: analog_dac_ltc1446l
+  symbol_name: ltc1446l
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

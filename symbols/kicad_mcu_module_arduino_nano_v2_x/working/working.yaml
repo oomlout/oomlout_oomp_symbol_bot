@@ -1,3 +1,5 @@
+id: kicad_mcu_module_arduino_nano_v2_x
+library: mcu_module
 library_name: MCU_Module
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_module_arduino_nano_v2_x/working
   oomp_src_flat: symbols_flat/kicad_mcu_module_arduino_nano_v2_x/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_module_arduino_nano_v2_x/working
-name: mcu_module_arduino_nano_v2_x
+name: arduino_nano_v2_x
 oomp:
   library_name: mcu_module
-  md5: 274c044f6de8f93c4062d1e821203420
-  md5_10: 274c044f6d
-  md5_5: 274c0
-  md5_6: 274c04
-  oomp_key: oomp_mcu_module_arduino_nano_v2_x
-  oomp_key_extra: oomp_symbol_mcu_module_arduino_nano_v2_x
-  oomp_key_full: oomp_symbol_mcu_module_arduino_nano_v2_x_274c04
-  oomp_key_simple: mcu_module_arduino_nano_v2_x
+  md5: 47d583b961eaedfd6461499ae9f4a93d
+  md5_10: 47d583b961
+  md5_5: 47d58
+  md5_6: 47d583
+  oomp_key: oomp_arduino_nano_v2_x
+  oomp_key_extra: oomp_symbol_arduino_nano_v2_x
+  oomp_key_full: oomp_symbol_arduino_nano_v2_x_47d583
+  oomp_key_simple: arduino_nano_v2_x
   owner_name: kicad
-  symbol_name: mcu_module_arduino_nano_v2_x
+  symbol_name: arduino_nano_v2_x
 oomp_key: oomp_kicad_mcu_module_arduino_nano_v2_x
 oomp_key_simple: kicad_mcu_module_arduino_nano_v2_x
 owner: kicad

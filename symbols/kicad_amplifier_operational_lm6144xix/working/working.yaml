@@ -1,16 +1,20 @@
+id: kicad_amplifier_operational_lm6144xix
+library: amplifier_operational
 library_name: Amplifier_Operational
+name: lm6144xix
 oomp:
   library_name: amplifier_operational
-  md5: c5295e343bb0cd8dbb9ca0fb817ae887
-  md5_10: c5295e343b
-  md5_5: c5295
-  md5_6: c5295e
-  oomp_key: oomp_amplifier_operational_lm6144xix
-  oomp_key_extra: oomp_symbol_amplifier_operational_lm6144xix
-  oomp_key_full: oomp_symbol_amplifier_operational_lm6144xix_c5295e
-  oomp_key_simple: amplifier_operational_lm6144xix
+  md5: 477d570b676d9350f0834637711b16ee
+  md5_10: 477d570b67
+  md5_5: 477d5
+  md5_6: 477d57
+  oomp_key: oomp_lm6144xix
+  oomp_key_extra: oomp_symbol_lm6144xix
+  oomp_key_full: oomp_symbol_lm6144xix_477d57
+  oomp_key_simple: lm6144xix
   owner_name: kicad
-  symbol_name: amplifier_operational_lm6144xix
+  symbol_name: lm6144xix
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

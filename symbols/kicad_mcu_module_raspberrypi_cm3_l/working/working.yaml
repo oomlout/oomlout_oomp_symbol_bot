@@ -1,16 +1,20 @@
+id: kicad_mcu_module_raspberrypi_cm3_l
+library: mcu_module
 library_name: MCU_Module
+name: raspberrypi_cm3_l
 oomp:
   library_name: mcu_module
-  md5: c1653976590dde2c4d11826857454acd
-  md5_10: c165397659
-  md5_5: c1653
-  md5_6: c16539
-  oomp_key: oomp_mcu_module_raspberrypi_cm3_l
-  oomp_key_extra: oomp_symbol_mcu_module_raspberrypi_cm3_l
-  oomp_key_full: oomp_symbol_mcu_module_raspberrypi_cm3_l_c16539
-  oomp_key_simple: mcu_module_raspberrypi_cm3_l
+  md5: 22c15785e4dc272bd6ab8c5fa2718fd3
+  md5_10: 22c15785e4
+  md5_5: 22c15
+  md5_6: 22c157
+  oomp_key: oomp_raspberrypi_cm3_l
+  oomp_key_extra: oomp_symbol_raspberrypi_cm3_l
+  oomp_key_full: oomp_symbol_raspberrypi_cm3_l_22c157
+  oomp_key_simple: raspberrypi_cm3_l
   owner_name: kicad
-  symbol_name: mcu_module_raspberrypi_cm3_l
+  symbol_name: raspberrypi_cm3_l
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

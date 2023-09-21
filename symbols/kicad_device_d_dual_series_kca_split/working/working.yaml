@@ -1,3 +1,5 @@
+id: kicad_device_d_dual_series_kca_split
+library: device
 library_name: Device
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_d_dual_series_kca_split/working
   oomp_src_flat: symbols_flat/kicad_device_d_dual_series_kca_split/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_d_dual_series_kca_split/working
-name: device_d_dual_series_kca_split
+name: d_dual_series_kca_split
 oomp:
   library_name: device
-  md5: bd5965391e220d6e971550aebfdc2368
-  md5_10: bd5965391e
-  md5_5: bd596
-  md5_6: bd5965
-  oomp_key: oomp_device_d_dual_series_kca_split
-  oomp_key_extra: oomp_symbol_device_d_dual_series_kca_split
-  oomp_key_full: oomp_symbol_device_d_dual_series_kca_split_bd5965
-  oomp_key_simple: device_d_dual_series_kca_split
+  md5: 304b8bc6a0cb484bdb2a3437a193e796
+  md5_10: 304b8bc6a0
+  md5_5: 304b8
+  md5_6: 304b8b
+  oomp_key: oomp_d_dual_series_kca_split
+  oomp_key_extra: oomp_symbol_d_dual_series_kca_split
+  oomp_key_full: oomp_symbol_d_dual_series_kca_split_304b8b
+  oomp_key_simple: d_dual_series_kca_split
   owner_name: kicad
-  symbol_name: device_d_dual_series_kca_split
+  symbol_name: d_dual_series_kca_split
 oomp_key: oomp_kicad_device_d_dual_series_kca_split
 oomp_key_simple: kicad_device_d_dual_series_kca_split
 owner: kicad

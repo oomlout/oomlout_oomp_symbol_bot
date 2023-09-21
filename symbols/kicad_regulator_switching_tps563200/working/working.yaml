@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_tps563200
+library: regulator_switching
 library_name: Regulator_Switching
+name: tps563200
 oomp:
   library_name: regulator_switching
-  md5: 14c2ad21d67a1a6398909506e60026bf
-  md5_10: 14c2ad21d6
-  md5_5: 14c2a
-  md5_6: 14c2ad
-  oomp_key: oomp_regulator_switching_tps563200
-  oomp_key_extra: oomp_symbol_regulator_switching_tps563200
-  oomp_key_full: oomp_symbol_regulator_switching_tps563200_14c2ad
-  oomp_key_simple: regulator_switching_tps563200
+  md5: 99240da60faf64c68a2a5c354474285b
+  md5_10: 99240da60f
+  md5_5: '99240'
+  md5_6: 99240d
+  oomp_key: oomp_tps563200
+  oomp_key_extra: oomp_symbol_tps563200
+  oomp_key_full: oomp_symbol_tps563200_99240d
+  oomp_key_simple: tps563200
   owner_name: kicad
-  symbol_name: regulator_switching_tps563200
+  symbol_name: tps563200
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

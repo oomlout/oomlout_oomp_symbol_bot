@@ -1,16 +1,20 @@
+id: kicad_filter_1fp42_3r
+library: filter
 library_name: Filter
+name: 1fp42_3r
 oomp:
   library_name: filter
-  md5: 0a200a96667b2b58a51400481a7346e9
-  md5_10: 0a200a9666
-  md5_5: 0a200
-  md5_6: 0a200a
-  oomp_key: oomp_filter_1fp42_3r
-  oomp_key_extra: oomp_symbol_filter_1fp42_3r
-  oomp_key_full: oomp_symbol_filter_1fp42_3r_0a200a
-  oomp_key_simple: filter_1fp42_3r
+  md5: 87301eb021ae34ee61fa2223613e5e00
+  md5_10: 87301eb021
+  md5_5: '87301'
+  md5_6: 87301e
+  oomp_key: oomp_1fp42_3r
+  oomp_key_extra: oomp_symbol_1fp42_3r
+  oomp_key_full: oomp_symbol_1fp42_3r_87301e
+  oomp_key_simple: 1fp42_3r
   owner_name: kicad
-  symbol_name: filter_1fp42_3r
+  symbol_name: 1fp42_3r
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

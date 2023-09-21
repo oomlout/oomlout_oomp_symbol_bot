@@ -1,16 +1,20 @@
+id: kicad_converter_dcdc_ih4809s
+library: converter_dcdc
 library_name: Converter_DCDC
+name: ih4809s
 oomp:
   library_name: converter_dcdc
-  md5: cb9123629d1967d062fb92d6744cb92d
-  md5_10: cb9123629d
-  md5_5: cb912
-  md5_6: cb9123
-  oomp_key: oomp_converter_dcdc_ih4809s
-  oomp_key_extra: oomp_symbol_converter_dcdc_ih4809s
-  oomp_key_full: oomp_symbol_converter_dcdc_ih4809s_cb9123
-  oomp_key_simple: converter_dcdc_ih4809s
+  md5: b5f8fe93588a1220c9c1c71dfca13382
+  md5_10: b5f8fe9358
+  md5_5: b5f8f
+  md5_6: b5f8fe
+  oomp_key: oomp_ih4809s
+  oomp_key_extra: oomp_symbol_ih4809s
+  oomp_key_full: oomp_symbol_ih4809s_b5f8fe
+  oomp_key_simple: ih4809s
   owner_name: kicad
-  symbol_name: converter_dcdc_ih4809s
+  symbol_name: ih4809s
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

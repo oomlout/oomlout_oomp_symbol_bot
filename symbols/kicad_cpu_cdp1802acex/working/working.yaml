@@ -1,16 +1,20 @@
+id: kicad_cpu_cdp1802acex
+library: cpu
 library_name: CPU
+name: cdp1802acex
 oomp:
   library_name: cpu
-  md5: b9196687740ebf174511d45f93c4ffc3
-  md5_10: b919668774
-  md5_5: b9196
-  md5_6: b91966
-  oomp_key: oomp_cpu_cdp1802acex
-  oomp_key_extra: oomp_symbol_cpu_cdp1802acex
-  oomp_key_full: oomp_symbol_cpu_cdp1802acex_b91966
-  oomp_key_simple: cpu_cdp1802acex
+  md5: 3c8efaaef513a3db130b5edcdb4377bb
+  md5_10: 3c8efaaef5
+  md5_5: 3c8ef
+  md5_6: 3c8efa
+  oomp_key: oomp_cdp1802acex
+  oomp_key_extra: oomp_symbol_cdp1802acex
+  oomp_key_full: oomp_symbol_cdp1802acex_3c8efa
+  oomp_key_simple: cdp1802acex
   owner_name: kicad
-  symbol_name: cpu_cdp1802acex
+  symbol_name: cdp1802acex
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

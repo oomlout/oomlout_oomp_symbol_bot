@@ -1,3 +1,5 @@
+id: kicad_device_d_bridge_aa
+library: device
 library_name: Device
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_d_bridge_aa/working
   oomp_src_flat: symbols_flat/kicad_device_d_bridge_aa/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_d_bridge_aa/working
-name: device_d_bridge_aa
+name: d_bridge_aa
 oomp:
   library_name: device
-  md5: 74928ae8f05c22fc049129280d0d0422
-  md5_10: 74928ae8f0
-  md5_5: '74928'
-  md5_6: 74928a
-  oomp_key: oomp_device_d_bridge_aa
-  oomp_key_extra: oomp_symbol_device_d_bridge_aa
-  oomp_key_full: oomp_symbol_device_d_bridge_aa_74928a
-  oomp_key_simple: device_d_bridge_aa
+  md5: d1fc82efa509f0b491f49ecabf45793a
+  md5_10: d1fc82efa5
+  md5_5: d1fc8
+  md5_6: d1fc82
+  oomp_key: oomp_d_bridge_aa
+  oomp_key_extra: oomp_symbol_d_bridge_aa
+  oomp_key_full: oomp_symbol_d_bridge_aa_d1fc82
+  oomp_key_simple: d_bridge_aa
   owner_name: kicad
-  symbol_name: device_d_bridge_aa
+  symbol_name: d_bridge_aa
 oomp_key: oomp_kicad_device_d_bridge_aa
 oomp_key_simple: kicad_device_d_bridge_aa
 owner: kicad

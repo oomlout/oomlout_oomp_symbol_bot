@@ -1,3 +1,5 @@
+id: kicad_transistor_bjt_bc160
+library: transistor_bjt
 library_name: Transistor_BJT
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_transistor_bjt_bc160/working
   oomp_src_flat: symbols_flat/kicad_transistor_bjt_bc160/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_transistor_bjt_bc160/working
-name: transistor_bjt_bc160
+name: bc160
 oomp:
   library_name: transistor_bjt
-  md5: b47e7b275081b14dd0288ccd2d9beeb7
-  md5_10: b47e7b2750
-  md5_5: b47e7
-  md5_6: b47e7b
-  oomp_key: oomp_transistor_bjt_bc160
-  oomp_key_extra: oomp_symbol_transistor_bjt_bc160
-  oomp_key_full: oomp_symbol_transistor_bjt_bc160_b47e7b
-  oomp_key_simple: transistor_bjt_bc160
+  md5: 5a57740397cb615ef956f4480be8e5f8
+  md5_10: 5a57740397
+  md5_5: 5a577
+  md5_6: 5a5774
+  oomp_key: oomp_bc160
+  oomp_key_extra: oomp_symbol_bc160
+  oomp_key_full: oomp_symbol_bc160_5a5774
+  oomp_key_simple: bc160
   owner_name: kicad
-  symbol_name: transistor_bjt_bc160
+  symbol_name: bc160
 oomp_key: oomp_kicad_transistor_bjt_bc160
 oomp_key_simple: kicad_transistor_bjt_bc160
 owner: kicad

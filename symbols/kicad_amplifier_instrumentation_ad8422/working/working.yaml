@@ -1,16 +1,20 @@
+id: kicad_amplifier_instrumentation_ad8422
+library: amplifier_instrumentation
 library_name: Amplifier_Instrumentation
+name: ad8422
 oomp:
   library_name: amplifier_instrumentation
-  md5: b5963d3efc66380c86d8faf00d4b94e2
-  md5_10: b5963d3efc
-  md5_5: b5963
-  md5_6: b5963d
-  oomp_key: oomp_amplifier_instrumentation_ad8422
-  oomp_key_extra: oomp_symbol_amplifier_instrumentation_ad8422
-  oomp_key_full: oomp_symbol_amplifier_instrumentation_ad8422_b5963d
-  oomp_key_simple: amplifier_instrumentation_ad8422
+  md5: 30edc580057395cf99ec865f8dbff74d
+  md5_10: 30edc58005
+  md5_5: 30edc
+  md5_6: 30edc5
+  oomp_key: oomp_ad8422
+  oomp_key_extra: oomp_symbol_ad8422
+  oomp_key_full: oomp_symbol_ad8422_30edc5
+  oomp_key_simple: ad8422
   owner_name: kicad
-  symbol_name: amplifier_instrumentation_ad8422
+  symbol_name: ad8422
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

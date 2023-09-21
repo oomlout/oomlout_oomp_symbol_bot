@@ -1,16 +1,20 @@
+id: kicad_filter_saffa942mfm0f0a
+library: filter
 library_name: Filter
+name: saffa942mfm0f0a
 oomp:
   library_name: filter
-  md5: bce643b8b4295595d509cbe2d400a920
-  md5_10: bce643b8b4
-  md5_5: bce64
-  md5_6: bce643
-  oomp_key: oomp_filter_saffa942mfm0f0a
-  oomp_key_extra: oomp_symbol_filter_saffa942mfm0f0a
-  oomp_key_full: oomp_symbol_filter_saffa942mfm0f0a_bce643
-  oomp_key_simple: filter_saffa942mfm0f0a
+  md5: 60ec367430baadf716f0654443afa92d
+  md5_10: 60ec367430
+  md5_5: 60ec3
+  md5_6: 60ec36
+  oomp_key: oomp_saffa942mfm0f0a
+  oomp_key_extra: oomp_symbol_saffa942mfm0f0a
+  oomp_key_full: oomp_symbol_saffa942mfm0f0a_60ec36
+  oomp_key_simple: saffa942mfm0f0a
   owner_name: kicad
-  symbol_name: filter_saffa942mfm0f0a
+  symbol_name: saffa942mfm0f0a
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

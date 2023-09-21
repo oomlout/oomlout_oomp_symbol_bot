@@ -1,16 +1,20 @@
+id: kicad_diode_pmeg4005ej
+library: diode
 library_name: Diode
+name: pmeg4005ej
 oomp:
   library_name: diode
-  md5: 778c765a08f3ce342330cdd65a57fd81
-  md5_10: 778c765a08
-  md5_5: 778c7
-  md5_6: 778c76
-  oomp_key: oomp_diode_pmeg4005ej
-  oomp_key_extra: oomp_symbol_diode_pmeg4005ej
-  oomp_key_full: oomp_symbol_diode_pmeg4005ej_778c76
-  oomp_key_simple: diode_pmeg4005ej
+  md5: 30605994fc6ed546627637ca251c31fa
+  md5_10: 30605994fc
+  md5_5: '30605'
+  md5_6: '306059'
+  oomp_key: oomp_pmeg4005ej
+  oomp_key_extra: oomp_symbol_pmeg4005ej
+  oomp_key_full: oomp_symbol_pmeg4005ej_306059
+  oomp_key_simple: pmeg4005ej
   owner_name: kicad
-  symbol_name: diode_pmeg4005ej
+  symbol_name: pmeg4005ej
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

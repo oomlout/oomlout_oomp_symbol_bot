@@ -1,3 +1,5 @@
+id: kicad_mcu_module_carambola2
+library: mcu_module
 library_name: MCU_Module
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_module_carambola2/working
   oomp_src_flat: symbols_flat/kicad_mcu_module_carambola2/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_module_carambola2/working
-name: mcu_module_carambola2
+name: carambola2
 oomp:
   library_name: mcu_module
-  md5: 79d28599bf8653b3ecbb869edbabfb03
-  md5_10: 79d28599bf
-  md5_5: 79d28
-  md5_6: 79d285
-  oomp_key: oomp_mcu_module_carambola2
-  oomp_key_extra: oomp_symbol_mcu_module_carambola2
-  oomp_key_full: oomp_symbol_mcu_module_carambola2_79d285
-  oomp_key_simple: mcu_module_carambola2
+  md5: 3c386e648761595dd77f228c07472f0c
+  md5_10: 3c386e6487
+  md5_5: 3c386
+  md5_6: 3c386e
+  oomp_key: oomp_carambola2
+  oomp_key_extra: oomp_symbol_carambola2
+  oomp_key_full: oomp_symbol_carambola2_3c386e
+  oomp_key_simple: carambola2
   owner_name: kicad
-  symbol_name: mcu_module_carambola2
+  symbol_name: carambola2
 oomp_key: oomp_kicad_mcu_module_carambola2
 oomp_key_simple: kicad_mcu_module_carambola2
 owner: kicad

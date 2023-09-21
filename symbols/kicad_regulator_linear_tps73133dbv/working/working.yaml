@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_tps73133dbv
+library: regulator_linear
 library_name: Regulator_Linear
+name: tps73133dbv
 oomp:
   library_name: regulator_linear
-  md5: 4ff6af9e77fd8cd07566f39d6ae9cd54
-  md5_10: 4ff6af9e77
-  md5_5: 4ff6a
-  md5_6: 4ff6af
-  oomp_key: oomp_regulator_linear_tps73133dbv
-  oomp_key_extra: oomp_symbol_regulator_linear_tps73133dbv
-  oomp_key_full: oomp_symbol_regulator_linear_tps73133dbv_4ff6af
-  oomp_key_simple: regulator_linear_tps73133dbv
+  md5: 43d2043232f7555ffe4f2890f576ea69
+  md5_10: 43d2043232
+  md5_5: 43d20
+  md5_6: 43d204
+  oomp_key: oomp_tps73133dbv
+  oomp_key_extra: oomp_symbol_tps73133dbv
+  oomp_key_full: oomp_symbol_tps73133dbv_43d204
+  oomp_key_simple: tps73133dbv
   owner_name: kicad
-  symbol_name: regulator_linear_tps73133dbv
+  symbol_name: tps73133dbv
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

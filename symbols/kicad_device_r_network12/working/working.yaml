@@ -1,3 +1,5 @@
+id: kicad_device_r_network12
+library: device
 library_name: Device
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_r_network12/working
   oomp_src_flat: symbols_flat/kicad_device_r_network12/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_r_network12/working
-name: device_r_network12
+name: r_network12
 oomp:
   library_name: device
-  md5: 62d0170d339f5f2559868f16d320a645
-  md5_10: 62d0170d33
-  md5_5: 62d01
-  md5_6: 62d017
-  oomp_key: oomp_device_r_network12
-  oomp_key_extra: oomp_symbol_device_r_network12
-  oomp_key_full: oomp_symbol_device_r_network12_62d017
-  oomp_key_simple: device_r_network12
+  md5: 285411cfba5f7f9c1d2eb23f85af7b82
+  md5_10: 285411cfba
+  md5_5: '28541'
+  md5_6: '285411'
+  oomp_key: oomp_r_network12
+  oomp_key_extra: oomp_symbol_r_network12
+  oomp_key_full: oomp_symbol_r_network12_285411
+  oomp_key_simple: r_network12
   owner_name: kicad
-  symbol_name: device_r_network12
+  symbol_name: r_network12
 oomp_key: oomp_kicad_device_r_network12
 oomp_key_simple: kicad_device_r_network12
 owner: kicad

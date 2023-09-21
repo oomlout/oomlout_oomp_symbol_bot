@@ -1,3 +1,5 @@
+id: kicad_amplifier_operational_lm741
+library: amplifier_operational
 library_name: Amplifier_Operational
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_operational_lm741/working
   oomp_src_flat: symbols_flat/kicad_amplifier_operational_lm741/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_operational_lm741/working
-name: amplifier_operational_lm741
+name: lm741
 oomp:
   library_name: amplifier_operational
-  md5: 29404e19f8f0db9de9bbf46e20b59815
-  md5_10: 29404e19f8
-  md5_5: '29404'
-  md5_6: 29404e
-  oomp_key: oomp_amplifier_operational_lm741
-  oomp_key_extra: oomp_symbol_amplifier_operational_lm741
-  oomp_key_full: oomp_symbol_amplifier_operational_lm741_29404e
-  oomp_key_simple: amplifier_operational_lm741
+  md5: ee8191f01d577a838b1680efe92403fc
+  md5_10: ee8191f01d
+  md5_5: ee819
+  md5_6: ee8191
+  oomp_key: oomp_lm741
+  oomp_key_extra: oomp_symbol_lm741
+  oomp_key_full: oomp_symbol_lm741_ee8191
+  oomp_key_simple: lm741
   owner_name: kicad
-  symbol_name: amplifier_operational_lm741
+  symbol_name: lm741
 oomp_key: oomp_kicad_amplifier_operational_lm741
 oomp_key_simple: kicad_amplifier_operational_lm741
 owner: kicad

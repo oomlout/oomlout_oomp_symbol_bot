@@ -15,7 +15,7 @@
     (property "ki_keywords" "R res resistor" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "ki_description" "Resistor" (at 0 0 0)
+    (property "ki_description" "[electronic_resistor_0805_47000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_47000_ohm/working)<br><br>[Uniroyal - 0805W8J0473T5E- not in jlc basic parts]()[Uniroyal - 0805W8F4702T5E- jlc basic part]()[Yageo - RC0805JR-0747KL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0805JR-0747KL)" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "ki_fp_filters" "R_*" (at 0 0 0)

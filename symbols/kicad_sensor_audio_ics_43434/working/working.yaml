@@ -1,3 +1,5 @@
+id: kicad_sensor_audio_ics_43434
+library: sensor_audio
 library_name: Sensor_Audio
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_audio_ics_43434/working
   oomp_src_flat: symbols_flat/kicad_sensor_audio_ics_43434/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_audio_ics_43434/working
-name: sensor_audio_ics_43434
+name: ics_43434
 oomp:
   library_name: sensor_audio
-  md5: 5264e3268773c59a37d2bc2bc868386d
-  md5_10: 5264e32687
-  md5_5: 5264e
-  md5_6: 5264e3
-  oomp_key: oomp_sensor_audio_ics_43434
-  oomp_key_extra: oomp_symbol_sensor_audio_ics_43434
-  oomp_key_full: oomp_symbol_sensor_audio_ics_43434_5264e3
-  oomp_key_simple: sensor_audio_ics_43434
+  md5: d97a03624e093a9bc3fc88b12eae0085
+  md5_10: d97a03624e
+  md5_5: d97a0
+  md5_6: d97a03
+  oomp_key: oomp_ics_43434
+  oomp_key_extra: oomp_symbol_ics_43434
+  oomp_key_full: oomp_symbol_ics_43434_d97a03
+  oomp_key_simple: ics_43434
   owner_name: kicad
-  symbol_name: sensor_audio_ics_43434
+  symbol_name: ics_43434
 oomp_key: oomp_kicad_sensor_audio_ics_43434
 oomp_key_simple: kicad_sensor_audio_ics_43434
 owner: kicad

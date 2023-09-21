@@ -1,3 +1,5 @@
+id: kicad_interface_8255
+library: interface
 library_name: Interface
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_8255/working
   oomp_src_flat: symbols_flat/kicad_interface_8255/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_8255/working
-name: interface_8255
+name: '8255'
 oomp:
   library_name: interface
-  md5: 107effeb3cbbabcda248e4b85f958f9d
-  md5_10: 107effeb3c
-  md5_5: 107ef
-  md5_6: 107eff
-  oomp_key: oomp_interface_8255
-  oomp_key_extra: oomp_symbol_interface_8255
-  oomp_key_full: oomp_symbol_interface_8255_107eff
-  oomp_key_simple: interface_8255
+  md5: 7cb1f2f2baf6ab2ae929ad8cb88d6210
+  md5_10: 7cb1f2f2ba
+  md5_5: 7cb1f
+  md5_6: 7cb1f2
+  oomp_key: oomp_8255
+  oomp_key_extra: oomp_symbol_8255
+  oomp_key_full: oomp_symbol_8255_7cb1f2
+  oomp_key_simple: '8255'
   owner_name: kicad
-  symbol_name: interface_8255
+  symbol_name: '8255'
 oomp_key: oomp_kicad_interface_8255
 oomp_key_simple: kicad_interface_8255
 owner: kicad

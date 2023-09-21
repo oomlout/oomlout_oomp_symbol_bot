@@ -1,16 +1,20 @@
+id: kicad_transistor_fet_irf7580m
+library: transistor_fet
 library_name: Transistor_FET
+name: irf7580m
 oomp:
   library_name: transistor_fet
-  md5: baaa0c70bf1c52b182ee3691d15044f4
-  md5_10: baaa0c70bf
-  md5_5: baaa0
-  md5_6: baaa0c
-  oomp_key: oomp_transistor_fet_irf7580m
-  oomp_key_extra: oomp_symbol_transistor_fet_irf7580m
-  oomp_key_full: oomp_symbol_transistor_fet_irf7580m_baaa0c
-  oomp_key_simple: transistor_fet_irf7580m
+  md5: 604ea08c447c0b31290b435752a26ac5
+  md5_10: 604ea08c44
+  md5_5: 604ea
+  md5_6: 604ea0
+  oomp_key: oomp_irf7580m
+  oomp_key_extra: oomp_symbol_irf7580m
+  oomp_key_full: oomp_symbol_irf7580m_604ea0
+  oomp_key_simple: irf7580m
   owner_name: kicad
-  symbol_name: transistor_fet_irf7580m
+  symbol_name: irf7580m
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

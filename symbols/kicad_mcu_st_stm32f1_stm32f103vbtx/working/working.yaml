@@ -1,16 +1,20 @@
+id: kicad_mcu_st_stm32f1_stm32f103vbtx
+library: mcu_st_stm32f1
 library_name: MCU_ST_STM32F1
+name: stm32f103vbtx
 oomp:
   library_name: mcu_st_stm32f1
-  md5: 98ee488c4ce500803726475b091cc6c5
-  md5_10: 98ee488c4c
-  md5_5: 98ee4
-  md5_6: 98ee48
-  oomp_key: oomp_mcu_st_stm32f1_stm32f103vbtx
-  oomp_key_extra: oomp_symbol_mcu_st_stm32f1_stm32f103vbtx
-  oomp_key_full: oomp_symbol_mcu_st_stm32f1_stm32f103vbtx_98ee48
-  oomp_key_simple: mcu_st_stm32f1_stm32f103vbtx
+  md5: 70714765fe6ff2eb72404f495172dbde
+  md5_10: 70714765fe
+  md5_5: '70714'
+  md5_6: '707147'
+  oomp_key: oomp_stm32f103vbtx
+  oomp_key_extra: oomp_symbol_stm32f103vbtx
+  oomp_key_full: oomp_symbol_stm32f103vbtx_707147
+  oomp_key_simple: stm32f103vbtx
   owner_name: kicad
-  symbol_name: mcu_st_stm32f1_stm32f103vbtx
+  symbol_name: stm32f103vbtx
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

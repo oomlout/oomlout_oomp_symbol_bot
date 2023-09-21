@@ -1,16 +1,20 @@
+id: kicad_triac_thyristor_x0202nn
+library: triac_thyristor
 library_name: Triac_Thyristor
+name: x0202nn
 oomp:
   library_name: triac_thyristor
-  md5: d956885b1e222a736860c2a2e5a4eb96
-  md5_10: d956885b1e
-  md5_5: d9568
-  md5_6: d95688
-  oomp_key: oomp_triac_thyristor_x0202nn
-  oomp_key_extra: oomp_symbol_triac_thyristor_x0202nn
-  oomp_key_full: oomp_symbol_triac_thyristor_x0202nn_d95688
-  oomp_key_simple: triac_thyristor_x0202nn
+  md5: bfb636bc10b6f025b4aded8b4c8bd544
+  md5_10: bfb636bc10
+  md5_5: bfb63
+  md5_6: bfb636
+  oomp_key: oomp_x0202nn
+  oomp_key_extra: oomp_symbol_x0202nn
+  oomp_key_full: oomp_symbol_x0202nn_bfb636
+  oomp_key_simple: x0202nn
   owner_name: kicad
-  symbol_name: triac_thyristor_x0202nn
+  symbol_name: x0202nn
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

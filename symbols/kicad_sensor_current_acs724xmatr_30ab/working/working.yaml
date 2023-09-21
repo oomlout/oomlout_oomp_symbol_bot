@@ -1,16 +1,20 @@
+id: kicad_sensor_current_acs724xmatr_30ab
+library: sensor_current
 library_name: Sensor_Current
+name: acs724xmatr_30ab
 oomp:
   library_name: sensor_current
-  md5: cf9488a5eb4db29eeb2291645e653733
-  md5_10: cf9488a5eb
-  md5_5: cf948
-  md5_6: cf9488
-  oomp_key: oomp_sensor_current_acs724xmatr_30ab
-  oomp_key_extra: oomp_symbol_sensor_current_acs724xmatr_30ab
-  oomp_key_full: oomp_symbol_sensor_current_acs724xmatr_30ab_cf9488
-  oomp_key_simple: sensor_current_acs724xmatr_30ab
+  md5: 2027e3ff85dc651ded3afb3246bd032d
+  md5_10: 2027e3ff85
+  md5_5: 2027e
+  md5_6: 2027e3
+  oomp_key: oomp_acs724xmatr_30ab
+  oomp_key_extra: oomp_symbol_acs724xmatr_30ab
+  oomp_key_full: oomp_symbol_acs724xmatr_30ab_2027e3
+  oomp_key_simple: acs724xmatr_30ab
   owner_name: kicad
-  symbol_name: sensor_current_acs724xmatr_30ab
+  symbol_name: acs724xmatr_30ab
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

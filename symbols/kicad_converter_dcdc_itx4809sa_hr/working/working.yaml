@@ -1,16 +1,20 @@
+id: kicad_converter_dcdc_itx4809sa_hr
+library: converter_dcdc
 library_name: Converter_DCDC
+name: itx4809sa_hr
 oomp:
   library_name: converter_dcdc
-  md5: 317dbecb3234fc08229a24997adead07
-  md5_10: 317dbecb32
-  md5_5: 317db
-  md5_6: 317dbe
-  oomp_key: oomp_converter_dcdc_itx4809sa_hr
-  oomp_key_extra: oomp_symbol_converter_dcdc_itx4809sa_hr
-  oomp_key_full: oomp_symbol_converter_dcdc_itx4809sa_hr_317dbe
-  oomp_key_simple: converter_dcdc_itx4809sa_hr
+  md5: 2a52e5e9dd46270d18eada91dfd0f94a
+  md5_10: 2a52e5e9dd
+  md5_5: 2a52e
+  md5_6: 2a52e5
+  oomp_key: oomp_itx4809sa_hr
+  oomp_key_extra: oomp_symbol_itx4809sa_hr
+  oomp_key_full: oomp_symbol_itx4809sa_hr_2a52e5
+  oomp_key_simple: itx4809sa_hr
   owner_name: kicad
-  symbol_name: converter_dcdc_itx4809sa_hr
+  symbol_name: itx4809sa_hr
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

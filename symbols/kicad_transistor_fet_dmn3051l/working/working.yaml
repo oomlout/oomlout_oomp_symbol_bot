@@ -1,16 +1,20 @@
+id: kicad_transistor_fet_dmn3051l
+library: transistor_fet
 library_name: Transistor_FET
+name: dmn3051l
 oomp:
   library_name: transistor_fet
-  md5: 32a1a659edba5487f3b89399f59ab27c
-  md5_10: 32a1a659ed
-  md5_5: 32a1a
-  md5_6: 32a1a6
-  oomp_key: oomp_transistor_fet_dmn3051l
-  oomp_key_extra: oomp_symbol_transistor_fet_dmn3051l
-  oomp_key_full: oomp_symbol_transistor_fet_dmn3051l_32a1a6
-  oomp_key_simple: transistor_fet_dmn3051l
+  md5: bd740cc819e3bd6195650dd864abb32f
+  md5_10: bd740cc819
+  md5_5: bd740
+  md5_6: bd740c
+  oomp_key: oomp_dmn3051l
+  oomp_key_extra: oomp_symbol_dmn3051l
+  oomp_key_full: oomp_symbol_dmn3051l_bd740c
+  oomp_key_simple: dmn3051l
   owner_name: kicad
-  symbol_name: transistor_fet_dmn3051l
+  symbol_name: dmn3051l
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

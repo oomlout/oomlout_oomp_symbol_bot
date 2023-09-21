@@ -1,3 +1,5 @@
+id: kicad_interface_ad9851
+library: interface
 library_name: Interface
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_ad9851/working
   oomp_src_flat: symbols_flat/kicad_interface_ad9851/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_ad9851/working
-name: interface_ad9851
+name: ad9851
 oomp:
   library_name: interface
-  md5: 390369c0ab1c119a676dbffb21dc80db
-  md5_10: 390369c0ab
-  md5_5: '39036'
-  md5_6: '390369'
-  oomp_key: oomp_interface_ad9851
-  oomp_key_extra: oomp_symbol_interface_ad9851
-  oomp_key_full: oomp_symbol_interface_ad9851_390369
-  oomp_key_simple: interface_ad9851
+  md5: 8485969dc0b9943d78055afc728f2d1e
+  md5_10: 8485969dc0
+  md5_5: '84859'
+  md5_6: '848596'
+  oomp_key: oomp_ad9851
+  oomp_key_extra: oomp_symbol_ad9851
+  oomp_key_full: oomp_symbol_ad9851_848596
+  oomp_key_simple: ad9851
   owner_name: kicad
-  symbol_name: interface_ad9851
+  symbol_name: ad9851
 oomp_key: oomp_kicad_interface_ad9851
 oomp_key_simple: kicad_interface_ad9851
 owner: kicad

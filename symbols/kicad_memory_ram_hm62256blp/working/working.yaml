@@ -1,16 +1,20 @@
+id: kicad_memory_ram_hm62256blp
+library: memory_ram
 library_name: Memory_RAM
+name: hm62256blp
 oomp:
   library_name: memory_ram
-  md5: ca36b0551dc426b63cd26b33384a8a77
-  md5_10: ca36b0551d
-  md5_5: ca36b
-  md5_6: ca36b0
-  oomp_key: oomp_memory_ram_hm62256blp
-  oomp_key_extra: oomp_symbol_memory_ram_hm62256blp
-  oomp_key_full: oomp_symbol_memory_ram_hm62256blp_ca36b0
-  oomp_key_simple: memory_ram_hm62256blp
+  md5: 0d692b4a1aefe6349b88a78275dbb0f8
+  md5_10: 0d692b4a1a
+  md5_5: 0d692
+  md5_6: 0d692b
+  oomp_key: oomp_hm62256blp
+  oomp_key_extra: oomp_symbol_hm62256blp
+  oomp_key_full: oomp_symbol_hm62256blp_0d692b
+  oomp_key_simple: hm62256blp
   owner_name: kicad
-  symbol_name: memory_ram_hm62256blp
+  symbol_name: hm62256blp
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

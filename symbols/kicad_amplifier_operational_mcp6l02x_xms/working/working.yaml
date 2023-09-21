@@ -1,16 +1,20 @@
+id: kicad_amplifier_operational_mcp6l02x_xms
+library: amplifier_operational
 library_name: Amplifier_Operational
+name: mcp6l02x_xms
 oomp:
   library_name: amplifier_operational
-  md5: 393b9ee91f798033296d8bfa3e0292cd
-  md5_10: 393b9ee91f
-  md5_5: 393b9
-  md5_6: 393b9e
-  oomp_key: oomp_amplifier_operational_mcp6l02x_xms
-  oomp_key_extra: oomp_symbol_amplifier_operational_mcp6l02x_xms
-  oomp_key_full: oomp_symbol_amplifier_operational_mcp6l02x_xms_393b9e
-  oomp_key_simple: amplifier_operational_mcp6l02x_xms
+  md5: 27094ae93e5bda05ff14deb0630473ac
+  md5_10: 27094ae93e
+  md5_5: '27094'
+  md5_6: 27094a
+  oomp_key: oomp_mcp6l02x_xms
+  oomp_key_extra: oomp_symbol_mcp6l02x_xms
+  oomp_key_full: oomp_symbol_mcp6l02x_xms_27094a
+  oomp_key_simple: mcp6l02x_xms
   owner_name: kicad
-  symbol_name: amplifier_operational_mcp6l02x_xms
+  symbol_name: mcp6l02x_xms
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

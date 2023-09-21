@@ -1,16 +1,20 @@
+id: kicad_converter_dcdc_ia2409s
+library: converter_dcdc
 library_name: Converter_DCDC
+name: ia2409s
 oomp:
   library_name: converter_dcdc
-  md5: f7913d43f89be350ca2361829e4f9625
-  md5_10: f7913d43f8
-  md5_5: f7913
-  md5_6: f7913d
-  oomp_key: oomp_converter_dcdc_ia2409s
-  oomp_key_extra: oomp_symbol_converter_dcdc_ia2409s
-  oomp_key_full: oomp_symbol_converter_dcdc_ia2409s_f7913d
-  oomp_key_simple: converter_dcdc_ia2409s
+  md5: 8c56aea459f2e24f5c0d32a5bc6c418a
+  md5_10: 8c56aea459
+  md5_5: 8c56a
+  md5_6: 8c56ae
+  oomp_key: oomp_ia2409s
+  oomp_key_extra: oomp_symbol_ia2409s
+  oomp_key_full: oomp_symbol_ia2409s_8c56ae
+  oomp_key_simple: ia2409s
   owner_name: kicad
-  symbol_name: converter_dcdc_ia2409s
+  symbol_name: ia2409s
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

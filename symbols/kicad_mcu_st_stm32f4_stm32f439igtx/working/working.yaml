@@ -1,16 +1,20 @@
+id: kicad_mcu_st_stm32f4_stm32f439igtx
+library: mcu_st_stm32f4
 library_name: MCU_ST_STM32F4
+name: stm32f439igtx
 oomp:
   library_name: mcu_st_stm32f4
-  md5: e8889a2339cb38c9929b72ee2730fed7
-  md5_10: e8889a2339
-  md5_5: e8889
-  md5_6: e8889a
-  oomp_key: oomp_mcu_st_stm32f4_stm32f439igtx
-  oomp_key_extra: oomp_symbol_mcu_st_stm32f4_stm32f439igtx
-  oomp_key_full: oomp_symbol_mcu_st_stm32f4_stm32f439igtx_e8889a
-  oomp_key_simple: mcu_st_stm32f4_stm32f439igtx
+  md5: bf60e4ff4fac6db10fe7d4fffa39aac7
+  md5_10: bf60e4ff4f
+  md5_5: bf60e
+  md5_6: bf60e4
+  oomp_key: oomp_stm32f439igtx
+  oomp_key_extra: oomp_symbol_stm32f439igtx
+  oomp_key_full: oomp_symbol_stm32f439igtx_bf60e4
+  oomp_key_simple: stm32f439igtx
   owner_name: kicad
-  symbol_name: mcu_st_stm32f4_stm32f439igtx
+  symbol_name: stm32f439igtx
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

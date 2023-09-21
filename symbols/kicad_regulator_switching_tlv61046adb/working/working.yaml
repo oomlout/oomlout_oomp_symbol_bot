@@ -1,3 +1,5 @@
+id: kicad_regulator_switching_tlv61046adb
+library: regulator_switching
 library_name: Regulator_Switching
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_tlv61046adb/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_tlv61046adb/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_tlv61046adb/working
-name: regulator_switching_tlv61046adb
+name: tlv61046adb
 oomp:
   library_name: regulator_switching
-  md5: b8ab163b21168c5afef5f636e83336f9
-  md5_10: b8ab163b21
-  md5_5: b8ab1
-  md5_6: b8ab16
-  oomp_key: oomp_regulator_switching_tlv61046adb
-  oomp_key_extra: oomp_symbol_regulator_switching_tlv61046adb
-  oomp_key_full: oomp_symbol_regulator_switching_tlv61046adb_b8ab16
-  oomp_key_simple: regulator_switching_tlv61046adb
+  md5: 2cabb153fb06138e84785e68ff59419f
+  md5_10: 2cabb153fb
+  md5_5: 2cabb
+  md5_6: 2cabb1
+  oomp_key: oomp_tlv61046adb
+  oomp_key_extra: oomp_symbol_tlv61046adb
+  oomp_key_full: oomp_symbol_tlv61046adb_2cabb1
+  oomp_key_simple: tlv61046adb
   owner_name: kicad
-  symbol_name: regulator_switching_tlv61046adb
+  symbol_name: tlv61046adb
 oomp_key: oomp_kicad_regulator_switching_tlv61046adb
 oomp_key_simple: kicad_regulator_switching_tlv61046adb
 owner: kicad

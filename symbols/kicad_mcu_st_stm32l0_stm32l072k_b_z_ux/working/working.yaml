@@ -1,3 +1,5 @@
+id: kicad_mcu_st_stm32l0_stm32l072k_b_z_ux
+library: mcu_st_stm32l0
 library_name: MCU_ST_STM32L0
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_st_stm32l0_stm32l072k_b_z_ux/working
   oomp_src_flat: symbols_flat/kicad_mcu_st_stm32l0_stm32l072k_b_z_ux/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_st_stm32l0_stm32l072k_b_z_ux/working
-name: mcu_st_stm32l0_stm32l072k_b_z_ux
+name: stm32l072k_b_z_ux
 oomp:
   library_name: mcu_st_stm32l0
-  md5: c20484c1e698a5a22ef820fad9d0899f
-  md5_10: c20484c1e6
-  md5_5: c2048
-  md5_6: c20484
-  oomp_key: oomp_mcu_st_stm32l0_stm32l072k_b_z_ux
-  oomp_key_extra: oomp_symbol_mcu_st_stm32l0_stm32l072k_b_z_ux
-  oomp_key_full: oomp_symbol_mcu_st_stm32l0_stm32l072k_b_z_ux_c20484
-  oomp_key_simple: mcu_st_stm32l0_stm32l072k_b_z_ux
+  md5: fef7deae1e6596d3f34fbc71568e6b6a
+  md5_10: fef7deae1e
+  md5_5: fef7d
+  md5_6: fef7de
+  oomp_key: oomp_stm32l072k_b_z_ux
+  oomp_key_extra: oomp_symbol_stm32l072k_b_z_ux
+  oomp_key_full: oomp_symbol_stm32l072k_b_z_ux_fef7de
+  oomp_key_simple: stm32l072k_b_z_ux
   owner_name: kicad
-  symbol_name: mcu_st_stm32l0_stm32l072k_b_z_ux
+  symbol_name: stm32l072k_b_z_ux
 oomp_key: oomp_kicad_mcu_st_stm32l0_stm32l072k_b_z_ux
 oomp_key_simple: kicad_mcu_st_stm32l0_stm32l072k_b_z_ux
 owner: kicad

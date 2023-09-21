@@ -1,16 +1,20 @@
+id: kicad_amplifier_operational_opa4196xpw
+library: amplifier_operational
 library_name: Amplifier_Operational
+name: opa4196xpw
 oomp:
   library_name: amplifier_operational
-  md5: 658c62f1546bca26237fd94648c74b4c
-  md5_10: 658c62f154
-  md5_5: 658c6
-  md5_6: 658c62
-  oomp_key: oomp_amplifier_operational_opa4196xpw
-  oomp_key_extra: oomp_symbol_amplifier_operational_opa4196xpw
-  oomp_key_full: oomp_symbol_amplifier_operational_opa4196xpw_658c62
-  oomp_key_simple: amplifier_operational_opa4196xpw
+  md5: 042132a46531a0b84f3cf7dbe5e60dd9
+  md5_10: 042132a465
+  md5_5: '04213'
+  md5_6: '042132'
+  oomp_key: oomp_opa4196xpw
+  oomp_key_extra: oomp_symbol_opa4196xpw
+  oomp_key_full: oomp_symbol_opa4196xpw_042132
+  oomp_key_simple: opa4196xpw
   owner_name: kicad
-  symbol_name: amplifier_operational_opa4196xpw
+  symbol_name: opa4196xpw
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

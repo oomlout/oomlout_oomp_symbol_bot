@@ -1,3 +1,5 @@
+id: kicad_rf_module_im880a
+library: rf_module
 library_name: RF_Module
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_rf_module_im880a/working
   oomp_src_flat: symbols_flat/kicad_rf_module_im880a/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_rf_module_im880a/working
-name: rf_module_im880a
+name: im880a
 oomp:
   library_name: rf_module
-  md5: 69f89f7fd3c8f63e72984ba62e46c98d
-  md5_10: 69f89f7fd3
-  md5_5: 69f89
-  md5_6: 69f89f
-  oomp_key: oomp_rf_module_im880a
-  oomp_key_extra: oomp_symbol_rf_module_im880a
-  oomp_key_full: oomp_symbol_rf_module_im880a_69f89f
-  oomp_key_simple: rf_module_im880a
+  md5: cae8c5ed2457e0ab8683b0030358ebdf
+  md5_10: cae8c5ed24
+  md5_5: cae8c
+  md5_6: cae8c5
+  oomp_key: oomp_im880a
+  oomp_key_extra: oomp_symbol_im880a
+  oomp_key_full: oomp_symbol_im880a_cae8c5
+  oomp_key_simple: im880a
   owner_name: kicad
-  symbol_name: rf_module_im880a
+  symbol_name: im880a
 oomp_key: oomp_kicad_rf_module_im880a
 oomp_key_simple: kicad_rf_module_im880a
 owner: kicad

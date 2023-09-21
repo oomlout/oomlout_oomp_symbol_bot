@@ -1,3 +1,5 @@
+id: kicad_regulator_switchedcapacitor_lm2776
+library: regulator_switchedcapacitor
 library_name: Regulator_SwitchedCapacitor
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switchedcapacitor_lm2776/working
   oomp_src_flat: symbols_flat/kicad_regulator_switchedcapacitor_lm2776/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switchedcapacitor_lm2776/working
-name: regulator_switchedcapacitor_lm2776
+name: lm2776
 oomp:
   library_name: regulator_switchedcapacitor
-  md5: 08cc23d14e3a31e4b7084b14e88e598e
-  md5_10: 08cc23d14e
-  md5_5: 08cc2
-  md5_6: 08cc23
-  oomp_key: oomp_regulator_switchedcapacitor_lm2776
-  oomp_key_extra: oomp_symbol_regulator_switchedcapacitor_lm2776
-  oomp_key_full: oomp_symbol_regulator_switchedcapacitor_lm2776_08cc23
-  oomp_key_simple: regulator_switchedcapacitor_lm2776
+  md5: f6eb95a53295a3ef4e66f4ba1d5d817c
+  md5_10: f6eb95a532
+  md5_5: f6eb9
+  md5_6: f6eb95
+  oomp_key: oomp_lm2776
+  oomp_key_extra: oomp_symbol_lm2776
+  oomp_key_full: oomp_symbol_lm2776_f6eb95
+  oomp_key_simple: lm2776
   owner_name: kicad
-  symbol_name: regulator_switchedcapacitor_lm2776
+  symbol_name: lm2776
 oomp_key: oomp_kicad_regulator_switchedcapacitor_lm2776
 oomp_key_simple: kicad_regulator_switchedcapacitor_lm2776
 owner: kicad

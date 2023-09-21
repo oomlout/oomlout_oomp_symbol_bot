@@ -1,3 +1,5 @@
+id: kicad_connector_uext_host
+library: connector
 library_name: Connector
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_uext_host/working
   oomp_src_flat: symbols_flat/kicad_connector_uext_host/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_uext_host/working
-name: connector_uext_host
+name: uext_host
 oomp:
   library_name: connector
-  md5: c8e6f5aaecaa0356f15cf65e27fa982e
-  md5_10: c8e6f5aaec
-  md5_5: c8e6f
-  md5_6: c8e6f5
-  oomp_key: oomp_connector_uext_host
-  oomp_key_extra: oomp_symbol_connector_uext_host
-  oomp_key_full: oomp_symbol_connector_uext_host_c8e6f5
-  oomp_key_simple: connector_uext_host
+  md5: 042be46bad678e5ae1da90a73440024d
+  md5_10: 042be46bad
+  md5_5: 042be
+  md5_6: 042be4
+  oomp_key: oomp_uext_host
+  oomp_key_extra: oomp_symbol_uext_host
+  oomp_key_full: oomp_symbol_uext_host_042be4
+  oomp_key_simple: uext_host
   owner_name: kicad
-  symbol_name: connector_uext_host
+  symbol_name: uext_host
 oomp_key: oomp_kicad_connector_uext_host
 oomp_key_simple: kicad_connector_uext_host
 owner: kicad

@@ -1,16 +1,20 @@
+id: kicad_driver_fet_irs2308
+library: driver_fet
 library_name: Driver_FET
+name: irs2308
 oomp:
   library_name: driver_fet
-  md5: b4948797803b8449b1ae3a2845399b52
-  md5_10: b494879780
-  md5_5: b4948
-  md5_6: b49487
-  oomp_key: oomp_driver_fet_irs2308
-  oomp_key_extra: oomp_symbol_driver_fet_irs2308
-  oomp_key_full: oomp_symbol_driver_fet_irs2308_b49487
-  oomp_key_simple: driver_fet_irs2308
+  md5: 5fcbb1df46f3e64533485d48a2e8f564
+  md5_10: 5fcbb1df46
+  md5_5: 5fcbb
+  md5_6: 5fcbb1
+  oomp_key: oomp_irs2308
+  oomp_key_extra: oomp_symbol_irs2308
+  oomp_key_full: oomp_symbol_irs2308_5fcbb1
+  oomp_key_simple: irs2308
   owner_name: kicad
-  symbol_name: driver_fet_irs2308
+  symbol_name: irs2308
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

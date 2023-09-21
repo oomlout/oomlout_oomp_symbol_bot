@@ -1,16 +1,20 @@
+id: kicad_converter_acdc_vtx_214_010_118
+library: converter_acdc
 library_name: Converter_ACDC
+name: vtx_214_010_118
 oomp:
   library_name: converter_acdc
-  md5: 85c9ab907c5204dd6c583ba8ccd87220
-  md5_10: 85c9ab907c
-  md5_5: 85c9a
-  md5_6: 85c9ab
-  oomp_key: oomp_converter_acdc_vtx_214_010_118
-  oomp_key_extra: oomp_symbol_converter_acdc_vtx_214_010_118
-  oomp_key_full: oomp_symbol_converter_acdc_vtx_214_010_118_85c9ab
-  oomp_key_simple: converter_acdc_vtx_214_010_118
+  md5: ce8059a5c01b522f1c764a6dc4c26e32
+  md5_10: ce8059a5c0
+  md5_5: ce805
+  md5_6: ce8059
+  oomp_key: oomp_vtx_214_010_118
+  oomp_key_extra: oomp_symbol_vtx_214_010_118
+  oomp_key_full: oomp_symbol_vtx_214_010_118_ce8059
+  oomp_key_simple: vtx_214_010_118
   owner_name: kicad
-  symbol_name: converter_acdc_vtx_214_010_118
+  symbol_name: vtx_214_010_118
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

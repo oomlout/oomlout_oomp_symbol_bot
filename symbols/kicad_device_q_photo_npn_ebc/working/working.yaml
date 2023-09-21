@@ -1,3 +1,5 @@
+id: kicad_device_q_photo_npn_ebc
+library: device
 library_name: Device
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_q_photo_npn_ebc/working
   oomp_src_flat: symbols_flat/kicad_device_q_photo_npn_ebc/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_q_photo_npn_ebc/working
-name: device_q_photo_npn_ebc
+name: q_photo_npn_ebc
 oomp:
   library_name: device
-  md5: 0f920915d2e2783eca0631d2011a3df5
-  md5_10: 0f920915d2
-  md5_5: 0f920
-  md5_6: 0f9209
-  oomp_key: oomp_device_q_photo_npn_ebc
-  oomp_key_extra: oomp_symbol_device_q_photo_npn_ebc
-  oomp_key_full: oomp_symbol_device_q_photo_npn_ebc_0f9209
-  oomp_key_simple: device_q_photo_npn_ebc
+  md5: 4ec25dc2f68bfdc77806249a8010e2d4
+  md5_10: 4ec25dc2f6
+  md5_5: 4ec25
+  md5_6: 4ec25d
+  oomp_key: oomp_q_photo_npn_ebc
+  oomp_key_extra: oomp_symbol_q_photo_npn_ebc
+  oomp_key_full: oomp_symbol_q_photo_npn_ebc_4ec25d
+  oomp_key_simple: q_photo_npn_ebc
   owner_name: kicad
-  symbol_name: device_q_photo_npn_ebc
+  symbol_name: q_photo_npn_ebc
 oomp_key: oomp_kicad_device_q_photo_npn_ebc
 oomp_key_simple: kicad_device_q_photo_npn_ebc
 owner: kicad

@@ -1,3 +1,5 @@
+id: kicad_amplifier_instrumentation_ina333xxdgk
+library: amplifier_instrumentation
 library_name: Amplifier_Instrumentation
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_instrumentation_ina333xxdgk/working
   oomp_src_flat: symbols_flat/kicad_amplifier_instrumentation_ina333xxdgk/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_instrumentation_ina333xxdgk/working
-name: amplifier_instrumentation_ina333xxdgk
+name: ina333xxdgk
 oomp:
   library_name: amplifier_instrumentation
-  md5: e5573b6f701a0ec84031526131e51baa
-  md5_10: e5573b6f70
-  md5_5: e5573
-  md5_6: e5573b
-  oomp_key: oomp_amplifier_instrumentation_ina333xxdgk
-  oomp_key_extra: oomp_symbol_amplifier_instrumentation_ina333xxdgk
-  oomp_key_full: oomp_symbol_amplifier_instrumentation_ina333xxdgk_e5573b
-  oomp_key_simple: amplifier_instrumentation_ina333xxdgk
+  md5: eae1e07b703c11e6dae24d75b9e703f0
+  md5_10: eae1e07b70
+  md5_5: eae1e
+  md5_6: eae1e0
+  oomp_key: oomp_ina333xxdgk
+  oomp_key_extra: oomp_symbol_ina333xxdgk
+  oomp_key_full: oomp_symbol_ina333xxdgk_eae1e0
+  oomp_key_simple: ina333xxdgk
   owner_name: kicad
-  symbol_name: amplifier_instrumentation_ina333xxdgk
+  symbol_name: ina333xxdgk
 oomp_key: oomp_kicad_amplifier_instrumentation_ina333xxdgk
 oomp_key_simple: kicad_amplifier_instrumentation_ina333xxdgk
 owner: kicad

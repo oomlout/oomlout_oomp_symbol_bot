@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_bd25ga5wefj
+library: regulator_linear
 library_name: Regulator_Linear
+name: bd25ga5wefj
 oomp:
   library_name: regulator_linear
-  md5: febb097d92fba0b1d62279f23c956d6a
-  md5_10: febb097d92
-  md5_5: febb0
-  md5_6: febb09
-  oomp_key: oomp_regulator_linear_bd25ga5wefj
-  oomp_key_extra: oomp_symbol_regulator_linear_bd25ga5wefj
-  oomp_key_full: oomp_symbol_regulator_linear_bd25ga5wefj_febb09
-  oomp_key_simple: regulator_linear_bd25ga5wefj
+  md5: 7863acfc947d2185dd36047d1c3185b2
+  md5_10: 7863acfc94
+  md5_5: 7863a
+  md5_6: 7863ac
+  oomp_key: oomp_bd25ga5wefj
+  oomp_key_extra: oomp_symbol_bd25ga5wefj
+  oomp_key_full: oomp_symbol_bd25ga5wefj_7863ac
+  oomp_key_simple: bd25ga5wefj
   owner_name: kicad
-  symbol_name: regulator_linear_bd25ga5wefj
+  symbol_name: bd25ga5wefj
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

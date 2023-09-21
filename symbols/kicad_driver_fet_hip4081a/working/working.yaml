@@ -1,3 +1,5 @@
+id: kicad_driver_fet_hip4081a
+library: driver_fet
 library_name: Driver_FET
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_driver_fet_hip4081a/working
   oomp_src_flat: symbols_flat/kicad_driver_fet_hip4081a/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_driver_fet_hip4081a/working
-name: driver_fet_hip4081a
+name: hip4081a
 oomp:
   library_name: driver_fet
-  md5: fb0f73bf629bcfc49ec38701018d2d94
-  md5_10: fb0f73bf62
-  md5_5: fb0f7
-  md5_6: fb0f73
-  oomp_key: oomp_driver_fet_hip4081a
-  oomp_key_extra: oomp_symbol_driver_fet_hip4081a
-  oomp_key_full: oomp_symbol_driver_fet_hip4081a_fb0f73
-  oomp_key_simple: driver_fet_hip4081a
+  md5: de8530e7f2f3a00abc0ec049f33e3024
+  md5_10: de8530e7f2
+  md5_5: de853
+  md5_6: de8530
+  oomp_key: oomp_hip4081a
+  oomp_key_extra: oomp_symbol_hip4081a
+  oomp_key_full: oomp_symbol_hip4081a_de8530
+  oomp_key_simple: hip4081a
   owner_name: kicad
-  symbol_name: driver_fet_hip4081a
+  symbol_name: hip4081a
 oomp_key: oomp_kicad_driver_fet_hip4081a
 oomp_key_simple: kicad_driver_fet_hip4081a
 owner: kicad

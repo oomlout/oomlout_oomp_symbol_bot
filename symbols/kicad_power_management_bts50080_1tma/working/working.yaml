@@ -1,16 +1,20 @@
+id: kicad_power_management_bts50080_1tma
+library: power_management
 library_name: Power_Management
+name: bts50080_1tma
 oomp:
   library_name: power_management
-  md5: 223d27a21fc5459663a57f968bfadfe9
-  md5_10: 223d27a21f
-  md5_5: 223d2
-  md5_6: 223d27
-  oomp_key: oomp_power_management_bts50080_1tma
-  oomp_key_extra: oomp_symbol_power_management_bts50080_1tma
-  oomp_key_full: oomp_symbol_power_management_bts50080_1tma_223d27
-  oomp_key_simple: power_management_bts50080_1tma
+  md5: 5b42348482c6abf3644c453f9ae0c0b1
+  md5_10: 5b42348482
+  md5_5: 5b423
+  md5_6: 5b4234
+  oomp_key: oomp_bts50080_1tma
+  oomp_key_extra: oomp_symbol_bts50080_1tma
+  oomp_key_full: oomp_symbol_bts50080_1tma_5b4234
+  oomp_key_simple: bts50080_1tma
   owner_name: kicad
-  symbol_name: power_management_bts50080_1tma
+  symbol_name: bts50080_1tma
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_transistor_bjt_bd250a
+library: transistor_bjt
 library_name: Transistor_BJT
+name: bd250a
 oomp:
   library_name: transistor_bjt
-  md5: 7de56d3ec16c578a7577519f4623908f
-  md5_10: 7de56d3ec1
-  md5_5: 7de56
-  md5_6: 7de56d
-  oomp_key: oomp_transistor_bjt_bd250a
-  oomp_key_extra: oomp_symbol_transistor_bjt_bd250a
-  oomp_key_full: oomp_symbol_transistor_bjt_bd250a_7de56d
-  oomp_key_simple: transistor_bjt_bd250a
+  md5: 57a44beef50ab0fb741ef1802e95e0d2
+  md5_10: 57a44beef5
+  md5_5: 57a44
+  md5_6: 57a44b
+  oomp_key: oomp_bd250a
+  oomp_key_extra: oomp_symbol_bd250a
+  oomp_key_full: oomp_symbol_bd250a_57a44b
+  oomp_key_simple: bd250a
   owner_name: kicad
-  symbol_name: transistor_bjt_bd250a
+  symbol_name: bd250a
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

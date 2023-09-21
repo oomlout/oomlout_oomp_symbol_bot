@@ -1,16 +1,20 @@
+id: kicad_transistor_bjt_fmb3946
+library: transistor_bjt
 library_name: Transistor_BJT
+name: fmb3946
 oomp:
   library_name: transistor_bjt
-  md5: 2e34d247bef0e221a5ce29f83b54502f
-  md5_10: 2e34d247be
-  md5_5: 2e34d
-  md5_6: 2e34d2
-  oomp_key: oomp_transistor_bjt_fmb3946
-  oomp_key_extra: oomp_symbol_transistor_bjt_fmb3946
-  oomp_key_full: oomp_symbol_transistor_bjt_fmb3946_2e34d2
-  oomp_key_simple: transistor_bjt_fmb3946
+  md5: be9ed756b90f8c5cc98ab6bceea17e53
+  md5_10: be9ed756b9
+  md5_5: be9ed
+  md5_6: be9ed7
+  oomp_key: oomp_fmb3946
+  oomp_key_extra: oomp_symbol_fmb3946
+  oomp_key_full: oomp_symbol_fmb3946_be9ed7
+  oomp_key_simple: fmb3946
   owner_name: kicad
-  symbol_name: transistor_bjt_fmb3946
+  symbol_name: fmb3946
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

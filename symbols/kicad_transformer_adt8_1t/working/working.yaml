@@ -1,16 +1,20 @@
+id: kicad_transformer_adt8_1t
+library: transformer
 library_name: Transformer
+name: adt8_1t
 oomp:
   library_name: transformer
-  md5: e6dfd90b881a480dbb617355d523a235
-  md5_10: e6dfd90b88
-  md5_5: e6dfd
-  md5_6: e6dfd9
-  oomp_key: oomp_transformer_adt8_1t
-  oomp_key_extra: oomp_symbol_transformer_adt8_1t
-  oomp_key_full: oomp_symbol_transformer_adt8_1t_e6dfd9
-  oomp_key_simple: transformer_adt8_1t
+  md5: 635f9a88cf205a6a887748bdb2a47166
+  md5_10: 635f9a88cf
+  md5_5: 635f9
+  md5_6: 635f9a
+  oomp_key: oomp_adt8_1t
+  oomp_key_extra: oomp_symbol_adt8_1t
+  oomp_key_full: oomp_symbol_adt8_1t_635f9a
+  oomp_key_simple: adt8_1t
   owner_name: kicad
-  symbol_name: transformer_adt8_1t
+  symbol_name: adt8_1t
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

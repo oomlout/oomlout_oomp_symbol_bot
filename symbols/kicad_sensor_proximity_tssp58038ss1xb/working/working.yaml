@@ -1,16 +1,20 @@
+id: kicad_sensor_proximity_tssp58038ss1xb
+library: sensor_proximity
 library_name: Sensor_Proximity
+name: tssp58038ss1xb
 oomp:
   library_name: sensor_proximity
-  md5: 19af42e9c91320d4f005d53cd4541335
-  md5_10: 19af42e9c9
-  md5_5: 19af4
-  md5_6: 19af42
-  oomp_key: oomp_sensor_proximity_tssp58038ss1xb
-  oomp_key_extra: oomp_symbol_sensor_proximity_tssp58038ss1xb
-  oomp_key_full: oomp_symbol_sensor_proximity_tssp58038ss1xb_19af42
-  oomp_key_simple: sensor_proximity_tssp58038ss1xb
+  md5: b0d23eb551752050974b91e317f57ba4
+  md5_10: b0d23eb551
+  md5_5: b0d23
+  md5_6: b0d23e
+  oomp_key: oomp_tssp58038ss1xb
+  oomp_key_extra: oomp_symbol_tssp58038ss1xb
+  oomp_key_full: oomp_symbol_tssp58038ss1xb_b0d23e
+  oomp_key_simple: tssp58038ss1xb
   owner_name: kicad
-  symbol_name: sensor_proximity_tssp58038ss1xb
+  symbol_name: tssp58038ss1xb
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

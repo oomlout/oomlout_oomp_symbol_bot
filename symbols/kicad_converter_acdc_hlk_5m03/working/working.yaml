@@ -1,16 +1,20 @@
+id: kicad_converter_acdc_hlk_5m03
+library: converter_acdc
 library_name: Converter_ACDC
+name: hlk_5m03
 oomp:
   library_name: converter_acdc
-  md5: 54c7b60fa67a19afabb84ae0c1b04494
-  md5_10: 54c7b60fa6
-  md5_5: 54c7b
-  md5_6: 54c7b6
-  oomp_key: oomp_converter_acdc_hlk_5m03
-  oomp_key_extra: oomp_symbol_converter_acdc_hlk_5m03
-  oomp_key_full: oomp_symbol_converter_acdc_hlk_5m03_54c7b6
-  oomp_key_simple: converter_acdc_hlk_5m03
+  md5: 739f7f96868ca710cb7839e8ecdea21a
+  md5_10: 739f7f9686
+  md5_5: 739f7
+  md5_6: 739f7f
+  oomp_key: oomp_hlk_5m03
+  oomp_key_extra: oomp_symbol_hlk_5m03
+  oomp_key_full: oomp_symbol_hlk_5m03_739f7f
+  oomp_key_simple: hlk_5m03
   owner_name: kicad
-  symbol_name: converter_acdc_hlk_5m03
+  symbol_name: hlk_5m03
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

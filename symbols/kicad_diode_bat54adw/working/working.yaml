@@ -1,3 +1,5 @@
+id: kicad_diode_bat54adw
+library: diode
 library_name: Diode
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_diode_bat54adw/working
   oomp_src_flat: symbols_flat/kicad_diode_bat54adw/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_diode_bat54adw/working
-name: diode_bat54adw
+name: bat54adw
 oomp:
   library_name: diode
-  md5: 4cab3524eb9666a2e3e5281f41d7ca42
-  md5_10: 4cab3524eb
-  md5_5: 4cab3
-  md5_6: 4cab35
-  oomp_key: oomp_diode_bat54adw
-  oomp_key_extra: oomp_symbol_diode_bat54adw
-  oomp_key_full: oomp_symbol_diode_bat54adw_4cab35
-  oomp_key_simple: diode_bat54adw
+  md5: 16ac0bcacc2157d0d1351e26ac561ce5
+  md5_10: 16ac0bcacc
+  md5_5: 16ac0
+  md5_6: 16ac0b
+  oomp_key: oomp_bat54adw
+  oomp_key_extra: oomp_symbol_bat54adw
+  oomp_key_full: oomp_symbol_bat54adw_16ac0b
+  oomp_key_simple: bat54adw
   owner_name: kicad
-  symbol_name: diode_bat54adw
+  symbol_name: bat54adw
 oomp_key: oomp_kicad_diode_bat54adw
 oomp_key_simple: kicad_diode_bat54adw
 owner: kicad

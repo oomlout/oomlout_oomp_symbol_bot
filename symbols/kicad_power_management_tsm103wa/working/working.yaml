@@ -1,16 +1,20 @@
+id: kicad_power_management_tsm103wa
+library: power_management
 library_name: Power_Management
+name: tsm103wa
 oomp:
   library_name: power_management
-  md5: fdfb0cd194bc5b1ffef5f8008480e6c1
-  md5_10: fdfb0cd194
-  md5_5: fdfb0
-  md5_6: fdfb0c
-  oomp_key: oomp_power_management_tsm103wa
-  oomp_key_extra: oomp_symbol_power_management_tsm103wa
-  oomp_key_full: oomp_symbol_power_management_tsm103wa_fdfb0c
-  oomp_key_simple: power_management_tsm103wa
+  md5: 52975922406cf78c52a02ec9bf5c3ff4
+  md5_10: '5297592240'
+  md5_5: '52975'
+  md5_6: '529759'
+  oomp_key: oomp_tsm103wa
+  oomp_key_extra: oomp_symbol_tsm103wa
+  oomp_key_full: oomp_symbol_tsm103wa_529759
+  oomp_key_simple: tsm103wa
   owner_name: kicad
-  symbol_name: power_management_tsm103wa
+  symbol_name: tsm103wa
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

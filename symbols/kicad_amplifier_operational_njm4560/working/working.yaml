@@ -1,16 +1,20 @@
+id: kicad_amplifier_operational_njm4560
+library: amplifier_operational
 library_name: Amplifier_Operational
+name: njm4560
 oomp:
   library_name: amplifier_operational
-  md5: 801168d5519e698eec408954409fa7db
-  md5_10: 801168d551
-  md5_5: '80116'
-  md5_6: '801168'
-  oomp_key: oomp_amplifier_operational_njm4560
-  oomp_key_extra: oomp_symbol_amplifier_operational_njm4560
-  oomp_key_full: oomp_symbol_amplifier_operational_njm4560_801168
-  oomp_key_simple: amplifier_operational_njm4560
+  md5: f3851faa8aa42cdf3eee8e23b34d43fc
+  md5_10: f3851faa8a
+  md5_5: f3851
+  md5_6: f3851f
+  oomp_key: oomp_njm4560
+  oomp_key_extra: oomp_symbol_njm4560
+  oomp_key_full: oomp_symbol_njm4560_f3851f
+  oomp_key_simple: njm4560
   owner_name: kicad
-  symbol_name: amplifier_operational_njm4560
+  symbol_name: njm4560
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

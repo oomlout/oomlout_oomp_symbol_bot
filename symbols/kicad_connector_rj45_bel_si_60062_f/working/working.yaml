@@ -1,3 +1,5 @@
+id: kicad_connector_rj45_bel_si_60062_f
+library: connector
 library_name: Connector
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_rj45_bel_si_60062_f/working
   oomp_src_flat: symbols_flat/kicad_connector_rj45_bel_si_60062_f/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_rj45_bel_si_60062_f/working
-name: connector_rj45_bel_si_60062_f
+name: rj45_bel_si_60062_f
 oomp:
   library_name: connector
-  md5: e6663a7b219dfe80201123032cdc03ab
-  md5_10: e6663a7b21
-  md5_5: e6663
-  md5_6: e6663a
-  oomp_key: oomp_connector_rj45_bel_si_60062_f
-  oomp_key_extra: oomp_symbol_connector_rj45_bel_si_60062_f
-  oomp_key_full: oomp_symbol_connector_rj45_bel_si_60062_f_e6663a
-  oomp_key_simple: connector_rj45_bel_si_60062_f
+  md5: 4f04eb51cf89b8567f292f83d16e4b75
+  md5_10: 4f04eb51cf
+  md5_5: 4f04e
+  md5_6: 4f04eb
+  oomp_key: oomp_rj45_bel_si_60062_f
+  oomp_key_extra: oomp_symbol_rj45_bel_si_60062_f
+  oomp_key_full: oomp_symbol_rj45_bel_si_60062_f_4f04eb
+  oomp_key_simple: rj45_bel_si_60062_f
   owner_name: kicad
-  symbol_name: connector_rj45_bel_si_60062_f
+  symbol_name: rj45_bel_si_60062_f
 oomp_key: oomp_kicad_connector_rj45_bel_si_60062_f
 oomp_key_simple: kicad_connector_rj45_bel_si_60062_f
 owner: kicad

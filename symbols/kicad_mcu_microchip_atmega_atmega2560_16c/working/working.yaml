@@ -1,16 +1,20 @@
+id: kicad_mcu_microchip_atmega_atmega2560_16c
+library: mcu_microchip_atmega
 library_name: MCU_Microchip_ATmega
+name: atmega2560_16c
 oomp:
   library_name: mcu_microchip_atmega
-  md5: f9d62feed4ecf091731060ff638e0658
-  md5_10: f9d62feed4
-  md5_5: f9d62
-  md5_6: f9d62f
-  oomp_key: oomp_mcu_microchip_atmega_atmega2560_16c
-  oomp_key_extra: oomp_symbol_mcu_microchip_atmega_atmega2560_16c
-  oomp_key_full: oomp_symbol_mcu_microchip_atmega_atmega2560_16c_f9d62f
-  oomp_key_simple: mcu_microchip_atmega_atmega2560_16c
+  md5: 2ad9b9f94975f4ccc983d8000bd547ed
+  md5_10: 2ad9b9f949
+  md5_5: 2ad9b
+  md5_6: 2ad9b9
+  oomp_key: oomp_atmega2560_16c
+  oomp_key_extra: oomp_symbol_atmega2560_16c
+  oomp_key_full: oomp_symbol_atmega2560_16c_2ad9b9
+  oomp_key_simple: atmega2560_16c
   owner_name: kicad
-  symbol_name: mcu_microchip_atmega_atmega2560_16c
+  symbol_name: atmega2560_16c
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

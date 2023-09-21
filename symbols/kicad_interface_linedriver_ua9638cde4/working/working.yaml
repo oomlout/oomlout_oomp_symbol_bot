@@ -1,16 +1,20 @@
+id: kicad_interface_linedriver_ua9638cde4
+library: interface_linedriver
 library_name: Interface_LineDriver
+name: ua9638cde4
 oomp:
   library_name: interface_linedriver
-  md5: 1dc726585fe3d9d7340fc86bc39e41e4
-  md5_10: 1dc726585f
-  md5_5: 1dc72
-  md5_6: 1dc726
-  oomp_key: oomp_interface_linedriver_ua9638cde4
-  oomp_key_extra: oomp_symbol_interface_linedriver_ua9638cde4
-  oomp_key_full: oomp_symbol_interface_linedriver_ua9638cde4_1dc726
-  oomp_key_simple: interface_linedriver_ua9638cde4
+  md5: 0c46e36e2d6ab9fc16ed29b73a49d3e5
+  md5_10: 0c46e36e2d
+  md5_5: 0c46e
+  md5_6: 0c46e3
+  oomp_key: oomp_ua9638cde4
+  oomp_key_extra: oomp_symbol_ua9638cde4
+  oomp_key_full: oomp_symbol_ua9638cde4_0c46e3
+  oomp_key_simple: ua9638cde4
   owner_name: kicad
-  symbol_name: interface_linedriver_ua9638cde4
+  symbol_name: ua9638cde4
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

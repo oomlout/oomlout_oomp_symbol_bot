@@ -1,3 +1,5 @@
+id: kicad_interface_expansion_tca9535pwr
+library: interface_expansion
 library_name: Interface_Expansion
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_expansion_tca9535pwr/working
   oomp_src_flat: symbols_flat/kicad_interface_expansion_tca9535pwr/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_expansion_tca9535pwr/working
-name: interface_expansion_tca9535pwr
+name: tca9535pwr
 oomp:
   library_name: interface_expansion
-  md5: eb04dd13d235a4e92d3321650fada3d2
-  md5_10: eb04dd13d2
-  md5_5: eb04d
-  md5_6: eb04dd
-  oomp_key: oomp_interface_expansion_tca9535pwr
-  oomp_key_extra: oomp_symbol_interface_expansion_tca9535pwr
-  oomp_key_full: oomp_symbol_interface_expansion_tca9535pwr_eb04dd
-  oomp_key_simple: interface_expansion_tca9535pwr
+  md5: a0303e29b410af4182e90c29bf34619d
+  md5_10: a0303e29b4
+  md5_5: a0303
+  md5_6: a0303e
+  oomp_key: oomp_tca9535pwr
+  oomp_key_extra: oomp_symbol_tca9535pwr
+  oomp_key_full: oomp_symbol_tca9535pwr_a0303e
+  oomp_key_simple: tca9535pwr
   owner_name: kicad
-  symbol_name: interface_expansion_tca9535pwr
+  symbol_name: tca9535pwr
 oomp_key: oomp_kicad_interface_expansion_tca9535pwr
 oomp_key_simple: kicad_interface_expansion_tca9535pwr
 owner: kicad

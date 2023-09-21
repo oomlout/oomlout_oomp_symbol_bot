@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_mcp1640dmc
+library: regulator_switching
 library_name: Regulator_Switching
+name: mcp1640dmc
 oomp:
   library_name: regulator_switching
-  md5: f7a59515e128ee283735fc26e8a47bab
-  md5_10: f7a59515e1
-  md5_5: f7a59
-  md5_6: f7a595
-  oomp_key: oomp_regulator_switching_mcp1640dmc
-  oomp_key_extra: oomp_symbol_regulator_switching_mcp1640dmc
-  oomp_key_full: oomp_symbol_regulator_switching_mcp1640dmc_f7a595
-  oomp_key_simple: regulator_switching_mcp1640dmc
+  md5: 122bdda6d9204a9343d1e0f1acf50165
+  md5_10: 122bdda6d9
+  md5_5: 122bd
+  md5_6: 122bdd
+  oomp_key: oomp_mcp1640dmc
+  oomp_key_extra: oomp_symbol_mcp1640dmc
+  oomp_key_full: oomp_symbol_mcp1640dmc_122bdd
+  oomp_key_simple: mcp1640dmc
   owner_name: kicad
-  symbol_name: regulator_switching_mcp1640dmc
+  symbol_name: mcp1640dmc
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

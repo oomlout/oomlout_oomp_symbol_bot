@@ -1,3 +1,5 @@
+id: kicad_sensor_optical_bpw40
+library: sensor_optical
 library_name: Sensor_Optical
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_optical_bpw40/working
   oomp_src_flat: symbols_flat/kicad_sensor_optical_bpw40/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_optical_bpw40/working
-name: sensor_optical_bpw40
+name: bpw40
 oomp:
   library_name: sensor_optical
-  md5: da502eb94b29382fb6307eba106f97a0
-  md5_10: da502eb94b
-  md5_5: da502
-  md5_6: da502e
-  oomp_key: oomp_sensor_optical_bpw40
-  oomp_key_extra: oomp_symbol_sensor_optical_bpw40
-  oomp_key_full: oomp_symbol_sensor_optical_bpw40_da502e
-  oomp_key_simple: sensor_optical_bpw40
+  md5: f1a2a83aa08bb6de4a1f1523bd1f1353
+  md5_10: f1a2a83aa0
+  md5_5: f1a2a
+  md5_6: f1a2a8
+  oomp_key: oomp_bpw40
+  oomp_key_extra: oomp_symbol_bpw40
+  oomp_key_full: oomp_symbol_bpw40_f1a2a8
+  oomp_key_simple: bpw40
   owner_name: kicad
-  symbol_name: sensor_optical_bpw40
+  symbol_name: bpw40
 oomp_key: oomp_kicad_sensor_optical_bpw40
 oomp_key_simple: kicad_sensor_optical_bpw40
 owner: kicad

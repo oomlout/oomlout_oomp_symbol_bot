@@ -1,3 +1,5 @@
+id: kicad_mcu_st_stm32l5_stm32l562retxq
+library: mcu_st_stm32l5
 library_name: MCU_ST_STM32L5
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_st_stm32l5_stm32l562retxq/working
   oomp_src_flat: symbols_flat/kicad_mcu_st_stm32l5_stm32l562retxq/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_st_stm32l5_stm32l562retxq/working
-name: mcu_st_stm32l5_stm32l562retxq
+name: stm32l562retxq
 oomp:
   library_name: mcu_st_stm32l5
-  md5: b811b9e9ea6d254590346ca14b175ce8
-  md5_10: b811b9e9ea
-  md5_5: b811b
-  md5_6: b811b9
-  oomp_key: oomp_mcu_st_stm32l5_stm32l562retxq
-  oomp_key_extra: oomp_symbol_mcu_st_stm32l5_stm32l562retxq
-  oomp_key_full: oomp_symbol_mcu_st_stm32l5_stm32l562retxq_b811b9
-  oomp_key_simple: mcu_st_stm32l5_stm32l562retxq
+  md5: b9482c82406b5f4ea8001529f78b811e
+  md5_10: b9482c8240
+  md5_5: b9482
+  md5_6: b9482c
+  oomp_key: oomp_stm32l562retxq
+  oomp_key_extra: oomp_symbol_stm32l562retxq
+  oomp_key_full: oomp_symbol_stm32l562retxq_b9482c
+  oomp_key_simple: stm32l562retxq
   owner_name: kicad
-  symbol_name: mcu_st_stm32l5_stm32l562retxq
+  symbol_name: stm32l562retxq
 oomp_key: oomp_kicad_mcu_st_stm32l5_stm32l562retxq
 oomp_key_simple: kicad_mcu_st_stm32l5_stm32l562retxq
 owner: kicad

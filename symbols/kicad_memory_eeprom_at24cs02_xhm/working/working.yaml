@@ -1,16 +1,20 @@
+id: kicad_memory_eeprom_at24cs02_xhm
+library: memory_eeprom
 library_name: Memory_EEPROM
+name: at24cs02_xhm
 oomp:
   library_name: memory_eeprom
-  md5: dd13ed6a618a57a56607c279348d74b3
-  md5_10: dd13ed6a61
-  md5_5: dd13e
-  md5_6: dd13ed
-  oomp_key: oomp_memory_eeprom_at24cs02_xhm
-  oomp_key_extra: oomp_symbol_memory_eeprom_at24cs02_xhm
-  oomp_key_full: oomp_symbol_memory_eeprom_at24cs02_xhm_dd13ed
-  oomp_key_simple: memory_eeprom_at24cs02_xhm
+  md5: ec2ae534272962f346ee1a185dc319cb
+  md5_10: ec2ae53427
+  md5_5: ec2ae
+  md5_6: ec2ae5
+  oomp_key: oomp_at24cs02_xhm
+  oomp_key_extra: oomp_symbol_at24cs02_xhm
+  oomp_key_full: oomp_symbol_at24cs02_xhm_ec2ae5
+  oomp_key_simple: at24cs02_xhm
   owner_name: kicad
-  symbol_name: memory_eeprom_at24cs02_xhm
+  symbol_name: at24cs02_xhm
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

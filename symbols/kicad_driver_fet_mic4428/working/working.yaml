@@ -1,3 +1,5 @@
+id: kicad_driver_fet_mic4428
+library: driver_fet
 library_name: Driver_FET
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_driver_fet_mic4428/working
   oomp_src_flat: symbols_flat/kicad_driver_fet_mic4428/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_driver_fet_mic4428/working
-name: driver_fet_mic4428
+name: mic4428
 oomp:
   library_name: driver_fet
-  md5: 1de8464d9e3b357f6fe65d2512c2b589
-  md5_10: 1de8464d9e
-  md5_5: 1de84
-  md5_6: 1de846
-  oomp_key: oomp_driver_fet_mic4428
-  oomp_key_extra: oomp_symbol_driver_fet_mic4428
-  oomp_key_full: oomp_symbol_driver_fet_mic4428_1de846
-  oomp_key_simple: driver_fet_mic4428
+  md5: fd23fcaba2b9d1020ff60853857f6038
+  md5_10: fd23fcaba2
+  md5_5: fd23f
+  md5_6: fd23fc
+  oomp_key: oomp_mic4428
+  oomp_key_extra: oomp_symbol_mic4428
+  oomp_key_full: oomp_symbol_mic4428_fd23fc
+  oomp_key_simple: mic4428
   owner_name: kicad
-  symbol_name: driver_fet_mic4428
+  symbol_name: mic4428
 oomp_key: oomp_kicad_driver_fet_mic4428
 oomp_key_simple: kicad_driver_fet_mic4428
 owner: kicad

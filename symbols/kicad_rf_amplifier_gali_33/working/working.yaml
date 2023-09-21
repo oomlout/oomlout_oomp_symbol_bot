@@ -1,16 +1,20 @@
+id: kicad_rf_amplifier_gali_33
+library: rf_amplifier
 library_name: RF_Amplifier
+name: gali_33
 oomp:
   library_name: rf_amplifier
-  md5: a8242f3473ebef0f3bb269d3465b2b1e
-  md5_10: a8242f3473
-  md5_5: a8242
-  md5_6: a8242f
-  oomp_key: oomp_rf_amplifier_gali_33
-  oomp_key_extra: oomp_symbol_rf_amplifier_gali_33
-  oomp_key_full: oomp_symbol_rf_amplifier_gali_33_a8242f
-  oomp_key_simple: rf_amplifier_gali_33
+  md5: eeddaede6841f42e5fb9b5abb0a2595f
+  md5_10: eeddaede68
+  md5_5: eedda
+  md5_6: eeddae
+  oomp_key: oomp_gali_33
+  oomp_key_extra: oomp_symbol_gali_33
+  oomp_key_full: oomp_symbol_gali_33_eeddae
+  oomp_key_simple: gali_33
   owner_name: kicad
-  symbol_name: rf_amplifier_gali_33
+  symbol_name: gali_33
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

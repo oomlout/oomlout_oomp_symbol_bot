@@ -1,16 +1,20 @@
+id: kicad_sensor_optical_s5973
+library: sensor_optical
 library_name: Sensor_Optical
+name: s5973
 oomp:
   library_name: sensor_optical
-  md5: 2508603866499e7a1989e9972730b9d6
-  md5_10: '2508603866'
-  md5_5: '25086'
-  md5_6: '250860'
-  oomp_key: oomp_sensor_optical_s5973
-  oomp_key_extra: oomp_symbol_sensor_optical_s5973
-  oomp_key_full: oomp_symbol_sensor_optical_s5973_250860
-  oomp_key_simple: sensor_optical_s5973
+  md5: 101d010dbc53bbeea1f8e85c7f21a463
+  md5_10: 101d010dbc
+  md5_5: 101d0
+  md5_6: 101d01
+  oomp_key: oomp_s5973
+  oomp_key_extra: oomp_symbol_s5973
+  oomp_key_full: oomp_symbol_s5973_101d01
+  oomp_key_simple: s5973
   owner_name: kicad
-  symbol_name: sensor_optical_s5973
+  symbol_name: s5973
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

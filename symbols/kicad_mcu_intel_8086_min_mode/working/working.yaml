@@ -1,3 +1,5 @@
+id: kicad_mcu_intel_8086_min_mode
+library: mcu_intel
 library_name: MCU_Intel
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_intel_8086_min_mode/working
   oomp_src_flat: symbols_flat/kicad_mcu_intel_8086_min_mode/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_intel_8086_min_mode/working
-name: mcu_intel_8086_min_mode
+name: 8086_min_mode
 oomp:
   library_name: mcu_intel
-  md5: 28ea8ad638cc36a119c342f1df3c1b21
-  md5_10: 28ea8ad638
-  md5_5: 28ea8
-  md5_6: 28ea8a
-  oomp_key: oomp_mcu_intel_8086_min_mode
-  oomp_key_extra: oomp_symbol_mcu_intel_8086_min_mode
-  oomp_key_full: oomp_symbol_mcu_intel_8086_min_mode_28ea8a
-  oomp_key_simple: mcu_intel_8086_min_mode
+  md5: b8f0c8bb6e01bf3a72ca93fdc0608c5b
+  md5_10: b8f0c8bb6e
+  md5_5: b8f0c
+  md5_6: b8f0c8
+  oomp_key: oomp_8086_min_mode
+  oomp_key_extra: oomp_symbol_8086_min_mode
+  oomp_key_full: oomp_symbol_8086_min_mode_b8f0c8
+  oomp_key_simple: 8086_min_mode
   owner_name: kicad
-  symbol_name: mcu_intel_8086_min_mode
+  symbol_name: 8086_min_mode
 oomp_key: oomp_kicad_mcu_intel_8086_min_mode
 oomp_key_simple: kicad_mcu_intel_8086_min_mode
 owner: kicad

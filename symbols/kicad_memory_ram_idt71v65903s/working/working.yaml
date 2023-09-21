@@ -1,3 +1,5 @@
+id: kicad_memory_ram_idt71v65903s
+library: memory_ram
 library_name: Memory_RAM
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_memory_ram_idt71v65903s/working
   oomp_src_flat: symbols_flat/kicad_memory_ram_idt71v65903s/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_memory_ram_idt71v65903s/working
-name: memory_ram_idt71v65903s
+name: idt71v65903s
 oomp:
   library_name: memory_ram
-  md5: 5ce2e20c267c12e0369f9eb1b583e33e
-  md5_10: 5ce2e20c26
-  md5_5: 5ce2e
-  md5_6: 5ce2e2
-  oomp_key: oomp_memory_ram_idt71v65903s
-  oomp_key_extra: oomp_symbol_memory_ram_idt71v65903s
-  oomp_key_full: oomp_symbol_memory_ram_idt71v65903s_5ce2e2
-  oomp_key_simple: memory_ram_idt71v65903s
+  md5: c1752ad12032ff7bdca0e5e07298a24b
+  md5_10: c1752ad120
+  md5_5: c1752
+  md5_6: c1752a
+  oomp_key: oomp_idt71v65903s
+  oomp_key_extra: oomp_symbol_idt71v65903s
+  oomp_key_full: oomp_symbol_idt71v65903s_c1752a
+  oomp_key_simple: idt71v65903s
   owner_name: kicad
-  symbol_name: memory_ram_idt71v65903s
+  symbol_name: idt71v65903s
 oomp_key: oomp_kicad_memory_ram_idt71v65903s
 oomp_key_simple: kicad_memory_ram_idt71v65903s
 owner: kicad

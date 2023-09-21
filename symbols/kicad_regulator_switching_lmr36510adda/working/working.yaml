@@ -1,3 +1,5 @@
+id: kicad_regulator_switching_lmr36510adda
+library: regulator_switching
 library_name: Regulator_Switching
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_lmr36510adda/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_lmr36510adda/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_lmr36510adda/working
-name: regulator_switching_lmr36510adda
+name: lmr36510adda
 oomp:
   library_name: regulator_switching
-  md5: a22ad6585cefa37dddae2d4a7dd8e273
-  md5_10: a22ad6585c
-  md5_5: a22ad
-  md5_6: a22ad6
-  oomp_key: oomp_regulator_switching_lmr36510adda
-  oomp_key_extra: oomp_symbol_regulator_switching_lmr36510adda
-  oomp_key_full: oomp_symbol_regulator_switching_lmr36510adda_a22ad6
-  oomp_key_simple: regulator_switching_lmr36510adda
+  md5: c78913ea042c46156e8ade74ac579f23
+  md5_10: c78913ea04
+  md5_5: c7891
+  md5_6: c78913
+  oomp_key: oomp_lmr36510adda
+  oomp_key_extra: oomp_symbol_lmr36510adda
+  oomp_key_full: oomp_symbol_lmr36510adda_c78913
+  oomp_key_simple: lmr36510adda
   owner_name: kicad
-  symbol_name: regulator_switching_lmr36510adda
+  symbol_name: lmr36510adda
 oomp_key: oomp_kicad_regulator_switching_lmr36510adda
 oomp_key_simple: kicad_regulator_switching_lmr36510adda
 owner: kicad

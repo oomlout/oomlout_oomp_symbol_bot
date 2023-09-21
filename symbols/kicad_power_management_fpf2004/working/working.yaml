@@ -1,16 +1,20 @@
+id: kicad_power_management_fpf2004
+library: power_management
 library_name: Power_Management
+name: fpf2004
 oomp:
   library_name: power_management
-  md5: 7678365af61bc0c22d29cf70dad45086
-  md5_10: 7678365af6
-  md5_5: '76783'
-  md5_6: '767836'
-  oomp_key: oomp_power_management_fpf2004
-  oomp_key_extra: oomp_symbol_power_management_fpf2004
-  oomp_key_full: oomp_symbol_power_management_fpf2004_767836
-  oomp_key_simple: power_management_fpf2004
+  md5: dcffe66c113d9070485d5b7e4da84f8d
+  md5_10: dcffe66c11
+  md5_5: dcffe
+  md5_6: dcffe6
+  oomp_key: oomp_fpf2004
+  oomp_key_extra: oomp_symbol_fpf2004
+  oomp_key_full: oomp_symbol_fpf2004_dcffe6
+  oomp_key_simple: fpf2004
   owner_name: kicad
-  symbol_name: power_management_fpf2004
+  symbol_name: fpf2004
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

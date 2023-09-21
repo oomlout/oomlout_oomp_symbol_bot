@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_lf25_to220
+library: regulator_linear
 library_name: Regulator_Linear
+name: lf25_to220
 oomp:
   library_name: regulator_linear
-  md5: 7ad5ac8a01db3cb02dcaf58dd9ec4549
-  md5_10: 7ad5ac8a01
-  md5_5: 7ad5a
-  md5_6: 7ad5ac
-  oomp_key: oomp_regulator_linear_lf25_to220
-  oomp_key_extra: oomp_symbol_regulator_linear_lf25_to220
-  oomp_key_full: oomp_symbol_regulator_linear_lf25_to220_7ad5ac
-  oomp_key_simple: regulator_linear_lf25_to220
+  md5: d1503939ab20b2b39d7502153c27eb6e
+  md5_10: d1503939ab
+  md5_5: d1503
+  md5_6: d15039
+  oomp_key: oomp_lf25_to220
+  oomp_key_extra: oomp_symbol_lf25_to220
+  oomp_key_full: oomp_symbol_lf25_to220_d15039
+  oomp_key_simple: lf25_to220
   owner_name: kicad
-  symbol_name: regulator_linear_lf25_to220
+  symbol_name: lf25_to220
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

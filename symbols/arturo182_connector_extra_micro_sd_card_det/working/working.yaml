@@ -1,3 +1,5 @@
+id: arturo182_connector_extra_micro_sd_card_det
+library: connector_extra
 library_name: Connector_Extra
 links:
   github_owner: arturo182
@@ -10,19 +12,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/arturo182_connector_extra_micro_sd_card_det/working
   oomp_src_flat: symbols_flat/arturo182_connector_extra_micro_sd_card_det/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/arturo182_connector_extra_micro_sd_card_det/working
-name: connector_extra_micro_sd_card_det
+name: micro_sd_card_det
 oomp:
   library_name: connector_extra
-  md5: 920e72284fabf51ae737380e1262d4c5
-  md5_10: 920e72284f
-  md5_5: 920e7
-  md5_6: 920e72
-  oomp_key: oomp_connector_extra_micro_sd_card_det
-  oomp_key_extra: oomp_symbol_connector_extra_micro_sd_card_det
-  oomp_key_full: oomp_symbol_connector_extra_micro_sd_card_det_920e72
-  oomp_key_simple: connector_extra_micro_sd_card_det
+  md5: 7fc579f976a2e23168fd3164579b743a
+  md5_10: 7fc579f976
+  md5_5: 7fc57
+  md5_6: 7fc579
+  oomp_key: oomp_micro_sd_card_det
+  oomp_key_extra: oomp_symbol_micro_sd_card_det
+  oomp_key_full: oomp_symbol_micro_sd_card_det_7fc579
+  oomp_key_simple: micro_sd_card_det
   owner_name: arturo182
-  symbol_name: connector_extra_micro_sd_card_det
+  symbol_name: micro_sd_card_det
 oomp_key: oomp_arturo182_connector_extra_micro_sd_card_det
 oomp_key_simple: arturo182_connector_extra_micro_sd_card_det
 owner: arturo182

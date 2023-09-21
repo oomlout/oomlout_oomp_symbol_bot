@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_tc2015_2_85vxcttr
+library: regulator_linear
 library_name: Regulator_Linear
+name: tc2015_2_85vxcttr
 oomp:
   library_name: regulator_linear
-  md5: d1d9b218c385489b5fad9bd16208b806
-  md5_10: d1d9b218c3
-  md5_5: d1d9b
-  md5_6: d1d9b2
-  oomp_key: oomp_regulator_linear_tc2015_2_85vxcttr
-  oomp_key_extra: oomp_symbol_regulator_linear_tc2015_2_85vxcttr
-  oomp_key_full: oomp_symbol_regulator_linear_tc2015_2_85vxcttr_d1d9b2
-  oomp_key_simple: regulator_linear_tc2015_2_85vxcttr
+  md5: 38c10646cd39b3cf4f769aeebd80d02a
+  md5_10: 38c10646cd
+  md5_5: 38c10
+  md5_6: 38c106
+  oomp_key: oomp_tc2015_2_85vxcttr
+  oomp_key_extra: oomp_symbol_tc2015_2_85vxcttr
+  oomp_key_full: oomp_symbol_tc2015_2_85vxcttr_38c106
+  oomp_key_simple: tc2015_2_85vxcttr
   owner_name: kicad
-  symbol_name: regulator_linear_tc2015_2_85vxcttr
+  symbol_name: tc2015_2_85vxcttr
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,3 +1,5 @@
+id: kicad_mcu_nxp_kinetis_mkl04z32vlf4
+library: mcu_nxp_kinetis
 library_name: MCU_NXP_Kinetis
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_nxp_kinetis_mkl04z32vlf4/working
   oomp_src_flat: symbols_flat/kicad_mcu_nxp_kinetis_mkl04z32vlf4/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_nxp_kinetis_mkl04z32vlf4/working
-name: mcu_nxp_kinetis_mkl04z32vlf4
+name: mkl04z32vlf4
 oomp:
   library_name: mcu_nxp_kinetis
-  md5: de4e53975598c6eb951a87bba2ae72c9
-  md5_10: de4e539755
-  md5_5: de4e5
-  md5_6: de4e53
-  oomp_key: oomp_mcu_nxp_kinetis_mkl04z32vlf4
-  oomp_key_extra: oomp_symbol_mcu_nxp_kinetis_mkl04z32vlf4
-  oomp_key_full: oomp_symbol_mcu_nxp_kinetis_mkl04z32vlf4_de4e53
-  oomp_key_simple: mcu_nxp_kinetis_mkl04z32vlf4
+  md5: 3cf4933e60128dd3c25d153c13787998
+  md5_10: 3cf4933e60
+  md5_5: 3cf49
+  md5_6: 3cf493
+  oomp_key: oomp_mkl04z32vlf4
+  oomp_key_extra: oomp_symbol_mkl04z32vlf4
+  oomp_key_full: oomp_symbol_mkl04z32vlf4_3cf493
+  oomp_key_simple: mkl04z32vlf4
   owner_name: kicad
-  symbol_name: mcu_nxp_kinetis_mkl04z32vlf4
+  symbol_name: mkl04z32vlf4
 oomp_key: oomp_kicad_mcu_nxp_kinetis_mkl04z32vlf4
 oomp_key_simple: kicad_mcu_nxp_kinetis_mkl04z32vlf4
 owner: kicad

@@ -1,16 +1,20 @@
+id: kicad_power_management_auips2052g
+library: power_management
 library_name: Power_Management
+name: auips2052g
 oomp:
   library_name: power_management
-  md5: 0e0cf6cb21c4c3d29fc70c5be1798440
-  md5_10: 0e0cf6cb21
-  md5_5: 0e0cf
-  md5_6: 0e0cf6
-  oomp_key: oomp_power_management_auips2052g
-  oomp_key_extra: oomp_symbol_power_management_auips2052g
-  oomp_key_full: oomp_symbol_power_management_auips2052g_0e0cf6
-  oomp_key_simple: power_management_auips2052g
+  md5: d27a49fe4f59f0e157e7f3ef863ea8e0
+  md5_10: d27a49fe4f
+  md5_5: d27a4
+  md5_6: d27a49
+  oomp_key: oomp_auips2052g
+  oomp_key_extra: oomp_symbol_auips2052g
+  oomp_key_full: oomp_symbol_auips2052g_d27a49
+  oomp_key_simple: auips2052g
   owner_name: kicad
-  symbol_name: power_management_auips2052g
+  symbol_name: auips2052g
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

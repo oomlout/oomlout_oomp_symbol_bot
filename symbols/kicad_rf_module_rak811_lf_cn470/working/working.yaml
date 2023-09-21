@@ -1,16 +1,20 @@
+id: kicad_rf_module_rak811_lf_cn470
+library: rf_module
 library_name: RF_Module
+name: rak811_lf_cn470
 oomp:
   library_name: rf_module
-  md5: 8d976d35984992cb36b28d3c73d2baca
-  md5_10: 8d976d3598
-  md5_5: 8d976
-  md5_6: 8d976d
-  oomp_key: oomp_rf_module_rak811_lf_cn470
-  oomp_key_extra: oomp_symbol_rf_module_rak811_lf_cn470
-  oomp_key_full: oomp_symbol_rf_module_rak811_lf_cn470_8d976d
-  oomp_key_simple: rf_module_rak811_lf_cn470
+  md5: 6c7103858f5f230888335aa9a038606c
+  md5_10: 6c7103858f
+  md5_5: 6c710
+  md5_6: 6c7103
+  oomp_key: oomp_rak811_lf_cn470
+  oomp_key_extra: oomp_symbol_rak811_lf_cn470
+  oomp_key_full: oomp_symbol_rak811_lf_cn470_6c7103
+  oomp_key_simple: rak811_lf_cn470
   owner_name: kicad
-  symbol_name: rf_module_rak811_lf_cn470
+  symbol_name: rak811_lf_cn470
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

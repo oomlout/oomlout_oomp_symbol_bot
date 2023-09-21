@@ -1,16 +1,20 @@
+id: kicad_amplifier_operational_ad8610xr
+library: amplifier_operational
 library_name: Amplifier_Operational
+name: ad8610xr
 oomp:
   library_name: amplifier_operational
-  md5: 927d000c73ed23c134a060a4834d171f
-  md5_10: 927d000c73
-  md5_5: 927d0
-  md5_6: 927d00
-  oomp_key: oomp_amplifier_operational_ad8610xr
-  oomp_key_extra: oomp_symbol_amplifier_operational_ad8610xr
-  oomp_key_full: oomp_symbol_amplifier_operational_ad8610xr_927d00
-  oomp_key_simple: amplifier_operational_ad8610xr
+  md5: cfa467a7e4e915612db1ca65ae3c55a3
+  md5_10: cfa467a7e4
+  md5_5: cfa46
+  md5_6: cfa467
+  oomp_key: oomp_ad8610xr
+  oomp_key_extra: oomp_symbol_ad8610xr
+  oomp_key_full: oomp_symbol_ad8610xr_cfa467
+  oomp_key_simple: ad8610xr
   owner_name: kicad
-  symbol_name: amplifier_operational_ad8610xr
+  symbol_name: ad8610xr
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

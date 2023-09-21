@@ -1,3 +1,5 @@
+id: kicad_amplifier_operational_ncs20071sn
+library: amplifier_operational
 library_name: Amplifier_Operational
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_operational_ncs20071sn/working
   oomp_src_flat: symbols_flat/kicad_amplifier_operational_ncs20071sn/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_operational_ncs20071sn/working
-name: amplifier_operational_ncs20071sn
+name: ncs20071sn
 oomp:
   library_name: amplifier_operational
-  md5: 346f50a8a31327b3a2428a01933d6ed4
-  md5_10: 346f50a8a3
-  md5_5: 346f5
-  md5_6: 346f50
-  oomp_key: oomp_amplifier_operational_ncs20071sn
-  oomp_key_extra: oomp_symbol_amplifier_operational_ncs20071sn
-  oomp_key_full: oomp_symbol_amplifier_operational_ncs20071sn_346f50
-  oomp_key_simple: amplifier_operational_ncs20071sn
+  md5: f51c69be75f56e0527e73d3dabbde4da
+  md5_10: f51c69be75
+  md5_5: f51c6
+  md5_6: f51c69
+  oomp_key: oomp_ncs20071sn
+  oomp_key_extra: oomp_symbol_ncs20071sn
+  oomp_key_full: oomp_symbol_ncs20071sn_f51c69
+  oomp_key_simple: ncs20071sn
   owner_name: kicad
-  symbol_name: amplifier_operational_ncs20071sn
+  symbol_name: ncs20071sn
 oomp_key: oomp_kicad_amplifier_operational_ncs20071sn
 oomp_key_simple: kicad_amplifier_operational_ncs20071sn
 owner: kicad

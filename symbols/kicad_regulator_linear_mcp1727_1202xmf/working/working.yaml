@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_mcp1727_1202xmf
+library: regulator_linear
 library_name: Regulator_Linear
+name: mcp1727_1202xmf
 oomp:
   library_name: regulator_linear
-  md5: f2d0be52f8bca031dd13258818c9d6b3
-  md5_10: f2d0be52f8
-  md5_5: f2d0b
-  md5_6: f2d0be
-  oomp_key: oomp_regulator_linear_mcp1727_1202xmf
-  oomp_key_extra: oomp_symbol_regulator_linear_mcp1727_1202xmf
-  oomp_key_full: oomp_symbol_regulator_linear_mcp1727_1202xmf_f2d0be
-  oomp_key_simple: regulator_linear_mcp1727_1202xmf
+  md5: ed352520b48472822f16936edecf6c7b
+  md5_10: ed352520b4
+  md5_5: ed352
+  md5_6: ed3525
+  oomp_key: oomp_mcp1727_1202xmf
+  oomp_key_extra: oomp_symbol_mcp1727_1202xmf
+  oomp_key_full: oomp_symbol_mcp1727_1202xmf_ed3525
+  oomp_key_simple: mcp1727_1202xmf
   owner_name: kicad
-  symbol_name: regulator_linear_mcp1727_1202xmf
+  symbol_name: mcp1727_1202xmf
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

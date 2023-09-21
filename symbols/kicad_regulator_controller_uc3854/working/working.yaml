@@ -1,3 +1,5 @@
+id: kicad_regulator_controller_uc3854
+library: regulator_controller
 library_name: Regulator_Controller
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_controller_uc3854/working
   oomp_src_flat: symbols_flat/kicad_regulator_controller_uc3854/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_controller_uc3854/working
-name: regulator_controller_uc3854
+name: uc3854
 oomp:
   library_name: regulator_controller
-  md5: 88e518114588fd3b3c873f504ecdb645
-  md5_10: 88e5181145
-  md5_5: 88e51
-  md5_6: 88e518
-  oomp_key: oomp_regulator_controller_uc3854
-  oomp_key_extra: oomp_symbol_regulator_controller_uc3854
-  oomp_key_full: oomp_symbol_regulator_controller_uc3854_88e518
-  oomp_key_simple: regulator_controller_uc3854
+  md5: 5b22fcfdf4e48284554000bcb01ef15e
+  md5_10: 5b22fcfdf4
+  md5_5: 5b22f
+  md5_6: 5b22fc
+  oomp_key: oomp_uc3854
+  oomp_key_extra: oomp_symbol_uc3854
+  oomp_key_full: oomp_symbol_uc3854_5b22fc
+  oomp_key_simple: uc3854
   owner_name: kicad
-  symbol_name: regulator_controller_uc3854
+  symbol_name: uc3854
 oomp_key: oomp_kicad_regulator_controller_uc3854
 oomp_key_simple: kicad_regulator_controller_uc3854
 owner: kicad

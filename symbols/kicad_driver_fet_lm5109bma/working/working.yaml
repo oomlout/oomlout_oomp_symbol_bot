@@ -1,16 +1,20 @@
+id: kicad_driver_fet_lm5109bma
+library: driver_fet
 library_name: Driver_FET
+name: lm5109bma
 oomp:
   library_name: driver_fet
-  md5: bfdae0d2b0c503767ac2b5ec1eeb2035
-  md5_10: bfdae0d2b0
-  md5_5: bfdae
-  md5_6: bfdae0
-  oomp_key: oomp_driver_fet_lm5109bma
-  oomp_key_extra: oomp_symbol_driver_fet_lm5109bma
-  oomp_key_full: oomp_symbol_driver_fet_lm5109bma_bfdae0
-  oomp_key_simple: driver_fet_lm5109bma
+  md5: 52af23d1ff10e33642ab59276ca1b233
+  md5_10: 52af23d1ff
+  md5_5: 52af2
+  md5_6: 52af23
+  oomp_key: oomp_lm5109bma
+  oomp_key_extra: oomp_symbol_lm5109bma
+  oomp_key_full: oomp_symbol_lm5109bma_52af23
+  oomp_key_simple: lm5109bma
   owner_name: kicad
-  symbol_name: driver_fet_lm5109bma
+  symbol_name: lm5109bma
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

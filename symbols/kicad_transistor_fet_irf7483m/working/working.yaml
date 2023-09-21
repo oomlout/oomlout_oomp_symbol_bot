@@ -1,16 +1,20 @@
+id: kicad_transistor_fet_irf7483m
+library: transistor_fet
 library_name: Transistor_FET
+name: irf7483m
 oomp:
   library_name: transistor_fet
-  md5: cbfa6c856ae577db5872a79d0cfc6015
-  md5_10: cbfa6c856a
-  md5_5: cbfa6
-  md5_6: cbfa6c
-  oomp_key: oomp_transistor_fet_irf7483m
-  oomp_key_extra: oomp_symbol_transistor_fet_irf7483m
-  oomp_key_full: oomp_symbol_transistor_fet_irf7483m_cbfa6c
-  oomp_key_simple: transistor_fet_irf7483m
+  md5: 1ba94913194df3b1c145ebbcc8077667
+  md5_10: 1ba9491319
+  md5_5: 1ba94
+  md5_6: 1ba949
+  oomp_key: oomp_irf7483m
+  oomp_key_extra: oomp_symbol_irf7483m
+  oomp_key_full: oomp_symbol_irf7483m_1ba949
+  oomp_key_simple: irf7483m
   owner_name: kicad
-  symbol_name: transistor_fet_irf7483m
+  symbol_name: irf7483m
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

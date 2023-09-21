@@ -1,16 +1,20 @@
+id: kicad_mcu_microchip_atmega_atmega32u4_a
+library: mcu_microchip_atmega
 library_name: MCU_Microchip_ATmega
+name: atmega32u4_a
 oomp:
   library_name: mcu_microchip_atmega
-  md5: 0fdcfb4c0ed8056baee33a35f9e5fdbb
-  md5_10: 0fdcfb4c0e
-  md5_5: 0fdcf
-  md5_6: 0fdcfb
-  oomp_key: oomp_mcu_microchip_atmega_atmega32u4_a
-  oomp_key_extra: oomp_symbol_mcu_microchip_atmega_atmega32u4_a
-  oomp_key_full: oomp_symbol_mcu_microchip_atmega_atmega32u4_a_0fdcfb
-  oomp_key_simple: mcu_microchip_atmega_atmega32u4_a
+  md5: 66532e2b8f79aa7539ba3528e8e3d540
+  md5_10: 66532e2b8f
+  md5_5: '66532'
+  md5_6: 66532e
+  oomp_key: oomp_atmega32u4_a
+  oomp_key_extra: oomp_symbol_atmega32u4_a
+  oomp_key_full: oomp_symbol_atmega32u4_a_66532e
+  oomp_key_simple: atmega32u4_a
   owner_name: kicad
-  symbol_name: mcu_microchip_atmega_atmega32u4_a
+  symbol_name: atmega32u4_a
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

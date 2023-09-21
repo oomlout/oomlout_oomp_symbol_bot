@@ -1,16 +1,20 @@
+id: kicad_amplifier_operational_tlc277
+library: amplifier_operational
 library_name: Amplifier_Operational
+name: tlc277
 oomp:
   library_name: amplifier_operational
-  md5: 8968c5c94f627e008fbc955cbf073779
-  md5_10: 8968c5c94f
-  md5_5: 8968c
-  md5_6: 8968c5
-  oomp_key: oomp_amplifier_operational_tlc277
-  oomp_key_extra: oomp_symbol_amplifier_operational_tlc277
-  oomp_key_full: oomp_symbol_amplifier_operational_tlc277_8968c5
-  oomp_key_simple: amplifier_operational_tlc277
+  md5: 6caf472a76664c3d62f9bc043d73c6f7
+  md5_10: 6caf472a76
+  md5_5: 6caf4
+  md5_6: 6caf47
+  oomp_key: oomp_tlc277
+  oomp_key_extra: oomp_symbol_tlc277
+  oomp_key_full: oomp_symbol_tlc277_6caf47
+  oomp_key_simple: tlc277
   owner_name: kicad
-  symbol_name: amplifier_operational_tlc277
+  symbol_name: tlc277
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

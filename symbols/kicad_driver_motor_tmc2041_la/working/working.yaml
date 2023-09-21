@@ -1,3 +1,5 @@
+id: kicad_driver_motor_tmc2041_la
+library: driver_motor
 library_name: Driver_Motor
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_driver_motor_tmc2041_la/working
   oomp_src_flat: symbols_flat/kicad_driver_motor_tmc2041_la/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_driver_motor_tmc2041_la/working
-name: driver_motor_tmc2041_la
+name: tmc2041_la
 oomp:
   library_name: driver_motor
-  md5: 278b009406741267da285b34ff2454be
-  md5_10: 278b009406
-  md5_5: 278b0
-  md5_6: 278b00
-  oomp_key: oomp_driver_motor_tmc2041_la
-  oomp_key_extra: oomp_symbol_driver_motor_tmc2041_la
-  oomp_key_full: oomp_symbol_driver_motor_tmc2041_la_278b00
-  oomp_key_simple: driver_motor_tmc2041_la
+  md5: 4276307cdbb9f12697c35d7c397aecfd
+  md5_10: 4276307cdb
+  md5_5: '42763'
+  md5_6: '427630'
+  oomp_key: oomp_tmc2041_la
+  oomp_key_extra: oomp_symbol_tmc2041_la
+  oomp_key_full: oomp_symbol_tmc2041_la_427630
+  oomp_key_simple: tmc2041_la
   owner_name: kicad
-  symbol_name: driver_motor_tmc2041_la
+  symbol_name: tmc2041_la
 oomp_key: oomp_kicad_driver_motor_tmc2041_la
 oomp_key_simple: kicad_driver_motor_tmc2041_la
 owner: kicad

@@ -1,16 +1,20 @@
+id: kicad_sensor_current_acs730xlctr_80au
+library: sensor_current
 library_name: Sensor_Current
+name: acs730xlctr_80au
 oomp:
   library_name: sensor_current
-  md5: f672e212800b1e10bb691e2581dec57d
-  md5_10: f672e21280
-  md5_5: f672e
-  md5_6: f672e2
-  oomp_key: oomp_sensor_current_acs730xlctr_80au
-  oomp_key_extra: oomp_symbol_sensor_current_acs730xlctr_80au
-  oomp_key_full: oomp_symbol_sensor_current_acs730xlctr_80au_f672e2
-  oomp_key_simple: sensor_current_acs730xlctr_80au
+  md5: e76ed99b68a6e7450cb62f6e49fce528
+  md5_10: e76ed99b68
+  md5_5: e76ed
+  md5_6: e76ed9
+  oomp_key: oomp_acs730xlctr_80au
+  oomp_key_extra: oomp_symbol_acs730xlctr_80au
+  oomp_key_full: oomp_symbol_acs730xlctr_80au_e76ed9
+  oomp_key_simple: acs730xlctr_80au
   owner_name: kicad
-  symbol_name: sensor_current_acs730xlctr_80au
+  symbol_name: acs730xlctr_80au
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_diode_szesd9b5_0st5g
+library: diode
 library_name: Diode
+name: szesd9b5_0st5g
 oomp:
   library_name: diode
-  md5: 585b9ae55b10285d39db098037607f10
-  md5_10: 585b9ae55b
-  md5_5: 585b9
-  md5_6: 585b9a
-  oomp_key: oomp_diode_szesd9b5_0st5g
-  oomp_key_extra: oomp_symbol_diode_szesd9b5_0st5g
-  oomp_key_full: oomp_symbol_diode_szesd9b5_0st5g_585b9a
-  oomp_key_simple: diode_szesd9b5_0st5g
+  md5: e0b7412204993812dcaa85abfc3b0235
+  md5_10: e0b7412204
+  md5_5: e0b74
+  md5_6: e0b741
+  oomp_key: oomp_szesd9b5_0st5g
+  oomp_key_extra: oomp_symbol_szesd9b5_0st5g
+  oomp_key_full: oomp_symbol_szesd9b5_0st5g_e0b741
+  oomp_key_simple: szesd9b5_0st5g
   owner_name: kicad
-  symbol_name: diode_szesd9b5_0st5g
+  symbol_name: szesd9b5_0st5g
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

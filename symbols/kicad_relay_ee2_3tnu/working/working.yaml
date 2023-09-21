@@ -1,3 +1,5 @@
+id: kicad_relay_ee2_3tnu
+library: relay
 library_name: Relay
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_relay_ee2_3tnu/working
   oomp_src_flat: symbols_flat/kicad_relay_ee2_3tnu/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_relay_ee2_3tnu/working
-name: relay_ee2_3tnu
+name: ee2_3tnu
 oomp:
   library_name: relay
-  md5: 5b23167777fe02bc4c4e9f902a6e9373
-  md5_10: 5b23167777
-  md5_5: 5b231
-  md5_6: 5b2316
-  oomp_key: oomp_relay_ee2_3tnu
-  oomp_key_extra: oomp_symbol_relay_ee2_3tnu
-  oomp_key_full: oomp_symbol_relay_ee2_3tnu_5b2316
-  oomp_key_simple: relay_ee2_3tnu
+  md5: 433a3b84386d6492c80aedbeab32e9f8
+  md5_10: 433a3b8438
+  md5_5: 433a3
+  md5_6: 433a3b
+  oomp_key: oomp_ee2_3tnu
+  oomp_key_extra: oomp_symbol_ee2_3tnu
+  oomp_key_full: oomp_symbol_ee2_3tnu_433a3b
+  oomp_key_simple: ee2_3tnu
   owner_name: kicad
-  symbol_name: relay_ee2_3tnu
+  symbol_name: ee2_3tnu
 oomp_key: oomp_kicad_relay_ee2_3tnu
 oomp_key_simple: kicad_relay_ee2_3tnu
 owner: kicad

@@ -1,3 +1,5 @@
+id: arturo182_power_management_extra_sy6926qyc
+library: power_management_extra
 library_name: Power_Management_Extra
 links:
   github_owner: arturo182
@@ -10,19 +12,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/arturo182_power_management_extra_sy6926qyc/working
   oomp_src_flat: symbols_flat/arturo182_power_management_extra_sy6926qyc/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/arturo182_power_management_extra_sy6926qyc/working
-name: power_management_extra_sy6926qyc
+name: sy6926qyc
 oomp:
   library_name: power_management_extra
-  md5: 5b23120003f3282c1af797022d8f2a07
-  md5_10: 5b23120003
-  md5_5: 5b231
-  md5_6: 5b2312
-  oomp_key: oomp_power_management_extra_sy6926qyc
-  oomp_key_extra: oomp_symbol_power_management_extra_sy6926qyc
-  oomp_key_full: oomp_symbol_power_management_extra_sy6926qyc_5b2312
-  oomp_key_simple: power_management_extra_sy6926qyc
+  md5: 3ade93c3cce07ee07fa62174568000e8
+  md5_10: 3ade93c3cc
+  md5_5: 3ade9
+  md5_6: 3ade93
+  oomp_key: oomp_sy6926qyc
+  oomp_key_extra: oomp_symbol_sy6926qyc
+  oomp_key_full: oomp_symbol_sy6926qyc_3ade93
+  oomp_key_simple: sy6926qyc
   owner_name: arturo182
-  symbol_name: power_management_extra_sy6926qyc
+  symbol_name: sy6926qyc
 oomp_key: oomp_arturo182_power_management_extra_sy6926qyc
 oomp_key_simple: arturo182_power_management_extra_sy6926qyc
 owner: arturo182

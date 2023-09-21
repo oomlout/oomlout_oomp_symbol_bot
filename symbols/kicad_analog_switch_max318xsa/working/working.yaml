@@ -1,16 +1,20 @@
+id: kicad_analog_switch_max318xsa
+library: analog_switch
 library_name: Analog_Switch
+name: max318xsa
 oomp:
   library_name: analog_switch
-  md5: ba8ce0fe4b3b9fd7aac6c8eed581adb2
-  md5_10: ba8ce0fe4b
-  md5_5: ba8ce
-  md5_6: ba8ce0
-  oomp_key: oomp_analog_switch_max318xsa
-  oomp_key_extra: oomp_symbol_analog_switch_max318xsa
-  oomp_key_full: oomp_symbol_analog_switch_max318xsa_ba8ce0
-  oomp_key_simple: analog_switch_max318xsa
+  md5: f394b3f9dd2aeb377bd924ef0153df3f
+  md5_10: f394b3f9dd
+  md5_5: f394b
+  md5_6: f394b3
+  oomp_key: oomp_max318xsa
+  oomp_key_extra: oomp_symbol_max318xsa
+  oomp_key_full: oomp_symbol_max318xsa_f394b3
+  oomp_key_simple: max318xsa
   owner_name: kicad
-  symbol_name: analog_switch_max318xsa
+  symbol_name: max318xsa
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

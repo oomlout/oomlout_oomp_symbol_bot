@@ -1,3 +1,5 @@
+id: kicad_display_character_sc39_11ewa
+library: display_character
 library_name: Display_Character
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_display_character_sc39_11ewa/working
   oomp_src_flat: symbols_flat/kicad_display_character_sc39_11ewa/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_display_character_sc39_11ewa/working
-name: display_character_sc39_11ewa
+name: sc39_11ewa
 oomp:
   library_name: display_character
-  md5: 50d6a53bfaefcc110a9c58210011d6a1
-  md5_10: 50d6a53bfa
-  md5_5: 50d6a
-  md5_6: 50d6a5
-  oomp_key: oomp_display_character_sc39_11ewa
-  oomp_key_extra: oomp_symbol_display_character_sc39_11ewa
-  oomp_key_full: oomp_symbol_display_character_sc39_11ewa_50d6a5
-  oomp_key_simple: display_character_sc39_11ewa
+  md5: 99ec46400b1f33908ee1cafd818b0a38
+  md5_10: 99ec46400b
+  md5_5: 99ec4
+  md5_6: 99ec46
+  oomp_key: oomp_sc39_11ewa
+  oomp_key_extra: oomp_symbol_sc39_11ewa
+  oomp_key_full: oomp_symbol_sc39_11ewa_99ec46
+  oomp_key_simple: sc39_11ewa
   owner_name: kicad
-  symbol_name: display_character_sc39_11ewa
+  symbol_name: sc39_11ewa
 oomp_key: oomp_kicad_display_character_sc39_11ewa
 oomp_key_simple: kicad_display_character_sc39_11ewa
 owner: kicad

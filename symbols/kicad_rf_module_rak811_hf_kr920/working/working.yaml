@@ -1,16 +1,20 @@
+id: kicad_rf_module_rak811_hf_kr920
+library: rf_module
 library_name: RF_Module
+name: rak811_hf_kr920
 oomp:
   library_name: rf_module
-  md5: 24b09ef441b7330f42be60b22b3b4ef9
-  md5_10: 24b09ef441
-  md5_5: 24b09
-  md5_6: 24b09e
-  oomp_key: oomp_rf_module_rak811_hf_kr920
-  oomp_key_extra: oomp_symbol_rf_module_rak811_hf_kr920
-  oomp_key_full: oomp_symbol_rf_module_rak811_hf_kr920_24b09e
-  oomp_key_simple: rf_module_rak811_hf_kr920
+  md5: 104189350e9aef4178a559aaa33d9b55
+  md5_10: 104189350e
+  md5_5: '10418'
+  md5_6: '104189'
+  oomp_key: oomp_rak811_hf_kr920
+  oomp_key_extra: oomp_symbol_rak811_hf_kr920
+  oomp_key_full: oomp_symbol_rak811_hf_kr920_104189
+  oomp_key_simple: rak811_hf_kr920
   owner_name: kicad
-  symbol_name: rf_module_rak811_hf_kr920
+  symbol_name: rak811_hf_kr920
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

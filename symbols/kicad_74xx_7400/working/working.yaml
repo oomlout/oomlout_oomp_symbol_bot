@@ -1,16 +1,20 @@
+id: kicad_74xx_7400
+library: 74xx
 library_name: 74xx
+name: '7400'
 oomp:
   library_name: 74xx
-  md5: 947fdb13bd62902053fb52bffeb6fcac
-  md5_10: 947fdb13bd
-  md5_5: 947fd
-  md5_6: 947fdb
-  oomp_key: oomp_74xx_7400
-  oomp_key_extra: oomp_symbol_74xx_7400
-  oomp_key_full: oomp_symbol_74xx_7400_947fdb
-  oomp_key_simple: 74xx_7400
+  md5: 76f1cfd7754a6e4fc3281bcccb3d0902
+  md5_10: 76f1cfd775
+  md5_5: 76f1c
+  md5_6: 76f1cf
+  oomp_key: oomp_7400
+  oomp_key_extra: oomp_symbol_7400
+  oomp_key_full: oomp_symbol_7400_76f1cf
+  oomp_key_simple: '7400'
   owner_name: kicad
-  symbol_name: 74xx_7400
+  symbol_name: '7400'
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

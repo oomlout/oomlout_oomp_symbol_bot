@@ -1,3 +1,5 @@
+id: kicad_amplifier_operational_lm13700
+library: amplifier_operational
 library_name: Amplifier_Operational
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_operational_lm13700/working
   oomp_src_flat: symbols_flat/kicad_amplifier_operational_lm13700/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_operational_lm13700/working
-name: amplifier_operational_lm13700
+name: lm13700
 oomp:
   library_name: amplifier_operational
-  md5: 3890465c6a932a8456a2761ef8c563b6
-  md5_10: 3890465c6a
-  md5_5: '38904'
-  md5_6: '389046'
-  oomp_key: oomp_amplifier_operational_lm13700
-  oomp_key_extra: oomp_symbol_amplifier_operational_lm13700
-  oomp_key_full: oomp_symbol_amplifier_operational_lm13700_389046
-  oomp_key_simple: amplifier_operational_lm13700
+  md5: ccd8a374824dcf1bea8a9d651e715f71
+  md5_10: ccd8a37482
+  md5_5: ccd8a
+  md5_6: ccd8a3
+  oomp_key: oomp_lm13700
+  oomp_key_extra: oomp_symbol_lm13700
+  oomp_key_full: oomp_symbol_lm13700_ccd8a3
+  oomp_key_simple: lm13700
   owner_name: kicad
-  symbol_name: amplifier_operational_lm13700
+  symbol_name: lm13700
 oomp_key: oomp_kicad_amplifier_operational_lm13700
 oomp_key_simple: kicad_amplifier_operational_lm13700
 owner: kicad

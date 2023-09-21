@@ -1,3 +1,5 @@
+id: kicad_regulator_linear_mc78lc18ntr
+library: regulator_linear
 library_name: Regulator_Linear
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_linear_mc78lc18ntr/working
   oomp_src_flat: symbols_flat/kicad_regulator_linear_mc78lc18ntr/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_linear_mc78lc18ntr/working
-name: regulator_linear_mc78lc18ntr
+name: mc78lc18ntr
 oomp:
   library_name: regulator_linear
-  md5: 8c053a7c007c57952d943105a4ab8498
-  md5_10: 8c053a7c00
-  md5_5: 8c053
-  md5_6: 8c053a
-  oomp_key: oomp_regulator_linear_mc78lc18ntr
-  oomp_key_extra: oomp_symbol_regulator_linear_mc78lc18ntr
-  oomp_key_full: oomp_symbol_regulator_linear_mc78lc18ntr_8c053a
-  oomp_key_simple: regulator_linear_mc78lc18ntr
+  md5: b9987bd12243c723a7e50925e77c6b29
+  md5_10: b9987bd122
+  md5_5: b9987
+  md5_6: b9987b
+  oomp_key: oomp_mc78lc18ntr
+  oomp_key_extra: oomp_symbol_mc78lc18ntr
+  oomp_key_full: oomp_symbol_mc78lc18ntr_b9987b
+  oomp_key_simple: mc78lc18ntr
   owner_name: kicad
-  symbol_name: regulator_linear_mc78lc18ntr
+  symbol_name: mc78lc18ntr
 oomp_key: oomp_kicad_regulator_linear_mc78lc18ntr
 oomp_key_simple: kicad_regulator_linear_mc78lc18ntr
 owner: kicad

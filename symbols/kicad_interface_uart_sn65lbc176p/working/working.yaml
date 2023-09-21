@@ -1,16 +1,20 @@
+id: kicad_interface_uart_sn65lbc176p
+library: interface_uart
 library_name: Interface_UART
+name: sn65lbc176p
 oomp:
   library_name: interface_uart
-  md5: d75a27a26838f62c08ac2df44998262d
-  md5_10: d75a27a268
-  md5_5: d75a2
-  md5_6: d75a27
-  oomp_key: oomp_interface_uart_sn65lbc176p
-  oomp_key_extra: oomp_symbol_interface_uart_sn65lbc176p
-  oomp_key_full: oomp_symbol_interface_uart_sn65lbc176p_d75a27
-  oomp_key_simple: interface_uart_sn65lbc176p
+  md5: f045414d5e5fc8e49995bbf805ca834f
+  md5_10: f045414d5e
+  md5_5: f0454
+  md5_6: f04541
+  oomp_key: oomp_sn65lbc176p
+  oomp_key_extra: oomp_symbol_sn65lbc176p
+  oomp_key_full: oomp_symbol_sn65lbc176p_f04541
+  oomp_key_simple: sn65lbc176p
   owner_name: kicad
-  symbol_name: interface_uart_sn65lbc176p
+  symbol_name: sn65lbc176p
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_sensor_temperature_mcp9503
+library: sensor_temperature
 library_name: Sensor_Temperature
+name: mcp9503
 oomp:
   library_name: sensor_temperature
-  md5: 1fe822203803a08b85dfa719f0d50a61
-  md5_10: 1fe8222038
-  md5_5: 1fe82
-  md5_6: 1fe822
-  oomp_key: oomp_sensor_temperature_mcp9503
-  oomp_key_extra: oomp_symbol_sensor_temperature_mcp9503
-  oomp_key_full: oomp_symbol_sensor_temperature_mcp9503_1fe822
-  oomp_key_simple: sensor_temperature_mcp9503
+  md5: f5a68e35c216d33fb58e185f7ed99a62
+  md5_10: f5a68e35c2
+  md5_5: f5a68
+  md5_6: f5a68e
+  oomp_key: oomp_mcp9503
+  oomp_key_extra: oomp_symbol_mcp9503
+  oomp_key_full: oomp_symbol_mcp9503_f5a68e
+  oomp_key_simple: mcp9503
   owner_name: kicad
-  symbol_name: sensor_temperature_mcp9503
+  symbol_name: mcp9503
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

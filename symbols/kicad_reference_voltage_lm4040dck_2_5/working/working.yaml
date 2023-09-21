@@ -1,16 +1,20 @@
+id: kicad_reference_voltage_lm4040dck_2_5
+library: reference_voltage
 library_name: Reference_Voltage
+name: lm4040dck_2_5
 oomp:
   library_name: reference_voltage
-  md5: 74802384302724cd668673ec2a1b3a36
-  md5_10: '7480238430'
-  md5_5: '74802'
-  md5_6: '748023'
-  oomp_key: oomp_reference_voltage_lm4040dck_2_5
-  oomp_key_extra: oomp_symbol_reference_voltage_lm4040dck_2_5
-  oomp_key_full: oomp_symbol_reference_voltage_lm4040dck_2_5_748023
-  oomp_key_simple: reference_voltage_lm4040dck_2_5
+  md5: 7788b049a9c14d86ba49487ad48eb6fd
+  md5_10: 7788b049a9
+  md5_5: 7788b
+  md5_6: 7788b0
+  oomp_key: oomp_lm4040dck_2_5
+  oomp_key_extra: oomp_symbol_lm4040dck_2_5
+  oomp_key_full: oomp_symbol_lm4040dck_2_5_7788b0
+  oomp_key_simple: lm4040dck_2_5
   owner_name: kicad
-  symbol_name: reference_voltage_lm4040dck_2_5
+  symbol_name: lm4040dck_2_5
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

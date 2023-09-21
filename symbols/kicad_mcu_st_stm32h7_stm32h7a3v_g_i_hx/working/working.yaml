@@ -1,3 +1,5 @@
+id: kicad_mcu_st_stm32h7_stm32h7a3v_g_i_hx
+library: mcu_st_stm32h7
 library_name: MCU_ST_STM32H7
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_st_stm32h7_stm32h7a3v_g_i_hx/working
   oomp_src_flat: symbols_flat/kicad_mcu_st_stm32h7_stm32h7a3v_g_i_hx/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_st_stm32h7_stm32h7a3v_g_i_hx/working
-name: mcu_st_stm32h7_stm32h7a3v_g_i_hx
+name: stm32h7a3v_g_i_hx
 oomp:
   library_name: mcu_st_stm32h7
-  md5: 2dd8fd7d0a555af8ce9a6314eb1d3929
-  md5_10: 2dd8fd7d0a
-  md5_5: 2dd8f
-  md5_6: 2dd8fd
-  oomp_key: oomp_mcu_st_stm32h7_stm32h7a3v_g_i_hx
-  oomp_key_extra: oomp_symbol_mcu_st_stm32h7_stm32h7a3v_g_i_hx
-  oomp_key_full: oomp_symbol_mcu_st_stm32h7_stm32h7a3v_g_i_hx_2dd8fd
-  oomp_key_simple: mcu_st_stm32h7_stm32h7a3v_g_i_hx
+  md5: fa3f8f57c0dc1e447a1d1301319e4a02
+  md5_10: fa3f8f57c0
+  md5_5: fa3f8
+  md5_6: fa3f8f
+  oomp_key: oomp_stm32h7a3v_g_i_hx
+  oomp_key_extra: oomp_symbol_stm32h7a3v_g_i_hx
+  oomp_key_full: oomp_symbol_stm32h7a3v_g_i_hx_fa3f8f
+  oomp_key_simple: stm32h7a3v_g_i_hx
   owner_name: kicad
-  symbol_name: mcu_st_stm32h7_stm32h7a3v_g_i_hx
+  symbol_name: stm32h7a3v_g_i_hx
 oomp_key: oomp_kicad_mcu_st_stm32h7_stm32h7a3v_g_i_hx
 oomp_key_simple: kicad_mcu_st_stm32h7_stm32h7a3v_g_i_hx
 owner: kicad

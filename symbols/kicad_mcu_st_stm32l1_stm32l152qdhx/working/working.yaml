@@ -1,3 +1,5 @@
+id: kicad_mcu_st_stm32l1_stm32l152qdhx
+library: mcu_st_stm32l1
 library_name: MCU_ST_STM32L1
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_st_stm32l1_stm32l152qdhx/working
   oomp_src_flat: symbols_flat/kicad_mcu_st_stm32l1_stm32l152qdhx/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_st_stm32l1_stm32l152qdhx/working
-name: mcu_st_stm32l1_stm32l152qdhx
+name: stm32l152qdhx
 oomp:
   library_name: mcu_st_stm32l1
-  md5: 6aadcf1b0cf02521a1a8582fde2915aa
-  md5_10: 6aadcf1b0c
-  md5_5: 6aadc
-  md5_6: 6aadcf
-  oomp_key: oomp_mcu_st_stm32l1_stm32l152qdhx
-  oomp_key_extra: oomp_symbol_mcu_st_stm32l1_stm32l152qdhx
-  oomp_key_full: oomp_symbol_mcu_st_stm32l1_stm32l152qdhx_6aadcf
-  oomp_key_simple: mcu_st_stm32l1_stm32l152qdhx
+  md5: 2c9822e375b5a69d84a306ce50d3672f
+  md5_10: 2c9822e375
+  md5_5: 2c982
+  md5_6: 2c9822
+  oomp_key: oomp_stm32l152qdhx
+  oomp_key_extra: oomp_symbol_stm32l152qdhx
+  oomp_key_full: oomp_symbol_stm32l152qdhx_2c9822
+  oomp_key_simple: stm32l152qdhx
   owner_name: kicad
-  symbol_name: mcu_st_stm32l1_stm32l152qdhx
+  symbol_name: stm32l152qdhx
 oomp_key: oomp_kicad_mcu_st_stm32l1_stm32l152qdhx
 oomp_key_simple: kicad_mcu_st_stm32l1_stm32l152qdhx
 owner: kicad

@@ -1,16 +1,20 @@
+id: kicad_mcu_st_stm32f7_stm32f765vihx
+library: mcu_st_stm32f7
 library_name: MCU_ST_STM32F7
+name: stm32f765vihx
 oomp:
   library_name: mcu_st_stm32f7
-  md5: b398c286d3316a6d0d05d3329a4eb031
-  md5_10: b398c286d3
-  md5_5: b398c
-  md5_6: b398c2
-  oomp_key: oomp_mcu_st_stm32f7_stm32f765vihx
-  oomp_key_extra: oomp_symbol_mcu_st_stm32f7_stm32f765vihx
-  oomp_key_full: oomp_symbol_mcu_st_stm32f7_stm32f765vihx_b398c2
-  oomp_key_simple: mcu_st_stm32f7_stm32f765vihx
+  md5: afa8b6a59a60fb1e8840f16b9e67aa2f
+  md5_10: afa8b6a59a
+  md5_5: afa8b
+  md5_6: afa8b6
+  oomp_key: oomp_stm32f765vihx
+  oomp_key_extra: oomp_symbol_stm32f765vihx
+  oomp_key_full: oomp_symbol_stm32f765vihx_afa8b6
+  oomp_key_simple: stm32f765vihx
   owner_name: kicad
-  symbol_name: mcu_st_stm32f7_stm32f765vihx
+  symbol_name: stm32f765vihx
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

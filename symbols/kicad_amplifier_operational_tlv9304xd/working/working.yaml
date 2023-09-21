@@ -1,16 +1,20 @@
+id: kicad_amplifier_operational_tlv9304xd
+library: amplifier_operational
 library_name: Amplifier_Operational
+name: tlv9304xd
 oomp:
   library_name: amplifier_operational
-  md5: 1854030d77947be65e249ef0259a7b49
-  md5_10: 1854030d77
-  md5_5: '18540'
-  md5_6: '185403'
-  oomp_key: oomp_amplifier_operational_tlv9304xd
-  oomp_key_extra: oomp_symbol_amplifier_operational_tlv9304xd
-  oomp_key_full: oomp_symbol_amplifier_operational_tlv9304xd_185403
-  oomp_key_simple: amplifier_operational_tlv9304xd
+  md5: a797071faacbf5cac0003b18393cc110
+  md5_10: a797071faa
+  md5_5: a7970
+  md5_6: a79707
+  oomp_key: oomp_tlv9304xd
+  oomp_key_extra: oomp_symbol_tlv9304xd
+  oomp_key_full: oomp_symbol_tlv9304xd_a79707
+  oomp_key_simple: tlv9304xd
   owner_name: kicad
-  symbol_name: amplifier_operational_tlv9304xd
+  symbol_name: tlv9304xd
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

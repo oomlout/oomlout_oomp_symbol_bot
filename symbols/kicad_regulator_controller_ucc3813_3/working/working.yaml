@@ -1,16 +1,20 @@
+id: kicad_regulator_controller_ucc3813_3
+library: regulator_controller
 library_name: Regulator_Controller
+name: ucc3813_3
 oomp:
   library_name: regulator_controller
-  md5: 1db677a49eab04e4d3e50136782ecd03
-  md5_10: 1db677a49e
-  md5_5: 1db67
-  md5_6: 1db677
-  oomp_key: oomp_regulator_controller_ucc3813_3
-  oomp_key_extra: oomp_symbol_regulator_controller_ucc3813_3
-  oomp_key_full: oomp_symbol_regulator_controller_ucc3813_3_1db677
-  oomp_key_simple: regulator_controller_ucc3813_3
+  md5: ac1c4b00ee8b1a437d4c37ee8c82404a
+  md5_10: ac1c4b00ee
+  md5_5: ac1c4
+  md5_6: ac1c4b
+  oomp_key: oomp_ucc3813_3
+  oomp_key_extra: oomp_symbol_ucc3813_3
+  oomp_key_full: oomp_symbol_ucc3813_3_ac1c4b
+  oomp_key_simple: ucc3813_3
   owner_name: kicad
-  symbol_name: regulator_controller_ucc3813_3
+  symbol_name: ucc3813_3
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

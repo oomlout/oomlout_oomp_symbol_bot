@@ -1,16 +1,20 @@
+id: kicad_switch_sw_coded_sh_7030
+library: switch
 library_name: Switch
+name: sw_coded_sh_7030
 oomp:
   library_name: switch
-  md5: 34a371f06fa322b618fbc6377b1c0209
-  md5_10: 34a371f06f
-  md5_5: 34a37
-  md5_6: 34a371
-  oomp_key: oomp_switch_sw_coded_sh_7030
-  oomp_key_extra: oomp_symbol_switch_sw_coded_sh_7030
-  oomp_key_full: oomp_symbol_switch_sw_coded_sh_7030_34a371
-  oomp_key_simple: switch_sw_coded_sh_7030
+  md5: 540384e3db400fc97da615cadd89da10
+  md5_10: 540384e3db
+  md5_5: '54038'
+  md5_6: '540384'
+  oomp_key: oomp_sw_coded_sh_7030
+  oomp_key_extra: oomp_symbol_sw_coded_sh_7030
+  oomp_key_full: oomp_symbol_sw_coded_sh_7030_540384
+  oomp_key_simple: sw_coded_sh_7030
   owner_name: kicad
-  symbol_name: switch_sw_coded_sh_7030
+  symbol_name: sw_coded_sh_7030
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

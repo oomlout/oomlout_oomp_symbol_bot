@@ -1,3 +1,5 @@
+id: kicad_display_character_lts_6960hr
+library: display_character
 library_name: Display_Character
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_display_character_lts_6960hr/working
   oomp_src_flat: symbols_flat/kicad_display_character_lts_6960hr/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_display_character_lts_6960hr/working
-name: display_character_lts_6960hr
+name: lts_6960hr
 oomp:
   library_name: display_character
-  md5: 89054ea825a29ba48b620c4ae894598b
-  md5_10: 89054ea825
-  md5_5: '89054'
-  md5_6: 89054e
-  oomp_key: oomp_display_character_lts_6960hr
-  oomp_key_extra: oomp_symbol_display_character_lts_6960hr
-  oomp_key_full: oomp_symbol_display_character_lts_6960hr_89054e
-  oomp_key_simple: display_character_lts_6960hr
+  md5: 69f6575d3f6ddf06db5552630c544e72
+  md5_10: 69f6575d3f
+  md5_5: 69f65
+  md5_6: 69f657
+  oomp_key: oomp_lts_6960hr
+  oomp_key_extra: oomp_symbol_lts_6960hr
+  oomp_key_full: oomp_symbol_lts_6960hr_69f657
+  oomp_key_simple: lts_6960hr
   owner_name: kicad
-  symbol_name: display_character_lts_6960hr
+  symbol_name: lts_6960hr
 oomp_key: oomp_kicad_display_character_lts_6960hr
 oomp_key_simple: kicad_display_character_lts_6960hr
 owner: kicad

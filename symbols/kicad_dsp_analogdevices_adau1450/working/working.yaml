@@ -1,3 +1,5 @@
+id: kicad_dsp_analogdevices_adau1450
+library: dsp_analogdevices
 library_name: DSP_AnalogDevices
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_dsp_analogdevices_adau1450/working
   oomp_src_flat: symbols_flat/kicad_dsp_analogdevices_adau1450/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_dsp_analogdevices_adau1450/working
-name: dsp_analogdevices_adau1450
+name: adau1450
 oomp:
   library_name: dsp_analogdevices
-  md5: f1ab5ef0a190cb7dc15f3962a4bab99d
-  md5_10: f1ab5ef0a1
-  md5_5: f1ab5
-  md5_6: f1ab5e
-  oomp_key: oomp_dsp_analogdevices_adau1450
-  oomp_key_extra: oomp_symbol_dsp_analogdevices_adau1450
-  oomp_key_full: oomp_symbol_dsp_analogdevices_adau1450_f1ab5e
-  oomp_key_simple: dsp_analogdevices_adau1450
+  md5: 9b7dfbfc2886a4473b302cebd289d9c3
+  md5_10: 9b7dfbfc28
+  md5_5: 9b7df
+  md5_6: 9b7dfb
+  oomp_key: oomp_adau1450
+  oomp_key_extra: oomp_symbol_adau1450
+  oomp_key_full: oomp_symbol_adau1450_9b7dfb
+  oomp_key_simple: adau1450
   owner_name: kicad
-  symbol_name: dsp_analogdevices_adau1450
+  symbol_name: adau1450
 oomp_key: oomp_kicad_dsp_analogdevices_adau1450
 oomp_key_simple: kicad_dsp_analogdevices_adau1450
 owner: kicad

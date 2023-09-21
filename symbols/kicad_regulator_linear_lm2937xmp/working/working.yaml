@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_lm2937xmp
+library: regulator_linear
 library_name: Regulator_Linear
+name: lm2937xmp
 oomp:
   library_name: regulator_linear
-  md5: 95359604f68816a9ed7b7a10bfc18ca9
-  md5_10: 95359604f6
-  md5_5: '95359'
-  md5_6: '953596'
-  oomp_key: oomp_regulator_linear_lm2937xmp
-  oomp_key_extra: oomp_symbol_regulator_linear_lm2937xmp
-  oomp_key_full: oomp_symbol_regulator_linear_lm2937xmp_953596
-  oomp_key_simple: regulator_linear_lm2937xmp
+  md5: d399a5f3a62bc5c6ca6ac827f7ae8d41
+  md5_10: d399a5f3a6
+  md5_5: d399a
+  md5_6: d399a5
+  oomp_key: oomp_lm2937xmp
+  oomp_key_extra: oomp_symbol_lm2937xmp
+  oomp_key_full: oomp_symbol_lm2937xmp_d399a5
+  oomp_key_simple: lm2937xmp
   owner_name: kicad
-  symbol_name: regulator_linear_lm2937xmp
+  symbol_name: lm2937xmp
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

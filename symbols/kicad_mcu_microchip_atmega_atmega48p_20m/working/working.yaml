@@ -1,16 +1,20 @@
+id: kicad_mcu_microchip_atmega_atmega48p_20m
+library: mcu_microchip_atmega
 library_name: MCU_Microchip_ATmega
+name: atmega48p_20m
 oomp:
   library_name: mcu_microchip_atmega
-  md5: 6037cdfdc6823248dfd03d776da4cbdd
-  md5_10: 6037cdfdc6
-  md5_5: 6037c
-  md5_6: 6037cd
-  oomp_key: oomp_mcu_microchip_atmega_atmega48p_20m
-  oomp_key_extra: oomp_symbol_mcu_microchip_atmega_atmega48p_20m
-  oomp_key_full: oomp_symbol_mcu_microchip_atmega_atmega48p_20m_6037cd
-  oomp_key_simple: mcu_microchip_atmega_atmega48p_20m
+  md5: 8c45b2422d1a7861117a336472a1930f
+  md5_10: 8c45b2422d
+  md5_5: 8c45b
+  md5_6: 8c45b2
+  oomp_key: oomp_atmega48p_20m
+  oomp_key_extra: oomp_symbol_atmega48p_20m
+  oomp_key_full: oomp_symbol_atmega48p_20m_8c45b2
+  oomp_key_simple: atmega48p_20m
   owner_name: kicad
-  symbol_name: mcu_microchip_atmega_atmega48p_20m
+  symbol_name: atmega48p_20m
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

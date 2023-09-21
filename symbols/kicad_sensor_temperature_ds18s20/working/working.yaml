@@ -1,16 +1,20 @@
+id: kicad_sensor_temperature_ds18s20
+library: sensor_temperature
 library_name: Sensor_Temperature
+name: ds18s20
 oomp:
   library_name: sensor_temperature
-  md5: 7846221fe3d79108cbfba00971ecb2ed
-  md5_10: 7846221fe3
-  md5_5: '78462'
-  md5_6: '784622'
-  oomp_key: oomp_sensor_temperature_ds18s20
-  oomp_key_extra: oomp_symbol_sensor_temperature_ds18s20
-  oomp_key_full: oomp_symbol_sensor_temperature_ds18s20_784622
-  oomp_key_simple: sensor_temperature_ds18s20
+  md5: 3e8b8bbc6d5602403a53a87354f53157
+  md5_10: 3e8b8bbc6d
+  md5_5: 3e8b8
+  md5_6: 3e8b8b
+  oomp_key: oomp_ds18s20
+  oomp_key_extra: oomp_symbol_ds18s20
+  oomp_key_full: oomp_symbol_ds18s20_3e8b8b
+  oomp_key_simple: ds18s20
   owner_name: kicad
-  symbol_name: sensor_temperature_ds18s20
+  symbol_name: ds18s20
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

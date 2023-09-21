@@ -1,16 +1,20 @@
+id: kicad_analog_dac_ad7225crs
+library: analog_dac
 library_name: Analog_DAC
+name: ad7225crs
 oomp:
   library_name: analog_dac
-  md5: 54de780e267322609eeea45c74c89cb8
-  md5_10: 54de780e26
-  md5_5: 54de7
-  md5_6: 54de78
-  oomp_key: oomp_analog_dac_ad7225crs
-  oomp_key_extra: oomp_symbol_analog_dac_ad7225crs
-  oomp_key_full: oomp_symbol_analog_dac_ad7225crs_54de78
-  oomp_key_simple: analog_dac_ad7225crs
+  md5: 7406c519f9134920efb2fe93781b46ff
+  md5_10: 7406c519f9
+  md5_5: 7406c
+  md5_6: 7406c5
+  oomp_key: oomp_ad7225crs
+  oomp_key_extra: oomp_symbol_ad7225crs
+  oomp_key_full: oomp_symbol_ad7225crs_7406c5
+  oomp_key_simple: ad7225crs
   owner_name: kicad
-  symbol_name: analog_dac_ad7225crs
+  symbol_name: ad7225crs
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

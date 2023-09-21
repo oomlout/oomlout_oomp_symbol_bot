@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_mc7924
+library: regulator_linear
 library_name: Regulator_Linear
+name: mc7924
 oomp:
   library_name: regulator_linear
-  md5: 8b864dcc164babe3cbe41a26ab070a01
-  md5_10: 8b864dcc16
-  md5_5: 8b864
-  md5_6: 8b864d
-  oomp_key: oomp_regulator_linear_mc7924
-  oomp_key_extra: oomp_symbol_regulator_linear_mc7924
-  oomp_key_full: oomp_symbol_regulator_linear_mc7924_8b864d
-  oomp_key_simple: regulator_linear_mc7924
+  md5: b710ca6d81c1b54fde8483488dc44ace
+  md5_10: b710ca6d81
+  md5_5: b710c
+  md5_6: b710ca
+  oomp_key: oomp_mc7924
+  oomp_key_extra: oomp_symbol_mc7924
+  oomp_key_full: oomp_symbol_mc7924_b710ca
+  oomp_key_simple: mc7924
   owner_name: kicad
-  symbol_name: regulator_linear_mc7924
+  symbol_name: mc7924
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_mcu_microchip_avr_dx_avr128db48x_xpt
+library: mcu_microchip_avr_dx
 library_name: MCU_Microchip_AVR_Dx
+name: avr128db48x_xpt
 oomp:
   library_name: mcu_microchip_avr_dx
-  md5: 1ee7cbc9167d19903acf6d4fc528bd84
-  md5_10: 1ee7cbc916
-  md5_5: 1ee7c
-  md5_6: 1ee7cb
-  oomp_key: oomp_mcu_microchip_avr_dx_avr128db48x_xpt
-  oomp_key_extra: oomp_symbol_mcu_microchip_avr_dx_avr128db48x_xpt
-  oomp_key_full: oomp_symbol_mcu_microchip_avr_dx_avr128db48x_xpt_1ee7cb
-  oomp_key_simple: mcu_microchip_avr_dx_avr128db48x_xpt
+  md5: bb6e9fada0aa95760da71d23263ee128
+  md5_10: bb6e9fada0
+  md5_5: bb6e9
+  md5_6: bb6e9f
+  oomp_key: oomp_avr128db48x_xpt
+  oomp_key_extra: oomp_symbol_avr128db48x_xpt
+  oomp_key_full: oomp_symbol_avr128db48x_xpt_bb6e9f
+  oomp_key_simple: avr128db48x_xpt
   owner_name: kicad
-  symbol_name: mcu_microchip_avr_dx_avr128db48x_xpt
+  symbol_name: avr128db48x_xpt
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

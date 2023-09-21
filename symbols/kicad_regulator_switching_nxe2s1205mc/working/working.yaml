@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_nxe2s1205mc
+library: regulator_switching
 library_name: Regulator_Switching
+name: nxe2s1205mc
 oomp:
   library_name: regulator_switching
-  md5: 8c48c36843c59018dbd2b2fb9094dab2
-  md5_10: 8c48c36843
-  md5_5: 8c48c
-  md5_6: 8c48c3
-  oomp_key: oomp_regulator_switching_nxe2s1205mc
-  oomp_key_extra: oomp_symbol_regulator_switching_nxe2s1205mc
-  oomp_key_full: oomp_symbol_regulator_switching_nxe2s1205mc_8c48c3
-  oomp_key_simple: regulator_switching_nxe2s1205mc
+  md5: 823f4ae92b6b7ac48a5135dbda8aeaef
+  md5_10: 823f4ae92b
+  md5_5: 823f4
+  md5_6: 823f4a
+  oomp_key: oomp_nxe2s1205mc
+  oomp_key_extra: oomp_symbol_nxe2s1205mc
+  oomp_key_full: oomp_symbol_nxe2s1205mc_823f4a
+  oomp_key_simple: nxe2s1205mc
   owner_name: kicad
-  symbol_name: regulator_switching_nxe2s1205mc
+  symbol_name: nxe2s1205mc
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

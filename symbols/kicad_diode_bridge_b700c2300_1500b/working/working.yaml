@@ -1,16 +1,20 @@
+id: kicad_diode_bridge_b700c2300_1500b
+library: diode_bridge
 library_name: Diode_Bridge
+name: b700c2300_1500b
 oomp:
   library_name: diode_bridge
-  md5: bbe91ace609a600fa4f220744018986a
-  md5_10: bbe91ace60
-  md5_5: bbe91
-  md5_6: bbe91a
-  oomp_key: oomp_diode_bridge_b700c2300_1500b
-  oomp_key_extra: oomp_symbol_diode_bridge_b700c2300_1500b
-  oomp_key_full: oomp_symbol_diode_bridge_b700c2300_1500b_bbe91a
-  oomp_key_simple: diode_bridge_b700c2300_1500b
+  md5: 75c1744d998c373f2004c36b38c4215c
+  md5_10: 75c1744d99
+  md5_5: 75c17
+  md5_6: 75c174
+  oomp_key: oomp_b700c2300_1500b
+  oomp_key_extra: oomp_symbol_b700c2300_1500b
+  oomp_key_full: oomp_symbol_b700c2300_1500b_75c174
+  oomp_key_simple: b700c2300_1500b
   owner_name: kicad
-  symbol_name: diode_bridge_b700c2300_1500b
+  symbol_name: b700c2300_1500b
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

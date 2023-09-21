@@ -1,16 +1,20 @@
+id: kicad_analog_adc_ads1113idgs
+library: analog_adc
 library_name: Analog_ADC
+name: ads1113idgs
 oomp:
   library_name: analog_adc
-  md5: e8ef48e52da2813ea8b667d13edb0eb5
-  md5_10: e8ef48e52d
-  md5_5: e8ef4
-  md5_6: e8ef48
-  oomp_key: oomp_analog_adc_ads1113idgs
-  oomp_key_extra: oomp_symbol_analog_adc_ads1113idgs
-  oomp_key_full: oomp_symbol_analog_adc_ads1113idgs_e8ef48
-  oomp_key_simple: analog_adc_ads1113idgs
+  md5: 5142bf90841b415dced608585d93f125
+  md5_10: 5142bf9084
+  md5_5: 5142b
+  md5_6: 5142bf
+  oomp_key: oomp_ads1113idgs
+  oomp_key_extra: oomp_symbol_ads1113idgs
+  oomp_key_full: oomp_symbol_ads1113idgs_5142bf
+  oomp_key_simple: ads1113idgs
   owner_name: kicad
-  symbol_name: analog_adc_ads1113idgs
+  symbol_name: ads1113idgs
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

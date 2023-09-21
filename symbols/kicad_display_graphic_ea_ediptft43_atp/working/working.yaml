@@ -1,16 +1,20 @@
+id: kicad_display_graphic_ea_ediptft43_atp
+library: display_graphic
 library_name: Display_Graphic
+name: ea_ediptft43_atp
 oomp:
   library_name: display_graphic
-  md5: 1da2712e7b494bde998f0cfa31f3ea5c
-  md5_10: 1da2712e7b
-  md5_5: 1da27
-  md5_6: 1da271
-  oomp_key: oomp_display_graphic_ea_ediptft43_atp
-  oomp_key_extra: oomp_symbol_display_graphic_ea_ediptft43_atp
-  oomp_key_full: oomp_symbol_display_graphic_ea_ediptft43_atp_1da271
-  oomp_key_simple: display_graphic_ea_ediptft43_atp
+  md5: f2d57f952cf3cdcef2bbaaa6fb16bfbd
+  md5_10: f2d57f952c
+  md5_5: f2d57
+  md5_6: f2d57f
+  oomp_key: oomp_ea_ediptft43_atp
+  oomp_key_extra: oomp_symbol_ea_ediptft43_atp
+  oomp_key_full: oomp_symbol_ea_ediptft43_atp_f2d57f
+  oomp_key_simple: ea_ediptft43_atp
   owner_name: kicad
-  symbol_name: display_graphic_ea_ediptft43_atp
+  symbol_name: ea_ediptft43_atp
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_amplifier_operational_ltc6269xms8e
+library: amplifier_operational
 library_name: Amplifier_Operational
+name: ltc6269xms8e
 oomp:
   library_name: amplifier_operational
-  md5: 08b7ff955a78d7f762d9ad5aa35ac47f
-  md5_10: 08b7ff955a
-  md5_5: 08b7f
-  md5_6: 08b7ff
-  oomp_key: oomp_amplifier_operational_ltc6269xms8e
-  oomp_key_extra: oomp_symbol_amplifier_operational_ltc6269xms8e
-  oomp_key_full: oomp_symbol_amplifier_operational_ltc6269xms8e_08b7ff
-  oomp_key_simple: amplifier_operational_ltc6269xms8e
+  md5: 495c54225343e0757f1adaeee4cd32e5
+  md5_10: 495c542253
+  md5_5: 495c5
+  md5_6: 495c54
+  oomp_key: oomp_ltc6269xms8e
+  oomp_key_extra: oomp_symbol_ltc6269xms8e
+  oomp_key_full: oomp_symbol_ltc6269xms8e_495c54
+  oomp_key_simple: ltc6269xms8e
   owner_name: kicad
-  symbol_name: amplifier_operational_ltc6269xms8e
+  symbol_name: ltc6269xms8e
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

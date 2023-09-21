@@ -1,16 +1,20 @@
+id: kicad_reference_voltage_ref3040
+library: reference_voltage
 library_name: Reference_Voltage
+name: ref3040
 oomp:
   library_name: reference_voltage
-  md5: b35c66649bdfce33bdbe205fc1e69cc6
-  md5_10: b35c66649b
-  md5_5: b35c6
-  md5_6: b35c66
-  oomp_key: oomp_reference_voltage_ref3040
-  oomp_key_extra: oomp_symbol_reference_voltage_ref3040
-  oomp_key_full: oomp_symbol_reference_voltage_ref3040_b35c66
-  oomp_key_simple: reference_voltage_ref3040
+  md5: 391b880f45b6fac7018a3b5556048434
+  md5_10: 391b880f45
+  md5_5: 391b8
+  md5_6: 391b88
+  oomp_key: oomp_ref3040
+  oomp_key_extra: oomp_symbol_ref3040
+  oomp_key_full: oomp_symbol_ref3040_391b88
+  oomp_key_simple: ref3040
   owner_name: kicad
-  symbol_name: reference_voltage_ref3040
+  symbol_name: ref3040
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

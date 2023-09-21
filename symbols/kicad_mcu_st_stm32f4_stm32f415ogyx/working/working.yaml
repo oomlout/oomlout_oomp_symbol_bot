@@ -1,3 +1,5 @@
+id: kicad_mcu_st_stm32f4_stm32f415ogyx
+library: mcu_st_stm32f4
 library_name: MCU_ST_STM32F4
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_st_stm32f4_stm32f415ogyx/working
   oomp_src_flat: symbols_flat/kicad_mcu_st_stm32f4_stm32f415ogyx/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_st_stm32f4_stm32f415ogyx/working
-name: mcu_st_stm32f4_stm32f415ogyx
+name: stm32f415ogyx
 oomp:
   library_name: mcu_st_stm32f4
-  md5: 9f5039559b2825e6385708fa5d81af92
-  md5_10: 9f5039559b
-  md5_5: 9f503
-  md5_6: 9f5039
-  oomp_key: oomp_mcu_st_stm32f4_stm32f415ogyx
-  oomp_key_extra: oomp_symbol_mcu_st_stm32f4_stm32f415ogyx
-  oomp_key_full: oomp_symbol_mcu_st_stm32f4_stm32f415ogyx_9f5039
-  oomp_key_simple: mcu_st_stm32f4_stm32f415ogyx
+  md5: 74dd6b9f187b5f313dfc30b3e486bed6
+  md5_10: 74dd6b9f18
+  md5_5: 74dd6
+  md5_6: 74dd6b
+  oomp_key: oomp_stm32f415ogyx
+  oomp_key_extra: oomp_symbol_stm32f415ogyx
+  oomp_key_full: oomp_symbol_stm32f415ogyx_74dd6b
+  oomp_key_simple: stm32f415ogyx
   owner_name: kicad
-  symbol_name: mcu_st_stm32f4_stm32f415ogyx
+  symbol_name: stm32f415ogyx
 oomp_key: oomp_kicad_mcu_st_stm32f4_stm32f415ogyx
 oomp_key_simple: kicad_mcu_st_stm32f4_stm32f415ogyx
 owner: kicad

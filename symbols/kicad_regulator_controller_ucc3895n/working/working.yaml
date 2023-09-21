@@ -1,3 +1,5 @@
+id: kicad_regulator_controller_ucc3895n
+library: regulator_controller
 library_name: Regulator_Controller
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_controller_ucc3895n/working
   oomp_src_flat: symbols_flat/kicad_regulator_controller_ucc3895n/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_controller_ucc3895n/working
-name: regulator_controller_ucc3895n
+name: ucc3895n
 oomp:
   library_name: regulator_controller
-  md5: f2ee8d1f64c05993f237c6870f634dc3
-  md5_10: f2ee8d1f64
-  md5_5: f2ee8
-  md5_6: f2ee8d
-  oomp_key: oomp_regulator_controller_ucc3895n
-  oomp_key_extra: oomp_symbol_regulator_controller_ucc3895n
-  oomp_key_full: oomp_symbol_regulator_controller_ucc3895n_f2ee8d
-  oomp_key_simple: regulator_controller_ucc3895n
+  md5: 40bf0452d0385a40c010f9dc3320014a
+  md5_10: 40bf0452d0
+  md5_5: 40bf0
+  md5_6: 40bf04
+  oomp_key: oomp_ucc3895n
+  oomp_key_extra: oomp_symbol_ucc3895n
+  oomp_key_full: oomp_symbol_ucc3895n_40bf04
+  oomp_key_simple: ucc3895n
   owner_name: kicad
-  symbol_name: regulator_controller_ucc3895n
+  symbol_name: ucc3895n
 oomp_key: oomp_kicad_regulator_controller_ucc3895n
 oomp_key_simple: kicad_regulator_controller_ucc3895n
 owner: kicad

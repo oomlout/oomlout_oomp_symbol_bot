@@ -15,7 +15,7 @@
     (property "ki_keywords" "R res resistor" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "ki_description" "Resistor" (at 0 0 0)
+    (property "ki_description" "[electronic_resistor_0402_68_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_68_ohm/working)<br><br>[Uniroyal - 0402WGJ0680TCE- not in jlc basic parts]()[Uniroyal - 0402WGF068-1TCE- jlc basic part]()[Yageo - RC0402JR-0768RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0768RL)" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "ki_fp_filters" "R_*" (at 0 0 0)

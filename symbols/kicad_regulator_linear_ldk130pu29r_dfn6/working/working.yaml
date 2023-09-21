@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_ldk130pu29r_dfn6
+library: regulator_linear
 library_name: Regulator_Linear
+name: ldk130pu29r_dfn6
 oomp:
   library_name: regulator_linear
-  md5: 72e52b4fc9407f5542b690245be90804
-  md5_10: 72e52b4fc9
-  md5_5: 72e52
-  md5_6: 72e52b
-  oomp_key: oomp_regulator_linear_ldk130pu29r_dfn6
-  oomp_key_extra: oomp_symbol_regulator_linear_ldk130pu29r_dfn6
-  oomp_key_full: oomp_symbol_regulator_linear_ldk130pu29r_dfn6_72e52b
-  oomp_key_simple: regulator_linear_ldk130pu29r_dfn6
+  md5: ec1aaed04f3b4103a73c11fc740b4845
+  md5_10: ec1aaed04f
+  md5_5: ec1aa
+  md5_6: ec1aae
+  oomp_key: oomp_ldk130pu29r_dfn6
+  oomp_key_extra: oomp_symbol_ldk130pu29r_dfn6
+  oomp_key_full: oomp_symbol_ldk130pu29r_dfn6_ec1aae
+  oomp_key_simple: ldk130pu29r_dfn6
   owner_name: kicad
-  symbol_name: regulator_linear_ldk130pu29r_dfn6
+  symbol_name: ldk130pu29r_dfn6
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

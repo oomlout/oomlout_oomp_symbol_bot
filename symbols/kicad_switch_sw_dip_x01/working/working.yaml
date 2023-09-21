@@ -1,3 +1,5 @@
+id: kicad_switch_sw_dip_x01
+library: switch
 library_name: Switch
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_switch_sw_dip_x01/working
   oomp_src_flat: symbols_flat/kicad_switch_sw_dip_x01/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_switch_sw_dip_x01/working
-name: switch_sw_dip_x01
+name: sw_dip_x01
 oomp:
   library_name: switch
-  md5: d71986b799a2a712871fcda7a16de1b5
-  md5_10: d71986b799
-  md5_5: d7198
-  md5_6: d71986
-  oomp_key: oomp_switch_sw_dip_x01
-  oomp_key_extra: oomp_symbol_switch_sw_dip_x01
-  oomp_key_full: oomp_symbol_switch_sw_dip_x01_d71986
-  oomp_key_simple: switch_sw_dip_x01
+  md5: bcd275c1573575b7df35c49578a6aa7b
+  md5_10: bcd275c157
+  md5_5: bcd27
+  md5_6: bcd275
+  oomp_key: oomp_sw_dip_x01
+  oomp_key_extra: oomp_symbol_sw_dip_x01
+  oomp_key_full: oomp_symbol_sw_dip_x01_bcd275
+  oomp_key_simple: sw_dip_x01
   owner_name: kicad
-  symbol_name: switch_sw_dip_x01
+  symbol_name: sw_dip_x01
 oomp_key: oomp_kicad_switch_sw_dip_x01
 oomp_key_simple: kicad_switch_sw_dip_x01
 owner: kicad

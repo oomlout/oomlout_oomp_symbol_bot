@@ -1,16 +1,20 @@
+id: kicad_transistor_bjt_bc856w
+library: transistor_bjt
 library_name: Transistor_BJT
+name: bc856w
 oomp:
   library_name: transistor_bjt
-  md5: 1e6e7955f6b6cdc334bfca1171829636
-  md5_10: 1e6e7955f6
-  md5_5: 1e6e7
-  md5_6: 1e6e79
-  oomp_key: oomp_transistor_bjt_bc856w
-  oomp_key_extra: oomp_symbol_transistor_bjt_bc856w
-  oomp_key_full: oomp_symbol_transistor_bjt_bc856w_1e6e79
-  oomp_key_simple: transistor_bjt_bc856w
+  md5: 32730c0e071a73b38205b76940a75a17
+  md5_10: 32730c0e07
+  md5_5: '32730'
+  md5_6: 32730c
+  oomp_key: oomp_bc856w
+  oomp_key_extra: oomp_symbol_bc856w
+  oomp_key_full: oomp_symbol_bc856w_32730c
+  oomp_key_simple: bc856w
   owner_name: kicad
-  symbol_name: transistor_bjt_bc856w
+  symbol_name: bc856w
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

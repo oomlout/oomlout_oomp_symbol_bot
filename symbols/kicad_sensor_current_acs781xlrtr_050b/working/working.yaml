@@ -1,16 +1,20 @@
+id: kicad_sensor_current_acs781xlrtr_050b
+library: sensor_current
 library_name: Sensor_Current
+name: acs781xlrtr_050b
 oomp:
   library_name: sensor_current
-  md5: 4bc98b7970acddb094268fc633697837
-  md5_10: 4bc98b7970
-  md5_5: 4bc98
-  md5_6: 4bc98b
-  oomp_key: oomp_sensor_current_acs781xlrtr_050b
-  oomp_key_extra: oomp_symbol_sensor_current_acs781xlrtr_050b
-  oomp_key_full: oomp_symbol_sensor_current_acs781xlrtr_050b_4bc98b
-  oomp_key_simple: sensor_current_acs781xlrtr_050b
+  md5: 4d05d153bcf8f75a2a1c4869bdd145da
+  md5_10: 4d05d153bc
+  md5_5: 4d05d
+  md5_6: 4d05d1
+  oomp_key: oomp_acs781xlrtr_050b
+  oomp_key_extra: oomp_symbol_acs781xlrtr_050b
+  oomp_key_full: oomp_symbol_acs781xlrtr_050b_4d05d1
+  oomp_key_simple: acs781xlrtr_050b
   owner_name: kicad
-  symbol_name: sensor_current_acs781xlrtr_050b
+  symbol_name: acs781xlrtr_050b
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

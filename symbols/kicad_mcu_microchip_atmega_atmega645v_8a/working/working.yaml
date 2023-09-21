@@ -1,16 +1,20 @@
+id: kicad_mcu_microchip_atmega_atmega645v_8a
+library: mcu_microchip_atmega
 library_name: MCU_Microchip_ATmega
+name: atmega645v_8a
 oomp:
   library_name: mcu_microchip_atmega
-  md5: 73b13eb3ee37f37d8ced325137acdb8f
-  md5_10: 73b13eb3ee
-  md5_5: 73b13
-  md5_6: 73b13e
-  oomp_key: oomp_mcu_microchip_atmega_atmega645v_8a
-  oomp_key_extra: oomp_symbol_mcu_microchip_atmega_atmega645v_8a
-  oomp_key_full: oomp_symbol_mcu_microchip_atmega_atmega645v_8a_73b13e
-  oomp_key_simple: mcu_microchip_atmega_atmega645v_8a
+  md5: 5ceda441ee175d7651dc35a163604148
+  md5_10: 5ceda441ee
+  md5_5: 5ceda
+  md5_6: 5ceda4
+  oomp_key: oomp_atmega645v_8a
+  oomp_key_extra: oomp_symbol_atmega645v_8a
+  oomp_key_full: oomp_symbol_atmega645v_8a_5ceda4
+  oomp_key_simple: atmega645v_8a
   owner_name: kicad
-  symbol_name: mcu_microchip_atmega_atmega645v_8a
+  symbol_name: atmega645v_8a
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

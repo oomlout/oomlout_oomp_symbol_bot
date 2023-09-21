@@ -1,16 +1,20 @@
+id: kicad_amplifier_operational_mcp603_xst
+library: amplifier_operational
 library_name: Amplifier_Operational
+name: mcp603_xst
 oomp:
   library_name: amplifier_operational
-  md5: dde5df79a8ea5aec687c1fec96413c2f
-  md5_10: dde5df79a8
-  md5_5: dde5d
-  md5_6: dde5df
-  oomp_key: oomp_amplifier_operational_mcp603_xst
-  oomp_key_extra: oomp_symbol_amplifier_operational_mcp603_xst
-  oomp_key_full: oomp_symbol_amplifier_operational_mcp603_xst_dde5df
-  oomp_key_simple: amplifier_operational_mcp603_xst
+  md5: f617315055f15d84afe005e88ea81c2c
+  md5_10: f617315055
+  md5_5: f6173
+  md5_6: f61731
+  oomp_key: oomp_mcp603_xst
+  oomp_key_extra: oomp_symbol_mcp603_xst
+  oomp_key_full: oomp_symbol_mcp603_xst_f61731
+  oomp_key_simple: mcp603_xst
   owner_name: kicad
-  symbol_name: amplifier_operational_mcp603_xst
+  symbol_name: mcp603_xst
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

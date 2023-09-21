@@ -1,16 +1,20 @@
+id: kicad_converter_dcdc_rpm3_3_1_0
+library: converter_dcdc
 library_name: Converter_DCDC
+name: rpm3_3_1_0
 oomp:
   library_name: converter_dcdc
-  md5: 61e18267d0c8b6621a9ff62003ed16e7
-  md5_10: 61e18267d0
-  md5_5: 61e18
-  md5_6: 61e182
-  oomp_key: oomp_converter_dcdc_rpm3_3_1_0
-  oomp_key_extra: oomp_symbol_converter_dcdc_rpm3_3_1_0
-  oomp_key_full: oomp_symbol_converter_dcdc_rpm3_3_1_0_61e182
-  oomp_key_simple: converter_dcdc_rpm3_3_1_0
+  md5: 80272406128d36ff4dad0efffa0aaca5
+  md5_10: '8027240612'
+  md5_5: '80272'
+  md5_6: '802724'
+  oomp_key: oomp_rpm3_3_1_0
+  oomp_key_extra: oomp_symbol_rpm3_3_1_0
+  oomp_key_full: oomp_symbol_rpm3_3_1_0_802724
+  oomp_key_simple: rpm3_3_1_0
   owner_name: kicad
-  symbol_name: converter_dcdc_rpm3_3_1_0
+  symbol_name: rpm3_3_1_0
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

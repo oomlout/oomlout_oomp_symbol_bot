@@ -1,16 +1,20 @@
+id: kicad_analog_dac_mcp4821_emc
+library: analog_dac
 library_name: Analog_DAC
+name: mcp4821_emc
 oomp:
   library_name: analog_dac
-  md5: 115784258026b52c6e0919beff5238bb
-  md5_10: '1157842580'
-  md5_5: '11578'
-  md5_6: '115784'
-  oomp_key: oomp_analog_dac_mcp4821_emc
-  oomp_key_extra: oomp_symbol_analog_dac_mcp4821_emc
-  oomp_key_full: oomp_symbol_analog_dac_mcp4821_emc_115784
-  oomp_key_simple: analog_dac_mcp4821_emc
+  md5: 55e15bb6f45bacc5c10db7d256ec3b0c
+  md5_10: 55e15bb6f4
+  md5_5: 55e15
+  md5_6: 55e15b
+  oomp_key: oomp_mcp4821_emc
+  oomp_key_extra: oomp_symbol_mcp4821_emc
+  oomp_key_full: oomp_symbol_mcp4821_emc_55e15b
+  oomp_key_simple: mcp4821_emc
   owner_name: kicad
-  symbol_name: analog_dac_mcp4821_emc
+  symbol_name: mcp4821_emc
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

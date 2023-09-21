@@ -1,3 +1,5 @@
+id: kicad_regulator_linear_tc1054
+library: regulator_linear
 library_name: Regulator_Linear
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_linear_tc1054/working
   oomp_src_flat: symbols_flat/kicad_regulator_linear_tc1054/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_linear_tc1054/working
-name: regulator_linear_tc1054
+name: tc1054
 oomp:
   library_name: regulator_linear
-  md5: 77fe11a5b4f36091b61178ab33385d43
-  md5_10: 77fe11a5b4
-  md5_5: 77fe1
-  md5_6: 77fe11
-  oomp_key: oomp_regulator_linear_tc1054
-  oomp_key_extra: oomp_symbol_regulator_linear_tc1054
-  oomp_key_full: oomp_symbol_regulator_linear_tc1054_77fe11
-  oomp_key_simple: regulator_linear_tc1054
+  md5: 120dec0396143db46e05d5e5334d8cce
+  md5_10: 120dec0396
+  md5_5: 120de
+  md5_6: 120dec
+  oomp_key: oomp_tc1054
+  oomp_key_extra: oomp_symbol_tc1054
+  oomp_key_full: oomp_symbol_tc1054_120dec
+  oomp_key_simple: tc1054
   owner_name: kicad
-  symbol_name: regulator_linear_tc1054
+  symbol_name: tc1054
 oomp_key: oomp_kicad_regulator_linear_tc1054
 oomp_key_simple: kicad_regulator_linear_tc1054
 owner: kicad

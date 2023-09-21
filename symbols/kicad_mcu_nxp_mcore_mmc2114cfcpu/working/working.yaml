@@ -1,3 +1,5 @@
+id: kicad_mcu_nxp_mcore_mmc2114cfcpu
+library: mcu_nxp_mcore
 library_name: MCU_NXP_MCore
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_nxp_mcore_mmc2114cfcpu/working
   oomp_src_flat: symbols_flat/kicad_mcu_nxp_mcore_mmc2114cfcpu/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_nxp_mcore_mmc2114cfcpu/working
-name: mcu_nxp_mcore_mmc2114cfcpu
+name: mmc2114cfcpu
 oomp:
   library_name: mcu_nxp_mcore
-  md5: e08a2f52fb505a73e6bfd934c031a530
-  md5_10: e08a2f52fb
-  md5_5: e08a2
-  md5_6: e08a2f
-  oomp_key: oomp_mcu_nxp_mcore_mmc2114cfcpu
-  oomp_key_extra: oomp_symbol_mcu_nxp_mcore_mmc2114cfcpu
-  oomp_key_full: oomp_symbol_mcu_nxp_mcore_mmc2114cfcpu_e08a2f
-  oomp_key_simple: mcu_nxp_mcore_mmc2114cfcpu
+  md5: 507a61aa544cf9af752ca83b1685d353
+  md5_10: 507a61aa54
+  md5_5: 507a6
+  md5_6: 507a61
+  oomp_key: oomp_mmc2114cfcpu
+  oomp_key_extra: oomp_symbol_mmc2114cfcpu
+  oomp_key_full: oomp_symbol_mmc2114cfcpu_507a61
+  oomp_key_simple: mmc2114cfcpu
   owner_name: kicad
-  symbol_name: mcu_nxp_mcore_mmc2114cfcpu
+  symbol_name: mmc2114cfcpu
 oomp_key: oomp_kicad_mcu_nxp_mcore_mmc2114cfcpu
 oomp_key_simple: kicad_mcu_nxp_mcore_mmc2114cfcpu
 owner: kicad

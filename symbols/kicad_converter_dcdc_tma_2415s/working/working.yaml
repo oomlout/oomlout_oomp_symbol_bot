@@ -1,16 +1,20 @@
+id: kicad_converter_dcdc_tma_2415s
+library: converter_dcdc
 library_name: Converter_DCDC
+name: tma_2415s
 oomp:
   library_name: converter_dcdc
-  md5: 1b4533117479d8a52acf708899f40ded
-  md5_10: 1b45331174
-  md5_5: 1b453
-  md5_6: 1b4533
-  oomp_key: oomp_converter_dcdc_tma_2415s
-  oomp_key_extra: oomp_symbol_converter_dcdc_tma_2415s
-  oomp_key_full: oomp_symbol_converter_dcdc_tma_2415s_1b4533
-  oomp_key_simple: converter_dcdc_tma_2415s
+  md5: cd1389c9fa8822d2f6e0b8ea3fc20463
+  md5_10: cd1389c9fa
+  md5_5: cd138
+  md5_6: cd1389
+  oomp_key: oomp_tma_2415s
+  oomp_key_extra: oomp_symbol_tma_2415s
+  oomp_key_full: oomp_symbol_tma_2415s_cd1389
+  oomp_key_simple: tma_2415s
   owner_name: kicad
-  symbol_name: converter_dcdc_tma_2415s
+  symbol_name: tma_2415s
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_interface_uart_ltc2856xdd_2
+library: interface_uart
 library_name: Interface_UART
+name: ltc2856xdd_2
 oomp:
   library_name: interface_uart
-  md5: 2526cc9c32c97e304d4c325432d89b28
-  md5_10: 2526cc9c32
-  md5_5: 2526c
-  md5_6: 2526cc
-  oomp_key: oomp_interface_uart_ltc2856xdd_2
-  oomp_key_extra: oomp_symbol_interface_uart_ltc2856xdd_2
-  oomp_key_full: oomp_symbol_interface_uart_ltc2856xdd_2_2526cc
-  oomp_key_simple: interface_uart_ltc2856xdd_2
+  md5: 42096b047e6bf7bed969f405ee78c23e
+  md5_10: 42096b047e
+  md5_5: '42096'
+  md5_6: 42096b
+  oomp_key: oomp_ltc2856xdd_2
+  oomp_key_extra: oomp_symbol_ltc2856xdd_2
+  oomp_key_full: oomp_symbol_ltc2856xdd_2_42096b
+  oomp_key_simple: ltc2856xdd_2
   owner_name: kicad
-  symbol_name: interface_uart_ltc2856xdd_2
+  symbol_name: ltc2856xdd_2
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

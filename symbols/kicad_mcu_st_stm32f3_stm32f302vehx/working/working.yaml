@@ -1,16 +1,20 @@
+id: kicad_mcu_st_stm32f3_stm32f302vehx
+library: mcu_st_stm32f3
 library_name: MCU_ST_STM32F3
+name: stm32f302vehx
 oomp:
   library_name: mcu_st_stm32f3
-  md5: 203f149d0dd6a9f2b72e8f99e1e565b1
-  md5_10: 203f149d0d
-  md5_5: 203f1
-  md5_6: 203f14
-  oomp_key: oomp_mcu_st_stm32f3_stm32f302vehx
-  oomp_key_extra: oomp_symbol_mcu_st_stm32f3_stm32f302vehx
-  oomp_key_full: oomp_symbol_mcu_st_stm32f3_stm32f302vehx_203f14
-  oomp_key_simple: mcu_st_stm32f3_stm32f302vehx
+  md5: 29314c3910d27513d19a80a6115b8dfe
+  md5_10: 29314c3910
+  md5_5: '29314'
+  md5_6: 29314c
+  oomp_key: oomp_stm32f302vehx
+  oomp_key_extra: oomp_symbol_stm32f302vehx
+  oomp_key_full: oomp_symbol_stm32f302vehx_29314c
+  oomp_key_simple: stm32f302vehx
   owner_name: kicad
-  symbol_name: mcu_st_stm32f3_stm32f302vehx
+  symbol_name: stm32f302vehx
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

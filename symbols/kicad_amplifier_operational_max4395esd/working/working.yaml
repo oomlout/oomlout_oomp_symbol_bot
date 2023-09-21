@@ -1,16 +1,20 @@
+id: kicad_amplifier_operational_max4395esd
+library: amplifier_operational
 library_name: Amplifier_Operational
+name: max4395esd
 oomp:
   library_name: amplifier_operational
-  md5: 5b223fc4ae1af80384e6081bdee081ab
-  md5_10: 5b223fc4ae
-  md5_5: 5b223
-  md5_6: 5b223f
-  oomp_key: oomp_amplifier_operational_max4395esd
-  oomp_key_extra: oomp_symbol_amplifier_operational_max4395esd
-  oomp_key_full: oomp_symbol_amplifier_operational_max4395esd_5b223f
-  oomp_key_simple: amplifier_operational_max4395esd
+  md5: 01a58f7b758cb6dc1d87e90c79c593cd
+  md5_10: 01a58f7b75
+  md5_5: 01a58
+  md5_6: 01a58f
+  oomp_key: oomp_max4395esd
+  oomp_key_extra: oomp_symbol_max4395esd
+  oomp_key_full: oomp_symbol_max4395esd_01a58f
+  oomp_key_simple: max4395esd
   owner_name: kicad
-  symbol_name: amplifier_operational_max4395esd
+  symbol_name: max4395esd
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

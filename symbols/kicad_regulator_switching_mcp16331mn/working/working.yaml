@@ -1,3 +1,5 @@
+id: kicad_regulator_switching_mcp16331mn
+library: regulator_switching
 library_name: Regulator_Switching
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_mcp16331mn/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_mcp16331mn/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_mcp16331mn/working
-name: regulator_switching_mcp16331mn
+name: mcp16331mn
 oomp:
   library_name: regulator_switching
-  md5: 13ef33b986bbcdb04c47dbfec15620cc
-  md5_10: 13ef33b986
-  md5_5: 13ef3
-  md5_6: 13ef33
-  oomp_key: oomp_regulator_switching_mcp16331mn
-  oomp_key_extra: oomp_symbol_regulator_switching_mcp16331mn
-  oomp_key_full: oomp_symbol_regulator_switching_mcp16331mn_13ef33
-  oomp_key_simple: regulator_switching_mcp16331mn
+  md5: b13a7a4465468bab72e0ba423537c2d6
+  md5_10: b13a7a4465
+  md5_5: b13a7
+  md5_6: b13a7a
+  oomp_key: oomp_mcp16331mn
+  oomp_key_extra: oomp_symbol_mcp16331mn
+  oomp_key_full: oomp_symbol_mcp16331mn_b13a7a
+  oomp_key_simple: mcp16331mn
   owner_name: kicad
-  symbol_name: regulator_switching_mcp16331mn
+  symbol_name: mcp16331mn
 oomp_key: oomp_kicad_regulator_switching_mcp16331mn
 oomp_key_simple: kicad_regulator_switching_mcp16331mn
 owner: kicad

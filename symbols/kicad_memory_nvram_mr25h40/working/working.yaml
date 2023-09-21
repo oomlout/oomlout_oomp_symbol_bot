@@ -1,16 +1,20 @@
+id: kicad_memory_nvram_mr25h40
+library: memory_nvram
 library_name: Memory_NVRAM
+name: mr25h40
 oomp:
   library_name: memory_nvram
-  md5: 38db57e7286ce7684c7c5f418306c274
-  md5_10: 38db57e728
-  md5_5: 38db5
-  md5_6: 38db57
-  oomp_key: oomp_memory_nvram_mr25h40
-  oomp_key_extra: oomp_symbol_memory_nvram_mr25h40
-  oomp_key_full: oomp_symbol_memory_nvram_mr25h40_38db57
-  oomp_key_simple: memory_nvram_mr25h40
+  md5: 240932c37efb4751007faa053a96333c
+  md5_10: 240932c37e
+  md5_5: '24093'
+  md5_6: '240932'
+  oomp_key: oomp_mr25h40
+  oomp_key_extra: oomp_symbol_mr25h40
+  oomp_key_full: oomp_symbol_mr25h40_240932
+  oomp_key_simple: mr25h40
   owner_name: kicad
-  symbol_name: memory_nvram_mr25h40
+  symbol_name: mr25h40
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

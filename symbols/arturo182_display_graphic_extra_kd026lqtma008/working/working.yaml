@@ -1,3 +1,5 @@
+id: arturo182_display_graphic_extra_kd026lqtma008
+library: display_graphic_extra
 library_name: Display_Graphic_Extra
 links:
   github_owner: arturo182
@@ -10,19 +12,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/arturo182_display_graphic_extra_kd026lqtma008/working
   oomp_src_flat: symbols_flat/arturo182_display_graphic_extra_kd026lqtma008/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/arturo182_display_graphic_extra_kd026lqtma008/working
-name: display_graphic_extra_kd026lqtma008
+name: kd026lqtma008
 oomp:
   library_name: display_graphic_extra
-  md5: 8c35a80861464b4d1bdf70512e1f56b9
-  md5_10: 8c35a80861
-  md5_5: 8c35a
-  md5_6: 8c35a8
-  oomp_key: oomp_display_graphic_extra_kd026lqtma008
-  oomp_key_extra: oomp_symbol_display_graphic_extra_kd026lqtma008
-  oomp_key_full: oomp_symbol_display_graphic_extra_kd026lqtma008_8c35a8
-  oomp_key_simple: display_graphic_extra_kd026lqtma008
+  md5: 7ac564fdb45f54e012ff20ec44830ab2
+  md5_10: 7ac564fdb4
+  md5_5: 7ac56
+  md5_6: 7ac564
+  oomp_key: oomp_kd026lqtma008
+  oomp_key_extra: oomp_symbol_kd026lqtma008
+  oomp_key_full: oomp_symbol_kd026lqtma008_7ac564
+  oomp_key_simple: kd026lqtma008
   owner_name: arturo182
-  symbol_name: display_graphic_extra_kd026lqtma008
+  symbol_name: kd026lqtma008
 oomp_key: oomp_arturo182_display_graphic_extra_kd026lqtma008
 oomp_key_simple: arturo182_display_graphic_extra_kd026lqtma008
 owner: arturo182

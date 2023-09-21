@@ -1,3 +1,5 @@
+id: kicad_simulation_spice_idc
+library: simulation_spice
 library_name: Simulation_SPICE
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_simulation_spice_idc/working
   oomp_src_flat: symbols_flat/kicad_simulation_spice_idc/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_simulation_spice_idc/working
-name: simulation_spice_idc
+name: idc
 oomp:
   library_name: simulation_spice
-  md5: 398f489dbf5a42ccb92cfea476b7e13d
-  md5_10: 398f489dbf
-  md5_5: 398f4
-  md5_6: 398f48
-  oomp_key: oomp_simulation_spice_idc
-  oomp_key_extra: oomp_symbol_simulation_spice_idc
-  oomp_key_full: oomp_symbol_simulation_spice_idc_398f48
-  oomp_key_simple: simulation_spice_idc
+  md5: cca5e614d1755faf382e2c678bd45a19
+  md5_10: cca5e614d1
+  md5_5: cca5e
+  md5_6: cca5e6
+  oomp_key: oomp_idc
+  oomp_key_extra: oomp_symbol_idc
+  oomp_key_full: oomp_symbol_idc_cca5e6
+  oomp_key_simple: idc
   owner_name: kicad
-  symbol_name: simulation_spice_idc
+  symbol_name: idc
 oomp_key: oomp_kicad_simulation_spice_idc
 oomp_key_simple: kicad_simulation_spice_idc
 owner: kicad

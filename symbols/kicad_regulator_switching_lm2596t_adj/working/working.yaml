@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_lm2596t_adj
+library: regulator_switching
 library_name: Regulator_Switching
+name: lm2596t_adj
 oomp:
   library_name: regulator_switching
-  md5: 93e5fbe1a32643762da3e670fbd7b4c5
-  md5_10: 93e5fbe1a3
-  md5_5: 93e5f
-  md5_6: 93e5fb
-  oomp_key: oomp_regulator_switching_lm2596t_adj
-  oomp_key_extra: oomp_symbol_regulator_switching_lm2596t_adj
-  oomp_key_full: oomp_symbol_regulator_switching_lm2596t_adj_93e5fb
-  oomp_key_simple: regulator_switching_lm2596t_adj
+  md5: f8b1bfdc32f24cc2c06b6de3c6d8f15d
+  md5_10: f8b1bfdc32
+  md5_5: f8b1b
+  md5_6: f8b1bf
+  oomp_key: oomp_lm2596t_adj
+  oomp_key_extra: oomp_symbol_lm2596t_adj
+  oomp_key_full: oomp_symbol_lm2596t_adj_f8b1bf
+  oomp_key_simple: lm2596t_adj
   owner_name: kicad
-  symbol_name: regulator_switching_lm2596t_adj
+  symbol_name: lm2596t_adj
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_adp2302ardz_2_5
+library: regulator_switching
 library_name: Regulator_Switching
+name: adp2302ardz_2_5
 oomp:
   library_name: regulator_switching
-  md5: df5486678c0bcf18df9cd7f2c942c94b
-  md5_10: df5486678c
-  md5_5: df548
-  md5_6: df5486
-  oomp_key: oomp_regulator_switching_adp2302ardz_2_5
-  oomp_key_extra: oomp_symbol_regulator_switching_adp2302ardz_2_5
-  oomp_key_full: oomp_symbol_regulator_switching_adp2302ardz_2_5_df5486
-  oomp_key_simple: regulator_switching_adp2302ardz_2_5
+  md5: 117c8558113b24a5c74adee641a8733c
+  md5_10: 117c855811
+  md5_5: 117c8
+  md5_6: 117c85
+  oomp_key: oomp_adp2302ardz_2_5
+  oomp_key_extra: oomp_symbol_adp2302ardz_2_5
+  oomp_key_full: oomp_symbol_adp2302ardz_2_5_117c85
+  oomp_key_simple: adp2302ardz_2_5
   owner_name: kicad
-  symbol_name: regulator_switching_adp2302ardz_2_5
+  symbol_name: adp2302ardz_2_5
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

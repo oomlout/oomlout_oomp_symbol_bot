@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_tps62172dsg
+library: regulator_switching
 library_name: Regulator_Switching
+name: tps62172dsg
 oomp:
   library_name: regulator_switching
-  md5: 35e140d2fc5e93eecf543146b11809b7
-  md5_10: 35e140d2fc
-  md5_5: 35e14
-  md5_6: 35e140
-  oomp_key: oomp_regulator_switching_tps62172dsg
-  oomp_key_extra: oomp_symbol_regulator_switching_tps62172dsg
-  oomp_key_full: oomp_symbol_regulator_switching_tps62172dsg_35e140
-  oomp_key_simple: regulator_switching_tps62172dsg
+  md5: f1157ec5e4b720b4abd86c9491f11df0
+  md5_10: f1157ec5e4
+  md5_5: f1157
+  md5_6: f1157e
+  oomp_key: oomp_tps62172dsg
+  oomp_key_extra: oomp_symbol_tps62172dsg
+  oomp_key_full: oomp_symbol_tps62172dsg_f1157e
+  oomp_key_simple: tps62172dsg
   owner_name: kicad
-  symbol_name: regulator_switching_tps62172dsg
+  symbol_name: tps62172dsg
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

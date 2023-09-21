@@ -1,3 +1,5 @@
+id: arturo182_device_extra_rotaryencoder3
+library: device_extra
 library_name: Device_Extra
 links:
   github_owner: arturo182
@@ -10,19 +12,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/arturo182_device_extra_rotaryencoder3/working
   oomp_src_flat: symbols_flat/arturo182_device_extra_rotaryencoder3/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/arturo182_device_extra_rotaryencoder3/working
-name: device_extra_rotaryencoder3
+name: rotaryencoder3
 oomp:
   library_name: device_extra
-  md5: 1a5b60de768ab7720c877d626c492857
-  md5_10: 1a5b60de76
-  md5_5: 1a5b6
-  md5_6: 1a5b60
-  oomp_key: oomp_device_extra_rotaryencoder3
-  oomp_key_extra: oomp_symbol_device_extra_rotaryencoder3
-  oomp_key_full: oomp_symbol_device_extra_rotaryencoder3_1a5b60
-  oomp_key_simple: device_extra_rotaryencoder3
+  md5: 877f7dd8548ee61202e48bddac7278f4
+  md5_10: 877f7dd854
+  md5_5: 877f7
+  md5_6: 877f7d
+  oomp_key: oomp_rotaryencoder3
+  oomp_key_extra: oomp_symbol_rotaryencoder3
+  oomp_key_full: oomp_symbol_rotaryencoder3_877f7d
+  oomp_key_simple: rotaryencoder3
   owner_name: arturo182
-  symbol_name: device_extra_rotaryencoder3
+  symbol_name: rotaryencoder3
 oomp_key: oomp_arturo182_device_extra_rotaryencoder3
 oomp_key_simple: arturo182_device_extra_rotaryencoder3
 owner: arturo182

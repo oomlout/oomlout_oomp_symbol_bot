@@ -1,3 +1,5 @@
+id: arturo182_mcu_wch_ch552g
+library: mcu_wch
 library_name: MCU_WCH
 links:
   github_owner: arturo182
@@ -10,19 +12,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/arturo182_mcu_wch_ch552g/working
   oomp_src_flat: symbols_flat/arturo182_mcu_wch_ch552g/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/arturo182_mcu_wch_ch552g/working
-name: mcu_wch_ch552g
+name: ch552g
 oomp:
   library_name: mcu_wch
-  md5: 807403978c485c5990f6c944a62e2375
-  md5_10: 807403978c
-  md5_5: '80740'
-  md5_6: '807403'
-  oomp_key: oomp_mcu_wch_ch552g
-  oomp_key_extra: oomp_symbol_mcu_wch_ch552g
-  oomp_key_full: oomp_symbol_mcu_wch_ch552g_807403
-  oomp_key_simple: mcu_wch_ch552g
+  md5: 79d1789c733d2b2815b15136290ac778
+  md5_10: 79d1789c73
+  md5_5: 79d17
+  md5_6: 79d178
+  oomp_key: oomp_ch552g
+  oomp_key_extra: oomp_symbol_ch552g
+  oomp_key_full: oomp_symbol_ch552g_79d178
+  oomp_key_simple: ch552g
   owner_name: arturo182
-  symbol_name: mcu_wch_ch552g
+  symbol_name: ch552g
 oomp_key: oomp_arturo182_mcu_wch_ch552g
 oomp_key_simple: arturo182_mcu_wch_ch552g
 owner: arturo182

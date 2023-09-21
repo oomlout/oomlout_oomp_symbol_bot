@@ -1,3 +1,5 @@
+id: kicad_audio_cs4272
+library: audio
 library_name: Audio
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_audio_cs4272/working
   oomp_src_flat: symbols_flat/kicad_audio_cs4272/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_audio_cs4272/working
-name: audio_cs4272
+name: cs4272
 oomp:
   library_name: audio
-  md5: b092eef200882edd0a39cd754d53662b
-  md5_10: b092eef200
-  md5_5: b092e
-  md5_6: b092ee
-  oomp_key: oomp_audio_cs4272
-  oomp_key_extra: oomp_symbol_audio_cs4272
-  oomp_key_full: oomp_symbol_audio_cs4272_b092ee
-  oomp_key_simple: audio_cs4272
+  md5: 975a39274e58d2fadb113e0c4ce16eb6
+  md5_10: 975a39274e
+  md5_5: 975a3
+  md5_6: 975a39
+  oomp_key: oomp_cs4272
+  oomp_key_extra: oomp_symbol_cs4272
+  oomp_key_full: oomp_symbol_cs4272_975a39
+  oomp_key_simple: cs4272
   owner_name: kicad
-  symbol_name: audio_cs4272
+  symbol_name: cs4272
 oomp_key: oomp_kicad_audio_cs4272
 oomp_key_simple: kicad_audio_cs4272
 owner: kicad

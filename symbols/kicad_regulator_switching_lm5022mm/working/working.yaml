@@ -1,3 +1,5 @@
+id: kicad_regulator_switching_lm5022mm
+library: regulator_switching
 library_name: Regulator_Switching
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_lm5022mm/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_lm5022mm/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_lm5022mm/working
-name: regulator_switching_lm5022mm
+name: lm5022mm
 oomp:
   library_name: regulator_switching
-  md5: 6d08e8f123af1a2d80d122a8866940d9
-  md5_10: 6d08e8f123
-  md5_5: 6d08e
-  md5_6: 6d08e8
-  oomp_key: oomp_regulator_switching_lm5022mm
-  oomp_key_extra: oomp_symbol_regulator_switching_lm5022mm
-  oomp_key_full: oomp_symbol_regulator_switching_lm5022mm_6d08e8
-  oomp_key_simple: regulator_switching_lm5022mm
+  md5: c8e7e8dcf86e635c7edd6b53880cc986
+  md5_10: c8e7e8dcf8
+  md5_5: c8e7e
+  md5_6: c8e7e8
+  oomp_key: oomp_lm5022mm
+  oomp_key_extra: oomp_symbol_lm5022mm
+  oomp_key_full: oomp_symbol_lm5022mm_c8e7e8
+  oomp_key_simple: lm5022mm
   owner_name: kicad
-  symbol_name: regulator_switching_lm5022mm
+  symbol_name: lm5022mm
 oomp_key: oomp_kicad_regulator_switching_lm5022mm
 oomp_key_simple: kicad_regulator_switching_lm5022mm
 owner: kicad

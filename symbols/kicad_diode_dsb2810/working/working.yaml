@@ -1,16 +1,20 @@
+id: kicad_diode_dsb2810
+library: diode
 library_name: Diode
+name: dsb2810
 oomp:
   library_name: diode
-  md5: f22ef9288652286654288a827962dce8
-  md5_10: f22ef92886
-  md5_5: f22ef
-  md5_6: f22ef9
-  oomp_key: oomp_diode_dsb2810
-  oomp_key_extra: oomp_symbol_diode_dsb2810
-  oomp_key_full: oomp_symbol_diode_dsb2810_f22ef9
-  oomp_key_simple: diode_dsb2810
+  md5: 998c8bdeb78cd961a68c16e230ebc86a
+  md5_10: 998c8bdeb7
+  md5_5: 998c8
+  md5_6: 998c8b
+  oomp_key: oomp_dsb2810
+  oomp_key_extra: oomp_symbol_dsb2810
+  oomp_key_full: oomp_symbol_dsb2810_998c8b
+  oomp_key_simple: dsb2810
   owner_name: kicad
-  symbol_name: diode_dsb2810
+  symbol_name: dsb2810
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

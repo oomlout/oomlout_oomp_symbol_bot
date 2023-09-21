@@ -1,16 +1,20 @@
+id: kicad_sensor_current_acs709xlftr_35bb
+library: sensor_current
 library_name: Sensor_Current
+name: acs709xlftr_35bb
 oomp:
   library_name: sensor_current
-  md5: ba1dd1963f4819dbf181fcaa9fe55ff1
-  md5_10: ba1dd1963f
-  md5_5: ba1dd
-  md5_6: ba1dd1
-  oomp_key: oomp_sensor_current_acs709xlftr_35bb
-  oomp_key_extra: oomp_symbol_sensor_current_acs709xlftr_35bb
-  oomp_key_full: oomp_symbol_sensor_current_acs709xlftr_35bb_ba1dd1
-  oomp_key_simple: sensor_current_acs709xlftr_35bb
+  md5: cdbf619d22186edc832c97dbc7bb6b8e
+  md5_10: cdbf619d22
+  md5_5: cdbf6
+  md5_6: cdbf61
+  oomp_key: oomp_acs709xlftr_35bb
+  oomp_key_extra: oomp_symbol_acs709xlftr_35bb
+  oomp_key_full: oomp_symbol_acs709xlftr_35bb_cdbf61
+  oomp_key_simple: acs709xlftr_35bb
   owner_name: kicad
-  symbol_name: sensor_current_acs709xlftr_35bb
+  symbol_name: acs709xlftr_35bb
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

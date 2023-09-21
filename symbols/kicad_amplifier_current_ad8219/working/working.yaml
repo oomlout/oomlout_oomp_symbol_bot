@@ -1,3 +1,5 @@
+id: kicad_amplifier_current_ad8219
+library: amplifier_current
 library_name: Amplifier_Current
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_current_ad8219/working
   oomp_src_flat: symbols_flat/kicad_amplifier_current_ad8219/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_current_ad8219/working
-name: amplifier_current_ad8219
+name: ad8219
 oomp:
   library_name: amplifier_current
-  md5: 9bfbd4d80fa8cffe349304992d78bd6c
-  md5_10: 9bfbd4d80f
-  md5_5: 9bfbd
-  md5_6: 9bfbd4
-  oomp_key: oomp_amplifier_current_ad8219
-  oomp_key_extra: oomp_symbol_amplifier_current_ad8219
-  oomp_key_full: oomp_symbol_amplifier_current_ad8219_9bfbd4
-  oomp_key_simple: amplifier_current_ad8219
+  md5: 9fdeefb7c4c0db413acb0aca949d362d
+  md5_10: 9fdeefb7c4
+  md5_5: 9fdee
+  md5_6: 9fdeef
+  oomp_key: oomp_ad8219
+  oomp_key_extra: oomp_symbol_ad8219
+  oomp_key_full: oomp_symbol_ad8219_9fdeef
+  oomp_key_simple: ad8219
   owner_name: kicad
-  symbol_name: amplifier_current_ad8219
+  symbol_name: ad8219
 oomp_key: oomp_kicad_amplifier_current_ad8219
 oomp_key_simple: kicad_amplifier_current_ad8219
 owner: kicad

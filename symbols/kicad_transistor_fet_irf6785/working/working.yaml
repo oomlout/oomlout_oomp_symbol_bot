@@ -1,16 +1,20 @@
+id: kicad_transistor_fet_irf6785
+library: transistor_fet
 library_name: Transistor_FET
+name: irf6785
 oomp:
   library_name: transistor_fet
-  md5: 9e8c10ae4c89a83e1c41afd5b8584b48
-  md5_10: 9e8c10ae4c
-  md5_5: 9e8c1
-  md5_6: 9e8c10
-  oomp_key: oomp_transistor_fet_irf6785
-  oomp_key_extra: oomp_symbol_transistor_fet_irf6785
-  oomp_key_full: oomp_symbol_transistor_fet_irf6785_9e8c10
-  oomp_key_simple: transistor_fet_irf6785
+  md5: c1cd72ecf104e7042c21ab8922921a0a
+  md5_10: c1cd72ecf1
+  md5_5: c1cd7
+  md5_6: c1cd72
+  oomp_key: oomp_irf6785
+  oomp_key_extra: oomp_symbol_irf6785
+  oomp_key_full: oomp_symbol_irf6785_c1cd72
+  oomp_key_simple: irf6785
   owner_name: kicad
-  symbol_name: transistor_fet_irf6785
+  symbol_name: irf6785
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

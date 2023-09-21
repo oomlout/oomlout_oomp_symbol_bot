@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_tc2185_2_7vxcttr
+library: regulator_linear
 library_name: Regulator_Linear
+name: tc2185_2_7vxcttr
 oomp:
   library_name: regulator_linear
-  md5: c52a535fda4189f4308d3e87e680bd81
-  md5_10: c52a535fda
-  md5_5: c52a5
-  md5_6: c52a53
-  oomp_key: oomp_regulator_linear_tc2185_2_7vxcttr
-  oomp_key_extra: oomp_symbol_regulator_linear_tc2185_2_7vxcttr
-  oomp_key_full: oomp_symbol_regulator_linear_tc2185_2_7vxcttr_c52a53
-  oomp_key_simple: regulator_linear_tc2185_2_7vxcttr
+  md5: 27c6fad940f40cd83feac7eae862f40a
+  md5_10: 27c6fad940
+  md5_5: 27c6f
+  md5_6: 27c6fa
+  oomp_key: oomp_tc2185_2_7vxcttr
+  oomp_key_extra: oomp_symbol_tc2185_2_7vxcttr
+  oomp_key_full: oomp_symbol_tc2185_2_7vxcttr_27c6fa
+  oomp_key_simple: tc2185_2_7vxcttr
   owner_name: kicad
-  symbol_name: regulator_linear_tc2185_2_7vxcttr
+  symbol_name: tc2185_2_7vxcttr
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

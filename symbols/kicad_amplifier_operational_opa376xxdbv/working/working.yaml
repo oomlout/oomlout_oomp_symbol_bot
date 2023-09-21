@@ -1,16 +1,20 @@
+id: kicad_amplifier_operational_opa376xxdbv
+library: amplifier_operational
 library_name: Amplifier_Operational
+name: opa376xxdbv
 oomp:
   library_name: amplifier_operational
-  md5: 5fb8e7c1f7bad6e1499fdbf2930bd81a
-  md5_10: 5fb8e7c1f7
-  md5_5: 5fb8e
-  md5_6: 5fb8e7
-  oomp_key: oomp_amplifier_operational_opa376xxdbv
-  oomp_key_extra: oomp_symbol_amplifier_operational_opa376xxdbv
-  oomp_key_full: oomp_symbol_amplifier_operational_opa376xxdbv_5fb8e7
-  oomp_key_simple: amplifier_operational_opa376xxdbv
+  md5: f47b062971c4c4f8dada297fd9ab2743
+  md5_10: f47b062971
+  md5_5: f47b0
+  md5_6: f47b06
+  oomp_key: oomp_opa376xxdbv
+  oomp_key_extra: oomp_symbol_opa376xxdbv
+  oomp_key_full: oomp_symbol_opa376xxdbv_f47b06
+  oomp_key_simple: opa376xxdbv
   owner_name: kicad
-  symbol_name: amplifier_operational_opa376xxdbv
+  symbol_name: opa376xxdbv
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

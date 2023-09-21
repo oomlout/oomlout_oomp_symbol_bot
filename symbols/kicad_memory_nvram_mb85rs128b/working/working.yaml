@@ -1,16 +1,20 @@
+id: kicad_memory_nvram_mb85rs128b
+library: memory_nvram
 library_name: Memory_NVRAM
+name: mb85rs128b
 oomp:
   library_name: memory_nvram
-  md5: 1eeec9e95f827e933427a9374b079d62
-  md5_10: 1eeec9e95f
-  md5_5: 1eeec
-  md5_6: 1eeec9
-  oomp_key: oomp_memory_nvram_mb85rs128b
-  oomp_key_extra: oomp_symbol_memory_nvram_mb85rs128b
-  oomp_key_full: oomp_symbol_memory_nvram_mb85rs128b_1eeec9
-  oomp_key_simple: memory_nvram_mb85rs128b
+  md5: 606d38604639c8e87f783de8d7c20d7a
+  md5_10: 606d386046
+  md5_5: 606d3
+  md5_6: 606d38
+  oomp_key: oomp_mb85rs128b
+  oomp_key_extra: oomp_symbol_mb85rs128b
+  oomp_key_full: oomp_symbol_mb85rs128b_606d38
+  oomp_key_simple: mb85rs128b
   owner_name: kicad
-  symbol_name: memory_nvram_mb85rs128b
+  symbol_name: mb85rs128b
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

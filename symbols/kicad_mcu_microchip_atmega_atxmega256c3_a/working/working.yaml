@@ -1,16 +1,20 @@
+id: kicad_mcu_microchip_atmega_atxmega256c3_a
+library: mcu_microchip_atmega
 library_name: MCU_Microchip_ATmega
+name: atxmega256c3_a
 oomp:
   library_name: mcu_microchip_atmega
-  md5: 4ff57bc2799b4e2e423c09da4e115ff1
-  md5_10: 4ff57bc279
-  md5_5: 4ff57
-  md5_6: 4ff57b
-  oomp_key: oomp_mcu_microchip_atmega_atxmega256c3_a
-  oomp_key_extra: oomp_symbol_mcu_microchip_atmega_atxmega256c3_a
-  oomp_key_full: oomp_symbol_mcu_microchip_atmega_atxmega256c3_a_4ff57b
-  oomp_key_simple: mcu_microchip_atmega_atxmega256c3_a
+  md5: 2d2504d425ffa74fddcfc74bfe8637dd
+  md5_10: 2d2504d425
+  md5_5: 2d250
+  md5_6: 2d2504
+  oomp_key: oomp_atxmega256c3_a
+  oomp_key_extra: oomp_symbol_atxmega256c3_a
+  oomp_key_full: oomp_symbol_atxmega256c3_a_2d2504
+  oomp_key_simple: atxmega256c3_a
   owner_name: kicad
-  symbol_name: mcu_microchip_atmega_atxmega256c3_a
+  symbol_name: atxmega256c3_a
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

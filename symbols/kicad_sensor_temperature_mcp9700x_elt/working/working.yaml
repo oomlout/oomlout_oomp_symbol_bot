@@ -1,16 +1,20 @@
+id: kicad_sensor_temperature_mcp9700x_elt
+library: sensor_temperature
 library_name: Sensor_Temperature
+name: mcp9700x_elt
 oomp:
   library_name: sensor_temperature
-  md5: f77a1163a6ff5e1673239c5ed1b4c2b2
-  md5_10: f77a1163a6
-  md5_5: f77a1
-  md5_6: f77a11
-  oomp_key: oomp_sensor_temperature_mcp9700x_elt
-  oomp_key_extra: oomp_symbol_sensor_temperature_mcp9700x_elt
-  oomp_key_full: oomp_symbol_sensor_temperature_mcp9700x_elt_f77a11
-  oomp_key_simple: sensor_temperature_mcp9700x_elt
+  md5: d55236d154d0c1fc5a80135a53abcda5
+  md5_10: d55236d154
+  md5_5: d5523
+  md5_6: d55236
+  oomp_key: oomp_mcp9700x_elt
+  oomp_key_extra: oomp_symbol_mcp9700x_elt
+  oomp_key_full: oomp_symbol_mcp9700x_elt_d55236
+  oomp_key_simple: mcp9700x_elt
   owner_name: kicad
-  symbol_name: sensor_temperature_mcp9700x_elt
+  symbol_name: mcp9700x_elt
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

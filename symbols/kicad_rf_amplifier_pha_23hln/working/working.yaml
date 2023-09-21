@@ -1,16 +1,20 @@
+id: kicad_rf_amplifier_pha_23hln
+library: rf_amplifier
 library_name: RF_Amplifier
+name: pha_23hln
 oomp:
   library_name: rf_amplifier
-  md5: 3de9ef96be6cb2b90a26d2f5837d190d
-  md5_10: 3de9ef96be
-  md5_5: 3de9e
-  md5_6: 3de9ef
-  oomp_key: oomp_rf_amplifier_pha_23hln
-  oomp_key_extra: oomp_symbol_rf_amplifier_pha_23hln
-  oomp_key_full: oomp_symbol_rf_amplifier_pha_23hln_3de9ef
-  oomp_key_simple: rf_amplifier_pha_23hln
+  md5: 60b81ba86ee3d4511aa3ffdc5057fb24
+  md5_10: 60b81ba86e
+  md5_5: 60b81
+  md5_6: 60b81b
+  oomp_key: oomp_pha_23hln
+  oomp_key_extra: oomp_symbol_pha_23hln
+  oomp_key_full: oomp_symbol_pha_23hln_60b81b
+  oomp_key_simple: pha_23hln
   owner_name: kicad
-  symbol_name: rf_amplifier_pha_23hln
+  symbol_name: pha_23hln
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

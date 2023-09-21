@@ -1,3 +1,5 @@
+id: kicad_device_q_pjfet_dgs
+library: device
 library_name: Device
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_q_pjfet_dgs/working
   oomp_src_flat: symbols_flat/kicad_device_q_pjfet_dgs/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_q_pjfet_dgs/working
-name: device_q_pjfet_dgs
+name: q_pjfet_dgs
 oomp:
   library_name: device
-  md5: f178472f7098937deb7c62c1070891da
-  md5_10: f178472f70
-  md5_5: f1784
-  md5_6: f17847
-  oomp_key: oomp_device_q_pjfet_dgs
-  oomp_key_extra: oomp_symbol_device_q_pjfet_dgs
-  oomp_key_full: oomp_symbol_device_q_pjfet_dgs_f17847
-  oomp_key_simple: device_q_pjfet_dgs
+  md5: 25c4ab762681dd28b4675f06e6218fee
+  md5_10: 25c4ab7626
+  md5_5: 25c4a
+  md5_6: 25c4ab
+  oomp_key: oomp_q_pjfet_dgs
+  oomp_key_extra: oomp_symbol_q_pjfet_dgs
+  oomp_key_full: oomp_symbol_q_pjfet_dgs_25c4ab
+  oomp_key_simple: q_pjfet_dgs
   owner_name: kicad
-  symbol_name: device_q_pjfet_dgs
+  symbol_name: q_pjfet_dgs
 oomp_key: oomp_kicad_device_q_pjfet_dgs
 oomp_key_simple: kicad_device_q_pjfet_dgs
 owner: kicad

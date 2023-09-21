@@ -1,3 +1,5 @@
+id: kicad_battery_management_bq25504
+library: battery_management
 library_name: Battery_Management
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_battery_management_bq25504/working
   oomp_src_flat: symbols_flat/kicad_battery_management_bq25504/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_battery_management_bq25504/working
-name: battery_management_bq25504
+name: bq25504
 oomp:
   library_name: battery_management
-  md5: b7fee36bafbd860be6c74d9fa028c2b6
-  md5_10: b7fee36baf
-  md5_5: b7fee
-  md5_6: b7fee3
-  oomp_key: oomp_battery_management_bq25504
-  oomp_key_extra: oomp_symbol_battery_management_bq25504
-  oomp_key_full: oomp_symbol_battery_management_bq25504_b7fee3
-  oomp_key_simple: battery_management_bq25504
+  md5: b69c3a7000ba662999c9bdc602811428
+  md5_10: b69c3a7000
+  md5_5: b69c3
+  md5_6: b69c3a
+  oomp_key: oomp_bq25504
+  oomp_key_extra: oomp_symbol_bq25504
+  oomp_key_full: oomp_symbol_bq25504_b69c3a
+  oomp_key_simple: bq25504
   owner_name: kicad
-  symbol_name: battery_management_bq25504
+  symbol_name: bq25504
 oomp_key: oomp_kicad_battery_management_bq25504
 oomp_key_simple: kicad_battery_management_bq25504
 owner: kicad

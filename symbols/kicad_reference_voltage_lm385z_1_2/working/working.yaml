@@ -1,16 +1,20 @@
+id: kicad_reference_voltage_lm385z_1_2
+library: reference_voltage
 library_name: Reference_Voltage
+name: lm385z_1_2
 oomp:
   library_name: reference_voltage
-  md5: 932e22f130ad9ce6748b80592d791e3f
-  md5_10: 932e22f130
-  md5_5: 932e2
-  md5_6: 932e22
-  oomp_key: oomp_reference_voltage_lm385z_1_2
-  oomp_key_extra: oomp_symbol_reference_voltage_lm385z_1_2
-  oomp_key_full: oomp_symbol_reference_voltage_lm385z_1_2_932e22
-  oomp_key_simple: reference_voltage_lm385z_1_2
+  md5: 00c2da4e43cc9fa6ba0a15e96a142fcf
+  md5_10: 00c2da4e43
+  md5_5: 00c2d
+  md5_6: 00c2da
+  oomp_key: oomp_lm385z_1_2
+  oomp_key_extra: oomp_symbol_lm385z_1_2
+  oomp_key_full: oomp_symbol_lm385z_1_2_00c2da
+  oomp_key_simple: lm385z_1_2
   owner_name: kicad
-  symbol_name: reference_voltage_lm385z_1_2
+  symbol_name: lm385z_1_2
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,3 +1,5 @@
+id: kicad_mcu_microchip_saml_atsaml21g16b_aut
+library: mcu_microchip_saml
 library_name: MCU_Microchip_SAML
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_microchip_saml_atsaml21g16b_aut/working
   oomp_src_flat: symbols_flat/kicad_mcu_microchip_saml_atsaml21g16b_aut/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_microchip_saml_atsaml21g16b_aut/working
-name: mcu_microchip_saml_atsaml21g16b_aut
+name: atsaml21g16b_aut
 oomp:
   library_name: mcu_microchip_saml
-  md5: 9b51875ca2e81fb50ba1c2414293eac5
-  md5_10: 9b51875ca2
-  md5_5: 9b518
-  md5_6: 9b5187
-  oomp_key: oomp_mcu_microchip_saml_atsaml21g16b_aut
-  oomp_key_extra: oomp_symbol_mcu_microchip_saml_atsaml21g16b_aut
-  oomp_key_full: oomp_symbol_mcu_microchip_saml_atsaml21g16b_aut_9b5187
-  oomp_key_simple: mcu_microchip_saml_atsaml21g16b_aut
+  md5: d9b52cd823cb21f300bc0a2439c70438
+  md5_10: d9b52cd823
+  md5_5: d9b52
+  md5_6: d9b52c
+  oomp_key: oomp_atsaml21g16b_aut
+  oomp_key_extra: oomp_symbol_atsaml21g16b_aut
+  oomp_key_full: oomp_symbol_atsaml21g16b_aut_d9b52c
+  oomp_key_simple: atsaml21g16b_aut
   owner_name: kicad
-  symbol_name: mcu_microchip_saml_atsaml21g16b_aut
+  symbol_name: atsaml21g16b_aut
 oomp_key: oomp_kicad_mcu_microchip_saml_atsaml21g16b_aut
 oomp_key_simple: kicad_mcu_microchip_saml_atsaml21g16b_aut
 owner: kicad

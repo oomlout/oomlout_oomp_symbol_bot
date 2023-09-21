@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_tny265p
+library: regulator_switching
 library_name: Regulator_Switching
+name: tny265p
 oomp:
   library_name: regulator_switching
-  md5: ee1cead2afb9d35e1efefb697e21f102
-  md5_10: ee1cead2af
-  md5_5: ee1ce
-  md5_6: ee1cea
-  oomp_key: oomp_regulator_switching_tny265p
-  oomp_key_extra: oomp_symbol_regulator_switching_tny265p
-  oomp_key_full: oomp_symbol_regulator_switching_tny265p_ee1cea
-  oomp_key_simple: regulator_switching_tny265p
+  md5: 80879520471778e3242c8285c97e5ea1
+  md5_10: '8087952047'
+  md5_5: '80879'
+  md5_6: '808795'
+  oomp_key: oomp_tny265p
+  oomp_key_extra: oomp_symbol_tny265p
+  oomp_key_full: oomp_symbol_tny265p_808795
+  oomp_key_simple: tny265p
   owner_name: kicad
-  symbol_name: regulator_switching_tny265p
+  symbol_name: tny265p
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

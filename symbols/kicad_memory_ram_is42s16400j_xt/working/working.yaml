@@ -1,16 +1,20 @@
+id: kicad_memory_ram_is42s16400j_xt
+library: memory_ram
 library_name: Memory_RAM
+name: is42s16400j_xt
 oomp:
   library_name: memory_ram
-  md5: 60e3a0ddd739bdc5cc16c4ed6c6cc22d
-  md5_10: 60e3a0ddd7
-  md5_5: 60e3a
-  md5_6: 60e3a0
-  oomp_key: oomp_memory_ram_is42s16400j_xt
-  oomp_key_extra: oomp_symbol_memory_ram_is42s16400j_xt
-  oomp_key_full: oomp_symbol_memory_ram_is42s16400j_xt_60e3a0
-  oomp_key_simple: memory_ram_is42s16400j_xt
+  md5: 615565f30aeb7bea9ca3c5bff15bb4c1
+  md5_10: 615565f30a
+  md5_5: '61556'
+  md5_6: '615565'
+  oomp_key: oomp_is42s16400j_xt
+  oomp_key_extra: oomp_symbol_is42s16400j_xt
+  oomp_key_full: oomp_symbol_is42s16400j_xt_615565
+  oomp_key_simple: is42s16400j_xt
   owner_name: kicad
-  symbol_name: memory_ram_is42s16400j_xt
+  symbol_name: is42s16400j_xt
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

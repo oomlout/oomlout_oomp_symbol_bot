@@ -1,16 +1,20 @@
+id: kicad_mcu_intel_8050
+library: mcu_intel
 library_name: MCU_Intel
+name: '8050'
 oomp:
   library_name: mcu_intel
-  md5: 740d5d4653e82819efc905c4e2363ed5
-  md5_10: 740d5d4653
-  md5_5: 740d5
-  md5_6: 740d5d
-  oomp_key: oomp_mcu_intel_8050
-  oomp_key_extra: oomp_symbol_mcu_intel_8050
-  oomp_key_full: oomp_symbol_mcu_intel_8050_740d5d
-  oomp_key_simple: mcu_intel_8050
+  md5: b0285cbf334be23be58e7ff353af1af2
+  md5_10: b0285cbf33
+  md5_5: b0285
+  md5_6: b0285c
+  oomp_key: oomp_8050
+  oomp_key_extra: oomp_symbol_8050
+  oomp_key_full: oomp_symbol_8050_b0285c
+  oomp_key_simple: '8050'
   owner_name: kicad
-  symbol_name: mcu_intel_8050
+  symbol_name: '8050'
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_transistor_fet_c3m0065100j
+library: transistor_fet
 library_name: Transistor_FET
+name: c3m0065100j
 oomp:
   library_name: transistor_fet
-  md5: 1cf739ae85a309b6a9f31113475a0f5a
-  md5_10: 1cf739ae85
-  md5_5: 1cf73
-  md5_6: 1cf739
-  oomp_key: oomp_transistor_fet_c3m0065100j
-  oomp_key_extra: oomp_symbol_transistor_fet_c3m0065100j
-  oomp_key_full: oomp_symbol_transistor_fet_c3m0065100j_1cf739
-  oomp_key_simple: transistor_fet_c3m0065100j
+  md5: 42767b7d92e2a3e073bab2338d4160a6
+  md5_10: 42767b7d92
+  md5_5: '42767'
+  md5_6: 42767b
+  oomp_key: oomp_c3m0065100j
+  oomp_key_extra: oomp_symbol_c3m0065100j
+  oomp_key_full: oomp_symbol_c3m0065100j_42767b
+  oomp_key_simple: c3m0065100j
   owner_name: kicad
-  symbol_name: transistor_fet_c3m0065100j
+  symbol_name: c3m0065100j
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

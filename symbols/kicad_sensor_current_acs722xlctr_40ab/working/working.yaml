@@ -1,16 +1,20 @@
+id: kicad_sensor_current_acs722xlctr_40ab
+library: sensor_current
 library_name: Sensor_Current
+name: acs722xlctr_40ab
 oomp:
   library_name: sensor_current
-  md5: ea344e5ef69d8235b37eae3ad3742cbc
-  md5_10: ea344e5ef6
-  md5_5: ea344
-  md5_6: ea344e
-  oomp_key: oomp_sensor_current_acs722xlctr_40ab
-  oomp_key_extra: oomp_symbol_sensor_current_acs722xlctr_40ab
-  oomp_key_full: oomp_symbol_sensor_current_acs722xlctr_40ab_ea344e
-  oomp_key_simple: sensor_current_acs722xlctr_40ab
+  md5: 0db41a3719df9a8bf95fc703e946db30
+  md5_10: 0db41a3719
+  md5_5: 0db41
+  md5_6: 0db41a
+  oomp_key: oomp_acs722xlctr_40ab
+  oomp_key_extra: oomp_symbol_acs722xlctr_40ab
+  oomp_key_full: oomp_symbol_acs722xlctr_40ab_0db41a
+  oomp_key_simple: acs722xlctr_40ab
   owner_name: kicad
-  symbol_name: sensor_current_acs722xlctr_40ab
+  symbol_name: acs722xlctr_40ab
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

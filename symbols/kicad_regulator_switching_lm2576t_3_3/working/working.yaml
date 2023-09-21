@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_lm2576t_3_3
+library: regulator_switching
 library_name: Regulator_Switching
+name: lm2576t_3_3
 oomp:
   library_name: regulator_switching
-  md5: 4d9d7111e134888cd7d02a2ede9d42d4
-  md5_10: 4d9d7111e1
-  md5_5: 4d9d7
-  md5_6: 4d9d71
-  oomp_key: oomp_regulator_switching_lm2576t_3_3
-  oomp_key_extra: oomp_symbol_regulator_switching_lm2576t_3_3
-  oomp_key_full: oomp_symbol_regulator_switching_lm2576t_3_3_4d9d71
-  oomp_key_simple: regulator_switching_lm2576t_3_3
+  md5: 1ce9b4f7347fb65cda9ac91d9505c260
+  md5_10: 1ce9b4f734
+  md5_5: 1ce9b
+  md5_6: 1ce9b4
+  oomp_key: oomp_lm2576t_3_3
+  oomp_key_extra: oomp_symbol_lm2576t_3_3
+  oomp_key_full: oomp_symbol_lm2576t_3_3_1ce9b4
+  oomp_key_simple: lm2576t_3_3
   owner_name: kicad
-  symbol_name: regulator_switching_lm2576t_3_3
+  symbol_name: lm2576t_3_3
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

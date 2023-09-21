@@ -1,16 +1,20 @@
+id: kicad_sensor_current_ho25_nsm
+library: sensor_current
 library_name: Sensor_Current
+name: ho25_nsm
 oomp:
   library_name: sensor_current
-  md5: afe1af167589ab894a53cb1cda3e7b2d
-  md5_10: afe1af1675
-  md5_5: afe1a
-  md5_6: afe1af
-  oomp_key: oomp_sensor_current_ho25_nsm
-  oomp_key_extra: oomp_symbol_sensor_current_ho25_nsm
-  oomp_key_full: oomp_symbol_sensor_current_ho25_nsm_afe1af
-  oomp_key_simple: sensor_current_ho25_nsm
+  md5: c07cda5558550d96b57e395eaf44eb37
+  md5_10: c07cda5558
+  md5_5: c07cd
+  md5_6: c07cda
+  oomp_key: oomp_ho25_nsm
+  oomp_key_extra: oomp_symbol_ho25_nsm
+  oomp_key_full: oomp_symbol_ho25_nsm_c07cda
+  oomp_key_simple: ho25_nsm
   owner_name: kicad
-  symbol_name: sensor_current_ho25_nsm
+  symbol_name: ho25_nsm
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

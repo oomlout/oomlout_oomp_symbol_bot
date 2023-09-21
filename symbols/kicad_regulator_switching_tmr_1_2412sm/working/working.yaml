@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_tmr_1_2412sm
+library: regulator_switching
 library_name: Regulator_Switching
+name: tmr_1_2412sm
 oomp:
   library_name: regulator_switching
-  md5: 1a9209720a685b37aa4417443c82e5d2
-  md5_10: 1a9209720a
-  md5_5: 1a920
-  md5_6: 1a9209
-  oomp_key: oomp_regulator_switching_tmr_1_2412sm
-  oomp_key_extra: oomp_symbol_regulator_switching_tmr_1_2412sm
-  oomp_key_full: oomp_symbol_regulator_switching_tmr_1_2412sm_1a9209
-  oomp_key_simple: regulator_switching_tmr_1_2412sm
+  md5: 4b05cbd89fb5a7b77844954793d1300e
+  md5_10: 4b05cbd89f
+  md5_5: 4b05c
+  md5_6: 4b05cb
+  oomp_key: oomp_tmr_1_2412sm
+  oomp_key_extra: oomp_symbol_tmr_1_2412sm
+  oomp_key_full: oomp_symbol_tmr_1_2412sm_4b05cb
+  oomp_key_simple: tmr_1_2412sm
   owner_name: kicad
-  symbol_name: regulator_switching_tmr_1_2412sm
+  symbol_name: tmr_1_2412sm
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

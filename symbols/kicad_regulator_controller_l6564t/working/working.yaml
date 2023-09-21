@@ -1,16 +1,20 @@
+id: kicad_regulator_controller_l6564t
+library: regulator_controller
 library_name: Regulator_Controller
+name: l6564t
 oomp:
   library_name: regulator_controller
-  md5: 5896e5b91a899c851adc5b52ea857365
-  md5_10: 5896e5b91a
-  md5_5: 5896e
-  md5_6: 5896e5
-  oomp_key: oomp_regulator_controller_l6564t
-  oomp_key_extra: oomp_symbol_regulator_controller_l6564t
-  oomp_key_full: oomp_symbol_regulator_controller_l6564t_5896e5
-  oomp_key_simple: regulator_controller_l6564t
+  md5: c7ba50da5e555d887c77590b96ea70d7
+  md5_10: c7ba50da5e
+  md5_5: c7ba5
+  md5_6: c7ba50
+  oomp_key: oomp_l6564t
+  oomp_key_extra: oomp_symbol_l6564t
+  oomp_key_full: oomp_symbol_l6564t_c7ba50
+  oomp_key_simple: l6564t
   owner_name: kicad
-  symbol_name: regulator_controller_l6564t
+  symbol_name: l6564t
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

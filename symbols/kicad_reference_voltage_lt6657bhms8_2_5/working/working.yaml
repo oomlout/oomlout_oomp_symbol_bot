@@ -1,16 +1,20 @@
+id: kicad_reference_voltage_lt6657bhms8_2_5
+library: reference_voltage
 library_name: Reference_Voltage
+name: lt6657bhms8_2_5
 oomp:
   library_name: reference_voltage
-  md5: 368cfab54ae2cab38472d6631684a752
-  md5_10: 368cfab54a
-  md5_5: 368cf
-  md5_6: 368cfa
-  oomp_key: oomp_reference_voltage_lt6657bhms8_2_5
-  oomp_key_extra: oomp_symbol_reference_voltage_lt6657bhms8_2_5
-  oomp_key_full: oomp_symbol_reference_voltage_lt6657bhms8_2_5_368cfa
-  oomp_key_simple: reference_voltage_lt6657bhms8_2_5
+  md5: c47567c881d97a9106e27e09bf0761da
+  md5_10: c47567c881
+  md5_5: c4756
+  md5_6: c47567
+  oomp_key: oomp_lt6657bhms8_2_5
+  oomp_key_extra: oomp_symbol_lt6657bhms8_2_5
+  oomp_key_full: oomp_symbol_lt6657bhms8_2_5_c47567
+  oomp_key_simple: lt6657bhms8_2_5
   owner_name: kicad
-  symbol_name: reference_voltage_lt6657bhms8_2_5
+  symbol_name: lt6657bhms8_2_5
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

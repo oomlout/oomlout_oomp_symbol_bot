@@ -1,16 +1,20 @@
+id: kicad_memory_nvram_fm1608b_sg
+library: memory_nvram
 library_name: Memory_NVRAM
+name: fm1608b_sg
 oomp:
   library_name: memory_nvram
-  md5: e17d66e679410fa7b8f396017a5008d0
-  md5_10: e17d66e679
-  md5_5: e17d6
-  md5_6: e17d66
-  oomp_key: oomp_memory_nvram_fm1608b_sg
-  oomp_key_extra: oomp_symbol_memory_nvram_fm1608b_sg
-  oomp_key_full: oomp_symbol_memory_nvram_fm1608b_sg_e17d66
-  oomp_key_simple: memory_nvram_fm1608b_sg
+  md5: 888b3e4a69fa80c1834c026175333c4a
+  md5_10: 888b3e4a69
+  md5_5: 888b3
+  md5_6: 888b3e
+  oomp_key: oomp_fm1608b_sg
+  oomp_key_extra: oomp_symbol_fm1608b_sg
+  oomp_key_full: oomp_symbol_fm1608b_sg_888b3e
+  oomp_key_simple: fm1608b_sg
   owner_name: kicad
-  symbol_name: memory_nvram_fm1608b_sg
+  symbol_name: fm1608b_sg
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

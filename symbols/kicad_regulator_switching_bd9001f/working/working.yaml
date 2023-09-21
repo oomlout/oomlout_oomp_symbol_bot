@@ -1,3 +1,5 @@
+id: kicad_regulator_switching_bd9001f
+library: regulator_switching
 library_name: Regulator_Switching
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_bd9001f/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_bd9001f/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_bd9001f/working
-name: regulator_switching_bd9001f
+name: bd9001f
 oomp:
   library_name: regulator_switching
-  md5: 314fe41528def16fcafbf5b12167029c
-  md5_10: 314fe41528
-  md5_5: 314fe
-  md5_6: 314fe4
-  oomp_key: oomp_regulator_switching_bd9001f
-  oomp_key_extra: oomp_symbol_regulator_switching_bd9001f
-  oomp_key_full: oomp_symbol_regulator_switching_bd9001f_314fe4
-  oomp_key_simple: regulator_switching_bd9001f
+  md5: 66931aa3d5d5f13e96cbef10ed09e544
+  md5_10: 66931aa3d5
+  md5_5: '66931'
+  md5_6: 66931a
+  oomp_key: oomp_bd9001f
+  oomp_key_extra: oomp_symbol_bd9001f
+  oomp_key_full: oomp_symbol_bd9001f_66931a
+  oomp_key_simple: bd9001f
   owner_name: kicad
-  symbol_name: regulator_switching_bd9001f
+  symbol_name: bd9001f
 oomp_key: oomp_kicad_regulator_switching_bd9001f
 oomp_key_simple: kicad_regulator_switching_bd9001f
 owner: kicad

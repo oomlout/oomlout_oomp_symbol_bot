@@ -1,3 +1,5 @@
+id: kicad_interface_expansion_p82b96
+library: interface_expansion
 library_name: Interface_Expansion
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_expansion_p82b96/working
   oomp_src_flat: symbols_flat/kicad_interface_expansion_p82b96/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_expansion_p82b96/working
-name: interface_expansion_p82b96
+name: p82b96
 oomp:
   library_name: interface_expansion
-  md5: a9e381cb98da3945da401679114a53d3
-  md5_10: a9e381cb98
-  md5_5: a9e38
-  md5_6: a9e381
-  oomp_key: oomp_interface_expansion_p82b96
-  oomp_key_extra: oomp_symbol_interface_expansion_p82b96
-  oomp_key_full: oomp_symbol_interface_expansion_p82b96_a9e381
-  oomp_key_simple: interface_expansion_p82b96
+  md5: d67d4c0178554b5c58b62c903d752996
+  md5_10: d67d4c0178
+  md5_5: d67d4
+  md5_6: d67d4c
+  oomp_key: oomp_p82b96
+  oomp_key_extra: oomp_symbol_p82b96
+  oomp_key_full: oomp_symbol_p82b96_d67d4c
+  oomp_key_simple: p82b96
   owner_name: kicad
-  symbol_name: interface_expansion_p82b96
+  symbol_name: p82b96
 oomp_key: oomp_kicad_interface_expansion_p82b96
 oomp_key_simple: kicad_interface_expansion_p82b96
 owner: kicad

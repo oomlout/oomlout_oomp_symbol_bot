@@ -1,16 +1,20 @@
+id: kicad_amplifier_operational_opa197xd
+library: amplifier_operational
 library_name: Amplifier_Operational
+name: opa197xd
 oomp:
   library_name: amplifier_operational
-  md5: df4b0e5c103f308d5d4f6330f1591b34
-  md5_10: df4b0e5c10
-  md5_5: df4b0
-  md5_6: df4b0e
-  oomp_key: oomp_amplifier_operational_opa197xd
-  oomp_key_extra: oomp_symbol_amplifier_operational_opa197xd
-  oomp_key_full: oomp_symbol_amplifier_operational_opa197xd_df4b0e
-  oomp_key_simple: amplifier_operational_opa197xd
+  md5: 5d86bbcbd929121a3af2dbde6f8b78f9
+  md5_10: 5d86bbcbd9
+  md5_5: 5d86b
+  md5_6: 5d86bb
+  oomp_key: oomp_opa197xd
+  oomp_key_extra: oomp_symbol_opa197xd
+  oomp_key_full: oomp_symbol_opa197xd_5d86bb
+  oomp_key_simple: opa197xd
   owner_name: kicad
-  symbol_name: amplifier_operational_opa197xd
+  symbol_name: opa197xd
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

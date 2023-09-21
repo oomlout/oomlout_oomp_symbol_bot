@@ -1,3 +1,5 @@
+id: oomlout_oomlout_oomp_part_symbols_insoic14wi2cheli_electronic_interposer_soic_14_wide_i2c_helicopter
+library: oomlout_oomp_part_symbols
 library_name: oomlout_oomp_part_symbols
 links:
   github_owner: oomlout
@@ -10,19 +12,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/oomlout_oomlout_oomp_part_symbols_insoic14wi2cheli_electronic_interposer_soic_14_wide_i2c_helicopter/working
   oomp_src_flat: symbols_flat/oomlout_oomlout_oomp_part_symbols_insoic14wi2cheli_electronic_interposer_soic_14_wide_i2c_helicopter/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/oomlout_oomlout_oomp_part_symbols_insoic14wi2cheli_electronic_interposer_soic_14_wide_i2c_helicopter/working
-name: oomp_insoic14wi2cheli_electronic_interposer_soic_14_wide_i2c_helicopter
+name: insoic14wi2cheli_electronic_interposer_soic_14_wide_i2c_helicopter
 oomp:
   library_name: oomlout_oomp_part_symbols
-  md5: 8150a6159c9749074c78425b0cce0b0c
-  md5_10: 8150a6159c
-  md5_5: 8150a
-  md5_6: 8150a6
-  oomp_key: oomp_oomp_insoic14wi2cheli_electronic_interposer_soic_14_wide_i2c_helicopter
-  oomp_key_extra: oomp_symbol_oomp_insoic14wi2cheli_electronic_interposer_soic_14_wide_i2c_helicopter
-  oomp_key_full: oomp_symbol_oomp_insoic14wi2cheli_electronic_interposer_soic_14_wide_i2c_helicopter_8150a6
-  oomp_key_simple: oomp_insoic14wi2cheli_electronic_interposer_soic_14_wide_i2c_helicopter
+  md5: 78783d9fe202d8fa3f3fe6a679519141
+  md5_10: 78783d9fe2
+  md5_5: '78783'
+  md5_6: 78783d
+  oomp_key: oomp_insoic14wi2cheli_electronic_interposer_soic_14_wide_i2c_helicopter
+  oomp_key_extra: oomp_symbol_insoic14wi2cheli_electronic_interposer_soic_14_wide_i2c_helicopter
+  oomp_key_full: oomp_symbol_insoic14wi2cheli_electronic_interposer_soic_14_wide_i2c_helicopter_78783d
+  oomp_key_simple: insoic14wi2cheli_electronic_interposer_soic_14_wide_i2c_helicopter
   owner_name: oomlout
-  symbol_name: oomp_insoic14wi2cheli_electronic_interposer_soic_14_wide_i2c_helicopter
+  symbol_name: insoic14wi2cheli_electronic_interposer_soic_14_wide_i2c_helicopter
 oomp_key: oomp_oomlout_oomlout_oomp_part_symbols_insoic14wi2cheli_electronic_interposer_soic_14_wide_i2c_helicopter
 oomp_key_simple: oomlout_oomlout_oomp_part_symbols_insoic14wi2cheli_electronic_interposer_soic_14_wide_i2c_helicopter
 owner: oomlout
@@ -110,9 +112,9 @@ repo_github:
     url: https://api.github.com/users/oomlout
   private: false
   pulls_url: https://api.github.com/repos/oomlout/oomlout_oomp_part_kicad_symbols/pulls{/number}
-  pushed_at: '2023-09-03T16:13:58Z'
+  pushed_at: '2023-09-17T15:55:00Z'
   releases_url: https://api.github.com/repos/oomlout/oomlout_oomp_part_kicad_symbols/releases{/id}
-  size: 218
+  size: 263
   ssh_url: git@github.com:oomlout/oomlout_oomp_part_kicad_symbols.git
   stargazers_count: 0
   stargazers_url: https://api.github.com/repos/oomlout/oomlout_oomp_part_kicad_symbols/stargazers

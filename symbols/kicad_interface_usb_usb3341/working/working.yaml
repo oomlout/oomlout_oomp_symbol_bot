@@ -1,3 +1,5 @@
+id: kicad_interface_usb_usb3341
+library: interface_usb
 library_name: Interface_USB
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_usb_usb3341/working
   oomp_src_flat: symbols_flat/kicad_interface_usb_usb3341/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_usb_usb3341/working
-name: interface_usb_usb3341
+name: usb3341
 oomp:
   library_name: interface_usb
-  md5: 25b1e78161b13801639d13859124dd2d
-  md5_10: 25b1e78161
-  md5_5: 25b1e
-  md5_6: 25b1e7
-  oomp_key: oomp_interface_usb_usb3341
-  oomp_key_extra: oomp_symbol_interface_usb_usb3341
-  oomp_key_full: oomp_symbol_interface_usb_usb3341_25b1e7
-  oomp_key_simple: interface_usb_usb3341
+  md5: 172e8732fbfa0cf7cd0fe764e7a6ff39
+  md5_10: 172e8732fb
+  md5_5: 172e8
+  md5_6: 172e87
+  oomp_key: oomp_usb3341
+  oomp_key_extra: oomp_symbol_usb3341
+  oomp_key_full: oomp_symbol_usb3341_172e87
+  oomp_key_simple: usb3341
   owner_name: kicad
-  symbol_name: interface_usb_usb3341
+  symbol_name: usb3341
 oomp_key: oomp_kicad_interface_usb_usb3341
 oomp_key_simple: kicad_interface_usb_usb3341
 owner: kicad

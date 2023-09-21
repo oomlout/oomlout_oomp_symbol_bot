@@ -1,3 +1,5 @@
+id: kicad_analog_adc_max11120xti
+library: analog_adc
 library_name: Analog_ADC
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_analog_adc_max11120xti/working
   oomp_src_flat: symbols_flat/kicad_analog_adc_max11120xti/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_analog_adc_max11120xti/working
-name: analog_adc_max11120xti
+name: max11120xti
 oomp:
   library_name: analog_adc
-  md5: d211d32112f7fa30333874c8cbcbfeb9
-  md5_10: d211d32112
-  md5_5: d211d
-  md5_6: d211d3
-  oomp_key: oomp_analog_adc_max11120xti
-  oomp_key_extra: oomp_symbol_analog_adc_max11120xti
-  oomp_key_full: oomp_symbol_analog_adc_max11120xti_d211d3
-  oomp_key_simple: analog_adc_max11120xti
+  md5: 1f7f76b9e241d900e781170e76bbe847
+  md5_10: 1f7f76b9e2
+  md5_5: 1f7f7
+  md5_6: 1f7f76
+  oomp_key: oomp_max11120xti
+  oomp_key_extra: oomp_symbol_max11120xti
+  oomp_key_full: oomp_symbol_max11120xti_1f7f76
+  oomp_key_simple: max11120xti
   owner_name: kicad
-  symbol_name: analog_adc_max11120xti
+  symbol_name: max11120xti
 oomp_key: oomp_kicad_analog_adc_max11120xti
 oomp_key_simple: kicad_analog_adc_max11120xti
 owner: kicad

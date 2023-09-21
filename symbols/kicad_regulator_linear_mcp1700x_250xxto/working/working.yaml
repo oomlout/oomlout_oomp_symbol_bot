@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_mcp1700x_250xxto
+library: regulator_linear
 library_name: Regulator_Linear
+name: mcp1700x_250xxto
 oomp:
   library_name: regulator_linear
-  md5: 9d1569c9ddc7a80fbcc462f15ebce00e
-  md5_10: 9d1569c9dd
-  md5_5: 9d156
-  md5_6: 9d1569
-  oomp_key: oomp_regulator_linear_mcp1700x_250xxto
-  oomp_key_extra: oomp_symbol_regulator_linear_mcp1700x_250xxto
-  oomp_key_full: oomp_symbol_regulator_linear_mcp1700x_250xxto_9d1569
-  oomp_key_simple: regulator_linear_mcp1700x_250xxto
+  md5: e20fdae4d708915fdeaefaffdc887b2b
+  md5_10: e20fdae4d7
+  md5_5: e20fd
+  md5_6: e20fda
+  oomp_key: oomp_mcp1700x_250xxto
+  oomp_key_extra: oomp_symbol_mcp1700x_250xxto
+  oomp_key_full: oomp_symbol_mcp1700x_250xxto_e20fda
+  oomp_key_simple: mcp1700x_250xxto
   owner_name: kicad
-  symbol_name: regulator_linear_mcp1700x_250xxto
+  symbol_name: mcp1700x_250xxto
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_sensor_optical_s13360_3050cs
+library: sensor_optical
 library_name: Sensor_Optical
+name: s13360_3050cs
 oomp:
   library_name: sensor_optical
-  md5: 0ea0c84e0ba22e1378a70e8c1ee85fce
-  md5_10: 0ea0c84e0b
-  md5_5: 0ea0c
-  md5_6: 0ea0c8
-  oomp_key: oomp_sensor_optical_s13360_3050cs
-  oomp_key_extra: oomp_symbol_sensor_optical_s13360_3050cs
-  oomp_key_full: oomp_symbol_sensor_optical_s13360_3050cs_0ea0c8
-  oomp_key_simple: sensor_optical_s13360_3050cs
+  md5: 3b559a0d6bd12326dd144df3e309231a
+  md5_10: 3b559a0d6b
+  md5_5: 3b559
+  md5_6: 3b559a
+  oomp_key: oomp_s13360_3050cs
+  oomp_key_extra: oomp_symbol_s13360_3050cs
+  oomp_key_full: oomp_symbol_s13360_3050cs_3b559a
+  oomp_key_simple: s13360_3050cs
   owner_name: kicad
-  symbol_name: sensor_optical_s13360_3050cs
+  symbol_name: s13360_3050cs
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

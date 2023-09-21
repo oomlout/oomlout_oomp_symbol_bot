@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_ncp163asn500t1g
+library: regulator_linear
 library_name: Regulator_Linear
+name: ncp163asn500t1g
 oomp:
   library_name: regulator_linear
-  md5: 5e5f927d72369d0cba40b0b4521b7f91
-  md5_10: 5e5f927d72
-  md5_5: 5e5f9
-  md5_6: 5e5f92
-  oomp_key: oomp_regulator_linear_ncp163asn500t1g
-  oomp_key_extra: oomp_symbol_regulator_linear_ncp163asn500t1g
-  oomp_key_full: oomp_symbol_regulator_linear_ncp163asn500t1g_5e5f92
-  oomp_key_simple: regulator_linear_ncp163asn500t1g
+  md5: b769030adf435c2e008bfc8f156e8f1b
+  md5_10: b769030adf
+  md5_5: b7690
+  md5_6: b76903
+  oomp_key: oomp_ncp163asn500t1g
+  oomp_key_extra: oomp_symbol_ncp163asn500t1g
+  oomp_key_full: oomp_symbol_ncp163asn500t1g_b76903
+  oomp_key_simple: ncp163asn500t1g
   owner_name: kicad
-  symbol_name: regulator_linear_ncp163asn500t1g
+  symbol_name: ncp163asn500t1g
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

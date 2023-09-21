@@ -1,16 +1,20 @@
+id: kicad_transistor_bjt_bc546
+library: transistor_bjt
 library_name: Transistor_BJT
+name: bc546
 oomp:
   library_name: transistor_bjt
-  md5: 2729ad6f994732c4f96ff8796465b433
-  md5_10: 2729ad6f99
-  md5_5: 2729a
-  md5_6: 2729ad
-  oomp_key: oomp_transistor_bjt_bc546
-  oomp_key_extra: oomp_symbol_transistor_bjt_bc546
-  oomp_key_full: oomp_symbol_transistor_bjt_bc546_2729ad
-  oomp_key_simple: transistor_bjt_bc546
+  md5: bad7cf9984d96ed4de6d32c7aa9e96f2
+  md5_10: bad7cf9984
+  md5_5: bad7c
+  md5_6: bad7cf
+  oomp_key: oomp_bc546
+  oomp_key_extra: oomp_symbol_bc546
+  oomp_key_full: oomp_symbol_bc546_bad7cf
+  oomp_key_simple: bc546
   owner_name: kicad
-  symbol_name: transistor_bjt_bc546
+  symbol_name: bc546
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

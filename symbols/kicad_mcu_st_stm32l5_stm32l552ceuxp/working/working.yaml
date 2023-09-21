@@ -1,3 +1,5 @@
+id: kicad_mcu_st_stm32l5_stm32l552ceuxp
+library: mcu_st_stm32l5
 library_name: MCU_ST_STM32L5
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_st_stm32l5_stm32l552ceuxp/working
   oomp_src_flat: symbols_flat/kicad_mcu_st_stm32l5_stm32l552ceuxp/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_st_stm32l5_stm32l552ceuxp/working
-name: mcu_st_stm32l5_stm32l552ceuxp
+name: stm32l552ceuxp
 oomp:
   library_name: mcu_st_stm32l5
-  md5: 2fd5f980fb53a3794201e4e550a26ab9
-  md5_10: 2fd5f980fb
-  md5_5: 2fd5f
-  md5_6: 2fd5f9
-  oomp_key: oomp_mcu_st_stm32l5_stm32l552ceuxp
-  oomp_key_extra: oomp_symbol_mcu_st_stm32l5_stm32l552ceuxp
-  oomp_key_full: oomp_symbol_mcu_st_stm32l5_stm32l552ceuxp_2fd5f9
-  oomp_key_simple: mcu_st_stm32l5_stm32l552ceuxp
+  md5: bd801953aeea2da11b57e23d41af500c
+  md5_10: bd801953ae
+  md5_5: bd801
+  md5_6: bd8019
+  oomp_key: oomp_stm32l552ceuxp
+  oomp_key_extra: oomp_symbol_stm32l552ceuxp
+  oomp_key_full: oomp_symbol_stm32l552ceuxp_bd8019
+  oomp_key_simple: stm32l552ceuxp
   owner_name: kicad
-  symbol_name: mcu_st_stm32l5_stm32l552ceuxp
+  symbol_name: stm32l552ceuxp
 oomp_key: oomp_kicad_mcu_st_stm32l5_stm32l552ceuxp
 oomp_key_simple: kicad_mcu_st_stm32l5_stm32l552ceuxp
 owner: kicad

@@ -1,16 +1,20 @@
+id: kicad_connector_audio_nsj12hl
+library: connector_audio
 library_name: Connector_Audio
+name: nsj12hl
 oomp:
   library_name: connector_audio
-  md5: c9f5e9a1e71d17873ec896788aa0862b
-  md5_10: c9f5e9a1e7
-  md5_5: c9f5e
-  md5_6: c9f5e9
-  oomp_key: oomp_connector_audio_nsj12hl
-  oomp_key_extra: oomp_symbol_connector_audio_nsj12hl
-  oomp_key_full: oomp_symbol_connector_audio_nsj12hl_c9f5e9
-  oomp_key_simple: connector_audio_nsj12hl
+  md5: e4d6cbae33fe68dcdc8d9343dfff9d7a
+  md5_10: e4d6cbae33
+  md5_5: e4d6c
+  md5_6: e4d6cb
+  oomp_key: oomp_nsj12hl
+  oomp_key_extra: oomp_symbol_nsj12hl
+  oomp_key_full: oomp_symbol_nsj12hl_e4d6cb
+  oomp_key_simple: nsj12hl
   owner_name: kicad
-  symbol_name: connector_audio_nsj12hl
+  symbol_name: nsj12hl
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

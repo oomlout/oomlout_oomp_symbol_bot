@@ -1,16 +1,20 @@
+id: kicad_power_management_ap22814aw5
+library: power_management
 library_name: Power_Management
+name: ap22814aw5
 oomp:
   library_name: power_management
-  md5: 06e9eafff284a9fd4ae176da08f1c0f6
-  md5_10: 06e9eafff2
-  md5_5: 06e9e
-  md5_6: 06e9ea
-  oomp_key: oomp_power_management_ap22814aw5
-  oomp_key_extra: oomp_symbol_power_management_ap22814aw5
-  oomp_key_full: oomp_symbol_power_management_ap22814aw5_06e9ea
-  oomp_key_simple: power_management_ap22814aw5
+  md5: 9ed4bfa657d7f38196459c5bf31bbf82
+  md5_10: 9ed4bfa657
+  md5_5: 9ed4b
+  md5_6: 9ed4bf
+  oomp_key: oomp_ap22814aw5
+  oomp_key_extra: oomp_symbol_ap22814aw5
+  oomp_key_full: oomp_symbol_ap22814aw5_9ed4bf
+  oomp_key_simple: ap22814aw5
   owner_name: kicad
-  symbol_name: power_management_ap22814aw5
+  symbol_name: ap22814aw5
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

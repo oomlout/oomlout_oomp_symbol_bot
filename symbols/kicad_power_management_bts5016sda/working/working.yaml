@@ -1,16 +1,20 @@
+id: kicad_power_management_bts5016sda
+library: power_management
 library_name: Power_Management
+name: bts5016sda
 oomp:
   library_name: power_management
-  md5: 5090fa92b743ebdefc73b00c604e0f59
-  md5_10: 5090fa92b7
-  md5_5: 5090f
-  md5_6: 5090fa
-  oomp_key: oomp_power_management_bts5016sda
-  oomp_key_extra: oomp_symbol_power_management_bts5016sda
-  oomp_key_full: oomp_symbol_power_management_bts5016sda_5090fa
-  oomp_key_simple: power_management_bts5016sda
+  md5: c20c2a1c547fa423f157d08954a19d99
+  md5_10: c20c2a1c54
+  md5_5: c20c2
+  md5_6: c20c2a
+  oomp_key: oomp_bts5016sda
+  oomp_key_extra: oomp_symbol_bts5016sda
+  oomp_key_full: oomp_symbol_bts5016sda_c20c2a
+  oomp_key_simple: bts5016sda
   owner_name: kicad
-  symbol_name: power_management_bts5016sda
+  symbol_name: bts5016sda
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_diode_smaj100a
+library: diode
 library_name: Diode
+name: smaj100a
 oomp:
   library_name: diode
-  md5: 0761d69542e709235cbf5368317d1a46
-  md5_10: 0761d69542
-  md5_5: 0761d
-  md5_6: 0761d6
-  oomp_key: oomp_diode_smaj100a
-  oomp_key_extra: oomp_symbol_diode_smaj100a
-  oomp_key_full: oomp_symbol_diode_smaj100a_0761d6
-  oomp_key_simple: diode_smaj100a
+  md5: 3ba997b78d3386572e488d7543f37fa8
+  md5_10: 3ba997b78d
+  md5_5: 3ba99
+  md5_6: 3ba997
+  oomp_key: oomp_smaj100a
+  oomp_key_extra: oomp_symbol_smaj100a
+  oomp_key_full: oomp_symbol_smaj100a_3ba997
+  oomp_key_simple: smaj100a
   owner_name: kicad
-  symbol_name: diode_smaj100a
+  symbol_name: smaj100a
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

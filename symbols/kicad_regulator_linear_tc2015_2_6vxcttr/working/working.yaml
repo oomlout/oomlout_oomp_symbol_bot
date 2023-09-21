@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_tc2015_2_6vxcttr
+library: regulator_linear
 library_name: Regulator_Linear
+name: tc2015_2_6vxcttr
 oomp:
   library_name: regulator_linear
-  md5: 628f31aeed7698cfb3769c02cb0f45f6
-  md5_10: 628f31aeed
-  md5_5: 628f3
-  md5_6: 628f31
-  oomp_key: oomp_regulator_linear_tc2015_2_6vxcttr
-  oomp_key_extra: oomp_symbol_regulator_linear_tc2015_2_6vxcttr
-  oomp_key_full: oomp_symbol_regulator_linear_tc2015_2_6vxcttr_628f31
-  oomp_key_simple: regulator_linear_tc2015_2_6vxcttr
+  md5: b458d626758c98d72ae8b9e81856accb
+  md5_10: b458d62675
+  md5_5: b458d
+  md5_6: b458d6
+  oomp_key: oomp_tc2015_2_6vxcttr
+  oomp_key_extra: oomp_symbol_tc2015_2_6vxcttr
+  oomp_key_full: oomp_symbol_tc2015_2_6vxcttr_b458d6
+  oomp_key_simple: tc2015_2_6vxcttr
   owner_name: kicad
-  symbol_name: regulator_linear_tc2015_2_6vxcttr
+  symbol_name: tc2015_2_6vxcttr
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

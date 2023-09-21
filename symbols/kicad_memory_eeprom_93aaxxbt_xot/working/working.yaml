@@ -1,16 +1,20 @@
+id: kicad_memory_eeprom_93aaxxbt_xot
+library: memory_eeprom
 library_name: Memory_EEPROM
+name: 93aaxxbt_xot
 oomp:
   library_name: memory_eeprom
-  md5: e3f6b7c3bc2fc81e813ad8d333f3ff1a
-  md5_10: e3f6b7c3bc
-  md5_5: e3f6b
-  md5_6: e3f6b7
-  oomp_key: oomp_memory_eeprom_93aaxxbt_xot
-  oomp_key_extra: oomp_symbol_memory_eeprom_93aaxxbt_xot
-  oomp_key_full: oomp_symbol_memory_eeprom_93aaxxbt_xot_e3f6b7
-  oomp_key_simple: memory_eeprom_93aaxxbt_xot
+  md5: 309d3bf1d2cb067b0b956662e3c87ce8
+  md5_10: 309d3bf1d2
+  md5_5: 309d3
+  md5_6: 309d3b
+  oomp_key: oomp_93aaxxbt_xot
+  oomp_key_extra: oomp_symbol_93aaxxbt_xot
+  oomp_key_full: oomp_symbol_93aaxxbt_xot_309d3b
+  oomp_key_simple: 93aaxxbt_xot
   owner_name: kicad
-  symbol_name: memory_eeprom_93aaxxbt_xot
+  symbol_name: 93aaxxbt_xot
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

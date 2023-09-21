@@ -1,16 +1,20 @@
+id: kicad_mcu_microchip_8051_at89c4051_12p
+library: mcu_microchip_8051
 library_name: MCU_Microchip_8051
+name: at89c4051_12p
 oomp:
   library_name: mcu_microchip_8051
-  md5: 882a64b969ff6da6ef50a179fce2bd99
-  md5_10: 882a64b969
-  md5_5: 882a6
-  md5_6: 882a64
-  oomp_key: oomp_mcu_microchip_8051_at89c4051_12p
-  oomp_key_extra: oomp_symbol_mcu_microchip_8051_at89c4051_12p
-  oomp_key_full: oomp_symbol_mcu_microchip_8051_at89c4051_12p_882a64
-  oomp_key_simple: mcu_microchip_8051_at89c4051_12p
+  md5: 95b69922893d67baf69438ed278012f6
+  md5_10: 95b6992289
+  md5_5: 95b69
+  md5_6: 95b699
+  oomp_key: oomp_at89c4051_12p
+  oomp_key_extra: oomp_symbol_at89c4051_12p
+  oomp_key_full: oomp_symbol_at89c4051_12p_95b699
+  oomp_key_simple: at89c4051_12p
   owner_name: kicad
-  symbol_name: mcu_microchip_8051_at89c4051_12p
+  symbol_name: at89c4051_12p
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,3 +1,5 @@
+id: kicad_regulator_linear_l7905
+library: regulator_linear
 library_name: Regulator_Linear
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_linear_l7905/working
   oomp_src_flat: symbols_flat/kicad_regulator_linear_l7905/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_linear_l7905/working
-name: regulator_linear_l7905
+name: l7905
 oomp:
   library_name: regulator_linear
-  md5: 6b2b06e7fb88cbd70cdd5961d1c9a111
-  md5_10: 6b2b06e7fb
-  md5_5: 6b2b0
-  md5_6: 6b2b06
-  oomp_key: oomp_regulator_linear_l7905
-  oomp_key_extra: oomp_symbol_regulator_linear_l7905
-  oomp_key_full: oomp_symbol_regulator_linear_l7905_6b2b06
-  oomp_key_simple: regulator_linear_l7905
+  md5: 3bd548277b3da51416cb6543a85e28b9
+  md5_10: 3bd548277b
+  md5_5: 3bd54
+  md5_6: 3bd548
+  oomp_key: oomp_l7905
+  oomp_key_extra: oomp_symbol_l7905
+  oomp_key_full: oomp_symbol_l7905_3bd548
+  oomp_key_simple: l7905
   owner_name: kicad
-  symbol_name: regulator_linear_l7905
+  symbol_name: l7905
 oomp_key: oomp_kicad_regulator_linear_l7905
 oomp_key_simple: kicad_regulator_linear_l7905
 owner: kicad

@@ -1,16 +1,20 @@
+id: kicad_timer_icm7556
+library: timer
 library_name: Timer
+name: icm7556
 oomp:
   library_name: timer
-  md5: 9471ed9950031005bf50f0989b05a24f
-  md5_10: 9471ed9950
-  md5_5: 9471e
-  md5_6: 9471ed
-  oomp_key: oomp_timer_icm7556
-  oomp_key_extra: oomp_symbol_timer_icm7556
-  oomp_key_full: oomp_symbol_timer_icm7556_9471ed
-  oomp_key_simple: timer_icm7556
+  md5: 199b0002955750f19d92dea612e5aadc
+  md5_10: 199b000295
+  md5_5: 199b0
+  md5_6: 199b00
+  oomp_key: oomp_icm7556
+  oomp_key_extra: oomp_symbol_icm7556
+  oomp_key_full: oomp_symbol_icm7556_199b00
+  oomp_key_simple: icm7556
   owner_name: kicad
-  symbol_name: timer_icm7556
+  symbol_name: icm7556
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

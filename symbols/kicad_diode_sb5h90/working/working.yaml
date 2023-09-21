@@ -1,16 +1,20 @@
+id: kicad_diode_sb5h90
+library: diode
 library_name: Diode
+name: sb5h90
 oomp:
   library_name: diode
-  md5: cfb1e9855f8c122bdbb3088797d41f4d
-  md5_10: cfb1e9855f
-  md5_5: cfb1e
-  md5_6: cfb1e9
-  oomp_key: oomp_diode_sb5h90
-  oomp_key_extra: oomp_symbol_diode_sb5h90
-  oomp_key_full: oomp_symbol_diode_sb5h90_cfb1e9
-  oomp_key_simple: diode_sb5h90
+  md5: 4fa85d5ad38eec1f923f09328fa2dc63
+  md5_10: 4fa85d5ad3
+  md5_5: 4fa85
+  md5_6: 4fa85d
+  oomp_key: oomp_sb5h90
+  oomp_key_extra: oomp_symbol_sb5h90
+  oomp_key_full: oomp_symbol_sb5h90_4fa85d
+  oomp_key_simple: sb5h90
   owner_name: kicad
-  symbol_name: diode_sb5h90
+  symbol_name: sb5h90
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

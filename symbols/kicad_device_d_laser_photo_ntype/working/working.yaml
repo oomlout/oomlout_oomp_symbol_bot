@@ -1,3 +1,5 @@
+id: kicad_device_d_laser_photo_ntype
+library: device
 library_name: Device
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_d_laser_photo_ntype/working
   oomp_src_flat: symbols_flat/kicad_device_d_laser_photo_ntype/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_d_laser_photo_ntype/working
-name: device_d_laser_photo_ntype
+name: d_laser_photo_ntype
 oomp:
   library_name: device
-  md5: 7af6044bf171e7f5467b24c142845b95
-  md5_10: 7af6044bf1
-  md5_5: 7af60
-  md5_6: 7af604
-  oomp_key: oomp_device_d_laser_photo_ntype
-  oomp_key_extra: oomp_symbol_device_d_laser_photo_ntype
-  oomp_key_full: oomp_symbol_device_d_laser_photo_ntype_7af604
-  oomp_key_simple: device_d_laser_photo_ntype
+  md5: 82eb8f747fceb1e6492b785647e94a10
+  md5_10: 82eb8f747f
+  md5_5: 82eb8
+  md5_6: 82eb8f
+  oomp_key: oomp_d_laser_photo_ntype
+  oomp_key_extra: oomp_symbol_d_laser_photo_ntype
+  oomp_key_full: oomp_symbol_d_laser_photo_ntype_82eb8f
+  oomp_key_simple: d_laser_photo_ntype
   owner_name: kicad
-  symbol_name: device_d_laser_photo_ntype
+  symbol_name: d_laser_photo_ntype
 oomp_key: oomp_kicad_device_d_laser_photo_ntype
 oomp_key_simple: kicad_device_d_laser_photo_ntype
 owner: kicad

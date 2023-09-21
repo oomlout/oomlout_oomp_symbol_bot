@@ -1,16 +1,20 @@
+id: kicad_mcu_st_stm32h7_stm32h743aiix
+library: mcu_st_stm32h7
 library_name: MCU_ST_STM32H7
+name: stm32h743aiix
 oomp:
   library_name: mcu_st_stm32h7
-  md5: 5b470cf87b9ecc52852187e505e92f4f
-  md5_10: 5b470cf87b
-  md5_5: 5b470
-  md5_6: 5b470c
-  oomp_key: oomp_mcu_st_stm32h7_stm32h743aiix
-  oomp_key_extra: oomp_symbol_mcu_st_stm32h7_stm32h743aiix
-  oomp_key_full: oomp_symbol_mcu_st_stm32h7_stm32h743aiix_5b470c
-  oomp_key_simple: mcu_st_stm32h7_stm32h743aiix
+  md5: 99f0ff4d65f8b7488db48156a0e75968
+  md5_10: 99f0ff4d65
+  md5_5: 99f0f
+  md5_6: 99f0ff
+  oomp_key: oomp_stm32h743aiix
+  oomp_key_extra: oomp_symbol_stm32h743aiix
+  oomp_key_full: oomp_symbol_stm32h743aiix_99f0ff
+  oomp_key_simple: stm32h743aiix
   owner_name: kicad
-  symbol_name: mcu_st_stm32h7_stm32h743aiix
+  symbol_name: stm32h743aiix
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

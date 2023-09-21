@@ -1,16 +1,20 @@
+id: kicad_sensor_temperature_mcp9802ax_xot
+library: sensor_temperature
 library_name: Sensor_Temperature
+name: mcp9802ax_xot
 oomp:
   library_name: sensor_temperature
-  md5: 686308366d33ff8704ef5ab4e8e05d9f
-  md5_10: 686308366d
-  md5_5: '68630'
-  md5_6: '686308'
-  oomp_key: oomp_sensor_temperature_mcp9802ax_xot
-  oomp_key_extra: oomp_symbol_sensor_temperature_mcp9802ax_xot
-  oomp_key_full: oomp_symbol_sensor_temperature_mcp9802ax_xot_686308
-  oomp_key_simple: sensor_temperature_mcp9802ax_xot
+  md5: 6695a47823feb3edccab71d963905912
+  md5_10: 6695a47823
+  md5_5: 6695a
+  md5_6: 6695a4
+  oomp_key: oomp_mcp9802ax_xot
+  oomp_key_extra: oomp_symbol_mcp9802ax_xot
+  oomp_key_full: oomp_symbol_mcp9802ax_xot_6695a4
+  oomp_key_simple: mcp9802ax_xot
   owner_name: kicad
-  symbol_name: sensor_temperature_mcp9802ax_xot
+  symbol_name: mcp9802ax_xot
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

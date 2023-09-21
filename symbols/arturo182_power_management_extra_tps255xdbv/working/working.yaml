@@ -1,3 +1,5 @@
+id: arturo182_power_management_extra_tps255xdbv
+library: power_management_extra
 library_name: Power_Management_Extra
 links:
   github_owner: arturo182
@@ -10,19 +12,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/arturo182_power_management_extra_tps255xdbv/working
   oomp_src_flat: symbols_flat/arturo182_power_management_extra_tps255xdbv/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/arturo182_power_management_extra_tps255xdbv/working
-name: power_management_extra_tps255xdbv
+name: tps255xdbv
 oomp:
   library_name: power_management_extra
-  md5: bbe42aeaf3e22eb14064912f8c4b73dc
-  md5_10: bbe42aeaf3
-  md5_5: bbe42
-  md5_6: bbe42a
-  oomp_key: oomp_power_management_extra_tps255xdbv
-  oomp_key_extra: oomp_symbol_power_management_extra_tps255xdbv
-  oomp_key_full: oomp_symbol_power_management_extra_tps255xdbv_bbe42a
-  oomp_key_simple: power_management_extra_tps255xdbv
+  md5: 5db8eee1777248dfbfa9ebacd96a1c09
+  md5_10: 5db8eee177
+  md5_5: 5db8e
+  md5_6: 5db8ee
+  oomp_key: oomp_tps255xdbv
+  oomp_key_extra: oomp_symbol_tps255xdbv
+  oomp_key_full: oomp_symbol_tps255xdbv_5db8ee
+  oomp_key_simple: tps255xdbv
   owner_name: arturo182
-  symbol_name: power_management_extra_tps255xdbv
+  symbol_name: tps255xdbv
 oomp_key: oomp_arturo182_power_management_extra_tps255xdbv
 oomp_key_simple: arturo182_power_management_extra_tps255xdbv
 owner: arturo182

@@ -1,16 +1,20 @@
+id: kicad_analog_dac_mcp4911_emc
+library: analog_dac
 library_name: Analog_DAC
+name: mcp4911_emc
 oomp:
   library_name: analog_dac
-  md5: 015ebeb77680831a7d0bd2b1f4f27bd6
-  md5_10: 015ebeb776
-  md5_5: 015eb
-  md5_6: 015ebe
-  oomp_key: oomp_analog_dac_mcp4911_emc
-  oomp_key_extra: oomp_symbol_analog_dac_mcp4911_emc
-  oomp_key_full: oomp_symbol_analog_dac_mcp4911_emc_015ebe
-  oomp_key_simple: analog_dac_mcp4911_emc
+  md5: 0002d2f995a8f94ae627c46768cae072
+  md5_10: 0002d2f995
+  md5_5: 0002d
+  md5_6: 0002d2
+  oomp_key: oomp_mcp4911_emc
+  oomp_key_extra: oomp_symbol_mcp4911_emc
+  oomp_key_full: oomp_symbol_mcp4911_emc_0002d2
+  oomp_key_simple: mcp4911_emc
   owner_name: kicad
-  symbol_name: analog_dac_mcp4911_emc
+  symbol_name: mcp4911_emc
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

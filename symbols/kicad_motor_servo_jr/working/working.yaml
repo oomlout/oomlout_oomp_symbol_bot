@@ -1,0 +1,25 @@
+id: kicad_motor_servo_jr
+library: motor
+library_name: Motor
+name: servo_jr
+oomp:
+  library_name: motor
+  md5: 62bdbd3ba21c3baacc07222d40ee6c32
+  md5_10: 62bdbd3ba2
+  md5_5: 62bdb
+  md5_6: 62bdbd
+  oomp_key: oomp_servo_jr
+  oomp_key_extra: oomp_symbol_servo_jr
+  oomp_key_full: oomp_symbol_servo_jr_62bdbd
+  oomp_key_simple: servo_jr
+  owner_name: kicad
+  symbol_name: servo_jr
+owner: kicad
+repo:
+  github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
+  name: kicad-symbols
+  owner: kicad
+  url: https://gitlab.com/kicad/libraries/kicad-symbols
+repo_github:
+  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
+  message: Not Found

@@ -1,3 +1,5 @@
+id: kicad_mcu_siliconlabs_efm32hg108f32g_c_qfn24
+library: mcu_siliconlabs
 library_name: MCU_SiliconLabs
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_siliconlabs_efm32hg108f32g_c_qfn24/working
   oomp_src_flat: symbols_flat/kicad_mcu_siliconlabs_efm32hg108f32g_c_qfn24/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_siliconlabs_efm32hg108f32g_c_qfn24/working
-name: mcu_siliconlabs_efm32hg108f32g_c_qfn24
+name: efm32hg108f32g_c_qfn24
 oomp:
   library_name: mcu_siliconlabs
-  md5: c819e337c44fdb2a5fc3cdba204366e4
-  md5_10: c819e337c4
-  md5_5: c819e
-  md5_6: c819e3
-  oomp_key: oomp_mcu_siliconlabs_efm32hg108f32g_c_qfn24
-  oomp_key_extra: oomp_symbol_mcu_siliconlabs_efm32hg108f32g_c_qfn24
-  oomp_key_full: oomp_symbol_mcu_siliconlabs_efm32hg108f32g_c_qfn24_c819e3
-  oomp_key_simple: mcu_siliconlabs_efm32hg108f32g_c_qfn24
+  md5: 38934ff3cf6961035e1500599e5eddb3
+  md5_10: 38934ff3cf
+  md5_5: '38934'
+  md5_6: 38934f
+  oomp_key: oomp_efm32hg108f32g_c_qfn24
+  oomp_key_extra: oomp_symbol_efm32hg108f32g_c_qfn24
+  oomp_key_full: oomp_symbol_efm32hg108f32g_c_qfn24_38934f
+  oomp_key_simple: efm32hg108f32g_c_qfn24
   owner_name: kicad
-  symbol_name: mcu_siliconlabs_efm32hg108f32g_c_qfn24
+  symbol_name: efm32hg108f32g_c_qfn24
 oomp_key: oomp_kicad_mcu_siliconlabs_efm32hg108f32g_c_qfn24
 oomp_key_simple: kicad_mcu_siliconlabs_efm32hg108f32g_c_qfn24
 owner: kicad

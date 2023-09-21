@@ -1,16 +1,20 @@
+id: kicad_regulator_controller_ucc2895dw
+library: regulator_controller
 library_name: Regulator_Controller
+name: ucc2895dw
 oomp:
   library_name: regulator_controller
-  md5: 29968ecbdb6bcedb8b0280988a7a17b2
-  md5_10: 29968ecbdb
-  md5_5: '29968'
-  md5_6: 29968e
-  oomp_key: oomp_regulator_controller_ucc2895dw
-  oomp_key_extra: oomp_symbol_regulator_controller_ucc2895dw
-  oomp_key_full: oomp_symbol_regulator_controller_ucc2895dw_29968e
-  oomp_key_simple: regulator_controller_ucc2895dw
+  md5: 065ea25888ab38a468b68d1b989d5b03
+  md5_10: 065ea25888
+  md5_5: 065ea
+  md5_6: 065ea2
+  oomp_key: oomp_ucc2895dw
+  oomp_key_extra: oomp_symbol_ucc2895dw
+  oomp_key_full: oomp_symbol_ucc2895dw_065ea2
+  oomp_key_simple: ucc2895dw
   owner_name: kicad
-  symbol_name: regulator_controller_ucc2895dw
+  symbol_name: ucc2895dw
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

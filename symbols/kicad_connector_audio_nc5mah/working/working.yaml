@@ -1,16 +1,20 @@
+id: kicad_connector_audio_nc5mah
+library: connector_audio
 library_name: Connector_Audio
+name: nc5mah
 oomp:
   library_name: connector_audio
-  md5: 9ee96395caeb591c16aa8704c968a3d2
-  md5_10: 9ee96395ca
-  md5_5: 9ee96
-  md5_6: 9ee963
-  oomp_key: oomp_connector_audio_nc5mah
-  oomp_key_extra: oomp_symbol_connector_audio_nc5mah
-  oomp_key_full: oomp_symbol_connector_audio_nc5mah_9ee963
-  oomp_key_simple: connector_audio_nc5mah
+  md5: 02017d783eb0bfab7eb51bfcff775d27
+  md5_10: 02017d783e
+  md5_5: '02017'
+  md5_6: 02017d
+  oomp_key: oomp_nc5mah
+  oomp_key_extra: oomp_symbol_nc5mah
+  oomp_key_full: oomp_symbol_nc5mah_02017d
+  oomp_key_simple: nc5mah
   owner_name: kicad
-  symbol_name: connector_audio_nc5mah
+  symbol_name: nc5mah
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

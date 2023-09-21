@@ -1,16 +1,20 @@
+id: kicad_transistor_fet_fds4897ac
+library: transistor_fet
 library_name: Transistor_FET
+name: fds4897ac
 oomp:
   library_name: transistor_fet
-  md5: 88dbca800187ce18d69a07b57fcb2100
-  md5_10: 88dbca8001
-  md5_5: 88dbc
-  md5_6: 88dbca
-  oomp_key: oomp_transistor_fet_fds4897ac
-  oomp_key_extra: oomp_symbol_transistor_fet_fds4897ac
-  oomp_key_full: oomp_symbol_transistor_fet_fds4897ac_88dbca
-  oomp_key_simple: transistor_fet_fds4897ac
+  md5: c5c7a5c31b6bc4810409a84e0c5b4ac5
+  md5_10: c5c7a5c31b
+  md5_5: c5c7a
+  md5_6: c5c7a5
+  oomp_key: oomp_fds4897ac
+  oomp_key_extra: oomp_symbol_fds4897ac
+  oomp_key_full: oomp_symbol_fds4897ac_c5c7a5
+  oomp_key_simple: fds4897ac
   owner_name: kicad
-  symbol_name: transistor_fet_fds4897ac
+  symbol_name: fds4897ac
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

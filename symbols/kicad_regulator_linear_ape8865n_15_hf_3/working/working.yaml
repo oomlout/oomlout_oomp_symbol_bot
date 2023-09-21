@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_ape8865n_15_hf_3
+library: regulator_linear
 library_name: Regulator_Linear
+name: ape8865n_15_hf_3
 oomp:
   library_name: regulator_linear
-  md5: b2fdea85207dab9f7f2fb6c7855d1713
-  md5_10: b2fdea8520
-  md5_5: b2fde
-  md5_6: b2fdea
-  oomp_key: oomp_regulator_linear_ape8865n_15_hf_3
-  oomp_key_extra: oomp_symbol_regulator_linear_ape8865n_15_hf_3
-  oomp_key_full: oomp_symbol_regulator_linear_ape8865n_15_hf_3_b2fdea
-  oomp_key_simple: regulator_linear_ape8865n_15_hf_3
+  md5: 5e47fd54f10c0239002d419e602d19e8
+  md5_10: 5e47fd54f1
+  md5_5: 5e47f
+  md5_6: 5e47fd
+  oomp_key: oomp_ape8865n_15_hf_3
+  oomp_key_extra: oomp_symbol_ape8865n_15_hf_3
+  oomp_key_full: oomp_symbol_ape8865n_15_hf_3_5e47fd
+  oomp_key_simple: ape8865n_15_hf_3
   owner_name: kicad
-  symbol_name: regulator_linear_ape8865n_15_hf_3
+  symbol_name: ape8865n_15_hf_3
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

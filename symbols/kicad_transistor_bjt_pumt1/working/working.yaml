@@ -1,16 +1,20 @@
+id: kicad_transistor_bjt_pumt1
+library: transistor_bjt
 library_name: Transistor_BJT
+name: pumt1
 oomp:
   library_name: transistor_bjt
-  md5: a1b10d0270afa93bc57299db22c99e59
-  md5_10: a1b10d0270
-  md5_5: a1b10
-  md5_6: a1b10d
-  oomp_key: oomp_transistor_bjt_pumt1
-  oomp_key_extra: oomp_symbol_transistor_bjt_pumt1
-  oomp_key_full: oomp_symbol_transistor_bjt_pumt1_a1b10d
-  oomp_key_simple: transistor_bjt_pumt1
+  md5: aa11833c2bdc9fd7239b902eb013aa5a
+  md5_10: aa11833c2b
+  md5_5: aa118
+  md5_6: aa1183
+  oomp_key: oomp_pumt1
+  oomp_key_extra: oomp_symbol_pumt1
+  oomp_key_full: oomp_symbol_pumt1_aa1183
+  oomp_key_simple: pumt1
   owner_name: kicad
-  symbol_name: transistor_bjt_pumt1
+  symbol_name: pumt1
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

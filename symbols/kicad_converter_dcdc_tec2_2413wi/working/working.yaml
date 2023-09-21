@@ -1,16 +1,20 @@
+id: kicad_converter_dcdc_tec2_2413wi
+library: converter_dcdc
 library_name: Converter_DCDC
+name: tec2_2413wi
 oomp:
   library_name: converter_dcdc
-  md5: e9f16ed0491efa706cf705fe81682c4e
-  md5_10: e9f16ed049
-  md5_5: e9f16
-  md5_6: e9f16e
-  oomp_key: oomp_converter_dcdc_tec2_2413wi
-  oomp_key_extra: oomp_symbol_converter_dcdc_tec2_2413wi
-  oomp_key_full: oomp_symbol_converter_dcdc_tec2_2413wi_e9f16e
-  oomp_key_simple: converter_dcdc_tec2_2413wi
+  md5: 756e5c804c84a5dff601f757ea670959
+  md5_10: 756e5c804c
+  md5_5: 756e5
+  md5_6: 756e5c
+  oomp_key: oomp_tec2_2413wi
+  oomp_key_extra: oomp_symbol_tec2_2413wi
+  oomp_key_full: oomp_symbol_tec2_2413wi_756e5c
+  oomp_key_simple: tec2_2413wi
   owner_name: kicad
-  symbol_name: converter_dcdc_tec2_2413wi
+  symbol_name: tec2_2413wi
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_interface_uart_adm2687e
+library: interface_uart
 library_name: Interface_UART
+name: adm2687e
 oomp:
   library_name: interface_uart
-  md5: 032da51a5a2b521aeb55d47c72251701
-  md5_10: 032da51a5a
-  md5_5: 032da
-  md5_6: 032da5
-  oomp_key: oomp_interface_uart_adm2687e
-  oomp_key_extra: oomp_symbol_interface_uart_adm2687e
-  oomp_key_full: oomp_symbol_interface_uart_adm2687e_032da5
-  oomp_key_simple: interface_uart_adm2687e
+  md5: c89dfe66169ea58888f7b09ad2a4c5cb
+  md5_10: c89dfe6616
+  md5_5: c89df
+  md5_6: c89dfe
+  oomp_key: oomp_adm2687e
+  oomp_key_extra: oomp_symbol_adm2687e
+  oomp_key_full: oomp_symbol_adm2687e_c89dfe
+  oomp_key_simple: adm2687e
   owner_name: kicad
-  symbol_name: interface_uart_adm2687e
+  symbol_name: adm2687e
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

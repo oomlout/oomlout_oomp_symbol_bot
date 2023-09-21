@@ -1,16 +1,20 @@
+id: kicad_mcu_st_stm32l4_stm32l476rctx
+library: mcu_st_stm32l4
 library_name: MCU_ST_STM32L4
+name: stm32l476rctx
 oomp:
   library_name: mcu_st_stm32l4
-  md5: eaea5eaed8cdedd42a8ded06704ba347
-  md5_10: eaea5eaed8
-  md5_5: eaea5
-  md5_6: eaea5e
-  oomp_key: oomp_mcu_st_stm32l4_stm32l476rctx
-  oomp_key_extra: oomp_symbol_mcu_st_stm32l4_stm32l476rctx
-  oomp_key_full: oomp_symbol_mcu_st_stm32l4_stm32l476rctx_eaea5e
-  oomp_key_simple: mcu_st_stm32l4_stm32l476rctx
+  md5: 6c7a66150415e4192876c95abf1e4c62
+  md5_10: 6c7a661504
+  md5_5: 6c7a6
+  md5_6: 6c7a66
+  oomp_key: oomp_stm32l476rctx
+  oomp_key_extra: oomp_symbol_stm32l476rctx
+  oomp_key_full: oomp_symbol_stm32l476rctx_6c7a66
+  oomp_key_simple: stm32l476rctx
   owner_name: kicad
-  symbol_name: mcu_st_stm32l4_stm32l476rctx
+  symbol_name: stm32l476rctx
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

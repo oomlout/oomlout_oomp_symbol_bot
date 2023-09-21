@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_lp2951_3_3_dip
+library: regulator_linear
 library_name: Regulator_Linear
+name: lp2951_3_3_dip
 oomp:
   library_name: regulator_linear
-  md5: 16946fb66afce7e41988774897313c61
-  md5_10: 16946fb66a
-  md5_5: '16946'
-  md5_6: 16946f
-  oomp_key: oomp_regulator_linear_lp2951_3_3_dip
-  oomp_key_extra: oomp_symbol_regulator_linear_lp2951_3_3_dip
-  oomp_key_full: oomp_symbol_regulator_linear_lp2951_3_3_dip_16946f
-  oomp_key_simple: regulator_linear_lp2951_3_3_dip
+  md5: 26f8c37c672a352e97b85b7bd5b1a57f
+  md5_10: 26f8c37c67
+  md5_5: 26f8c
+  md5_6: 26f8c3
+  oomp_key: oomp_lp2951_3_3_dip
+  oomp_key_extra: oomp_symbol_lp2951_3_3_dip
+  oomp_key_full: oomp_symbol_lp2951_3_3_dip_26f8c3
+  oomp_key_simple: lp2951_3_3_dip
   owner_name: kicad
-  symbol_name: regulator_linear_lp2951_3_3_dip
+  symbol_name: lp2951_3_3_dip
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

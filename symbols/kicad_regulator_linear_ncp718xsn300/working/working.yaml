@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_ncp718xsn300
+library: regulator_linear
 library_name: Regulator_Linear
+name: ncp718xsn300
 oomp:
   library_name: regulator_linear
-  md5: 9c669a4131a20100b16da57148e90d62
-  md5_10: 9c669a4131
-  md5_5: 9c669
-  md5_6: 9c669a
-  oomp_key: oomp_regulator_linear_ncp718xsn300
-  oomp_key_extra: oomp_symbol_regulator_linear_ncp718xsn300
-  oomp_key_full: oomp_symbol_regulator_linear_ncp718xsn300_9c669a
-  oomp_key_simple: regulator_linear_ncp718xsn300
+  md5: 8310cdfc11bd06a75617d101786aac6a
+  md5_10: 8310cdfc11
+  md5_5: 8310c
+  md5_6: 8310cd
+  oomp_key: oomp_ncp718xsn300
+  oomp_key_extra: oomp_symbol_ncp718xsn300
+  oomp_key_full: oomp_symbol_ncp718xsn300_8310cd
+  oomp_key_simple: ncp718xsn300
   owner_name: kicad
-  symbol_name: regulator_linear_ncp718xsn300
+  symbol_name: ncp718xsn300
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

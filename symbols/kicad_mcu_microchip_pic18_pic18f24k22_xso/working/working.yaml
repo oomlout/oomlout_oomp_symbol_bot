@@ -1,16 +1,20 @@
+id: kicad_mcu_microchip_pic18_pic18f24k22_xso
+library: mcu_microchip_pic18
 library_name: MCU_Microchip_PIC18
+name: pic18f24k22_xso
 oomp:
   library_name: mcu_microchip_pic18
-  md5: f654ebf4d715a2d140079488b5efbdad
-  md5_10: f654ebf4d7
-  md5_5: f654e
-  md5_6: f654eb
-  oomp_key: oomp_mcu_microchip_pic18_pic18f24k22_xso
-  oomp_key_extra: oomp_symbol_mcu_microchip_pic18_pic18f24k22_xso
-  oomp_key_full: oomp_symbol_mcu_microchip_pic18_pic18f24k22_xso_f654eb
-  oomp_key_simple: mcu_microchip_pic18_pic18f24k22_xso
+  md5: c4c123f3da238e9e8b896fd095dd56d6
+  md5_10: c4c123f3da
+  md5_5: c4c12
+  md5_6: c4c123
+  oomp_key: oomp_pic18f24k22_xso
+  oomp_key_extra: oomp_symbol_pic18f24k22_xso
+  oomp_key_full: oomp_symbol_pic18f24k22_xso_c4c123
+  oomp_key_simple: pic18f24k22_xso
   owner_name: kicad
-  symbol_name: mcu_microchip_pic18_pic18f24k22_xso
+  symbol_name: pic18f24k22_xso
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,3 +1,5 @@
+id: kicad_connector_db25_receptacle
+library: connector
 library_name: Connector
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_db25_receptacle/working
   oomp_src_flat: symbols_flat/kicad_connector_db25_receptacle/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_db25_receptacle/working
-name: connector_db25_receptacle
+name: db25_receptacle
 oomp:
   library_name: connector
-  md5: dc401af38e03dd1d7a675de4c00464de
-  md5_10: dc401af38e
-  md5_5: dc401
-  md5_6: dc401a
-  oomp_key: oomp_connector_db25_receptacle
-  oomp_key_extra: oomp_symbol_connector_db25_receptacle
-  oomp_key_full: oomp_symbol_connector_db25_receptacle_dc401a
-  oomp_key_simple: connector_db25_receptacle
+  md5: bbd3d59bab72acc68c9b977a3315551d
+  md5_10: bbd3d59bab
+  md5_5: bbd3d
+  md5_6: bbd3d5
+  oomp_key: oomp_db25_receptacle
+  oomp_key_extra: oomp_symbol_db25_receptacle
+  oomp_key_full: oomp_symbol_db25_receptacle_bbd3d5
+  oomp_key_simple: db25_receptacle
   owner_name: kicad
-  symbol_name: connector_db25_receptacle
+  symbol_name: db25_receptacle
 oomp_key: oomp_kicad_connector_db25_receptacle
 oomp_key_simple: kicad_connector_db25_receptacle
 owner: kicad

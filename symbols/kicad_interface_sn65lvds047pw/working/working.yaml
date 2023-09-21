@@ -1,3 +1,5 @@
+id: kicad_interface_sn65lvds047pw
+library: interface
 library_name: Interface
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_sn65lvds047pw/working
   oomp_src_flat: symbols_flat/kicad_interface_sn65lvds047pw/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_sn65lvds047pw/working
-name: interface_sn65lvds047pw
+name: sn65lvds047pw
 oomp:
   library_name: interface
-  md5: 1a4506e211aa22dadc95f3cfb647a4a1
-  md5_10: 1a4506e211
-  md5_5: 1a450
-  md5_6: 1a4506
-  oomp_key: oomp_interface_sn65lvds047pw
-  oomp_key_extra: oomp_symbol_interface_sn65lvds047pw
-  oomp_key_full: oomp_symbol_interface_sn65lvds047pw_1a4506
-  oomp_key_simple: interface_sn65lvds047pw
+  md5: a054da421c43df7e28428e568352d55b
+  md5_10: a054da421c
+  md5_5: a054d
+  md5_6: a054da
+  oomp_key: oomp_sn65lvds047pw
+  oomp_key_extra: oomp_symbol_sn65lvds047pw
+  oomp_key_full: oomp_symbol_sn65lvds047pw_a054da
+  oomp_key_simple: sn65lvds047pw
   owner_name: kicad
-  symbol_name: interface_sn65lvds047pw
+  symbol_name: sn65lvds047pw
 oomp_key: oomp_kicad_interface_sn65lvds047pw
 oomp_key_simple: kicad_interface_sn65lvds047pw
 owner: kicad

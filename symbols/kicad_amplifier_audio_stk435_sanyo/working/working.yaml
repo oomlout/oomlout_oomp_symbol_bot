@@ -1,16 +1,20 @@
+id: kicad_amplifier_audio_stk435_sanyo
+library: amplifier_audio
 library_name: Amplifier_Audio
+name: stk435_sanyo
 oomp:
   library_name: amplifier_audio
-  md5: 8c94bf4521eca59085096cfce9f050a9
-  md5_10: 8c94bf4521
-  md5_5: 8c94b
-  md5_6: 8c94bf
-  oomp_key: oomp_amplifier_audio_stk435_sanyo
-  oomp_key_extra: oomp_symbol_amplifier_audio_stk435_sanyo
-  oomp_key_full: oomp_symbol_amplifier_audio_stk435_sanyo_8c94bf
-  oomp_key_simple: amplifier_audio_stk435_sanyo
+  md5: 8c6dd200ac5a92068130b53ebd85fea2
+  md5_10: 8c6dd200ac
+  md5_5: 8c6dd
+  md5_6: 8c6dd2
+  oomp_key: oomp_stk435_sanyo
+  oomp_key_extra: oomp_symbol_stk435_sanyo
+  oomp_key_full: oomp_symbol_stk435_sanyo_8c6dd2
+  oomp_key_simple: stk435_sanyo
   owner_name: kicad
-  symbol_name: amplifier_audio_stk435_sanyo
+  symbol_name: stk435_sanyo
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

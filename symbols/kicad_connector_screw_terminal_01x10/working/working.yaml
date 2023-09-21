@@ -1,3 +1,5 @@
+id: kicad_connector_screw_terminal_01x10
+library: connector
 library_name: Connector
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_screw_terminal_01x10/working
   oomp_src_flat: symbols_flat/kicad_connector_screw_terminal_01x10/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_screw_terminal_01x10/working
-name: connector_screw_terminal_01x10
+name: screw_terminal_01x10
 oomp:
   library_name: connector
-  md5: 673d18da829a3743efd0bd2d0a21a074
-  md5_10: 673d18da82
-  md5_5: 673d1
-  md5_6: 673d18
-  oomp_key: oomp_connector_screw_terminal_01x10
-  oomp_key_extra: oomp_symbol_connector_screw_terminal_01x10
-  oomp_key_full: oomp_symbol_connector_screw_terminal_01x10_673d18
-  oomp_key_simple: connector_screw_terminal_01x10
+  md5: d117beed36148d57b98687830f12939a
+  md5_10: d117beed36
+  md5_5: d117b
+  md5_6: d117be
+  oomp_key: oomp_screw_terminal_01x10
+  oomp_key_extra: oomp_symbol_screw_terminal_01x10
+  oomp_key_full: oomp_symbol_screw_terminal_01x10_d117be
+  oomp_key_simple: screw_terminal_01x10
   owner_name: kicad
-  symbol_name: connector_screw_terminal_01x10
+  symbol_name: screw_terminal_01x10
 oomp_key: oomp_kicad_connector_screw_terminal_01x10
 oomp_key_simple: kicad_connector_screw_terminal_01x10
 owner: kicad

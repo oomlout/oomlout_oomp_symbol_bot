@@ -1,16 +1,20 @@
+id: kicad_driver_fet_mcp14a1201xmny
+library: driver_fet
 library_name: Driver_FET
+name: mcp14a1201xmny
 oomp:
   library_name: driver_fet
-  md5: 9279ce2cf83cb5c007ee1bba1752ec64
-  md5_10: 9279ce2cf8
-  md5_5: 9279c
-  md5_6: 9279ce
-  oomp_key: oomp_driver_fet_mcp14a1201xmny
-  oomp_key_extra: oomp_symbol_driver_fet_mcp14a1201xmny
-  oomp_key_full: oomp_symbol_driver_fet_mcp14a1201xmny_9279ce
-  oomp_key_simple: driver_fet_mcp14a1201xmny
+  md5: c4f254e63b620092a533963bf7197712
+  md5_10: c4f254e63b
+  md5_5: c4f25
+  md5_6: c4f254
+  oomp_key: oomp_mcp14a1201xmny
+  oomp_key_extra: oomp_symbol_mcp14a1201xmny
+  oomp_key_full: oomp_symbol_mcp14a1201xmny_c4f254
+  oomp_key_simple: mcp14a1201xmny
   owner_name: kicad
-  symbol_name: driver_fet_mcp14a1201xmny
+  symbol_name: mcp14a1201xmny
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

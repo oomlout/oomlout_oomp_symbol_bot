@@ -1,16 +1,20 @@
+id: kicad_connector_rj41_shielded
+library: connector
 library_name: Connector
+name: rj41_shielded
 oomp:
   library_name: connector
-  md5: 9d201c97843dc70465c50d74bb07f276
-  md5_10: 9d201c9784
-  md5_5: 9d201
-  md5_6: 9d201c
-  oomp_key: oomp_connector_rj41_shielded
-  oomp_key_extra: oomp_symbol_connector_rj41_shielded
-  oomp_key_full: oomp_symbol_connector_rj41_shielded_9d201c
-  oomp_key_simple: connector_rj41_shielded
+  md5: 9b46325833eead44ae3620ae4a400f7b
+  md5_10: 9b46325833
+  md5_5: 9b463
+  md5_6: 9b4632
+  oomp_key: oomp_rj41_shielded
+  oomp_key_extra: oomp_symbol_rj41_shielded
+  oomp_key_full: oomp_symbol_rj41_shielded_9b4632
+  oomp_key_simple: rj41_shielded
   owner_name: kicad
-  symbol_name: connector_rj41_shielded
+  symbol_name: rj41_shielded
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

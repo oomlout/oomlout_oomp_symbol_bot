@@ -1,3 +1,5 @@
+id: kicad_interface_tb5r1d
+library: interface
 library_name: Interface
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_tb5r1d/working
   oomp_src_flat: symbols_flat/kicad_interface_tb5r1d/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_tb5r1d/working
-name: interface_tb5r1d
+name: tb5r1d
 oomp:
   library_name: interface
-  md5: 33c17a8dbda2ebaccf030ff9d42f8f03
-  md5_10: 33c17a8dbd
-  md5_5: 33c17
-  md5_6: 33c17a
-  oomp_key: oomp_interface_tb5r1d
-  oomp_key_extra: oomp_symbol_interface_tb5r1d
-  oomp_key_full: oomp_symbol_interface_tb5r1d_33c17a
-  oomp_key_simple: interface_tb5r1d
+  md5: 07ecd9cd7ac86e6a4c22b7001168543c
+  md5_10: 07ecd9cd7a
+  md5_5: 07ecd
+  md5_6: 07ecd9
+  oomp_key: oomp_tb5r1d
+  oomp_key_extra: oomp_symbol_tb5r1d
+  oomp_key_full: oomp_symbol_tb5r1d_07ecd9
+  oomp_key_simple: tb5r1d
   owner_name: kicad
-  symbol_name: interface_tb5r1d
+  symbol_name: tb5r1d
 oomp_key: oomp_kicad_interface_tb5r1d
 oomp_key_simple: kicad_interface_tb5r1d
 owner: kicad

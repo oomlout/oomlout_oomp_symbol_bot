@@ -1,16 +1,20 @@
+id: kicad_74xx_74hct273
+library: 74xx
 library_name: 74xx
+name: 74hct273
 oomp:
   library_name: 74xx
-  md5: 493afddfad795cb2474204c873cccca5
-  md5_10: 493afddfad
-  md5_5: 493af
-  md5_6: 493afd
-  oomp_key: oomp_74xx_74hct273
-  oomp_key_extra: oomp_symbol_74xx_74hct273
-  oomp_key_full: oomp_symbol_74xx_74hct273_493afd
-  oomp_key_simple: 74xx_74hct273
+  md5: 29110516ede5d9ff6d00d8f7fbd0f60b
+  md5_10: 29110516ed
+  md5_5: '29110'
+  md5_6: '291105'
+  oomp_key: oomp_74hct273
+  oomp_key_extra: oomp_symbol_74hct273
+  oomp_key_full: oomp_symbol_74hct273_291105
+  oomp_key_simple: 74hct273
   owner_name: kicad
-  symbol_name: 74xx_74hct273
+  symbol_name: 74hct273
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

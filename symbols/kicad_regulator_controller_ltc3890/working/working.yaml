@@ -1,3 +1,5 @@
+id: kicad_regulator_controller_ltc3890
+library: regulator_controller
 library_name: Regulator_Controller
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_controller_ltc3890/working
   oomp_src_flat: symbols_flat/kicad_regulator_controller_ltc3890/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_controller_ltc3890/working
-name: regulator_controller_ltc3890
+name: ltc3890
 oomp:
   library_name: regulator_controller
-  md5: 8851550008bcce500dadb0c6c9da87a2
-  md5_10: '8851550008'
-  md5_5: '88515'
-  md5_6: '885155'
-  oomp_key: oomp_regulator_controller_ltc3890
-  oomp_key_extra: oomp_symbol_regulator_controller_ltc3890
-  oomp_key_full: oomp_symbol_regulator_controller_ltc3890_885155
-  oomp_key_simple: regulator_controller_ltc3890
+  md5: 30ca995e26b5db1505801cc216df954c
+  md5_10: 30ca995e26
+  md5_5: 30ca9
+  md5_6: 30ca99
+  oomp_key: oomp_ltc3890
+  oomp_key_extra: oomp_symbol_ltc3890
+  oomp_key_full: oomp_symbol_ltc3890_30ca99
+  oomp_key_simple: ltc3890
   owner_name: kicad
-  symbol_name: regulator_controller_ltc3890
+  symbol_name: ltc3890
 oomp_key: oomp_kicad_regulator_controller_ltc3890
 oomp_key_simple: kicad_regulator_controller_ltc3890
 owner: kicad

@@ -1,3 +1,5 @@
+id: kicad_interface_usb_ft220xq
+library: interface_usb
 library_name: Interface_USB
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_usb_ft220xq/working
   oomp_src_flat: symbols_flat/kicad_interface_usb_ft220xq/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_usb_ft220xq/working
-name: interface_usb_ft220xq
+name: ft220xq
 oomp:
   library_name: interface_usb
-  md5: 707eaeabfd996a081218e4ec0ea7c840
-  md5_10: 707eaeabfd
-  md5_5: 707ea
-  md5_6: 707eae
-  oomp_key: oomp_interface_usb_ft220xq
-  oomp_key_extra: oomp_symbol_interface_usb_ft220xq
-  oomp_key_full: oomp_symbol_interface_usb_ft220xq_707eae
-  oomp_key_simple: interface_usb_ft220xq
+  md5: 69a74f01ab3991de01fd945c3d45e4e7
+  md5_10: 69a74f01ab
+  md5_5: 69a74
+  md5_6: 69a74f
+  oomp_key: oomp_ft220xq
+  oomp_key_extra: oomp_symbol_ft220xq
+  oomp_key_full: oomp_symbol_ft220xq_69a74f
+  oomp_key_simple: ft220xq
   owner_name: kicad
-  symbol_name: interface_usb_ft220xq
+  symbol_name: ft220xq
 oomp_key: oomp_kicad_interface_usb_ft220xq
 oomp_key_simple: kicad_interface_usb_ft220xq
 owner: kicad

@@ -1,16 +1,20 @@
+id: kicad_analog_switch_max317xpa
+library: analog_switch
 library_name: Analog_Switch
+name: max317xpa
 oomp:
   library_name: analog_switch
-  md5: d375725b7d4c4b35d6ca5597be9c1012
-  md5_10: d375725b7d
-  md5_5: d3757
-  md5_6: d37572
-  oomp_key: oomp_analog_switch_max317xpa
-  oomp_key_extra: oomp_symbol_analog_switch_max317xpa
-  oomp_key_full: oomp_symbol_analog_switch_max317xpa_d37572
-  oomp_key_simple: analog_switch_max317xpa
+  md5: 64b974bb7a6b808e611b59eb13b433ca
+  md5_10: 64b974bb7a
+  md5_5: 64b97
+  md5_6: 64b974
+  oomp_key: oomp_max317xpa
+  oomp_key_extra: oomp_symbol_max317xpa
+  oomp_key_full: oomp_symbol_max317xpa_64b974
+  oomp_key_simple: max317xpa
   owner_name: kicad
-  symbol_name: analog_switch_max317xpa
+  symbol_name: max317xpa
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

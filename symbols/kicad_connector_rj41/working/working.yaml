@@ -1,16 +1,20 @@
+id: kicad_connector_rj41
+library: connector
 library_name: Connector
+name: rj41
 oomp:
   library_name: connector
-  md5: 5343bd5dd73d6922801aedd97b3d7d0b
-  md5_10: 5343bd5dd7
-  md5_5: 5343b
-  md5_6: 5343bd
-  oomp_key: oomp_connector_rj41
-  oomp_key_extra: oomp_symbol_connector_rj41
-  oomp_key_full: oomp_symbol_connector_rj41_5343bd
-  oomp_key_simple: connector_rj41
+  md5: 5325f2f803dd9b79c4038f255467ac5a
+  md5_10: 5325f2f803
+  md5_5: 5325f
+  md5_6: 5325f2
+  oomp_key: oomp_rj41
+  oomp_key_extra: oomp_symbol_rj41
+  oomp_key_full: oomp_symbol_rj41_5325f2
+  oomp_key_simple: rj41
   owner_name: kicad
-  symbol_name: connector_rj41
+  symbol_name: rj41
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

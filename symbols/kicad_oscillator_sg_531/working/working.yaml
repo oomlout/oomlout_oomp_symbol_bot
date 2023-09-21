@@ -1,16 +1,20 @@
+id: kicad_oscillator_sg_531
+library: oscillator
 library_name: Oscillator
+name: sg_531
 oomp:
   library_name: oscillator
-  md5: fb7574d256e7c3cbc8631229ef02ed8f
-  md5_10: fb7574d256
-  md5_5: fb757
-  md5_6: fb7574
-  oomp_key: oomp_oscillator_sg_531
-  oomp_key_extra: oomp_symbol_oscillator_sg_531
-  oomp_key_full: oomp_symbol_oscillator_sg_531_fb7574
-  oomp_key_simple: oscillator_sg_531
+  md5: 6c4a318d32d0a0061e6e8cedf91f5fb7
+  md5_10: 6c4a318d32
+  md5_5: 6c4a3
+  md5_6: 6c4a31
+  oomp_key: oomp_sg_531
+  oomp_key_extra: oomp_symbol_sg_531
+  oomp_key_full: oomp_symbol_sg_531_6c4a31
+  oomp_key_simple: sg_531
   owner_name: kicad
-  symbol_name: oscillator_sg_531
+  symbol_name: sg_531
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

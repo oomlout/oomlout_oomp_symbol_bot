@@ -1,16 +1,20 @@
+id: kicad_interface_usb_usb3347
+library: interface_usb
 library_name: Interface_USB
+name: usb3347
 oomp:
   library_name: interface_usb
-  md5: 83225acf7936269ddc3fb0ca22caf575
-  md5_10: 83225acf79
-  md5_5: '83225'
-  md5_6: 83225a
-  oomp_key: oomp_interface_usb_usb3347
-  oomp_key_extra: oomp_symbol_interface_usb_usb3347
-  oomp_key_full: oomp_symbol_interface_usb_usb3347_83225a
-  oomp_key_simple: interface_usb_usb3347
+  md5: b94acc21c434df2f87d7c6e1c048c37e
+  md5_10: b94acc21c4
+  md5_5: b94ac
+  md5_6: b94acc
+  oomp_key: oomp_usb3347
+  oomp_key_extra: oomp_symbol_usb3347
+  oomp_key_full: oomp_symbol_usb3347_b94acc
+  oomp_key_simple: usb3347
   owner_name: kicad
-  symbol_name: interface_usb_usb3347
+  symbol_name: usb3347
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

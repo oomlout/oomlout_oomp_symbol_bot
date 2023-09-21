@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_tc2014_2_8vxcttr
+library: regulator_linear
 library_name: Regulator_Linear
+name: tc2014_2_8vxcttr
 oomp:
   library_name: regulator_linear
-  md5: 6bff0bca2e29def20c58ce6cb02699e0
-  md5_10: 6bff0bca2e
-  md5_5: 6bff0
-  md5_6: 6bff0b
-  oomp_key: oomp_regulator_linear_tc2014_2_8vxcttr
-  oomp_key_extra: oomp_symbol_regulator_linear_tc2014_2_8vxcttr
-  oomp_key_full: oomp_symbol_regulator_linear_tc2014_2_8vxcttr_6bff0b
-  oomp_key_simple: regulator_linear_tc2014_2_8vxcttr
+  md5: fe07b9117135c87a07a33e45d208fddd
+  md5_10: fe07b91171
+  md5_5: fe07b
+  md5_6: fe07b9
+  oomp_key: oomp_tc2014_2_8vxcttr
+  oomp_key_extra: oomp_symbol_tc2014_2_8vxcttr
+  oomp_key_full: oomp_symbol_tc2014_2_8vxcttr_fe07b9
+  oomp_key_simple: tc2014_2_8vxcttr
   owner_name: kicad
-  symbol_name: regulator_linear_tc2014_2_8vxcttr
+  symbol_name: tc2014_2_8vxcttr
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

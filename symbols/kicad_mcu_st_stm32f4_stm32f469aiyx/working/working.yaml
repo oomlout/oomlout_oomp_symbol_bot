@@ -1,16 +1,20 @@
+id: kicad_mcu_st_stm32f4_stm32f469aiyx
+library: mcu_st_stm32f4
 library_name: MCU_ST_STM32F4
+name: stm32f469aiyx
 oomp:
   library_name: mcu_st_stm32f4
-  md5: d14a67b6dad116cdbe66eb168b9eb0b9
-  md5_10: d14a67b6da
-  md5_5: d14a6
-  md5_6: d14a67
-  oomp_key: oomp_mcu_st_stm32f4_stm32f469aiyx
-  oomp_key_extra: oomp_symbol_mcu_st_stm32f4_stm32f469aiyx
-  oomp_key_full: oomp_symbol_mcu_st_stm32f4_stm32f469aiyx_d14a67
-  oomp_key_simple: mcu_st_stm32f4_stm32f469aiyx
+  md5: 89ad1b9411439b9f3776e0c63152c43e
+  md5_10: 89ad1b9411
+  md5_5: 89ad1
+  md5_6: 89ad1b
+  oomp_key: oomp_stm32f469aiyx
+  oomp_key_extra: oomp_symbol_stm32f469aiyx
+  oomp_key_full: oomp_symbol_stm32f469aiyx_89ad1b
+  oomp_key_simple: stm32f469aiyx
   owner_name: kicad
-  symbol_name: mcu_st_stm32f4_stm32f469aiyx
+  symbol_name: stm32f469aiyx
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

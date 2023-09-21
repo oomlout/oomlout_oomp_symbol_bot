@@ -1,16 +1,20 @@
+id: kicad_cpu_nxp_imx_mcimx6dp5eym
+library: cpu_nxp_imx
 library_name: CPU_NXP_IMX
+name: mcimx6dp5eym
 oomp:
   library_name: cpu_nxp_imx
-  md5: 36ed4d6d53f76aa8cf3f418daaf476a4
-  md5_10: 36ed4d6d53
-  md5_5: 36ed4
-  md5_6: 36ed4d
-  oomp_key: oomp_cpu_nxp_imx_mcimx6dp5eym
-  oomp_key_extra: oomp_symbol_cpu_nxp_imx_mcimx6dp5eym
-  oomp_key_full: oomp_symbol_cpu_nxp_imx_mcimx6dp5eym_36ed4d
-  oomp_key_simple: cpu_nxp_imx_mcimx6dp5eym
+  md5: 222d5250390b77b917a57a48e065bfa0
+  md5_10: 222d525039
+  md5_5: 222d5
+  md5_6: 222d52
+  oomp_key: oomp_mcimx6dp5eym
+  oomp_key_extra: oomp_symbol_mcimx6dp5eym
+  oomp_key_full: oomp_symbol_mcimx6dp5eym_222d52
+  oomp_key_simple: mcimx6dp5eym
   owner_name: kicad
-  symbol_name: cpu_nxp_imx_mcimx6dp5eym
+  symbol_name: mcimx6dp5eym
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

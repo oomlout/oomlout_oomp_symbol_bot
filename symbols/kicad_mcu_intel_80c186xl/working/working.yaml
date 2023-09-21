@@ -1,16 +1,20 @@
+id: kicad_mcu_intel_80c186xl
+library: mcu_intel
 library_name: MCU_Intel
+name: 80c186xl
 oomp:
   library_name: mcu_intel
-  md5: 1717132bdd91812a44c05160c4494f3c
-  md5_10: 1717132bdd
-  md5_5: '17171'
-  md5_6: '171713'
-  oomp_key: oomp_mcu_intel_80c186xl
-  oomp_key_extra: oomp_symbol_mcu_intel_80c186xl
-  oomp_key_full: oomp_symbol_mcu_intel_80c186xl_171713
-  oomp_key_simple: mcu_intel_80c186xl
+  md5: 0496b59cce4a01c8b68c474792ce0fe2
+  md5_10: 0496b59cce
+  md5_5: 0496b
+  md5_6: 0496b5
+  oomp_key: oomp_80c186xl
+  oomp_key_extra: oomp_symbol_80c186xl
+  oomp_key_full: oomp_symbol_80c186xl_0496b5
+  oomp_key_simple: 80c186xl
   owner_name: kicad
-  symbol_name: mcu_intel_80c186xl
+  symbol_name: 80c186xl
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

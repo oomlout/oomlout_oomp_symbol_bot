@@ -1,16 +1,20 @@
+id: kicad_rf_amplifier_gva_82
+library: rf_amplifier
 library_name: RF_Amplifier
+name: gva_82
 oomp:
   library_name: rf_amplifier
-  md5: 69edb9e22880ae326b5b59b8988b3fc6
-  md5_10: 69edb9e228
-  md5_5: 69edb
-  md5_6: 69edb9
-  oomp_key: oomp_rf_amplifier_gva_82
-  oomp_key_extra: oomp_symbol_rf_amplifier_gva_82
-  oomp_key_full: oomp_symbol_rf_amplifier_gva_82_69edb9
-  oomp_key_simple: rf_amplifier_gva_82
+  md5: f5dc078f48b69533a502c93d2f91dc5e
+  md5_10: f5dc078f48
+  md5_5: f5dc0
+  md5_6: f5dc07
+  oomp_key: oomp_gva_82
+  oomp_key_extra: oomp_symbol_gva_82
+  oomp_key_full: oomp_symbol_gva_82_f5dc07
+  oomp_key_simple: gva_82
   owner_name: kicad
-  symbol_name: rf_amplifier_gva_82
+  symbol_name: gva_82
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

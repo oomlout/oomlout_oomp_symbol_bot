@@ -1,16 +1,20 @@
+id: kicad_rf_filter_lfcn_2250d
+library: rf_filter
 library_name: RF_Filter
+name: lfcn_2250d
 oomp:
   library_name: rf_filter
-  md5: b4b2aa3babb6706b93ad9cd970325aef
-  md5_10: b4b2aa3bab
-  md5_5: b4b2a
-  md5_6: b4b2aa
-  oomp_key: oomp_rf_filter_lfcn_2250d
-  oomp_key_extra: oomp_symbol_rf_filter_lfcn_2250d
-  oomp_key_full: oomp_symbol_rf_filter_lfcn_2250d_b4b2aa
-  oomp_key_simple: rf_filter_lfcn_2250d
+  md5: 09aff88aec801836d08352b57695ae98
+  md5_10: 09aff88aec
+  md5_5: 09aff
+  md5_6: 09aff8
+  oomp_key: oomp_lfcn_2250d
+  oomp_key_extra: oomp_symbol_lfcn_2250d
+  oomp_key_full: oomp_symbol_lfcn_2250d_09aff8
+  oomp_key_simple: lfcn_2250d
   owner_name: kicad
-  symbol_name: rf_filter_lfcn_2250d
+  symbol_name: lfcn_2250d
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

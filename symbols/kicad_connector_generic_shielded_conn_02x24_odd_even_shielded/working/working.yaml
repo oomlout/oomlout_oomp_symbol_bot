@@ -1,3 +1,5 @@
+id: kicad_connector_generic_shielded_conn_02x24_odd_even_shielded
+library: connector_generic_shielded
 library_name: Connector_Generic_Shielded
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_generic_shielded_conn_02x24_odd_even_shielded/working
   oomp_src_flat: symbols_flat/kicad_connector_generic_shielded_conn_02x24_odd_even_shielded/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_generic_shielded_conn_02x24_odd_even_shielded/working
-name: connector_generic_shielded_conn_02x24_odd_even_shielded
+name: conn_02x24_odd_even_shielded
 oomp:
   library_name: connector_generic_shielded
-  md5: d005f2dde68ee86c6791bab5c3c7956c
-  md5_10: d005f2dde6
-  md5_5: d005f
-  md5_6: d005f2
-  oomp_key: oomp_connector_generic_shielded_conn_02x24_odd_even_shielded
-  oomp_key_extra: oomp_symbol_connector_generic_shielded_conn_02x24_odd_even_shielded
-  oomp_key_full: oomp_symbol_connector_generic_shielded_conn_02x24_odd_even_shielded_d005f2
-  oomp_key_simple: connector_generic_shielded_conn_02x24_odd_even_shielded
+  md5: 539082645a9840075fb048b232c8505c
+  md5_10: 539082645a
+  md5_5: '53908'
+  md5_6: '539082'
+  oomp_key: oomp_conn_02x24_odd_even_shielded
+  oomp_key_extra: oomp_symbol_conn_02x24_odd_even_shielded
+  oomp_key_full: oomp_symbol_conn_02x24_odd_even_shielded_539082
+  oomp_key_simple: conn_02x24_odd_even_shielded
   owner_name: kicad
-  symbol_name: connector_generic_shielded_conn_02x24_odd_even_shielded
+  symbol_name: conn_02x24_odd_even_shielded
 oomp_key: oomp_kicad_connector_generic_shielded_conn_02x24_odd_even_shielded
 oomp_key_simple: kicad_connector_generic_shielded_conn_02x24_odd_even_shielded
 owner: kicad

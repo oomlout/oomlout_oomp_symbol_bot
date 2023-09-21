@@ -1,16 +1,20 @@
+id: kicad_oscillator_xuy53
+library: oscillator
 library_name: Oscillator
+name: xuy53
 oomp:
   library_name: oscillator
-  md5: 6efcc5778da2bbf4ff2fda473a9c162c
-  md5_10: 6efcc5778d
-  md5_5: 6efcc
-  md5_6: 6efcc5
-  oomp_key: oomp_oscillator_xuy53
-  oomp_key_extra: oomp_symbol_oscillator_xuy53
-  oomp_key_full: oomp_symbol_oscillator_xuy53_6efcc5
-  oomp_key_simple: oscillator_xuy53
+  md5: aecc1992d252d66ea2eb3273f929789c
+  md5_10: aecc1992d2
+  md5_5: aecc1
+  md5_6: aecc19
+  oomp_key: oomp_xuy53
+  oomp_key_extra: oomp_symbol_xuy53
+  oomp_key_full: oomp_symbol_xuy53_aecc19
+  oomp_key_simple: xuy53
   owner_name: kicad
-  symbol_name: oscillator_xuy53
+  symbol_name: xuy53
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

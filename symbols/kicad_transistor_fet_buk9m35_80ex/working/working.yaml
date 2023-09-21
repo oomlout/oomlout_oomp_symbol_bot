@@ -1,16 +1,20 @@
+id: kicad_transistor_fet_buk9m35_80ex
+library: transistor_fet
 library_name: Transistor_FET
+name: buk9m35_80ex
 oomp:
   library_name: transistor_fet
-  md5: ee0cd42ec3085ef604743e57becd3035
-  md5_10: ee0cd42ec3
-  md5_5: ee0cd
-  md5_6: ee0cd4
-  oomp_key: oomp_transistor_fet_buk9m35_80ex
-  oomp_key_extra: oomp_symbol_transistor_fet_buk9m35_80ex
-  oomp_key_full: oomp_symbol_transistor_fet_buk9m35_80ex_ee0cd4
-  oomp_key_simple: transistor_fet_buk9m35_80ex
+  md5: a0ed7f07ac697af0732208645dc8613f
+  md5_10: a0ed7f07ac
+  md5_5: a0ed7
+  md5_6: a0ed7f
+  oomp_key: oomp_buk9m35_80ex
+  oomp_key_extra: oomp_symbol_buk9m35_80ex
+  oomp_key_full: oomp_symbol_buk9m35_80ex_a0ed7f
+  oomp_key_simple: buk9m35_80ex
   owner_name: kicad
-  symbol_name: transistor_fet_buk9m35_80ex
+  symbol_name: buk9m35_80ex
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

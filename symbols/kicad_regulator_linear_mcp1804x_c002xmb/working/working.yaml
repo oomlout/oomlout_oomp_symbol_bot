@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_mcp1804x_c002xmb
+library: regulator_linear
 library_name: Regulator_Linear
+name: mcp1804x_c002xmb
 oomp:
   library_name: regulator_linear
-  md5: 7da66660670a1f0d2f0dc6068bb7e8ff
-  md5_10: 7da6666067
-  md5_5: 7da66
-  md5_6: 7da666
-  oomp_key: oomp_regulator_linear_mcp1804x_c002xmb
-  oomp_key_extra: oomp_symbol_regulator_linear_mcp1804x_c002xmb
-  oomp_key_full: oomp_symbol_regulator_linear_mcp1804x_c002xmb_7da666
-  oomp_key_simple: regulator_linear_mcp1804x_c002xmb
+  md5: ba34fea35484e3531500df6750e26ca2
+  md5_10: ba34fea354
+  md5_5: ba34f
+  md5_6: ba34fe
+  oomp_key: oomp_mcp1804x_c002xmb
+  oomp_key_extra: oomp_symbol_mcp1804x_c002xmb
+  oomp_key_full: oomp_symbol_mcp1804x_c002xmb_ba34fe
+  oomp_key_simple: mcp1804x_c002xmb
   owner_name: kicad
-  symbol_name: regulator_linear_mcp1804x_c002xmb
+  symbol_name: mcp1804x_c002xmb
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

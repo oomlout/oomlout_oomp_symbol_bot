@@ -1,3 +1,5 @@
+id: kicad_interface_ltc6957xms_2
+library: interface
 library_name: Interface
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_ltc6957xms_2/working
   oomp_src_flat: symbols_flat/kicad_interface_ltc6957xms_2/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_ltc6957xms_2/working
-name: interface_ltc6957xms_2
+name: ltc6957xms_2
 oomp:
   library_name: interface
-  md5: e65988742a29d7ed87912827eaaab832
-  md5_10: e65988742a
-  md5_5: e6598
-  md5_6: e65988
-  oomp_key: oomp_interface_ltc6957xms_2
-  oomp_key_extra: oomp_symbol_interface_ltc6957xms_2
-  oomp_key_full: oomp_symbol_interface_ltc6957xms_2_e65988
-  oomp_key_simple: interface_ltc6957xms_2
+  md5: 0b8c97bfc195bda2a9199601fbef4615
+  md5_10: 0b8c97bfc1
+  md5_5: 0b8c9
+  md5_6: 0b8c97
+  oomp_key: oomp_ltc6957xms_2
+  oomp_key_extra: oomp_symbol_ltc6957xms_2
+  oomp_key_full: oomp_symbol_ltc6957xms_2_0b8c97
+  oomp_key_simple: ltc6957xms_2
   owner_name: kicad
-  symbol_name: interface_ltc6957xms_2
+  symbol_name: ltc6957xms_2
 oomp_key: oomp_kicad_interface_ltc6957xms_2
 oomp_key_simple: kicad_interface_ltc6957xms_2
 owner: kicad

@@ -1,16 +1,20 @@
+id: kicad_analog_dac_max5814wlp
+library: analog_dac
 library_name: Analog_DAC
+name: max5814wlp
 oomp:
   library_name: analog_dac
-  md5: 51b9c5be0f274a34eca81caee352bcdf
-  md5_10: 51b9c5be0f
-  md5_5: 51b9c
-  md5_6: 51b9c5
-  oomp_key: oomp_analog_dac_max5814wlp
-  oomp_key_extra: oomp_symbol_analog_dac_max5814wlp
-  oomp_key_full: oomp_symbol_analog_dac_max5814wlp_51b9c5
-  oomp_key_simple: analog_dac_max5814wlp
+  md5: 97c4da32138fbb9ed8e129909a7f27ce
+  md5_10: 97c4da3213
+  md5_5: 97c4d
+  md5_6: 97c4da
+  oomp_key: oomp_max5814wlp
+  oomp_key_extra: oomp_symbol_max5814wlp
+  oomp_key_full: oomp_symbol_max5814wlp_97c4da
+  oomp_key_simple: max5814wlp
   owner_name: kicad
-  symbol_name: analog_dac_max5814wlp
+  symbol_name: max5814wlp
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

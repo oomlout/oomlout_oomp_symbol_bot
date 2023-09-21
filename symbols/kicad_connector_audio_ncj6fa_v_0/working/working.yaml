@@ -1,16 +1,20 @@
+id: kicad_connector_audio_ncj6fa_v_0
+library: connector_audio
 library_name: Connector_Audio
+name: ncj6fa_v_0
 oomp:
   library_name: connector_audio
-  md5: eab46e61dcdb0c152b612b997989b814
-  md5_10: eab46e61dc
-  md5_5: eab46
-  md5_6: eab46e
-  oomp_key: oomp_connector_audio_ncj6fa_v_0
-  oomp_key_extra: oomp_symbol_connector_audio_ncj6fa_v_0
-  oomp_key_full: oomp_symbol_connector_audio_ncj6fa_v_0_eab46e
-  oomp_key_simple: connector_audio_ncj6fa_v_0
+  md5: 4c76ab4b1f58bc561eca5c63cfc99f46
+  md5_10: 4c76ab4b1f
+  md5_5: 4c76a
+  md5_6: 4c76ab
+  oomp_key: oomp_ncj6fa_v_0
+  oomp_key_extra: oomp_symbol_ncj6fa_v_0
+  oomp_key_full: oomp_symbol_ncj6fa_v_0_4c76ab
+  oomp_key_simple: ncj6fa_v_0
   owner_name: kicad
-  symbol_name: connector_audio_ncj6fa_v_0
+  symbol_name: ncj6fa_v_0
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

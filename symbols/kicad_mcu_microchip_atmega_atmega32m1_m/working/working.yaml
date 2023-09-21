@@ -1,16 +1,20 @@
+id: kicad_mcu_microchip_atmega_atmega32m1_m
+library: mcu_microchip_atmega
 library_name: MCU_Microchip_ATmega
+name: atmega32m1_m
 oomp:
   library_name: mcu_microchip_atmega
-  md5: b5b5689ad41fc23a2b7081c9829bef0c
-  md5_10: b5b5689ad4
-  md5_5: b5b56
-  md5_6: b5b568
-  oomp_key: oomp_mcu_microchip_atmega_atmega32m1_m
-  oomp_key_extra: oomp_symbol_mcu_microchip_atmega_atmega32m1_m
-  oomp_key_full: oomp_symbol_mcu_microchip_atmega_atmega32m1_m_b5b568
-  oomp_key_simple: mcu_microchip_atmega_atmega32m1_m
+  md5: 14b435c2721a5301534df18d8a18ced3
+  md5_10: 14b435c272
+  md5_5: 14b43
+  md5_6: 14b435
+  oomp_key: oomp_atmega32m1_m
+  oomp_key_extra: oomp_symbol_atmega32m1_m
+  oomp_key_full: oomp_symbol_atmega32m1_m_14b435
+  oomp_key_simple: atmega32m1_m
   owner_name: kicad
-  symbol_name: mcu_microchip_atmega_atmega32m1_m
+  symbol_name: atmega32m1_m
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

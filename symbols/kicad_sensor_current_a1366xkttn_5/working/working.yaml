@@ -1,16 +1,20 @@
+id: kicad_sensor_current_a1366xkttn_5
+library: sensor_current
 library_name: Sensor_Current
+name: a1366xkttn_5
 oomp:
   library_name: sensor_current
-  md5: f86e7d19d2de2ac4a6f08d433efc7ac5
-  md5_10: f86e7d19d2
-  md5_5: f86e7
-  md5_6: f86e7d
-  oomp_key: oomp_sensor_current_a1366xkttn_5
-  oomp_key_extra: oomp_symbol_sensor_current_a1366xkttn_5
-  oomp_key_full: oomp_symbol_sensor_current_a1366xkttn_5_f86e7d
-  oomp_key_simple: sensor_current_a1366xkttn_5
+  md5: bb3bfa4c811ed7d1b757802923a220bc
+  md5_10: bb3bfa4c81
+  md5_5: bb3bf
+  md5_6: bb3bfa
+  oomp_key: oomp_a1366xkttn_5
+  oomp_key_extra: oomp_symbol_a1366xkttn_5
+  oomp_key_full: oomp_symbol_a1366xkttn_5_bb3bfa
+  oomp_key_simple: a1366xkttn_5
   owner_name: kicad
-  symbol_name: sensor_current_a1366xkttn_5
+  symbol_name: a1366xkttn_5
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

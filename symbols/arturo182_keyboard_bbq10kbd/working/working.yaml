@@ -1,3 +1,5 @@
+id: arturo182_keyboard_bbq10kbd
+library: keyboard
 library_name: Keyboard
 links:
   github_owner: arturo182
@@ -10,19 +12,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/arturo182_keyboard_bbq10kbd/working
   oomp_src_flat: symbols_flat/arturo182_keyboard_bbq10kbd/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/arturo182_keyboard_bbq10kbd/working
-name: keyboard_bbq10kbd
+name: bbq10kbd
 oomp:
   library_name: keyboard
-  md5: 7be7b13f0da3fb41d24913eb04be5191
-  md5_10: 7be7b13f0d
-  md5_5: 7be7b
-  md5_6: 7be7b1
-  oomp_key: oomp_keyboard_bbq10kbd
-  oomp_key_extra: oomp_symbol_keyboard_bbq10kbd
-  oomp_key_full: oomp_symbol_keyboard_bbq10kbd_7be7b1
-  oomp_key_simple: keyboard_bbq10kbd
+  md5: 6782fa2a5244d68908da6677ccf93ef7
+  md5_10: 6782fa2a52
+  md5_5: 6782f
+  md5_6: 6782fa
+  oomp_key: oomp_bbq10kbd
+  oomp_key_extra: oomp_symbol_bbq10kbd
+  oomp_key_full: oomp_symbol_bbq10kbd_6782fa
+  oomp_key_simple: bbq10kbd
   owner_name: arturo182
-  symbol_name: keyboard_bbq10kbd
+  symbol_name: bbq10kbd
 oomp_key: oomp_arturo182_keyboard_bbq10kbd
 oomp_key_simple: arturo182_keyboard_bbq10kbd
 owner: arturo182

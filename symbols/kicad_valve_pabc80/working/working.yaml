@@ -1,16 +1,20 @@
+id: kicad_valve_pabc80
+library: valve
 library_name: Valve
+name: pabc80
 oomp:
   library_name: valve
-  md5: 5fe8689471c5c30595978cfa89569497
-  md5_10: 5fe8689471
-  md5_5: 5fe86
-  md5_6: 5fe868
-  oomp_key: oomp_valve_pabc80
-  oomp_key_extra: oomp_symbol_valve_pabc80
-  oomp_key_full: oomp_symbol_valve_pabc80_5fe868
-  oomp_key_simple: valve_pabc80
+  md5: 22133c197e80db48bd1f9638c1d908ec
+  md5_10: 22133c197e
+  md5_5: '22133'
+  md5_6: 22133c
+  oomp_key: oomp_pabc80
+  oomp_key_extra: oomp_symbol_pabc80
+  oomp_key_full: oomp_symbol_pabc80_22133c
+  oomp_key_simple: pabc80
   owner_name: kicad
-  symbol_name: valve_pabc80
+  symbol_name: pabc80
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

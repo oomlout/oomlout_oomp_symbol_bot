@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_lm2936_5_0
+library: regulator_linear
 library_name: Regulator_Linear
+name: lm2936_5_0
 oomp:
   library_name: regulator_linear
-  md5: 317102d351f82d772d4e53e6b6a478fd
-  md5_10: 317102d351
-  md5_5: '31710'
-  md5_6: '317102'
-  oomp_key: oomp_regulator_linear_lm2936_5_0
-  oomp_key_extra: oomp_symbol_regulator_linear_lm2936_5_0
-  oomp_key_full: oomp_symbol_regulator_linear_lm2936_5_0_317102
-  oomp_key_simple: regulator_linear_lm2936_5_0
+  md5: 94cef62164b1edf6b49ab231767c2595
+  md5_10: 94cef62164
+  md5_5: 94cef
+  md5_6: 94cef6
+  oomp_key: oomp_lm2936_5_0
+  oomp_key_extra: oomp_symbol_lm2936_5_0
+  oomp_key_full: oomp_symbol_lm2936_5_0_94cef6
+  oomp_key_simple: lm2936_5_0
   owner_name: kicad
-  symbol_name: regulator_linear_lm2936_5_0
+  symbol_name: lm2936_5_0
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

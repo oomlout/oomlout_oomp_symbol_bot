@@ -1,3 +1,5 @@
+id: kicad_power_management_auir33402s
+library: power_management
 library_name: Power_Management
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_power_management_auir33402s/working
   oomp_src_flat: symbols_flat/kicad_power_management_auir33402s/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_management_auir33402s/working
-name: power_management_auir33402s
+name: auir33402s
 oomp:
   library_name: power_management
-  md5: f3399fc51cb3ca3f656c112e4526616c
-  md5_10: f3399fc51c
-  md5_5: f3399
-  md5_6: f3399f
-  oomp_key: oomp_power_management_auir33402s
-  oomp_key_extra: oomp_symbol_power_management_auir33402s
-  oomp_key_full: oomp_symbol_power_management_auir33402s_f3399f
-  oomp_key_simple: power_management_auir33402s
+  md5: 9a6f752afd066e8949cc2472add81374
+  md5_10: 9a6f752afd
+  md5_5: 9a6f7
+  md5_6: 9a6f75
+  oomp_key: oomp_auir33402s
+  oomp_key_extra: oomp_symbol_auir33402s
+  oomp_key_full: oomp_symbol_auir33402s_9a6f75
+  oomp_key_simple: auir33402s
   owner_name: kicad
-  symbol_name: power_management_auir33402s
+  symbol_name: auir33402s
 oomp_key: oomp_kicad_power_management_auir33402s
 oomp_key_simple: kicad_power_management_auir33402s
 owner: kicad

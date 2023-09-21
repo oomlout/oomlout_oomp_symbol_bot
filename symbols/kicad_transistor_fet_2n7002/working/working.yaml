@@ -1,16 +1,20 @@
+id: kicad_transistor_fet_2n7002
+library: transistor_fet
 library_name: Transistor_FET
+name: 2n7002
 oomp:
   library_name: transistor_fet
-  md5: 29525c7e7307b74494c3eaeb5fd9a94f
-  md5_10: 29525c7e73
-  md5_5: '29525'
-  md5_6: 29525c
-  oomp_key: oomp_transistor_fet_2n7002
-  oomp_key_extra: oomp_symbol_transistor_fet_2n7002
-  oomp_key_full: oomp_symbol_transistor_fet_2n7002_29525c
-  oomp_key_simple: transistor_fet_2n7002
+  md5: 230404132ee6a2a53d69283f3f4f2cf8
+  md5_10: 230404132e
+  md5_5: '23040'
+  md5_6: '230404'
+  oomp_key: oomp_2n7002
+  oomp_key_extra: oomp_symbol_2n7002
+  oomp_key_full: oomp_symbol_2n7002_230404
+  oomp_key_simple: 2n7002
   owner_name: kicad
-  symbol_name: transistor_fet_2n7002
+  symbol_name: 2n7002
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_converter_acdc_rac20_48sk
+library: converter_acdc
 library_name: Converter_ACDC
+name: rac20_48sk
 oomp:
   library_name: converter_acdc
-  md5: b05d09b57f10069388cc75b3f98c52c4
-  md5_10: b05d09b57f
-  md5_5: b05d0
-  md5_6: b05d09
-  oomp_key: oomp_converter_acdc_rac20_48sk
-  oomp_key_extra: oomp_symbol_converter_acdc_rac20_48sk
-  oomp_key_full: oomp_symbol_converter_acdc_rac20_48sk_b05d09
-  oomp_key_simple: converter_acdc_rac20_48sk
+  md5: 078f44506750314cc95db720cb548145
+  md5_10: 078f445067
+  md5_5: 078f4
+  md5_6: 078f44
+  oomp_key: oomp_rac20_48sk
+  oomp_key_extra: oomp_symbol_rac20_48sk
+  oomp_key_full: oomp_symbol_rac20_48sk_078f44
+  oomp_key_simple: rac20_48sk
   owner_name: kicad
-  symbol_name: converter_acdc_rac20_48sk
+  symbol_name: rac20_48sk
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

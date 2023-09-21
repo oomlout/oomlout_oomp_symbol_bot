@@ -1,16 +1,20 @@
+id: kicad_analog_dac_ad7533ln
+library: analog_dac
 library_name: Analog_DAC
+name: ad7533ln
 oomp:
   library_name: analog_dac
-  md5: 20034ce10885dbb13659a574f99cf72a
-  md5_10: 20034ce108
-  md5_5: '20034'
-  md5_6: 20034c
-  oomp_key: oomp_analog_dac_ad7533ln
-  oomp_key_extra: oomp_symbol_analog_dac_ad7533ln
-  oomp_key_full: oomp_symbol_analog_dac_ad7533ln_20034c
-  oomp_key_simple: analog_dac_ad7533ln
+  md5: f2a03f464fef9e5bdd4f0b84cb6b4b1d
+  md5_10: f2a03f464f
+  md5_5: f2a03
+  md5_6: f2a03f
+  oomp_key: oomp_ad7533ln
+  oomp_key_extra: oomp_symbol_ad7533ln
+  oomp_key_full: oomp_symbol_ad7533ln_f2a03f
+  oomp_key_simple: ad7533ln
   owner_name: kicad
-  symbol_name: analog_dac_ad7533ln
+  symbol_name: ad7533ln
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,3 +1,5 @@
+id: kicad_reference_voltage_lm4040dbz_2_0
+library: reference_voltage
 library_name: Reference_Voltage
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_reference_voltage_lm4040dbz_2_0/working
   oomp_src_flat: symbols_flat/kicad_reference_voltage_lm4040dbz_2_0/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_reference_voltage_lm4040dbz_2_0/working
-name: reference_voltage_lm4040dbz_2_0
+name: lm4040dbz_2_0
 oomp:
   library_name: reference_voltage
-  md5: 45cc2deb9b3033060663a47a6f84c26d
-  md5_10: 45cc2deb9b
-  md5_5: 45cc2
-  md5_6: 45cc2d
-  oomp_key: oomp_reference_voltage_lm4040dbz_2_0
-  oomp_key_extra: oomp_symbol_reference_voltage_lm4040dbz_2_0
-  oomp_key_full: oomp_symbol_reference_voltage_lm4040dbz_2_0_45cc2d
-  oomp_key_simple: reference_voltage_lm4040dbz_2_0
+  md5: fc9c69fe1a3905831577ca743553b7c3
+  md5_10: fc9c69fe1a
+  md5_5: fc9c6
+  md5_6: fc9c69
+  oomp_key: oomp_lm4040dbz_2_0
+  oomp_key_extra: oomp_symbol_lm4040dbz_2_0
+  oomp_key_full: oomp_symbol_lm4040dbz_2_0_fc9c69
+  oomp_key_simple: lm4040dbz_2_0
   owner_name: kicad
-  symbol_name: reference_voltage_lm4040dbz_2_0
+  symbol_name: lm4040dbz_2_0
 oomp_key: oomp_kicad_reference_voltage_lm4040dbz_2_0
 oomp_key_simple: kicad_reference_voltage_lm4040dbz_2_0
 owner: kicad

@@ -1,16 +1,20 @@
+id: kicad_transistor_bjt_bc558
+library: transistor_bjt
 library_name: Transistor_BJT
+name: bc558
 oomp:
   library_name: transistor_bjt
-  md5: dcda1b680c3a604fcda4e3c6712cd1ce
-  md5_10: dcda1b680c
-  md5_5: dcda1
-  md5_6: dcda1b
-  oomp_key: oomp_transistor_bjt_bc558
-  oomp_key_extra: oomp_symbol_transistor_bjt_bc558
-  oomp_key_full: oomp_symbol_transistor_bjt_bc558_dcda1b
-  oomp_key_simple: transistor_bjt_bc558
+  md5: 325e7ca503bba3a345620c3a8a6ad672
+  md5_10: 325e7ca503
+  md5_5: 325e7
+  md5_6: 325e7c
+  oomp_key: oomp_bc558
+  oomp_key_extra: oomp_symbol_bc558
+  oomp_key_full: oomp_symbol_bc558_325e7c
+  oomp_key_simple: bc558
   owner_name: kicad
-  symbol_name: transistor_bjt_bc558
+  symbol_name: bc558
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

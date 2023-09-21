@@ -1,16 +1,20 @@
+id: kicad_sensor_current_cq_3202
+library: sensor_current
 library_name: Sensor_Current
+name: cq_3202
 oomp:
   library_name: sensor_current
-  md5: d3cba7af2b2ae0226714546b8a82356b
-  md5_10: d3cba7af2b
-  md5_5: d3cba
-  md5_6: d3cba7
-  oomp_key: oomp_sensor_current_cq_3202
-  oomp_key_extra: oomp_symbol_sensor_current_cq_3202
-  oomp_key_full: oomp_symbol_sensor_current_cq_3202_d3cba7
-  oomp_key_simple: sensor_current_cq_3202
+  md5: 20ad09707e4b9d4320b4988cc37888dd
+  md5_10: 20ad09707e
+  md5_5: 20ad0
+  md5_6: 20ad09
+  oomp_key: oomp_cq_3202
+  oomp_key_extra: oomp_symbol_cq_3202
+  oomp_key_full: oomp_symbol_cq_3202_20ad09
+  oomp_key_simple: cq_3202
   owner_name: kicad
-  symbol_name: sensor_current_cq_3202
+  symbol_name: cq_3202
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

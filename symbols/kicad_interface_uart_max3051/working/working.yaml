@@ -1,3 +1,5 @@
+id: kicad_interface_uart_max3051
+library: interface_uart
 library_name: Interface_UART
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_uart_max3051/working
   oomp_src_flat: symbols_flat/kicad_interface_uart_max3051/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_uart_max3051/working
-name: interface_uart_max3051
+name: max3051
 oomp:
   library_name: interface_uart
-  md5: 1ab8649ff59b39447687fb8700940f24
-  md5_10: 1ab8649ff5
-  md5_5: 1ab86
-  md5_6: 1ab864
-  oomp_key: oomp_interface_uart_max3051
-  oomp_key_extra: oomp_symbol_interface_uart_max3051
-  oomp_key_full: oomp_symbol_interface_uart_max3051_1ab864
-  oomp_key_simple: interface_uart_max3051
+  md5: 0de9741c5ac7862cb0c7744b54f7e3fc
+  md5_10: 0de9741c5a
+  md5_5: 0de97
+  md5_6: 0de974
+  oomp_key: oomp_max3051
+  oomp_key_extra: oomp_symbol_max3051
+  oomp_key_full: oomp_symbol_max3051_0de974
+  oomp_key_simple: max3051
   owner_name: kicad
-  symbol_name: interface_uart_max3051
+  symbol_name: max3051
 oomp_key: oomp_kicad_interface_uart_max3051
 oomp_key_simple: kicad_interface_uart_max3051
 owner: kicad

@@ -1,16 +1,20 @@
+id: kicad_relay_im23
+library: relay
 library_name: Relay
+name: im23
 oomp:
   library_name: relay
-  md5: b72b9e362b0e8898c8218ceb9ebdab18
-  md5_10: b72b9e362b
-  md5_5: b72b9
-  md5_6: b72b9e
-  oomp_key: oomp_relay_im23
-  oomp_key_extra: oomp_symbol_relay_im23
-  oomp_key_full: oomp_symbol_relay_im23_b72b9e
-  oomp_key_simple: relay_im23
+  md5: 4677075bfb8b7b9d80b7f6c8b178a7be
+  md5_10: 4677075bfb
+  md5_5: '46770'
+  md5_6: '467707'
+  oomp_key: oomp_im23
+  oomp_key_extra: oomp_symbol_im23
+  oomp_key_full: oomp_symbol_im23_467707
+  oomp_key_simple: im23
   owner_name: kicad
-  symbol_name: relay_im23
+  symbol_name: im23
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

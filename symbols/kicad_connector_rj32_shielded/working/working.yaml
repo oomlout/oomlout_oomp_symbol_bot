@@ -1,16 +1,20 @@
+id: kicad_connector_rj32_shielded
+library: connector
 library_name: Connector
+name: rj32_shielded
 oomp:
   library_name: connector
-  md5: e6adb4342fb86b54943699c063b640c8
-  md5_10: e6adb4342f
-  md5_5: e6adb
-  md5_6: e6adb4
-  oomp_key: oomp_connector_rj32_shielded
-  oomp_key_extra: oomp_symbol_connector_rj32_shielded
-  oomp_key_full: oomp_symbol_connector_rj32_shielded_e6adb4
-  oomp_key_simple: connector_rj32_shielded
+  md5: eb92c129040bf5e90b935a4564a561ac
+  md5_10: eb92c12904
+  md5_5: eb92c
+  md5_6: eb92c1
+  oomp_key: oomp_rj32_shielded
+  oomp_key_extra: oomp_symbol_rj32_shielded
+  oomp_key_full: oomp_symbol_rj32_shielded_eb92c1
+  oomp_key_simple: rj32_shielded
   owner_name: kicad
-  symbol_name: connector_rj32_shielded
+  symbol_name: rj32_shielded
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

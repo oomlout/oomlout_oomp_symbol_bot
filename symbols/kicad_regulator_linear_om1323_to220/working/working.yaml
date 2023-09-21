@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_om1323_to220
+library: regulator_linear
 library_name: Regulator_Linear
+name: om1323_to220
 oomp:
   library_name: regulator_linear
-  md5: c8db9e3a48cbb21c86adbc6b01aec68e
-  md5_10: c8db9e3a48
-  md5_5: c8db9
-  md5_6: c8db9e
-  oomp_key: oomp_regulator_linear_om1323_to220
-  oomp_key_extra: oomp_symbol_regulator_linear_om1323_to220
-  oomp_key_full: oomp_symbol_regulator_linear_om1323_to220_c8db9e
-  oomp_key_simple: regulator_linear_om1323_to220
+  md5: e530862eac6f6ce11b0ec70fa02166f8
+  md5_10: e530862eac
+  md5_5: e5308
+  md5_6: e53086
+  oomp_key: oomp_om1323_to220
+  oomp_key_extra: oomp_symbol_om1323_to220
+  oomp_key_full: oomp_symbol_om1323_to220_e53086
+  oomp_key_simple: om1323_to220
   owner_name: kicad
-  symbol_name: regulator_linear_om1323_to220
+  symbol_name: om1323_to220
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

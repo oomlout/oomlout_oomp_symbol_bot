@@ -1,3 +1,5 @@
+id: kicad_regulator_linear_lt3080xdd
+library: regulator_linear
 library_name: Regulator_Linear
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_linear_lt3080xdd/working
   oomp_src_flat: symbols_flat/kicad_regulator_linear_lt3080xdd/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_linear_lt3080xdd/working
-name: regulator_linear_lt3080xdd
+name: lt3080xdd
 oomp:
   library_name: regulator_linear
-  md5: b671088c74accfefbe8821101c5ab522
-  md5_10: b671088c74
-  md5_5: b6710
-  md5_6: b67108
-  oomp_key: oomp_regulator_linear_lt3080xdd
-  oomp_key_extra: oomp_symbol_regulator_linear_lt3080xdd
-  oomp_key_full: oomp_symbol_regulator_linear_lt3080xdd_b67108
-  oomp_key_simple: regulator_linear_lt3080xdd
+  md5: 5b6a37bc1b0c9997eb31a74735792a94
+  md5_10: 5b6a37bc1b
+  md5_5: 5b6a3
+  md5_6: 5b6a37
+  oomp_key: oomp_lt3080xdd
+  oomp_key_extra: oomp_symbol_lt3080xdd
+  oomp_key_full: oomp_symbol_lt3080xdd_5b6a37
+  oomp_key_simple: lt3080xdd
   owner_name: kicad
-  symbol_name: regulator_linear_lt3080xdd
+  symbol_name: lt3080xdd
 oomp_key: oomp_kicad_regulator_linear_lt3080xdd
 oomp_key_simple: kicad_regulator_linear_lt3080xdd
 owner: kicad

@@ -1,3 +1,5 @@
+id: kicad_connector_conn_01x30_socket
+library: connector
 library_name: Connector
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_conn_01x30_socket/working
   oomp_src_flat: symbols_flat/kicad_connector_conn_01x30_socket/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_conn_01x30_socket/working
-name: connector_conn_01x30_socket
+name: conn_01x30_socket
 oomp:
   library_name: connector
-  md5: 299745df4409f915afe9640c6f631183
-  md5_10: 299745df44
-  md5_5: '29974'
-  md5_6: '299745'
-  oomp_key: oomp_connector_conn_01x30_socket
-  oomp_key_extra: oomp_symbol_connector_conn_01x30_socket
-  oomp_key_full: oomp_symbol_connector_conn_01x30_socket_299745
-  oomp_key_simple: connector_conn_01x30_socket
+  md5: cf7658413604727e0a89478428135c0e
+  md5_10: cf76584136
+  md5_5: cf765
+  md5_6: cf7658
+  oomp_key: oomp_conn_01x30_socket
+  oomp_key_extra: oomp_symbol_conn_01x30_socket
+  oomp_key_full: oomp_symbol_conn_01x30_socket_cf7658
+  oomp_key_simple: conn_01x30_socket
   owner_name: kicad
-  symbol_name: connector_conn_01x30_socket
+  symbol_name: conn_01x30_socket
 oomp_key: oomp_kicad_connector_conn_01x30_socket
 oomp_key_simple: kicad_connector_conn_01x30_socket
 owner: kicad

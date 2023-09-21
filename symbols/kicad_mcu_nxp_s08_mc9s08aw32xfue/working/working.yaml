@@ -1,16 +1,20 @@
+id: kicad_mcu_nxp_s08_mc9s08aw32xfue
+library: mcu_nxp_s08
 library_name: MCU_NXP_S08
+name: mc9s08aw32xfue
 oomp:
   library_name: mcu_nxp_s08
-  md5: 3d88c8be4a1212a94caeabf0686841d5
-  md5_10: 3d88c8be4a
-  md5_5: 3d88c
-  md5_6: 3d88c8
-  oomp_key: oomp_mcu_nxp_s08_mc9s08aw32xfue
-  oomp_key_extra: oomp_symbol_mcu_nxp_s08_mc9s08aw32xfue
-  oomp_key_full: oomp_symbol_mcu_nxp_s08_mc9s08aw32xfue_3d88c8
-  oomp_key_simple: mcu_nxp_s08_mc9s08aw32xfue
+  md5: 382a40a97e0c14634fb682bfad0ad259
+  md5_10: 382a40a97e
+  md5_5: 382a4
+  md5_6: 382a40
+  oomp_key: oomp_mc9s08aw32xfue
+  oomp_key_extra: oomp_symbol_mc9s08aw32xfue
+  oomp_key_full: oomp_symbol_mc9s08aw32xfue_382a40
+  oomp_key_simple: mc9s08aw32xfue
   owner_name: kicad
-  symbol_name: mcu_nxp_s08_mc9s08aw32xfue
+  symbol_name: mc9s08aw32xfue
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

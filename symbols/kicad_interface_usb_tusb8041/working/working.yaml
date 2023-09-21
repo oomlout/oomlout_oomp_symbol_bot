@@ -1,3 +1,5 @@
+id: kicad_interface_usb_tusb8041
+library: interface_usb
 library_name: Interface_USB
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_usb_tusb8041/working
   oomp_src_flat: symbols_flat/kicad_interface_usb_tusb8041/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_usb_tusb8041/working
-name: interface_usb_tusb8041
+name: tusb8041
 oomp:
   library_name: interface_usb
-  md5: 7a9234585ba645d927e2735c40a1dfac
-  md5_10: 7a9234585b
-  md5_5: 7a923
-  md5_6: 7a9234
-  oomp_key: oomp_interface_usb_tusb8041
-  oomp_key_extra: oomp_symbol_interface_usb_tusb8041
-  oomp_key_full: oomp_symbol_interface_usb_tusb8041_7a9234
-  oomp_key_simple: interface_usb_tusb8041
+  md5: ff2c911d5c915f4474d4d27f774dd194
+  md5_10: ff2c911d5c
+  md5_5: ff2c9
+  md5_6: ff2c91
+  oomp_key: oomp_tusb8041
+  oomp_key_extra: oomp_symbol_tusb8041
+  oomp_key_full: oomp_symbol_tusb8041_ff2c91
+  oomp_key_simple: tusb8041
   owner_name: kicad
-  symbol_name: interface_usb_tusb8041
+  symbol_name: tusb8041
 oomp_key: oomp_kicad_interface_usb_tusb8041
 oomp_key_simple: kicad_interface_usb_tusb8041
 owner: kicad

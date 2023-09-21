@@ -1,16 +1,20 @@
+id: kicad_power_management_ltc4364hde
+library: power_management
 library_name: Power_Management
+name: ltc4364hde
 oomp:
   library_name: power_management
-  md5: 129fa9a8bd3f669b4797614ab00c16bb
-  md5_10: 129fa9a8bd
-  md5_5: 129fa
-  md5_6: 129fa9
-  oomp_key: oomp_power_management_ltc4364hde
-  oomp_key_extra: oomp_symbol_power_management_ltc4364hde
-  oomp_key_full: oomp_symbol_power_management_ltc4364hde_129fa9
-  oomp_key_simple: power_management_ltc4364hde
+  md5: 0c38bc626b1fc84151c97511f35c524b
+  md5_10: 0c38bc626b
+  md5_5: 0c38b
+  md5_6: 0c38bc
+  oomp_key: oomp_ltc4364hde
+  oomp_key_extra: oomp_symbol_ltc4364hde
+  oomp_key_full: oomp_symbol_ltc4364hde_0c38bc
+  oomp_key_simple: ltc4364hde
   owner_name: kicad
-  symbol_name: power_management_ltc4364hde
+  symbol_name: ltc4364hde
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

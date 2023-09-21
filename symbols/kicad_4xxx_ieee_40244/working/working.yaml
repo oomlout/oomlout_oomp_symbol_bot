@@ -1,16 +1,20 @@
+id: kicad_4xxx_ieee_40244
+library: 4xxx_ieee
 library_name: 4xxx_IEEE
+name: '40244'
 oomp:
   library_name: 4xxx_ieee
-  md5: 8cf9b3ceaecf0e80f4ed09c1c2ad222a
-  md5_10: 8cf9b3ceae
-  md5_5: 8cf9b
-  md5_6: 8cf9b3
-  oomp_key: oomp_4xxx_ieee_40244
-  oomp_key_extra: oomp_symbol_4xxx_ieee_40244
-  oomp_key_full: oomp_symbol_4xxx_ieee_40244_8cf9b3
-  oomp_key_simple: 4xxx_ieee_40244
+  md5: bbb96d7adad8c94da269ae0494bb2ec2
+  md5_10: bbb96d7ada
+  md5_5: bbb96
+  md5_6: bbb96d
+  oomp_key: oomp_40244
+  oomp_key_extra: oomp_symbol_40244
+  oomp_key_full: oomp_symbol_40244_bbb96d
+  oomp_key_simple: '40244'
   owner_name: kicad
-  symbol_name: 4xxx_ieee_40244
+  symbol_name: '40244'
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

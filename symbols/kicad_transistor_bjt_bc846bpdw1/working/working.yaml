@@ -1,16 +1,20 @@
+id: kicad_transistor_bjt_bc846bpdw1
+library: transistor_bjt
 library_name: Transistor_BJT
+name: bc846bpdw1
 oomp:
   library_name: transistor_bjt
-  md5: 74bd5651b4de399917956d2dfb30c3e6
-  md5_10: 74bd5651b4
-  md5_5: 74bd5
-  md5_6: 74bd56
-  oomp_key: oomp_transistor_bjt_bc846bpdw1
-  oomp_key_extra: oomp_symbol_transistor_bjt_bc846bpdw1
-  oomp_key_full: oomp_symbol_transistor_bjt_bc846bpdw1_74bd56
-  oomp_key_simple: transistor_bjt_bc846bpdw1
+  md5: 02d3be623ddfc04268e2fa2aaedf6067
+  md5_10: 02d3be623d
+  md5_5: 02d3b
+  md5_6: 02d3be
+  oomp_key: oomp_bc846bpdw1
+  oomp_key_extra: oomp_symbol_bc846bpdw1
+  oomp_key_full: oomp_symbol_bc846bpdw1_02d3be
+  oomp_key_simple: bc846bpdw1
   owner_name: kicad
-  symbol_name: transistor_bjt_bc846bpdw1
+  symbol_name: bc846bpdw1
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

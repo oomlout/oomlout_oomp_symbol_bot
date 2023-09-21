@@ -1,16 +1,20 @@
+id: kicad_transistor_bjt_tip41b
+library: transistor_bjt
 library_name: Transistor_BJT
+name: tip41b
 oomp:
   library_name: transistor_bjt
-  md5: 1ed64c84a7b80ce9eb5cfc08e8460c1f
-  md5_10: 1ed64c84a7
-  md5_5: 1ed64
-  md5_6: 1ed64c
-  oomp_key: oomp_transistor_bjt_tip41b
-  oomp_key_extra: oomp_symbol_transistor_bjt_tip41b
-  oomp_key_full: oomp_symbol_transistor_bjt_tip41b_1ed64c
-  oomp_key_simple: transistor_bjt_tip41b
+  md5: bc71be94a256bc0182143524a9566e2f
+  md5_10: bc71be94a2
+  md5_5: bc71b
+  md5_6: bc71be
+  oomp_key: oomp_tip41b
+  oomp_key_extra: oomp_symbol_tip41b
+  oomp_key_full: oomp_symbol_tip41b_bc71be
+  oomp_key_simple: tip41b
   owner_name: kicad
-  symbol_name: transistor_bjt_tip41b
+  symbol_name: tip41b
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

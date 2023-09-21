@@ -15,7 +15,7 @@
     (property "ki_keywords" "USB UART Serial Converter Interface" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "ki_description" "USB serial converter, UART, SSOP-20" (at 0 0 0)
+    (property "ki_description" "[electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t/working)<br>[LCSC - C8689<br>](https://lcsc.com/product-detail/C8689.html)<br>" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "ki_fp_filters" "SSOP*5.3x7.2mm*P0.65mm*" (at 0 0 0)

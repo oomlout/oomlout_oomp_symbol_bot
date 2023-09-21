@@ -1,16 +1,20 @@
+id: kicad_cpld_microchip_atf1502asv_xax44
+library: cpld_microchip
 library_name: CPLD_Microchip
+name: atf1502asv_xax44
 oomp:
   library_name: cpld_microchip
-  md5: ec10a3451182de8af016eb5f1d975295
-  md5_10: ec10a34511
-  md5_5: ec10a
-  md5_6: ec10a3
-  oomp_key: oomp_cpld_microchip_atf1502asv_xax44
-  oomp_key_extra: oomp_symbol_cpld_microchip_atf1502asv_xax44
-  oomp_key_full: oomp_symbol_cpld_microchip_atf1502asv_xax44_ec10a3
-  oomp_key_simple: cpld_microchip_atf1502asv_xax44
+  md5: 9e4253c4b77a93a93945e2d4c2969484
+  md5_10: 9e4253c4b7
+  md5_5: 9e425
+  md5_6: 9e4253
+  oomp_key: oomp_atf1502asv_xax44
+  oomp_key_extra: oomp_symbol_atf1502asv_xax44
+  oomp_key_full: oomp_symbol_atf1502asv_xax44_9e4253
+  oomp_key_simple: atf1502asv_xax44
   owner_name: kicad
-  symbol_name: cpld_microchip_atf1502asv_xax44
+  symbol_name: atf1502asv_xax44
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

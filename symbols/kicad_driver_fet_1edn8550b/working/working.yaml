@@ -1,16 +1,20 @@
+id: kicad_driver_fet_1edn8550b
+library: driver_fet
 library_name: Driver_FET
+name: 1edn8550b
 oomp:
   library_name: driver_fet
-  md5: 8b42e9f33039311b1437530e7197fb5e
-  md5_10: 8b42e9f330
-  md5_5: 8b42e
-  md5_6: 8b42e9
-  oomp_key: oomp_driver_fet_1edn8550b
-  oomp_key_extra: oomp_symbol_driver_fet_1edn8550b
-  oomp_key_full: oomp_symbol_driver_fet_1edn8550b_8b42e9
-  oomp_key_simple: driver_fet_1edn8550b
+  md5: 40d5bdcfbe4bf2e61eb72bfaf752996e
+  md5_10: 40d5bdcfbe
+  md5_5: 40d5b
+  md5_6: 40d5bd
+  oomp_key: oomp_1edn8550b
+  oomp_key_extra: oomp_symbol_1edn8550b
+  oomp_key_full: oomp_symbol_1edn8550b_40d5bd
+  oomp_key_simple: 1edn8550b
   owner_name: kicad
-  symbol_name: driver_fet_1edn8550b
+  symbol_name: 1edn8550b
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

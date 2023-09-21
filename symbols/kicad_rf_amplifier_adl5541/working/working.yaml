@@ -1,16 +1,20 @@
+id: kicad_rf_amplifier_adl5541
+library: rf_amplifier
 library_name: RF_Amplifier
+name: adl5541
 oomp:
   library_name: rf_amplifier
-  md5: c415b59f9591c850b80e4efc2209f6d4
-  md5_10: c415b59f95
-  md5_5: c415b
-  md5_6: c415b5
-  oomp_key: oomp_rf_amplifier_adl5541
-  oomp_key_extra: oomp_symbol_rf_amplifier_adl5541
-  oomp_key_full: oomp_symbol_rf_amplifier_adl5541_c415b5
-  oomp_key_simple: rf_amplifier_adl5541
+  md5: d99c0bda67e88a55b2b1285f7c16b3e1
+  md5_10: d99c0bda67
+  md5_5: d99c0
+  md5_6: d99c0b
+  oomp_key: oomp_adl5541
+  oomp_key_extra: oomp_symbol_adl5541
+  oomp_key_full: oomp_symbol_adl5541_d99c0b
+  oomp_key_simple: adl5541
   owner_name: kicad
-  symbol_name: rf_amplifier_adl5541
+  symbol_name: adl5541
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

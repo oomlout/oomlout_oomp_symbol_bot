@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_ncp1076stat
+library: regulator_switching
 library_name: Regulator_Switching
+name: ncp1076stat
 oomp:
   library_name: regulator_switching
-  md5: 273dcc0d968598d13eb3baa434017eb6
-  md5_10: 273dcc0d96
-  md5_5: 273dc
-  md5_6: 273dcc
-  oomp_key: oomp_regulator_switching_ncp1076stat
-  oomp_key_extra: oomp_symbol_regulator_switching_ncp1076stat
-  oomp_key_full: oomp_symbol_regulator_switching_ncp1076stat_273dcc
-  oomp_key_simple: regulator_switching_ncp1076stat
+  md5: c93ee346265390cfe99c9fed0d9c1162
+  md5_10: c93ee34626
+  md5_5: c93ee
+  md5_6: c93ee3
+  oomp_key: oomp_ncp1076stat
+  oomp_key_extra: oomp_symbol_ncp1076stat
+  oomp_key_full: oomp_symbol_ncp1076stat_c93ee3
+  oomp_key_simple: ncp1076stat
   owner_name: kicad
-  symbol_name: regulator_switching_ncp1076stat
+  symbol_name: ncp1076stat
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_ap7361c_12e
+library: regulator_linear
 library_name: Regulator_Linear
+name: ap7361c_12e
 oomp:
   library_name: regulator_linear
-  md5: 4377741cb89bc7c2080b2bd3c5a0cd86
-  md5_10: 4377741cb8
-  md5_5: '43777'
-  md5_6: '437774'
-  oomp_key: oomp_regulator_linear_ap7361c_12e
-  oomp_key_extra: oomp_symbol_regulator_linear_ap7361c_12e
-  oomp_key_full: oomp_symbol_regulator_linear_ap7361c_12e_437774
-  oomp_key_simple: regulator_linear_ap7361c_12e
+  md5: 7959213cf3903380275d70ea06bbe413
+  md5_10: 7959213cf3
+  md5_5: '79592'
+  md5_6: '795921'
+  oomp_key: oomp_ap7361c_12e
+  oomp_key_extra: oomp_symbol_ap7361c_12e
+  oomp_key_full: oomp_symbol_ap7361c_12e_795921
+  oomp_key_simple: ap7361c_12e
   owner_name: kicad
-  symbol_name: regulator_linear_ap7361c_12e
+  symbol_name: ap7361c_12e
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

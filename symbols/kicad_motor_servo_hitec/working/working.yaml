@@ -1,0 +1,25 @@
+id: kicad_motor_servo_hitec
+library: motor
+library_name: Motor
+name: servo_hitec
+oomp:
+  library_name: motor
+  md5: 37d6263021bc8fdc24818c3a715220ca
+  md5_10: 37d6263021
+  md5_5: 37d62
+  md5_6: 37d626
+  oomp_key: oomp_servo_hitec
+  oomp_key_extra: oomp_symbol_servo_hitec
+  oomp_key_full: oomp_symbol_servo_hitec_37d626
+  oomp_key_simple: servo_hitec
+  owner_name: kicad
+  symbol_name: servo_hitec
+owner: kicad
+repo:
+  github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
+  name: kicad-symbols
+  owner: kicad
+  url: https://gitlab.com/kicad/libraries/kicad-symbols
+repo_github:
+  documentation_url: https://docs.github.com/rest/repos/repos#get-a-repository
+  message: Not Found

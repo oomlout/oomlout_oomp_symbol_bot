@@ -1,3 +1,5 @@
+id: kicad_comparator_lm397
+library: comparator
 library_name: Comparator
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_comparator_lm397/working
   oomp_src_flat: symbols_flat/kicad_comparator_lm397/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_comparator_lm397/working
-name: comparator_lm397
+name: lm397
 oomp:
   library_name: comparator
-  md5: a7385467a24b63894bc4852a4c07d973
-  md5_10: a7385467a2
-  md5_5: a7385
-  md5_6: a73854
-  oomp_key: oomp_comparator_lm397
-  oomp_key_extra: oomp_symbol_comparator_lm397
-  oomp_key_full: oomp_symbol_comparator_lm397_a73854
-  oomp_key_simple: comparator_lm397
+  md5: b41f9efd001047012e2df7eccec8aaeb
+  md5_10: b41f9efd00
+  md5_5: b41f9
+  md5_6: b41f9e
+  oomp_key: oomp_lm397
+  oomp_key_extra: oomp_symbol_lm397
+  oomp_key_full: oomp_symbol_lm397_b41f9e
+  oomp_key_simple: lm397
   owner_name: kicad
-  symbol_name: comparator_lm397
+  symbol_name: lm397
 oomp_key: oomp_kicad_comparator_lm397
 oomp_key_simple: kicad_comparator_lm397
 owner: kicad

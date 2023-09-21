@@ -1,3 +1,5 @@
+id: kicad_interface_usb_ma8601
+library: interface_usb
 library_name: Interface_USB
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_usb_ma8601/working
   oomp_src_flat: symbols_flat/kicad_interface_usb_ma8601/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_usb_ma8601/working
-name: interface_usb_ma8601
+name: ma8601
 oomp:
   library_name: interface_usb
-  md5: 6968f5a94347ba6d28e1e5a1ed381530
-  md5_10: 6968f5a943
-  md5_5: 6968f
-  md5_6: 6968f5
-  oomp_key: oomp_interface_usb_ma8601
-  oomp_key_extra: oomp_symbol_interface_usb_ma8601
-  oomp_key_full: oomp_symbol_interface_usb_ma8601_6968f5
-  oomp_key_simple: interface_usb_ma8601
+  md5: a17102d493e2a9f902ec95b89fe23983
+  md5_10: a17102d493
+  md5_5: a1710
+  md5_6: a17102
+  oomp_key: oomp_ma8601
+  oomp_key_extra: oomp_symbol_ma8601
+  oomp_key_full: oomp_symbol_ma8601_a17102
+  oomp_key_simple: ma8601
   owner_name: kicad
-  symbol_name: interface_usb_ma8601
+  symbol_name: ma8601
 oomp_key: oomp_kicad_interface_usb_ma8601
 oomp_key_simple: kicad_interface_usb_ma8601
 owner: kicad

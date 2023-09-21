@@ -1,3 +1,5 @@
+id: kicad_regulator_controller_l6564
+library: regulator_controller
 library_name: Regulator_Controller
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_controller_l6564/working
   oomp_src_flat: symbols_flat/kicad_regulator_controller_l6564/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_controller_l6564/working
-name: regulator_controller_l6564
+name: l6564
 oomp:
   library_name: regulator_controller
-  md5: 7e2e41d7608b9571b6363119b13f1710
-  md5_10: 7e2e41d760
-  md5_5: 7e2e4
-  md5_6: 7e2e41
-  oomp_key: oomp_regulator_controller_l6564
-  oomp_key_extra: oomp_symbol_regulator_controller_l6564
-  oomp_key_full: oomp_symbol_regulator_controller_l6564_7e2e41
-  oomp_key_simple: regulator_controller_l6564
+  md5: 7e2cbd1cad9c8a6f6c31a6c4d936448c
+  md5_10: 7e2cbd1cad
+  md5_5: 7e2cb
+  md5_6: 7e2cbd
+  oomp_key: oomp_l6564
+  oomp_key_extra: oomp_symbol_l6564
+  oomp_key_full: oomp_symbol_l6564_7e2cbd
+  oomp_key_simple: l6564
   owner_name: kicad
-  symbol_name: regulator_controller_l6564
+  symbol_name: l6564
 oomp_key: oomp_kicad_regulator_controller_l6564
 oomp_key_simple: kicad_regulator_controller_l6564
 owner: kicad

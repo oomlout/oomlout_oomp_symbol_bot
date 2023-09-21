@@ -1,3 +1,5 @@
+id: kicad_switch_sw_push_dpdt
+library: switch
 library_name: Switch
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_switch_sw_push_dpdt/working
   oomp_src_flat: symbols_flat/kicad_switch_sw_push_dpdt/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_switch_sw_push_dpdt/working
-name: switch_sw_push_dpdt
+name: sw_push_dpdt
 oomp:
   library_name: switch
-  md5: b6b409c29f9dfbcb3d01c935d006a2d9
-  md5_10: b6b409c29f
-  md5_5: b6b40
-  md5_6: b6b409
-  oomp_key: oomp_switch_sw_push_dpdt
-  oomp_key_extra: oomp_symbol_switch_sw_push_dpdt
-  oomp_key_full: oomp_symbol_switch_sw_push_dpdt_b6b409
-  oomp_key_simple: switch_sw_push_dpdt
+  md5: a9eaf548ee57576a09c8499462a78087
+  md5_10: a9eaf548ee
+  md5_5: a9eaf
+  md5_6: a9eaf5
+  oomp_key: oomp_sw_push_dpdt
+  oomp_key_extra: oomp_symbol_sw_push_dpdt
+  oomp_key_full: oomp_symbol_sw_push_dpdt_a9eaf5
+  oomp_key_simple: sw_push_dpdt
   owner_name: kicad
-  symbol_name: switch_sw_push_dpdt
+  symbol_name: sw_push_dpdt
 oomp_key: oomp_kicad_switch_sw_push_dpdt
 oomp_key_simple: kicad_switch_sw_push_dpdt
 owner: kicad

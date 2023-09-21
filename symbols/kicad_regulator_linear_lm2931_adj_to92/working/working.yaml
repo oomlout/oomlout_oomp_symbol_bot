@@ -1,3 +1,5 @@
+id: kicad_regulator_linear_lm2931_adj_to92
+library: regulator_linear
 library_name: Regulator_Linear
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_linear_lm2931_adj_to92/working
   oomp_src_flat: symbols_flat/kicad_regulator_linear_lm2931_adj_to92/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_linear_lm2931_adj_to92/working
-name: regulator_linear_lm2931_adj_to92
+name: lm2931_adj_to92
 oomp:
   library_name: regulator_linear
-  md5: ebeac45f0c35afd7686f7b08ae147a3a
-  md5_10: ebeac45f0c
-  md5_5: ebeac
-  md5_6: ebeac4
-  oomp_key: oomp_regulator_linear_lm2931_adj_to92
-  oomp_key_extra: oomp_symbol_regulator_linear_lm2931_adj_to92
-  oomp_key_full: oomp_symbol_regulator_linear_lm2931_adj_to92_ebeac4
-  oomp_key_simple: regulator_linear_lm2931_adj_to92
+  md5: db4d84287190f4798c1034efe4bc1228
+  md5_10: db4d842871
+  md5_5: db4d8
+  md5_6: db4d84
+  oomp_key: oomp_lm2931_adj_to92
+  oomp_key_extra: oomp_symbol_lm2931_adj_to92
+  oomp_key_full: oomp_symbol_lm2931_adj_to92_db4d84
+  oomp_key_simple: lm2931_adj_to92
   owner_name: kicad
-  symbol_name: regulator_linear_lm2931_adj_to92
+  symbol_name: lm2931_adj_to92
 oomp_key: oomp_kicad_regulator_linear_lm2931_adj_to92
 oomp_key_simple: kicad_regulator_linear_lm2931_adj_to92
 owner: kicad

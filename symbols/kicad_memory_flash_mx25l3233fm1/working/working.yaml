@@ -1,16 +1,20 @@
+id: kicad_memory_flash_mx25l3233fm1
+library: memory_flash
 library_name: Memory_Flash
+name: mx25l3233fm1
 oomp:
   library_name: memory_flash
-  md5: 0148ed73387509a3ae597d88ab500ef1
-  md5_10: 0148ed7338
-  md5_5: 0148e
-  md5_6: 0148ed
-  oomp_key: oomp_memory_flash_mx25l3233fm1
-  oomp_key_extra: oomp_symbol_memory_flash_mx25l3233fm1
-  oomp_key_full: oomp_symbol_memory_flash_mx25l3233fm1_0148ed
-  oomp_key_simple: memory_flash_mx25l3233fm1
+  md5: fdd57a31c97e206065548a43ccf14f64
+  md5_10: fdd57a31c9
+  md5_5: fdd57
+  md5_6: fdd57a
+  oomp_key: oomp_mx25l3233fm1
+  oomp_key_extra: oomp_symbol_mx25l3233fm1
+  oomp_key_full: oomp_symbol_mx25l3233fm1_fdd57a
+  oomp_key_simple: mx25l3233fm1
   owner_name: kicad
-  symbol_name: memory_flash_mx25l3233fm1
+  symbol_name: mx25l3233fm1
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

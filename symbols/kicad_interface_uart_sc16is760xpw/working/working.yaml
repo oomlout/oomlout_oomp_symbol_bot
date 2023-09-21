@@ -1,16 +1,20 @@
+id: kicad_interface_uart_sc16is760xpw
+library: interface_uart
 library_name: Interface_UART
+name: sc16is760xpw
 oomp:
   library_name: interface_uart
-  md5: e8452a1f746d7250a6ede4fadbd9d0ab
-  md5_10: e8452a1f74
-  md5_5: e8452
-  md5_6: e8452a
-  oomp_key: oomp_interface_uart_sc16is760xpw
-  oomp_key_extra: oomp_symbol_interface_uart_sc16is760xpw
-  oomp_key_full: oomp_symbol_interface_uart_sc16is760xpw_e8452a
-  oomp_key_simple: interface_uart_sc16is760xpw
+  md5: 635e443deefdfca169b31b2ae3f361cc
+  md5_10: 635e443dee
+  md5_5: 635e4
+  md5_6: 635e44
+  oomp_key: oomp_sc16is760xpw
+  oomp_key_extra: oomp_symbol_sc16is760xpw
+  oomp_key_full: oomp_symbol_sc16is760xpw_635e44
+  oomp_key_simple: sc16is760xpw
   owner_name: kicad
-  symbol_name: interface_uart_sc16is760xpw
+  symbol_name: sc16is760xpw
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

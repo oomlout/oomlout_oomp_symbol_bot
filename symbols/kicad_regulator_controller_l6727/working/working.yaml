@@ -1,3 +1,5 @@
+id: kicad_regulator_controller_l6727
+library: regulator_controller
 library_name: Regulator_Controller
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_controller_l6727/working
   oomp_src_flat: symbols_flat/kicad_regulator_controller_l6727/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_controller_l6727/working
-name: regulator_controller_l6727
+name: l6727
 oomp:
   library_name: regulator_controller
-  md5: 2b7f007a61f2521755750cb0a729ca60
-  md5_10: 2b7f007a61
-  md5_5: 2b7f0
-  md5_6: 2b7f00
-  oomp_key: oomp_regulator_controller_l6727
-  oomp_key_extra: oomp_symbol_regulator_controller_l6727
-  oomp_key_full: oomp_symbol_regulator_controller_l6727_2b7f00
-  oomp_key_simple: regulator_controller_l6727
+  md5: e93d05c5fbb7d2b4b16b744e9295ac58
+  md5_10: e93d05c5fb
+  md5_5: e93d0
+  md5_6: e93d05
+  oomp_key: oomp_l6727
+  oomp_key_extra: oomp_symbol_l6727
+  oomp_key_full: oomp_symbol_l6727_e93d05
+  oomp_key_simple: l6727
   owner_name: kicad
-  symbol_name: regulator_controller_l6727
+  symbol_name: l6727
 oomp_key: oomp_kicad_regulator_controller_l6727
 oomp_key_simple: kicad_regulator_controller_l6727
 owner: kicad

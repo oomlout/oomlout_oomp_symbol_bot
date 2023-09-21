@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_bd80fc0wefj
+library: regulator_linear
 library_name: Regulator_Linear
+name: bd80fc0wefj
 oomp:
   library_name: regulator_linear
-  md5: 7c1ce640fc4d64df984a60077d7f19c7
-  md5_10: 7c1ce640fc
-  md5_5: 7c1ce
-  md5_6: 7c1ce6
-  oomp_key: oomp_regulator_linear_bd80fc0wefj
-  oomp_key_extra: oomp_symbol_regulator_linear_bd80fc0wefj
-  oomp_key_full: oomp_symbol_regulator_linear_bd80fc0wefj_7c1ce6
-  oomp_key_simple: regulator_linear_bd80fc0wefj
+  md5: e52cd5f1a0798478fdcfc6c036a96a9a
+  md5_10: e52cd5f1a0
+  md5_5: e52cd
+  md5_6: e52cd5
+  oomp_key: oomp_bd80fc0wefj
+  oomp_key_extra: oomp_symbol_bd80fc0wefj
+  oomp_key_full: oomp_symbol_bd80fc0wefj_e52cd5
+  oomp_key_simple: bd80fc0wefj
   owner_name: kicad
-  symbol_name: regulator_linear_bd80fc0wefj
+  symbol_name: bd80fc0wefj
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

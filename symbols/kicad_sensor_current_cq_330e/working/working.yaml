@@ -1,16 +1,20 @@
+id: kicad_sensor_current_cq_330e
+library: sensor_current
 library_name: Sensor_Current
+name: cq_330e
 oomp:
   library_name: sensor_current
-  md5: cbee087bd1d8c38839a7a0296c2693d2
-  md5_10: cbee087bd1
-  md5_5: cbee0
-  md5_6: cbee08
-  oomp_key: oomp_sensor_current_cq_330e
-  oomp_key_extra: oomp_symbol_sensor_current_cq_330e
-  oomp_key_full: oomp_symbol_sensor_current_cq_330e_cbee08
-  oomp_key_simple: sensor_current_cq_330e
+  md5: c556cc0e5365a2dcafdb938600226ab5
+  md5_10: c556cc0e53
+  md5_5: c556c
+  md5_6: c556cc
+  oomp_key: oomp_cq_330e
+  oomp_key_extra: oomp_symbol_cq_330e
+  oomp_key_full: oomp_symbol_cq_330e_c556cc
+  oomp_key_simple: cq_330e
   owner_name: kicad
-  symbol_name: sensor_current_cq_330e
+  symbol_name: cq_330e
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,3 +1,5 @@
+id: kicad_device_q_nigbt_egc
+library: device
 library_name: Device
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_q_nigbt_egc/working
   oomp_src_flat: symbols_flat/kicad_device_q_nigbt_egc/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_q_nigbt_egc/working
-name: device_q_nigbt_egc
+name: q_nigbt_egc
 oomp:
   library_name: device
-  md5: 3a4c83c719c069ccafcf6e6a1f11b2e3
-  md5_10: 3a4c83c719
-  md5_5: 3a4c8
-  md5_6: 3a4c83
-  oomp_key: oomp_device_q_nigbt_egc
-  oomp_key_extra: oomp_symbol_device_q_nigbt_egc
-  oomp_key_full: oomp_symbol_device_q_nigbt_egc_3a4c83
-  oomp_key_simple: device_q_nigbt_egc
+  md5: add6aaa1bf7555463de355926d33b5d7
+  md5_10: add6aaa1bf
+  md5_5: add6a
+  md5_6: add6aa
+  oomp_key: oomp_q_nigbt_egc
+  oomp_key_extra: oomp_symbol_q_nigbt_egc
+  oomp_key_full: oomp_symbol_q_nigbt_egc_add6aa
+  oomp_key_simple: q_nigbt_egc
   owner_name: kicad
-  symbol_name: device_q_nigbt_egc
+  symbol_name: q_nigbt_egc
 oomp_key: oomp_kicad_device_q_nigbt_egc
 oomp_key_simple: kicad_device_q_nigbt_egc
 owner: kicad

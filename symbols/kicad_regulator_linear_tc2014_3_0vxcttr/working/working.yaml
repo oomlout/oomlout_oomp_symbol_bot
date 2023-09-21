@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_tc2014_3_0vxcttr
+library: regulator_linear
 library_name: Regulator_Linear
+name: tc2014_3_0vxcttr
 oomp:
   library_name: regulator_linear
-  md5: 18fdf96f524effef19194936b1339d17
-  md5_10: 18fdf96f52
-  md5_5: 18fdf
-  md5_6: 18fdf9
-  oomp_key: oomp_regulator_linear_tc2014_3_0vxcttr
-  oomp_key_extra: oomp_symbol_regulator_linear_tc2014_3_0vxcttr
-  oomp_key_full: oomp_symbol_regulator_linear_tc2014_3_0vxcttr_18fdf9
-  oomp_key_simple: regulator_linear_tc2014_3_0vxcttr
+  md5: bc50da031b1257abcd24a5b6962fc11a
+  md5_10: bc50da031b
+  md5_5: bc50d
+  md5_6: bc50da
+  oomp_key: oomp_tc2014_3_0vxcttr
+  oomp_key_extra: oomp_symbol_tc2014_3_0vxcttr
+  oomp_key_full: oomp_symbol_tc2014_3_0vxcttr_bc50da
+  oomp_key_simple: tc2014_3_0vxcttr
   owner_name: kicad
-  symbol_name: regulator_linear_tc2014_3_0vxcttr
+  symbol_name: tc2014_3_0vxcttr
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

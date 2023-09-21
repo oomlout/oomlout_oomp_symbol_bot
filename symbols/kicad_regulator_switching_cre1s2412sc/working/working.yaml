@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_cre1s2412sc
+library: regulator_switching
 library_name: Regulator_Switching
+name: cre1s2412sc
 oomp:
   library_name: regulator_switching
-  md5: 137cc987eb5859d0da0c7b7574ffe996
-  md5_10: 137cc987eb
-  md5_5: 137cc
-  md5_6: 137cc9
-  oomp_key: oomp_regulator_switching_cre1s2412sc
-  oomp_key_extra: oomp_symbol_regulator_switching_cre1s2412sc
-  oomp_key_full: oomp_symbol_regulator_switching_cre1s2412sc_137cc9
-  oomp_key_simple: regulator_switching_cre1s2412sc
+  md5: 89181732a93f2d1dc168cd391b071824
+  md5_10: 89181732a9
+  md5_5: '89181'
+  md5_6: '891817'
+  oomp_key: oomp_cre1s2412sc
+  oomp_key_extra: oomp_symbol_cre1s2412sc
+  oomp_key_full: oomp_symbol_cre1s2412sc_891817
+  oomp_key_simple: cre1s2412sc
   owner_name: kicad
-  symbol_name: regulator_switching_cre1s2412sc
+  symbol_name: cre1s2412sc
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

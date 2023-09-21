@@ -1,3 +1,5 @@
+id: oomlout_oomlout_oomp_part_symbols_r4o823_electronic_resistor_0402_82000_ohm
+library: oomlout_oomp_part_symbols
 library_name: oomlout_oomp_part_symbols
 links:
   github_owner: oomlout
@@ -10,19 +12,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/oomlout_oomlout_oomp_part_symbols_r4o823_electronic_resistor_0402_82000_ohm/working
   oomp_src_flat: symbols_flat/oomlout_oomlout_oomp_part_symbols_r4o823_electronic_resistor_0402_82000_ohm/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/oomlout_oomlout_oomp_part_symbols_r4o823_electronic_resistor_0402_82000_ohm/working
-name: oomp_r4o823_electronic_resistor_0402_82000_ohm
+name: r4o823_electronic_resistor_0402_82000_ohm
 oomp:
   library_name: oomlout_oomp_part_symbols
-  md5: 60cf88b6e505594c9a026afd382f740f
-  md5_10: 60cf88b6e5
-  md5_5: 60cf8
-  md5_6: 60cf88
-  oomp_key: oomp_oomp_r4o823_electronic_resistor_0402_82000_ohm
-  oomp_key_extra: oomp_symbol_oomp_r4o823_electronic_resistor_0402_82000_ohm
-  oomp_key_full: oomp_symbol_oomp_r4o823_electronic_resistor_0402_82000_ohm_60cf88
-  oomp_key_simple: oomp_r4o823_electronic_resistor_0402_82000_ohm
+  md5: da8dc7e4ec79aeb6c7738048fa6d8598
+  md5_10: da8dc7e4ec
+  md5_5: da8dc
+  md5_6: da8dc7
+  oomp_key: oomp_r4o823_electronic_resistor_0402_82000_ohm
+  oomp_key_extra: oomp_symbol_r4o823_electronic_resistor_0402_82000_ohm
+  oomp_key_full: oomp_symbol_r4o823_electronic_resistor_0402_82000_ohm_da8dc7
+  oomp_key_simple: r4o823_electronic_resistor_0402_82000_ohm
   owner_name: oomlout
-  symbol_name: oomp_r4o823_electronic_resistor_0402_82000_ohm
+  symbol_name: r4o823_electronic_resistor_0402_82000_ohm
 oomp_key: oomp_oomlout_oomlout_oomp_part_symbols_r4o823_electronic_resistor_0402_82000_ohm
 oomp_key_simple: oomlout_oomlout_oomp_part_symbols_r4o823_electronic_resistor_0402_82000_ohm
 owner: oomlout
@@ -110,9 +112,9 @@ repo_github:
     url: https://api.github.com/users/oomlout
   private: false
   pulls_url: https://api.github.com/repos/oomlout/oomlout_oomp_part_kicad_symbols/pulls{/number}
-  pushed_at: '2023-09-03T16:13:58Z'
+  pushed_at: '2023-09-17T15:55:00Z'
   releases_url: https://api.github.com/repos/oomlout/oomlout_oomp_part_kicad_symbols/releases{/id}
-  size: 218
+  size: 263
   ssh_url: git@github.com:oomlout/oomlout_oomp_part_kicad_symbols.git
   stargazers_count: 0
   stargazers_url: https://api.github.com/repos/oomlout/oomlout_oomp_part_kicad_symbols/stargazers

@@ -1,3 +1,5 @@
+id: kicad_mcu_microchip_avr_dx_avr32da48x_xpt
+library: mcu_microchip_avr_dx
 library_name: MCU_Microchip_AVR_Dx
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_microchip_avr_dx_avr32da48x_xpt/working
   oomp_src_flat: symbols_flat/kicad_mcu_microchip_avr_dx_avr32da48x_xpt/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_microchip_avr_dx_avr32da48x_xpt/working
-name: mcu_microchip_avr_dx_avr32da48x_xpt
+name: avr32da48x_xpt
 oomp:
   library_name: mcu_microchip_avr_dx
-  md5: a5f7e6ce7cac7d0c96dbb7a61e757876
-  md5_10: a5f7e6ce7c
-  md5_5: a5f7e
-  md5_6: a5f7e6
-  oomp_key: oomp_mcu_microchip_avr_dx_avr32da48x_xpt
-  oomp_key_extra: oomp_symbol_mcu_microchip_avr_dx_avr32da48x_xpt
-  oomp_key_full: oomp_symbol_mcu_microchip_avr_dx_avr32da48x_xpt_a5f7e6
-  oomp_key_simple: mcu_microchip_avr_dx_avr32da48x_xpt
+  md5: 91f2f118fff4fc022598c9e7ac419ad8
+  md5_10: 91f2f118ff
+  md5_5: 91f2f
+  md5_6: 91f2f1
+  oomp_key: oomp_avr32da48x_xpt
+  oomp_key_extra: oomp_symbol_avr32da48x_xpt
+  oomp_key_full: oomp_symbol_avr32da48x_xpt_91f2f1
+  oomp_key_simple: avr32da48x_xpt
   owner_name: kicad
-  symbol_name: mcu_microchip_avr_dx_avr32da48x_xpt
+  symbol_name: avr32da48x_xpt
 oomp_key: oomp_kicad_mcu_microchip_avr_dx_avr32da48x_xpt
 oomp_key_simple: kicad_mcu_microchip_avr_dx_avr32da48x_xpt
 owner: kicad

@@ -1,3 +1,5 @@
+id: arturo182_battery_management_extra_max1704x
+library: battery_management_extra
 library_name: Battery_Management_Extra
 links:
   github_owner: arturo182
@@ -10,19 +12,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/arturo182_battery_management_extra_max1704x/working
   oomp_src_flat: symbols_flat/arturo182_battery_management_extra_max1704x/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/arturo182_battery_management_extra_max1704x/working
-name: battery_management_extra_max1704x
+name: max1704x
 oomp:
   library_name: battery_management_extra
-  md5: c44a78c578b642f9eb462a09583b2db3
-  md5_10: c44a78c578
-  md5_5: c44a7
-  md5_6: c44a78
-  oomp_key: oomp_battery_management_extra_max1704x
-  oomp_key_extra: oomp_symbol_battery_management_extra_max1704x
-  oomp_key_full: oomp_symbol_battery_management_extra_max1704x_c44a78
-  oomp_key_simple: battery_management_extra_max1704x
+  md5: c64767b1e65eb56fac90a67e0dd9e230
+  md5_10: c64767b1e6
+  md5_5: c6476
+  md5_6: c64767
+  oomp_key: oomp_max1704x
+  oomp_key_extra: oomp_symbol_max1704x
+  oomp_key_full: oomp_symbol_max1704x_c64767
+  oomp_key_simple: max1704x
   owner_name: arturo182
-  symbol_name: battery_management_extra_max1704x
+  symbol_name: max1704x
 oomp_key: oomp_arturo182_battery_management_extra_max1704x
 oomp_key_simple: arturo182_battery_management_extra_max1704x
 owner: arturo182

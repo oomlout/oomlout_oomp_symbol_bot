@@ -1,3 +1,5 @@
+id: kicad_regulator_switching_viper26ld
+library: regulator_switching
 library_name: Regulator_Switching
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_viper26ld/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_viper26ld/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_viper26ld/working
-name: regulator_switching_viper26ld
+name: viper26ld
 oomp:
   library_name: regulator_switching
-  md5: 32c80aa6022a0a6d92805ec70a3a9d1d
-  md5_10: 32c80aa602
-  md5_5: 32c80
-  md5_6: 32c80a
-  oomp_key: oomp_regulator_switching_viper26ld
-  oomp_key_extra: oomp_symbol_regulator_switching_viper26ld
-  oomp_key_full: oomp_symbol_regulator_switching_viper26ld_32c80a
-  oomp_key_simple: regulator_switching_viper26ld
+  md5: 7afcf778f06ab8bb864d29f8a30cb380
+  md5_10: 7afcf778f0
+  md5_5: 7afcf
+  md5_6: 7afcf7
+  oomp_key: oomp_viper26ld
+  oomp_key_extra: oomp_symbol_viper26ld
+  oomp_key_full: oomp_symbol_viper26ld_7afcf7
+  oomp_key_simple: viper26ld
   owner_name: kicad
-  symbol_name: regulator_switching_viper26ld
+  symbol_name: viper26ld
 oomp_key: oomp_kicad_regulator_switching_viper26ld
 oomp_key_simple: kicad_regulator_switching_viper26ld
 owner: kicad

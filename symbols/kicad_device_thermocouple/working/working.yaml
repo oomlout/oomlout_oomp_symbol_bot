@@ -1,3 +1,5 @@
+id: kicad_device_thermocouple
+library: device
 library_name: Device
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_thermocouple/working
   oomp_src_flat: symbols_flat/kicad_device_thermocouple/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_thermocouple/working
-name: device_thermocouple
+name: thermocouple
 oomp:
   library_name: device
-  md5: f6491cc24e8f0ff770043c49c5a875fc
-  md5_10: f6491cc24e
-  md5_5: f6491
-  md5_6: f6491c
-  oomp_key: oomp_device_thermocouple
-  oomp_key_extra: oomp_symbol_device_thermocouple
-  oomp_key_full: oomp_symbol_device_thermocouple_f6491c
-  oomp_key_simple: device_thermocouple
+  md5: 5702d1392843307b4a223b9c5d84ae50
+  md5_10: 5702d13928
+  md5_5: 5702d
+  md5_6: 5702d1
+  oomp_key: oomp_thermocouple
+  oomp_key_extra: oomp_symbol_thermocouple
+  oomp_key_full: oomp_symbol_thermocouple_5702d1
+  oomp_key_simple: thermocouple
   owner_name: kicad
-  symbol_name: device_thermocouple
+  symbol_name: thermocouple
 oomp_key: oomp_kicad_device_thermocouple
 oomp_key_simple: kicad_device_thermocouple
 owner: kicad

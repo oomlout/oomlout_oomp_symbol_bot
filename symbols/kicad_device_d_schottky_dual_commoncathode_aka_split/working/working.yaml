@@ -1,3 +1,5 @@
+id: kicad_device_d_schottky_dual_commoncathode_aka_split
+library: device
 library_name: Device
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_d_schottky_dual_commoncathode_aka_split/working
   oomp_src_flat: symbols_flat/kicad_device_d_schottky_dual_commoncathode_aka_split/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_d_schottky_dual_commoncathode_aka_split/working
-name: device_d_schottky_dual_commoncathode_aka_split
+name: d_schottky_dual_commoncathode_aka_split
 oomp:
   library_name: device
-  md5: 071c807fedf3f3dfb539657f9200cbec
-  md5_10: 071c807fed
-  md5_5: 071c8
-  md5_6: 071c80
-  oomp_key: oomp_device_d_schottky_dual_commoncathode_aka_split
-  oomp_key_extra: oomp_symbol_device_d_schottky_dual_commoncathode_aka_split
-  oomp_key_full: oomp_symbol_device_d_schottky_dual_commoncathode_aka_split_071c80
-  oomp_key_simple: device_d_schottky_dual_commoncathode_aka_split
+  md5: 803cfaf1d07746d9c3c2723e214fafe5
+  md5_10: 803cfaf1d0
+  md5_5: 803cf
+  md5_6: 803cfa
+  oomp_key: oomp_d_schottky_dual_commoncathode_aka_split
+  oomp_key_extra: oomp_symbol_d_schottky_dual_commoncathode_aka_split
+  oomp_key_full: oomp_symbol_d_schottky_dual_commoncathode_aka_split_803cfa
+  oomp_key_simple: d_schottky_dual_commoncathode_aka_split
   owner_name: kicad
-  symbol_name: device_d_schottky_dual_commoncathode_aka_split
+  symbol_name: d_schottky_dual_commoncathode_aka_split
 oomp_key: oomp_kicad_device_d_schottky_dual_commoncathode_aka_split
 oomp_key_simple: kicad_device_d_schottky_dual_commoncathode_aka_split
 owner: kicad

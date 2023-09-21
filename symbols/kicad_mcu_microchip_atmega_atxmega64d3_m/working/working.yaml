@@ -1,16 +1,20 @@
+id: kicad_mcu_microchip_atmega_atxmega64d3_m
+library: mcu_microchip_atmega
 library_name: MCU_Microchip_ATmega
+name: atxmega64d3_m
 oomp:
   library_name: mcu_microchip_atmega
-  md5: cfadfe31b8bcf9755f08240c8aa9bf27
-  md5_10: cfadfe31b8
-  md5_5: cfadf
-  md5_6: cfadfe
-  oomp_key: oomp_mcu_microchip_atmega_atxmega64d3_m
-  oomp_key_extra: oomp_symbol_mcu_microchip_atmega_atxmega64d3_m
-  oomp_key_full: oomp_symbol_mcu_microchip_atmega_atxmega64d3_m_cfadfe
-  oomp_key_simple: mcu_microchip_atmega_atxmega64d3_m
+  md5: 4a2215b2d5a1e59a2c7e83296be8f146
+  md5_10: 4a2215b2d5
+  md5_5: 4a221
+  md5_6: 4a2215
+  oomp_key: oomp_atxmega64d3_m
+  oomp_key_extra: oomp_symbol_atxmega64d3_m
+  oomp_key_full: oomp_symbol_atxmega64d3_m_4a2215
+  oomp_key_simple: atxmega64d3_m
   owner_name: kicad
-  symbol_name: mcu_microchip_atmega_atxmega64d3_m
+  symbol_name: atxmega64d3_m
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

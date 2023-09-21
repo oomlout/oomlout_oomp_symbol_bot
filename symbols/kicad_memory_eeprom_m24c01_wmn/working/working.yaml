@@ -1,16 +1,20 @@
+id: kicad_memory_eeprom_m24c01_wmn
+library: memory_eeprom
 library_name: Memory_EEPROM
+name: m24c01_wmn
 oomp:
   library_name: memory_eeprom
-  md5: 64c7e46381ba6c3025499b0d60610b8b
-  md5_10: 64c7e46381
-  md5_5: 64c7e
-  md5_6: 64c7e4
-  oomp_key: oomp_memory_eeprom_m24c01_wmn
-  oomp_key_extra: oomp_symbol_memory_eeprom_m24c01_wmn
-  oomp_key_full: oomp_symbol_memory_eeprom_m24c01_wmn_64c7e4
-  oomp_key_simple: memory_eeprom_m24c01_wmn
+  md5: 916dba05fa27e702d93c5489e1388eb4
+  md5_10: 916dba05fa
+  md5_5: 916db
+  md5_6: 916dba
+  oomp_key: oomp_m24c01_wmn
+  oomp_key_extra: oomp_symbol_m24c01_wmn
+  oomp_key_full: oomp_symbol_m24c01_wmn_916dba
+  oomp_key_simple: m24c01_wmn
   owner_name: kicad
-  symbol_name: memory_eeprom_m24c01_wmn
+  symbol_name: m24c01_wmn
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

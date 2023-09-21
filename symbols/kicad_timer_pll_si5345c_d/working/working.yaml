@@ -1,16 +1,20 @@
+id: kicad_timer_pll_si5345c_d
+library: timer_pll
 library_name: Timer_PLL
+name: si5345c_d
 oomp:
   library_name: timer_pll
-  md5: 979c3774c4134315993069dfcf9eca4d
-  md5_10: 979c3774c4
-  md5_5: 979c3
-  md5_6: 979c37
-  oomp_key: oomp_timer_pll_si5345c_d
-  oomp_key_extra: oomp_symbol_timer_pll_si5345c_d
-  oomp_key_full: oomp_symbol_timer_pll_si5345c_d_979c37
-  oomp_key_simple: timer_pll_si5345c_d
+  md5: 201879691424a9350a67fab3fa4c769c
+  md5_10: '2018796914'
+  md5_5: '20187'
+  md5_6: '201879'
+  oomp_key: oomp_si5345c_d
+  oomp_key_extra: oomp_symbol_si5345c_d
+  oomp_key_full: oomp_symbol_si5345c_d_201879
+  oomp_key_simple: si5345c_d
   owner_name: kicad
-  symbol_name: timer_pll_si5345c_d
+  symbol_name: si5345c_d
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_amplifier_operational_lpv811dbv
+library: amplifier_operational
 library_name: Amplifier_Operational
+name: lpv811dbv
 oomp:
   library_name: amplifier_operational
-  md5: f061fcfc6f30f584923cf5c1eff93a52
-  md5_10: f061fcfc6f
-  md5_5: f061f
-  md5_6: f061fc
-  oomp_key: oomp_amplifier_operational_lpv811dbv
-  oomp_key_extra: oomp_symbol_amplifier_operational_lpv811dbv
-  oomp_key_full: oomp_symbol_amplifier_operational_lpv811dbv_f061fc
-  oomp_key_simple: amplifier_operational_lpv811dbv
+  md5: 5df609b091ecdd57fc408ba5e915d80b
+  md5_10: 5df609b091
+  md5_5: 5df60
+  md5_6: 5df609
+  oomp_key: oomp_lpv811dbv
+  oomp_key_extra: oomp_symbol_lpv811dbv
+  oomp_key_full: oomp_symbol_lpv811dbv_5df609
+  oomp_key_simple: lpv811dbv
   owner_name: kicad
-  symbol_name: amplifier_operational_lpv811dbv
+  symbol_name: lpv811dbv
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

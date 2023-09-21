@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_pam2305bje180
+library: regulator_switching
 library_name: Regulator_Switching
+name: pam2305bje180
 oomp:
   library_name: regulator_switching
-  md5: 1d7b6a2063526ad022a59960c3e92698
-  md5_10: 1d7b6a2063
-  md5_5: 1d7b6
-  md5_6: 1d7b6a
-  oomp_key: oomp_regulator_switching_pam2305bje180
-  oomp_key_extra: oomp_symbol_regulator_switching_pam2305bje180
-  oomp_key_full: oomp_symbol_regulator_switching_pam2305bje180_1d7b6a
-  oomp_key_simple: regulator_switching_pam2305bje180
+  md5: 76469a39f13d78c64600e45566055494
+  md5_10: 76469a39f1
+  md5_5: '76469'
+  md5_6: 76469a
+  oomp_key: oomp_pam2305bje180
+  oomp_key_extra: oomp_symbol_pam2305bje180
+  oomp_key_full: oomp_symbol_pam2305bje180_76469a
+  oomp_key_simple: pam2305bje180
   owner_name: kicad
-  symbol_name: regulator_switching_pam2305bje180
+  symbol_name: pam2305bje180
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

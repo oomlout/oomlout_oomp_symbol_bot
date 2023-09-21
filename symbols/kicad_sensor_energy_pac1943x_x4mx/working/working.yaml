@@ -1,16 +1,20 @@
+id: kicad_sensor_energy_pac1943x_x4mx
+library: sensor_energy
 library_name: Sensor_Energy
+name: pac1943x_x4mx
 oomp:
   library_name: sensor_energy
-  md5: 46e2244f82ab05b9a2018d0dca829c4b
-  md5_10: 46e2244f82
-  md5_5: 46e22
-  md5_6: 46e224
-  oomp_key: oomp_sensor_energy_pac1943x_x4mx
-  oomp_key_extra: oomp_symbol_sensor_energy_pac1943x_x4mx
-  oomp_key_full: oomp_symbol_sensor_energy_pac1943x_x4mx_46e224
-  oomp_key_simple: sensor_energy_pac1943x_x4mx
+  md5: d1783ee3501bb36a7facd18d473b1ed2
+  md5_10: d1783ee350
+  md5_5: d1783
+  md5_6: d1783e
+  oomp_key: oomp_pac1943x_x4mx
+  oomp_key_extra: oomp_symbol_pac1943x_x4mx
+  oomp_key_full: oomp_symbol_pac1943x_x4mx_d1783e
+  oomp_key_simple: pac1943x_x4mx
   owner_name: kicad
-  symbol_name: sensor_energy_pac1943x_x4mx
+  symbol_name: pac1943x_x4mx
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

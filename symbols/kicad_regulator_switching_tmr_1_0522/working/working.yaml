@@ -1,3 +1,5 @@
+id: kicad_regulator_switching_tmr_1_0522
+library: regulator_switching
 library_name: Regulator_Switching
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_tmr_1_0522/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_tmr_1_0522/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_tmr_1_0522/working
-name: regulator_switching_tmr_1_0522
+name: tmr_1_0522
 oomp:
   library_name: regulator_switching
-  md5: 2a4cf66622ffc3a6a5a50a99b4d8652c
-  md5_10: 2a4cf66622
-  md5_5: 2a4cf
-  md5_6: 2a4cf6
-  oomp_key: oomp_regulator_switching_tmr_1_0522
-  oomp_key_extra: oomp_symbol_regulator_switching_tmr_1_0522
-  oomp_key_full: oomp_symbol_regulator_switching_tmr_1_0522_2a4cf6
-  oomp_key_simple: regulator_switching_tmr_1_0522
+  md5: ae89193d1e979b6b94acf316684b0747
+  md5_10: ae89193d1e
+  md5_5: ae891
+  md5_6: ae8919
+  oomp_key: oomp_tmr_1_0522
+  oomp_key_extra: oomp_symbol_tmr_1_0522
+  oomp_key_full: oomp_symbol_tmr_1_0522_ae8919
+  oomp_key_simple: tmr_1_0522
   owner_name: kicad
-  symbol_name: regulator_switching_tmr_1_0522
+  symbol_name: tmr_1_0522
 oomp_key: oomp_kicad_regulator_switching_tmr_1_0522
 oomp_key_simple: kicad_regulator_switching_tmr_1_0522
 owner: kicad

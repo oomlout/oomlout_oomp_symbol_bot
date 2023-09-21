@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_r_782_5_1_0
+library: regulator_switching
 library_name: Regulator_Switching
+name: r_782_5_1_0
 oomp:
   library_name: regulator_switching
-  md5: 45e0ac2f403cc7c18d31abd2cc7924d5
-  md5_10: 45e0ac2f40
-  md5_5: 45e0a
-  md5_6: 45e0ac
-  oomp_key: oomp_regulator_switching_r_782_5_1_0
-  oomp_key_extra: oomp_symbol_regulator_switching_r_782_5_1_0
-  oomp_key_full: oomp_symbol_regulator_switching_r_782_5_1_0_45e0ac
-  oomp_key_simple: regulator_switching_r_782_5_1_0
+  md5: 16c22e3ce5b7340703b42181930d76ed
+  md5_10: 16c22e3ce5
+  md5_5: 16c22
+  md5_6: 16c22e
+  oomp_key: oomp_r_782_5_1_0
+  oomp_key_extra: oomp_symbol_r_782_5_1_0
+  oomp_key_full: oomp_symbol_r_782_5_1_0_16c22e
+  oomp_key_simple: r_782_5_1_0
   owner_name: kicad
-  symbol_name: regulator_switching_r_782_5_1_0
+  symbol_name: r_782_5_1_0
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

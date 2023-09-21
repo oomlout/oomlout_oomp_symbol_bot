@@ -1,16 +1,20 @@
+id: kicad_relay_solidstate_tlp3545
+library: relay_solidstate
 library_name: Relay_SolidState
+name: tlp3545
 oomp:
   library_name: relay_solidstate
-  md5: 80bfbba149c6a408fc55e605038ccf72
-  md5_10: 80bfbba149
-  md5_5: 80bfb
-  md5_6: 80bfbb
-  oomp_key: oomp_relay_solidstate_tlp3545
-  oomp_key_extra: oomp_symbol_relay_solidstate_tlp3545
-  oomp_key_full: oomp_symbol_relay_solidstate_tlp3545_80bfbb
-  oomp_key_simple: relay_solidstate_tlp3545
+  md5: 0099fcac8e8d2dfebf576de8223786bb
+  md5_10: 0099fcac8e
+  md5_5: 0099f
+  md5_6: 0099fc
+  oomp_key: oomp_tlp3545
+  oomp_key_extra: oomp_symbol_tlp3545
+  oomp_key_full: oomp_symbol_tlp3545_0099fc
+  oomp_key_simple: tlp3545
   owner_name: kicad
-  symbol_name: relay_solidstate_tlp3545
+  symbol_name: tlp3545
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

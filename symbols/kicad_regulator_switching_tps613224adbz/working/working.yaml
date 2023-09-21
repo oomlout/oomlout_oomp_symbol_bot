@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_tps613224adbz
+library: regulator_switching
 library_name: Regulator_Switching
+name: tps613224adbz
 oomp:
   library_name: regulator_switching
-  md5: ad6bc98e52858b944e04a9c7565b9d5d
-  md5_10: ad6bc98e52
-  md5_5: ad6bc
-  md5_6: ad6bc9
-  oomp_key: oomp_regulator_switching_tps613224adbz
-  oomp_key_extra: oomp_symbol_regulator_switching_tps613224adbz
-  oomp_key_full: oomp_symbol_regulator_switching_tps613224adbz_ad6bc9
-  oomp_key_simple: regulator_switching_tps613224adbz
+  md5: ef82dd91416fd6e48bb31d2d004e4454
+  md5_10: ef82dd9141
+  md5_5: ef82d
+  md5_6: ef82dd
+  oomp_key: oomp_tps613224adbz
+  oomp_key_extra: oomp_symbol_tps613224adbz
+  oomp_key_full: oomp_symbol_tps613224adbz_ef82dd
+  oomp_key_simple: tps613224adbz
   owner_name: kicad
-  symbol_name: regulator_switching_tps613224adbz
+  symbol_name: tps613224adbz
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

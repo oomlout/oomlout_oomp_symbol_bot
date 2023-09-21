@@ -1,16 +1,20 @@
+id: kicad_led_ws2812
+library: led
 library_name: LED
+name: ws2812
 oomp:
   library_name: led
-  md5: da29836bf19fc4c235161f4115c45afd
-  md5_10: da29836bf1
-  md5_5: da298
-  md5_6: da2983
-  oomp_key: oomp_led_ws2812
-  oomp_key_extra: oomp_symbol_led_ws2812
-  oomp_key_full: oomp_symbol_led_ws2812_da2983
-  oomp_key_simple: led_ws2812
+  md5: 465d37e2110ffe4bc70f6a11b44fa8d8
+  md5_10: 465d37e211
+  md5_5: 465d3
+  md5_6: 465d37
+  oomp_key: oomp_ws2812
+  oomp_key_extra: oomp_symbol_ws2812
+  oomp_key_full: oomp_symbol_ws2812_465d37
+  oomp_key_simple: ws2812
   owner_name: kicad
-  symbol_name: led_ws2812
+  symbol_name: ws2812
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

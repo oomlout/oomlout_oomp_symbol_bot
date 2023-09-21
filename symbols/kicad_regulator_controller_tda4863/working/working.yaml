@@ -1,16 +1,20 @@
+id: kicad_regulator_controller_tda4863
+library: regulator_controller
 library_name: Regulator_Controller
+name: tda4863
 oomp:
   library_name: regulator_controller
-  md5: 6b1f69bd1f28401763e2facf964b4b48
-  md5_10: 6b1f69bd1f
-  md5_5: 6b1f6
-  md5_6: 6b1f69
-  oomp_key: oomp_regulator_controller_tda4863
-  oomp_key_extra: oomp_symbol_regulator_controller_tda4863
-  oomp_key_full: oomp_symbol_regulator_controller_tda4863_6b1f69
-  oomp_key_simple: regulator_controller_tda4863
+  md5: 64b34b86a61cefefa3788daafbc4a788
+  md5_10: 64b34b86a6
+  md5_5: 64b34
+  md5_6: 64b34b
+  oomp_key: oomp_tda4863
+  oomp_key_extra: oomp_symbol_tda4863
+  oomp_key_full: oomp_symbol_tda4863_64b34b
+  oomp_key_simple: tda4863
   owner_name: kicad
-  symbol_name: regulator_controller_tda4863
+  symbol_name: tda4863
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

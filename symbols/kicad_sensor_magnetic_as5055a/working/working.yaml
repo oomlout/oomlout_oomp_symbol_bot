@@ -1,3 +1,5 @@
+id: kicad_sensor_magnetic_as5055a
+library: sensor_magnetic
 library_name: Sensor_Magnetic
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_magnetic_as5055a/working
   oomp_src_flat: symbols_flat/kicad_sensor_magnetic_as5055a/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_magnetic_as5055a/working
-name: sensor_magnetic_as5055a
+name: as5055a
 oomp:
   library_name: sensor_magnetic
-  md5: 13f09ddbdd4a39802f88e71a3738aaf5
-  md5_10: 13f09ddbdd
-  md5_5: 13f09
-  md5_6: 13f09d
-  oomp_key: oomp_sensor_magnetic_as5055a
-  oomp_key_extra: oomp_symbol_sensor_magnetic_as5055a
-  oomp_key_full: oomp_symbol_sensor_magnetic_as5055a_13f09d
-  oomp_key_simple: sensor_magnetic_as5055a
+  md5: 9259a1593f4c1621975545eddfddf025
+  md5_10: 9259a1593f
+  md5_5: 9259a
+  md5_6: 9259a1
+  oomp_key: oomp_as5055a
+  oomp_key_extra: oomp_symbol_as5055a
+  oomp_key_full: oomp_symbol_as5055a_9259a1
+  oomp_key_simple: as5055a
   owner_name: kicad
-  symbol_name: sensor_magnetic_as5055a
+  symbol_name: as5055a
 oomp_key: oomp_kicad_sensor_magnetic_as5055a
 oomp_key_simple: kicad_sensor_magnetic_as5055a
 owner: kicad

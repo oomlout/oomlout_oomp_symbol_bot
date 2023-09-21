@@ -1,16 +1,20 @@
+id: kicad_timer_nlv14541bdt
+library: timer
 library_name: Timer
+name: nlv14541bdt
 oomp:
   library_name: timer
-  md5: 365d7df8d9db36decac2b4865c7c82d3
-  md5_10: 365d7df8d9
-  md5_5: 365d7
-  md5_6: 365d7d
-  oomp_key: oomp_timer_nlv14541bdt
-  oomp_key_extra: oomp_symbol_timer_nlv14541bdt
-  oomp_key_full: oomp_symbol_timer_nlv14541bdt_365d7d
-  oomp_key_simple: timer_nlv14541bdt
+  md5: b6f4d5c0c074e1d5fe5646c7ef4fb54f
+  md5_10: b6f4d5c0c0
+  md5_5: b6f4d
+  md5_6: b6f4d5
+  oomp_key: oomp_nlv14541bdt
+  oomp_key_extra: oomp_symbol_nlv14541bdt
+  oomp_key_full: oomp_symbol_nlv14541bdt_b6f4d5
+  oomp_key_simple: nlv14541bdt
   owner_name: kicad
-  symbol_name: timer_nlv14541bdt
+  symbol_name: nlv14541bdt
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

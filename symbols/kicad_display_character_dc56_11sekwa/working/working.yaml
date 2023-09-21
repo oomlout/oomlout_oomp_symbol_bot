@@ -1,3 +1,5 @@
+id: kicad_display_character_dc56_11sekwa
+library: display_character
 library_name: Display_Character
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_display_character_dc56_11sekwa/working
   oomp_src_flat: symbols_flat/kicad_display_character_dc56_11sekwa/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_display_character_dc56_11sekwa/working
-name: display_character_dc56_11sekwa
+name: dc56_11sekwa
 oomp:
   library_name: display_character
-  md5: 4a167686d1217b8f00997e6a7dff69ae
-  md5_10: 4a167686d1
-  md5_5: 4a167
-  md5_6: 4a1676
-  oomp_key: oomp_display_character_dc56_11sekwa
-  oomp_key_extra: oomp_symbol_display_character_dc56_11sekwa
-  oomp_key_full: oomp_symbol_display_character_dc56_11sekwa_4a1676
-  oomp_key_simple: display_character_dc56_11sekwa
+  md5: 742720a9de45293a2b928e1c4e1cfa00
+  md5_10: 742720a9de
+  md5_5: '74272'
+  md5_6: '742720'
+  oomp_key: oomp_dc56_11sekwa
+  oomp_key_extra: oomp_symbol_dc56_11sekwa
+  oomp_key_full: oomp_symbol_dc56_11sekwa_742720
+  oomp_key_simple: dc56_11sekwa
   owner_name: kicad
-  symbol_name: display_character_dc56_11sekwa
+  symbol_name: dc56_11sekwa
 oomp_key: oomp_kicad_display_character_dc56_11sekwa
 oomp_key_simple: kicad_display_character_dc56_11sekwa
 owner: kicad

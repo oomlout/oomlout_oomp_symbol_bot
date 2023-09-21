@@ -1,16 +1,20 @@
+id: kicad_sensor_energy_pac1944x_xj6cx
+library: sensor_energy
 library_name: Sensor_Energy
+name: pac1944x_xj6cx
 oomp:
   library_name: sensor_energy
-  md5: 84a3bf417b817a095b081e1dab49b469
-  md5_10: 84a3bf417b
-  md5_5: 84a3b
-  md5_6: 84a3bf
-  oomp_key: oomp_sensor_energy_pac1944x_xj6cx
-  oomp_key_extra: oomp_symbol_sensor_energy_pac1944x_xj6cx
-  oomp_key_full: oomp_symbol_sensor_energy_pac1944x_xj6cx_84a3bf
-  oomp_key_simple: sensor_energy_pac1944x_xj6cx
+  md5: 503a4a1c2f235c9538d6743d60515778
+  md5_10: 503a4a1c2f
+  md5_5: 503a4
+  md5_6: 503a4a
+  oomp_key: oomp_pac1944x_xj6cx
+  oomp_key_extra: oomp_symbol_pac1944x_xj6cx
+  oomp_key_full: oomp_symbol_pac1944x_xj6cx_503a4a
+  oomp_key_simple: pac1944x_xj6cx
   owner_name: kicad
-  symbol_name: sensor_energy_pac1944x_xj6cx
+  symbol_name: pac1944x_xj6cx
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

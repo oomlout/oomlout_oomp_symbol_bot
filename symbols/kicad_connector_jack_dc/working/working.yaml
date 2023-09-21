@@ -1,16 +1,20 @@
+id: kicad_connector_jack_dc
+library: connector
 library_name: Connector
+name: jack_dc
 oomp:
   library_name: connector
-  md5: 3dafc9fee71beb027c57a39f800cafdc
-  md5_10: 3dafc9fee7
-  md5_5: 3dafc
-  md5_6: 3dafc9
-  oomp_key: oomp_connector_jack_dc
-  oomp_key_extra: oomp_symbol_connector_jack_dc
-  oomp_key_full: oomp_symbol_connector_jack_dc_3dafc9
-  oomp_key_simple: connector_jack_dc
+  md5: 99eb22b4c5131b4aaba3ead6814da067
+  md5_10: 99eb22b4c5
+  md5_5: 99eb2
+  md5_6: 99eb22
+  oomp_key: oomp_jack_dc
+  oomp_key_extra: oomp_symbol_jack_dc
+  oomp_key_full: oomp_symbol_jack_dc_99eb22
+  oomp_key_simple: jack_dc
   owner_name: kicad
-  symbol_name: connector_jack_dc
+  symbol_name: jack_dc
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

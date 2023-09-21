@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_spx2920u_5_0_to220
+library: regulator_linear
 library_name: Regulator_Linear
+name: spx2920u_5_0_to220
 oomp:
   library_name: regulator_linear
-  md5: 13a6c0d6c2f673e8d89501a52075eec4
-  md5_10: 13a6c0d6c2
-  md5_5: 13a6c
-  md5_6: 13a6c0
-  oomp_key: oomp_regulator_linear_spx2920u_5_0_to220
-  oomp_key_extra: oomp_symbol_regulator_linear_spx2920u_5_0_to220
-  oomp_key_full: oomp_symbol_regulator_linear_spx2920u_5_0_to220_13a6c0
-  oomp_key_simple: regulator_linear_spx2920u_5_0_to220
+  md5: 958c5e989ded92f7db38cb850bc7ce85
+  md5_10: 958c5e989d
+  md5_5: 958c5
+  md5_6: 958c5e
+  oomp_key: oomp_spx2920u_5_0_to220
+  oomp_key_extra: oomp_symbol_spx2920u_5_0_to220
+  oomp_key_full: oomp_symbol_spx2920u_5_0_to220_958c5e
+  oomp_key_simple: spx2920u_5_0_to220
   owner_name: kicad
-  symbol_name: regulator_linear_spx2920u_5_0_to220
+  symbol_name: spx2920u_5_0_to220
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_lm2841x
+library: regulator_switching
 library_name: Regulator_Switching
+name: lm2841x
 oomp:
   library_name: regulator_switching
-  md5: e739813bb54be16029882b1944d855a7
-  md5_10: e739813bb5
-  md5_5: e7398
-  md5_6: e73981
-  oomp_key: oomp_regulator_switching_lm2841x
-  oomp_key_extra: oomp_symbol_regulator_switching_lm2841x
-  oomp_key_full: oomp_symbol_regulator_switching_lm2841x_e73981
-  oomp_key_simple: regulator_switching_lm2841x
+  md5: 0016127963df439504885ad9f068f8ca
+  md5_10: 0016127963
+  md5_5: '00161'
+  md5_6: '001612'
+  oomp_key: oomp_lm2841x
+  oomp_key_extra: oomp_symbol_lm2841x
+  oomp_key_full: oomp_symbol_lm2841x_001612
+  oomp_key_simple: lm2841x
   owner_name: kicad
-  symbol_name: regulator_switching_lm2841x
+  symbol_name: lm2841x
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

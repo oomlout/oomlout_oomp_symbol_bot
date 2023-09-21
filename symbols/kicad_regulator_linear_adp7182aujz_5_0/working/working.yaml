@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_adp7182aujz_5_0
+library: regulator_linear
 library_name: Regulator_Linear
+name: adp7182aujz_5_0
 oomp:
   library_name: regulator_linear
-  md5: 82d62d736efc29e637c6e49abae23d23
-  md5_10: 82d62d736e
-  md5_5: 82d62
-  md5_6: 82d62d
-  oomp_key: oomp_regulator_linear_adp7182aujz_5_0
-  oomp_key_extra: oomp_symbol_regulator_linear_adp7182aujz_5_0
-  oomp_key_full: oomp_symbol_regulator_linear_adp7182aujz_5_0_82d62d
-  oomp_key_simple: regulator_linear_adp7182aujz_5_0
+  md5: 771567be1de3bae7f313f237b1e1b1f0
+  md5_10: 771567be1d
+  md5_5: '77156'
+  md5_6: '771567'
+  oomp_key: oomp_adp7182aujz_5_0
+  oomp_key_extra: oomp_symbol_adp7182aujz_5_0
+  oomp_key_full: oomp_symbol_adp7182aujz_5_0_771567
+  oomp_key_simple: adp7182aujz_5_0
   owner_name: kicad
-  symbol_name: regulator_linear_adp7182aujz_5_0
+  symbol_name: adp7182aujz_5_0
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

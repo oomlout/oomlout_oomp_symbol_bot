@@ -1,3 +1,5 @@
+id: kicad_connector_micro_sd_card
+library: connector
 library_name: Connector
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_micro_sd_card/working
   oomp_src_flat: symbols_flat/kicad_connector_micro_sd_card/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_micro_sd_card/working
-name: connector_micro_sd_card
+name: micro_sd_card
 oomp:
   library_name: connector
-  md5: 72a6ac95f30f1e117d5a0f1d41b0ef71
-  md5_10: 72a6ac95f3
-  md5_5: 72a6a
-  md5_6: 72a6ac
-  oomp_key: oomp_connector_micro_sd_card
-  oomp_key_extra: oomp_symbol_connector_micro_sd_card
-  oomp_key_full: oomp_symbol_connector_micro_sd_card_72a6ac
-  oomp_key_simple: connector_micro_sd_card
+  md5: 43cea663791a589bd08439228a19bdfa
+  md5_10: 43cea66379
+  md5_5: 43cea
+  md5_6: 43cea6
+  oomp_key: oomp_micro_sd_card
+  oomp_key_extra: oomp_symbol_micro_sd_card
+  oomp_key_full: oomp_symbol_micro_sd_card_43cea6
+  oomp_key_simple: micro_sd_card
   owner_name: kicad
-  symbol_name: connector_micro_sd_card
+  symbol_name: micro_sd_card
 oomp_key: oomp_kicad_connector_micro_sd_card
 oomp_key_simple: kicad_connector_micro_sd_card
 owner: kicad

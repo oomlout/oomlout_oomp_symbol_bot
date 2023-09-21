@@ -1,3 +1,5 @@
+id: kicad_interface_uart_isl83491
+library: interface_uart
 library_name: Interface_UART
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_uart_isl83491/working
   oomp_src_flat: symbols_flat/kicad_interface_uart_isl83491/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_uart_isl83491/working
-name: interface_uart_isl83491
+name: isl83491
 oomp:
   library_name: interface_uart
-  md5: 9087cc3b50cac2262d6ab87a3971b8df
-  md5_10: 9087cc3b50
-  md5_5: 9087c
-  md5_6: 9087cc
-  oomp_key: oomp_interface_uart_isl83491
-  oomp_key_extra: oomp_symbol_interface_uart_isl83491
-  oomp_key_full: oomp_symbol_interface_uart_isl83491_9087cc
-  oomp_key_simple: interface_uart_isl83491
+  md5: dac2b54c51bc22143c9feeb38790510a
+  md5_10: dac2b54c51
+  md5_5: dac2b
+  md5_6: dac2b5
+  oomp_key: oomp_isl83491
+  oomp_key_extra: oomp_symbol_isl83491
+  oomp_key_full: oomp_symbol_isl83491_dac2b5
+  oomp_key_simple: isl83491
   owner_name: kicad
-  symbol_name: interface_uart_isl83491
+  symbol_name: isl83491
 oomp_key: oomp_kicad_interface_uart_isl83491
 oomp_key_simple: kicad_interface_uart_isl83491
 owner: kicad

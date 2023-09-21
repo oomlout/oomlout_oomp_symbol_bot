@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_lmr33610addar
+library: regulator_switching
 library_name: Regulator_Switching
+name: lmr33610addar
 oomp:
   library_name: regulator_switching
-  md5: 503cf3bbcbadcae33e570a32c97c2ac1
-  md5_10: 503cf3bbcb
-  md5_5: 503cf
-  md5_6: 503cf3
-  oomp_key: oomp_regulator_switching_lmr33610addar
-  oomp_key_extra: oomp_symbol_regulator_switching_lmr33610addar
-  oomp_key_full: oomp_symbol_regulator_switching_lmr33610addar_503cf3
-  oomp_key_simple: regulator_switching_lmr33610addar
+  md5: 5ed67f9ffb7d3f3ee337a2a5f6fe3f73
+  md5_10: 5ed67f9ffb
+  md5_5: 5ed67
+  md5_6: 5ed67f
+  oomp_key: oomp_lmr33610addar
+  oomp_key_extra: oomp_symbol_lmr33610addar
+  oomp_key_full: oomp_symbol_lmr33610addar_5ed67f
+  oomp_key_simple: lmr33610addar
   owner_name: kicad
-  symbol_name: regulator_switching_lmr33610addar
+  symbol_name: lmr33610addar
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

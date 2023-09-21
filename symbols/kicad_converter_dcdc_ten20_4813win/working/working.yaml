@@ -1,16 +1,20 @@
+id: kicad_converter_dcdc_ten20_4813win
+library: converter_dcdc
 library_name: Converter_DCDC
+name: ten20_4813win
 oomp:
   library_name: converter_dcdc
-  md5: 37fe3e92be834949907d9a8533a1a2a4
-  md5_10: 37fe3e92be
-  md5_5: 37fe3
-  md5_6: 37fe3e
-  oomp_key: oomp_converter_dcdc_ten20_4813win
-  oomp_key_extra: oomp_symbol_converter_dcdc_ten20_4813win
-  oomp_key_full: oomp_symbol_converter_dcdc_ten20_4813win_37fe3e
-  oomp_key_simple: converter_dcdc_ten20_4813win
+  md5: 949166de76d33a57fe53d88d56ab460e
+  md5_10: 949166de76
+  md5_5: '94916'
+  md5_6: '949166'
+  oomp_key: oomp_ten20_4813win
+  oomp_key_extra: oomp_symbol_ten20_4813win
+  oomp_key_full: oomp_symbol_ten20_4813win_949166
+  oomp_key_simple: ten20_4813win
   owner_name: kicad
-  symbol_name: converter_dcdc_ten20_4813win
+  symbol_name: ten20_4813win
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

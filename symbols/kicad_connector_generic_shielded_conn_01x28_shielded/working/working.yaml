@@ -1,3 +1,5 @@
+id: kicad_connector_generic_shielded_conn_01x28_shielded
+library: connector_generic_shielded
 library_name: Connector_Generic_Shielded
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_generic_shielded_conn_01x28_shielded/working
   oomp_src_flat: symbols_flat/kicad_connector_generic_shielded_conn_01x28_shielded/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_generic_shielded_conn_01x28_shielded/working
-name: connector_generic_shielded_conn_01x28_shielded
+name: conn_01x28_shielded
 oomp:
   library_name: connector_generic_shielded
-  md5: e5e197308bd7c665174e504a16f88b99
-  md5_10: e5e197308b
-  md5_5: e5e19
-  md5_6: e5e197
-  oomp_key: oomp_connector_generic_shielded_conn_01x28_shielded
-  oomp_key_extra: oomp_symbol_connector_generic_shielded_conn_01x28_shielded
-  oomp_key_full: oomp_symbol_connector_generic_shielded_conn_01x28_shielded_e5e197
-  oomp_key_simple: connector_generic_shielded_conn_01x28_shielded
+  md5: 6495a2f517d996ef566d7e8ea5999569
+  md5_10: 6495a2f517
+  md5_5: 6495a
+  md5_6: 6495a2
+  oomp_key: oomp_conn_01x28_shielded
+  oomp_key_extra: oomp_symbol_conn_01x28_shielded
+  oomp_key_full: oomp_symbol_conn_01x28_shielded_6495a2
+  oomp_key_simple: conn_01x28_shielded
   owner_name: kicad
-  symbol_name: connector_generic_shielded_conn_01x28_shielded
+  symbol_name: conn_01x28_shielded
 oomp_key: oomp_kicad_connector_generic_shielded_conn_01x28_shielded
 oomp_key_simple: kicad_connector_generic_shielded_conn_01x28_shielded
 owner: kicad

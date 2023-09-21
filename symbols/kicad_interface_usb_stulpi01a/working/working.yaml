@@ -1,3 +1,5 @@
+id: kicad_interface_usb_stulpi01a
+library: interface_usb
 library_name: Interface_USB
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_usb_stulpi01a/working
   oomp_src_flat: symbols_flat/kicad_interface_usb_stulpi01a/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_usb_stulpi01a/working
-name: interface_usb_stulpi01a
+name: stulpi01a
 oomp:
   library_name: interface_usb
-  md5: 8802cf4129419b34f08bd13ce826bc18
-  md5_10: 8802cf4129
-  md5_5: 8802c
-  md5_6: 8802cf
-  oomp_key: oomp_interface_usb_stulpi01a
-  oomp_key_extra: oomp_symbol_interface_usb_stulpi01a
-  oomp_key_full: oomp_symbol_interface_usb_stulpi01a_8802cf
-  oomp_key_simple: interface_usb_stulpi01a
+  md5: 42b3537c2a92409defb02c7032245d59
+  md5_10: 42b3537c2a
+  md5_5: 42b35
+  md5_6: 42b353
+  oomp_key: oomp_stulpi01a
+  oomp_key_extra: oomp_symbol_stulpi01a
+  oomp_key_full: oomp_symbol_stulpi01a_42b353
+  oomp_key_simple: stulpi01a
   owner_name: kicad
-  symbol_name: interface_usb_stulpi01a
+  symbol_name: stulpi01a
 oomp_key: oomp_kicad_interface_usb_stulpi01a
 oomp_key_simple: kicad_interface_usb_stulpi01a
 owner: kicad

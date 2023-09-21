@@ -1,3 +1,5 @@
+id: oomlout_oomlout_oomp_part_symbols_h5psmra_electronic_header_1_mm_jst_sh_5_pin_surface_mount_right_angle
+library: oomlout_oomp_part_symbols
 library_name: oomlout_oomp_part_symbols
 links:
   github_owner: oomlout
@@ -10,19 +12,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/oomlout_oomlout_oomp_part_symbols_h5psmra_electronic_header_1_mm_jst_sh_5_pin_surface_mount_right_angle/working
   oomp_src_flat: symbols_flat/oomlout_oomlout_oomp_part_symbols_h5psmra_electronic_header_1_mm_jst_sh_5_pin_surface_mount_right_angle/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/oomlout_oomlout_oomp_part_symbols_h5psmra_electronic_header_1_mm_jst_sh_5_pin_surface_mount_right_angle/working
-name: oomp_h5psmra_electronic_header_1_mm_jst_sh_5_pin_surface_mount_right_angle
+name: h5psmra_electronic_header_1_mm_jst_sh_5_pin_surface_mount_right_angle
 oomp:
   library_name: oomlout_oomp_part_symbols
-  md5: b7bc2dae14a5ed0841a066f094bdc466
-  md5_10: b7bc2dae14
-  md5_5: b7bc2
-  md5_6: b7bc2d
-  oomp_key: oomp_oomp_h5psmra_electronic_header_1_mm_jst_sh_5_pin_surface_mount_right_angle
-  oomp_key_extra: oomp_symbol_oomp_h5psmra_electronic_header_1_mm_jst_sh_5_pin_surface_mount_right_angle
-  oomp_key_full: oomp_symbol_oomp_h5psmra_electronic_header_1_mm_jst_sh_5_pin_surface_mount_right_angle_b7bc2d
-  oomp_key_simple: oomp_h5psmra_electronic_header_1_mm_jst_sh_5_pin_surface_mount_right_angle
+  md5: 1a06dd2b26c612bb2750257947b4b4f3
+  md5_10: 1a06dd2b26
+  md5_5: 1a06d
+  md5_6: 1a06dd
+  oomp_key: oomp_h5psmra_electronic_header_1_mm_jst_sh_5_pin_surface_mount_right_angle
+  oomp_key_extra: oomp_symbol_h5psmra_electronic_header_1_mm_jst_sh_5_pin_surface_mount_right_angle
+  oomp_key_full: oomp_symbol_h5psmra_electronic_header_1_mm_jst_sh_5_pin_surface_mount_right_angle_1a06dd
+  oomp_key_simple: h5psmra_electronic_header_1_mm_jst_sh_5_pin_surface_mount_right_angle
   owner_name: oomlout
-  symbol_name: oomp_h5psmra_electronic_header_1_mm_jst_sh_5_pin_surface_mount_right_angle
+  symbol_name: h5psmra_electronic_header_1_mm_jst_sh_5_pin_surface_mount_right_angle
 oomp_key: oomp_oomlout_oomlout_oomp_part_symbols_h5psmra_electronic_header_1_mm_jst_sh_5_pin_surface_mount_right_angle
 oomp_key_simple: oomlout_oomlout_oomp_part_symbols_h5psmra_electronic_header_1_mm_jst_sh_5_pin_surface_mount_right_angle
 owner: oomlout
@@ -110,9 +112,9 @@ repo_github:
     url: https://api.github.com/users/oomlout
   private: false
   pulls_url: https://api.github.com/repos/oomlout/oomlout_oomp_part_kicad_symbols/pulls{/number}
-  pushed_at: '2023-09-03T16:13:58Z'
+  pushed_at: '2023-09-17T15:55:00Z'
   releases_url: https://api.github.com/repos/oomlout/oomlout_oomp_part_kicad_symbols/releases{/id}
-  size: 218
+  size: 263
   ssh_url: git@github.com:oomlout/oomlout_oomp_part_kicad_symbols.git
   stargazers_count: 0
   stargazers_url: https://api.github.com/repos/oomlout/oomlout_oomp_part_kicad_symbols/stargazers

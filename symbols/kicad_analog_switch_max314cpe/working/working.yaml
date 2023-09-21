@@ -1,16 +1,20 @@
+id: kicad_analog_switch_max314cpe
+library: analog_switch
 library_name: Analog_Switch
+name: max314cpe
 oomp:
   library_name: analog_switch
-  md5: 15d3ee81b3989e14c031b670d74a8fbf
-  md5_10: 15d3ee81b3
-  md5_5: 15d3e
-  md5_6: 15d3ee
-  oomp_key: oomp_analog_switch_max314cpe
-  oomp_key_extra: oomp_symbol_analog_switch_max314cpe
-  oomp_key_full: oomp_symbol_analog_switch_max314cpe_15d3ee
-  oomp_key_simple: analog_switch_max314cpe
+  md5: ccc666214a33a20acf88f5a1bb1cf8c2
+  md5_10: ccc666214a
+  md5_5: ccc66
+  md5_6: ccc666
+  oomp_key: oomp_max314cpe
+  oomp_key_extra: oomp_symbol_max314cpe
+  oomp_key_full: oomp_symbol_max314cpe_ccc666
+  oomp_key_simple: max314cpe
   owner_name: kicad
-  symbol_name: analog_switch_max314cpe
+  symbol_name: max314cpe
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

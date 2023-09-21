@@ -1,16 +1,20 @@
+id: kicad_mcu_microchip_atmega_atmega8_16a
+library: mcu_microchip_atmega
 library_name: MCU_Microchip_ATmega
+name: atmega8_16a
 oomp:
   library_name: mcu_microchip_atmega
-  md5: 473bc5fafc59109beae97bb0030895ff
-  md5_10: 473bc5fafc
-  md5_5: 473bc
-  md5_6: 473bc5
-  oomp_key: oomp_mcu_microchip_atmega_atmega8_16a
-  oomp_key_extra: oomp_symbol_mcu_microchip_atmega_atmega8_16a
-  oomp_key_full: oomp_symbol_mcu_microchip_atmega_atmega8_16a_473bc5
-  oomp_key_simple: mcu_microchip_atmega_atmega8_16a
+  md5: 9080a5fb17b966a68f705e19de1b8894
+  md5_10: 9080a5fb17
+  md5_5: 9080a
+  md5_6: 9080a5
+  oomp_key: oomp_atmega8_16a
+  oomp_key_extra: oomp_symbol_atmega8_16a
+  oomp_key_full: oomp_symbol_atmega8_16a_9080a5
+  oomp_key_simple: atmega8_16a
   owner_name: kicad
-  symbol_name: mcu_microchip_atmega_atmega8_16a
+  symbol_name: atmega8_16a
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

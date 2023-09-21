@@ -1,16 +1,20 @@
+id: kicad_transistor_fet_si2371eds
+library: transistor_fet
 library_name: Transistor_FET
+name: si2371eds
 oomp:
   library_name: transistor_fet
-  md5: b5f43b425b42c0dff4efdc38669633f1
-  md5_10: b5f43b425b
-  md5_5: b5f43
-  md5_6: b5f43b
-  oomp_key: oomp_transistor_fet_si2371eds
-  oomp_key_extra: oomp_symbol_transistor_fet_si2371eds
-  oomp_key_full: oomp_symbol_transistor_fet_si2371eds_b5f43b
-  oomp_key_simple: transistor_fet_si2371eds
+  md5: ae663230a2991162293ddfc680f289b0
+  md5_10: ae663230a2
+  md5_5: ae663
+  md5_6: ae6632
+  oomp_key: oomp_si2371eds
+  oomp_key_extra: oomp_symbol_si2371eds
+  oomp_key_full: oomp_symbol_si2371eds_ae6632
+  oomp_key_simple: si2371eds
   owner_name: kicad
-  symbol_name: transistor_fet_si2371eds
+  symbol_name: si2371eds
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

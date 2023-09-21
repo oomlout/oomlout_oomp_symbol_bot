@@ -1,16 +1,20 @@
+id: kicad_interface_8259a
+library: interface
 library_name: Interface
+name: 8259a
 oomp:
   library_name: interface
-  md5: 05271a87be00ca5dd4d41c8aab1e5837
-  md5_10: 05271a87be
-  md5_5: '05271'
-  md5_6: 05271a
-  oomp_key: oomp_interface_8259a
-  oomp_key_extra: oomp_symbol_interface_8259a
-  oomp_key_full: oomp_symbol_interface_8259a_05271a
-  oomp_key_simple: interface_8259a
+  md5: 35bbddd08d9b1e96c2e5cb68515e2324
+  md5_10: 35bbddd08d
+  md5_5: 35bbd
+  md5_6: 35bbdd
+  oomp_key: oomp_8259a
+  oomp_key_extra: oomp_symbol_8259a
+  oomp_key_full: oomp_symbol_8259a_35bbdd
+  oomp_key_simple: 8259a
   owner_name: kicad
-  symbol_name: interface_8259a
+  symbol_name: 8259a
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

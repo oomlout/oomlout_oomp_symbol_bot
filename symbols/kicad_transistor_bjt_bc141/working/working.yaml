@@ -1,16 +1,20 @@
+id: kicad_transistor_bjt_bc141
+library: transistor_bjt
 library_name: Transistor_BJT
+name: bc141
 oomp:
   library_name: transistor_bjt
-  md5: 0cd03488a37d3447e11fb5e0faf3a6c2
-  md5_10: 0cd03488a3
-  md5_5: 0cd03
-  md5_6: 0cd034
-  oomp_key: oomp_transistor_bjt_bc141
-  oomp_key_extra: oomp_symbol_transistor_bjt_bc141
-  oomp_key_full: oomp_symbol_transistor_bjt_bc141_0cd034
-  oomp_key_simple: transistor_bjt_bc141
+  md5: a1a42b481f2e58bf0e037d87b76e3c29
+  md5_10: a1a42b481f
+  md5_5: a1a42
+  md5_6: a1a42b
+  oomp_key: oomp_bc141
+  oomp_key_extra: oomp_symbol_bc141
+  oomp_key_full: oomp_symbol_bc141_a1a42b
+  oomp_key_simple: bc141
   owner_name: kicad
-  symbol_name: transistor_bjt_bc141
+  symbol_name: bc141
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

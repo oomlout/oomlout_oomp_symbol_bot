@@ -18,7 +18,7 @@
     (property "ki_keywords" "connector" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "ki_description" "Generic connector, single row, 01x09, script generated" (at 0 0 0)
+    (property "ki_description" "[electronic_header_1_mm_jst_sh_9_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_9_pin_surface_mount_right_angle/working)<br><br>[JST - SM09B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231)" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "ki_fp_filters" "Connector*:*_1x??_*" (at 0 0 0)

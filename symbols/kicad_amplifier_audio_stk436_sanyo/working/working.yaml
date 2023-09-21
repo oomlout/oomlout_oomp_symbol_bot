@@ -1,16 +1,20 @@
+id: kicad_amplifier_audio_stk436_sanyo
+library: amplifier_audio
 library_name: Amplifier_Audio
+name: stk436_sanyo
 oomp:
   library_name: amplifier_audio
-  md5: c949f57431ef2229d29baef84175d458
-  md5_10: c949f57431
-  md5_5: c949f
-  md5_6: c949f5
-  oomp_key: oomp_amplifier_audio_stk436_sanyo
-  oomp_key_extra: oomp_symbol_amplifier_audio_stk436_sanyo
-  oomp_key_full: oomp_symbol_amplifier_audio_stk436_sanyo_c949f5
-  oomp_key_simple: amplifier_audio_stk436_sanyo
+  md5: 33c90bec0f46fc5df059f13ec2059fe3
+  md5_10: 33c90bec0f
+  md5_5: 33c90
+  md5_6: 33c90b
+  oomp_key: oomp_stk436_sanyo
+  oomp_key_extra: oomp_symbol_stk436_sanyo
+  oomp_key_full: oomp_symbol_stk436_sanyo_33c90b
+  oomp_key_simple: stk436_sanyo
   owner_name: kicad
-  symbol_name: amplifier_audio_stk436_sanyo
+  symbol_name: stk436_sanyo
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

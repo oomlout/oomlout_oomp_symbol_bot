@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_ltc3406es5_1_2
+library: regulator_switching
 library_name: Regulator_Switching
+name: ltc3406es5_1_2
 oomp:
   library_name: regulator_switching
-  md5: bc359935b3665c5c7b913c7527a0b607
-  md5_10: bc359935b3
-  md5_5: bc359
-  md5_6: bc3599
-  oomp_key: oomp_regulator_switching_ltc3406es5_1_2
-  oomp_key_extra: oomp_symbol_regulator_switching_ltc3406es5_1_2
-  oomp_key_full: oomp_symbol_regulator_switching_ltc3406es5_1_2_bc3599
-  oomp_key_simple: regulator_switching_ltc3406es5_1_2
+  md5: 75d39f62527514c394c368ff8d0eaf53
+  md5_10: 75d39f6252
+  md5_5: 75d39
+  md5_6: 75d39f
+  oomp_key: oomp_ltc3406es5_1_2
+  oomp_key_extra: oomp_symbol_ltc3406es5_1_2
+  oomp_key_full: oomp_symbol_ltc3406es5_1_2_75d39f
+  oomp_key_simple: ltc3406es5_1_2
   owner_name: kicad
-  symbol_name: regulator_switching_ltc3406es5_1_2
+  symbol_name: ltc3406es5_1_2
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

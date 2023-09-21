@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_top267vg
+library: regulator_switching
 library_name: Regulator_Switching
+name: top267vg
 oomp:
   library_name: regulator_switching
-  md5: 5cee9bc1f038d2ecdf514aabb3161e67
-  md5_10: 5cee9bc1f0
-  md5_5: 5cee9
-  md5_6: 5cee9b
-  oomp_key: oomp_regulator_switching_top267vg
-  oomp_key_extra: oomp_symbol_regulator_switching_top267vg
-  oomp_key_full: oomp_symbol_regulator_switching_top267vg_5cee9b
-  oomp_key_simple: regulator_switching_top267vg
+  md5: 54531658925144350e8545acf56beea6
+  md5_10: '5453165892'
+  md5_5: '54531'
+  md5_6: '545316'
+  oomp_key: oomp_top267vg
+  oomp_key_extra: oomp_symbol_top267vg
+  oomp_key_full: oomp_symbol_top267vg_545316
+  oomp_key_simple: top267vg
   owner_name: kicad
-  symbol_name: regulator_switching_top267vg
+  symbol_name: top267vg
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

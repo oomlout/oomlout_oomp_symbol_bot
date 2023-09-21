@@ -1,3 +1,5 @@
+id: kicad_regulator_switching_tny284d
+library: regulator_switching
 library_name: Regulator_Switching
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_switching_tny284d/working
   oomp_src_flat: symbols_flat/kicad_regulator_switching_tny284d/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_switching_tny284d/working
-name: regulator_switching_tny284d
+name: tny284d
 oomp:
   library_name: regulator_switching
-  md5: 7900f8f421f835099da337d5dacbdd6a
-  md5_10: 7900f8f421
-  md5_5: 7900f
-  md5_6: 7900f8
-  oomp_key: oomp_regulator_switching_tny284d
-  oomp_key_extra: oomp_symbol_regulator_switching_tny284d
-  oomp_key_full: oomp_symbol_regulator_switching_tny284d_7900f8
-  oomp_key_simple: regulator_switching_tny284d
+  md5: b8731ec5caad90bcdcf0d3f252eee555
+  md5_10: b8731ec5ca
+  md5_5: b8731
+  md5_6: b8731e
+  oomp_key: oomp_tny284d
+  oomp_key_extra: oomp_symbol_tny284d
+  oomp_key_full: oomp_symbol_tny284d_b8731e
+  oomp_key_simple: tny284d
   owner_name: kicad
-  symbol_name: regulator_switching_tny284d
+  symbol_name: tny284d
 oomp_key: oomp_kicad_regulator_switching_tny284d
 oomp_key_simple: kicad_regulator_switching_tny284d
 owner: kicad

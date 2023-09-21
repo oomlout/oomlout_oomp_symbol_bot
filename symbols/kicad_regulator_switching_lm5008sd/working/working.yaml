@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_lm5008sd
+library: regulator_switching
 library_name: Regulator_Switching
+name: lm5008sd
 oomp:
   library_name: regulator_switching
-  md5: a3512d9cb812261b71c30aea1c6e24aa
-  md5_10: a3512d9cb8
-  md5_5: a3512
-  md5_6: a3512d
-  oomp_key: oomp_regulator_switching_lm5008sd
-  oomp_key_extra: oomp_symbol_regulator_switching_lm5008sd
-  oomp_key_full: oomp_symbol_regulator_switching_lm5008sd_a3512d
-  oomp_key_simple: regulator_switching_lm5008sd
+  md5: 1a6eb77e105631597f16a2e07199c976
+  md5_10: 1a6eb77e10
+  md5_5: 1a6eb
+  md5_6: 1a6eb7
+  oomp_key: oomp_lm5008sd
+  oomp_key_extra: oomp_symbol_lm5008sd
+  oomp_key_full: oomp_symbol_lm5008sd_1a6eb7
+  oomp_key_simple: lm5008sd
   owner_name: kicad
-  symbol_name: regulator_switching_lm5008sd
+  symbol_name: lm5008sd
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

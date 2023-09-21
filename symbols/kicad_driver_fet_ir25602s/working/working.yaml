@@ -1,3 +1,5 @@
+id: kicad_driver_fet_ir25602s
+library: driver_fet
 library_name: Driver_FET
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_driver_fet_ir25602s/working
   oomp_src_flat: symbols_flat/kicad_driver_fet_ir25602s/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_driver_fet_ir25602s/working
-name: driver_fet_ir25602s
+name: ir25602s
 oomp:
   library_name: driver_fet
-  md5: 7949f034d3047e7d98f2288b4a63019d
-  md5_10: 7949f034d3
-  md5_5: 7949f
-  md5_6: 7949f0
-  oomp_key: oomp_driver_fet_ir25602s
-  oomp_key_extra: oomp_symbol_driver_fet_ir25602s
-  oomp_key_full: oomp_symbol_driver_fet_ir25602s_7949f0
-  oomp_key_simple: driver_fet_ir25602s
+  md5: 9b2fe0f4111eb63ce3a47ce1738b892a
+  md5_10: 9b2fe0f411
+  md5_5: 9b2fe
+  md5_6: 9b2fe0
+  oomp_key: oomp_ir25602s
+  oomp_key_extra: oomp_symbol_ir25602s
+  oomp_key_full: oomp_symbol_ir25602s_9b2fe0
+  oomp_key_simple: ir25602s
   owner_name: kicad
-  symbol_name: driver_fet_ir25602s
+  symbol_name: ir25602s
 oomp_key: oomp_kicad_driver_fet_ir25602s
 oomp_key_simple: kicad_driver_fet_ir25602s
 owner: kicad

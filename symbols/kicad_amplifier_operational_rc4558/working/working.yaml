@@ -1,16 +1,20 @@
+id: kicad_amplifier_operational_rc4558
+library: amplifier_operational
 library_name: Amplifier_Operational
+name: rc4558
 oomp:
   library_name: amplifier_operational
-  md5: 1a6f760f9bec26d11b3716990d5e8110
-  md5_10: 1a6f760f9b
-  md5_5: 1a6f7
-  md5_6: 1a6f76
-  oomp_key: oomp_amplifier_operational_rc4558
-  oomp_key_extra: oomp_symbol_amplifier_operational_rc4558
-  oomp_key_full: oomp_symbol_amplifier_operational_rc4558_1a6f76
-  oomp_key_simple: amplifier_operational_rc4558
+  md5: e27fc5362c050a205668fcfccf9bc3ee
+  md5_10: e27fc5362c
+  md5_5: e27fc
+  md5_6: e27fc5
+  oomp_key: oomp_rc4558
+  oomp_key_extra: oomp_symbol_rc4558
+  oomp_key_full: oomp_symbol_rc4558_e27fc5
+  oomp_key_simple: rc4558
   owner_name: kicad
-  symbol_name: amplifier_operational_rc4558
+  symbol_name: rc4558
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

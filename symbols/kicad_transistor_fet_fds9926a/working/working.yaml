@@ -1,16 +1,20 @@
+id: kicad_transistor_fet_fds9926a
+library: transistor_fet
 library_name: Transistor_FET
+name: fds9926a
 oomp:
   library_name: transistor_fet
-  md5: b7cbd61c9ccd325789aad8181ae04448
-  md5_10: b7cbd61c9c
-  md5_5: b7cbd
-  md5_6: b7cbd6
-  oomp_key: oomp_transistor_fet_fds9926a
-  oomp_key_extra: oomp_symbol_transistor_fet_fds9926a
-  oomp_key_full: oomp_symbol_transistor_fet_fds9926a_b7cbd6
-  oomp_key_simple: transistor_fet_fds9926a
+  md5: ef9b037e192dc4278ad4c20df007c643
+  md5_10: ef9b037e19
+  md5_5: ef9b0
+  md5_6: ef9b03
+  oomp_key: oomp_fds9926a
+  oomp_key_extra: oomp_symbol_fds9926a
+  oomp_key_full: oomp_symbol_fds9926a_ef9b03
+  oomp_key_simple: fds9926a
   owner_name: kicad
-  symbol_name: transistor_fet_fds9926a
+  symbol_name: fds9926a
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

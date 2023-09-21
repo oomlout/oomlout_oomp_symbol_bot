@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_tps54202ddc
+library: regulator_switching
 library_name: Regulator_Switching
+name: tps54202ddc
 oomp:
   library_name: regulator_switching
-  md5: 01a487752f1e060dd55d44c76cabc573
-  md5_10: 01a487752f
-  md5_5: 01a48
-  md5_6: 01a487
-  oomp_key: oomp_regulator_switching_tps54202ddc
-  oomp_key_extra: oomp_symbol_regulator_switching_tps54202ddc
-  oomp_key_full: oomp_symbol_regulator_switching_tps54202ddc_01a487
-  oomp_key_simple: regulator_switching_tps54202ddc
+  md5: 37bcda8e61fb141d52084ab59e754310
+  md5_10: 37bcda8e61
+  md5_5: 37bcd
+  md5_6: 37bcda
+  oomp_key: oomp_tps54202ddc
+  oomp_key_extra: oomp_symbol_tps54202ddc
+  oomp_key_full: oomp_symbol_tps54202ddc_37bcda
+  oomp_key_simple: tps54202ddc
   owner_name: kicad
-  symbol_name: regulator_switching_tps54202ddc
+  symbol_name: tps54202ddc
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

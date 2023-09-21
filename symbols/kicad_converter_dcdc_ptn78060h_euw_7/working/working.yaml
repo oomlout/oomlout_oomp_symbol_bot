@@ -1,16 +1,20 @@
+id: kicad_converter_dcdc_ptn78060h_euw_7
+library: converter_dcdc
 library_name: Converter_DCDC
+name: ptn78060h_euw_7
 oomp:
   library_name: converter_dcdc
-  md5: a4e5c66b9993d4cefbe6501983cc9828
-  md5_10: a4e5c66b99
-  md5_5: a4e5c
-  md5_6: a4e5c6
-  oomp_key: oomp_converter_dcdc_ptn78060h_euw_7
-  oomp_key_extra: oomp_symbol_converter_dcdc_ptn78060h_euw_7
-  oomp_key_full: oomp_symbol_converter_dcdc_ptn78060h_euw_7_a4e5c6
-  oomp_key_simple: converter_dcdc_ptn78060h_euw_7
+  md5: 8aeaa9163bbcfdaa5db7a8d3d1a7ec33
+  md5_10: 8aeaa9163b
+  md5_5: 8aeaa
+  md5_6: 8aeaa9
+  oomp_key: oomp_ptn78060h_euw_7
+  oomp_key_extra: oomp_symbol_ptn78060h_euw_7
+  oomp_key_full: oomp_symbol_ptn78060h_euw_7_8aeaa9
+  oomp_key_simple: ptn78060h_euw_7
   owner_name: kicad
-  symbol_name: converter_dcdc_ptn78060h_euw_7
+  symbol_name: ptn78060h_euw_7
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

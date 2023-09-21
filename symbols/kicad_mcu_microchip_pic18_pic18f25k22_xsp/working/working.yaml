@@ -1,16 +1,20 @@
+id: kicad_mcu_microchip_pic18_pic18f25k22_xsp
+library: mcu_microchip_pic18
 library_name: MCU_Microchip_PIC18
+name: pic18f25k22_xsp
 oomp:
   library_name: mcu_microchip_pic18
-  md5: 615c5471da4d689020fea4be0958bfde
-  md5_10: 615c5471da
-  md5_5: 615c5
-  md5_6: 615c54
-  oomp_key: oomp_mcu_microchip_pic18_pic18f25k22_xsp
-  oomp_key_extra: oomp_symbol_mcu_microchip_pic18_pic18f25k22_xsp
-  oomp_key_full: oomp_symbol_mcu_microchip_pic18_pic18f25k22_xsp_615c54
-  oomp_key_simple: mcu_microchip_pic18_pic18f25k22_xsp
+  md5: dce63000ebb87980ebdb7b7a844c6af8
+  md5_10: dce63000eb
+  md5_5: dce63
+  md5_6: dce630
+  oomp_key: oomp_pic18f25k22_xsp
+  oomp_key_extra: oomp_symbol_pic18f25k22_xsp
+  oomp_key_full: oomp_symbol_pic18f25k22_xsp_dce630
+  oomp_key_simple: pic18f25k22_xsp
   owner_name: kicad
-  symbol_name: mcu_microchip_pic18_pic18f25k22_xsp
+  symbol_name: pic18f25k22_xsp
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

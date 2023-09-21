@@ -1,16 +1,20 @@
+id: kicad_power_supervisor_max6372
+library: power_supervisor
 library_name: Power_Supervisor
+name: max6372
 oomp:
   library_name: power_supervisor
-  md5: 3bca7c5677267a1f4ad4a58f5d8469e5
-  md5_10: 3bca7c5677
-  md5_5: 3bca7
-  md5_6: 3bca7c
-  oomp_key: oomp_power_supervisor_max6372
-  oomp_key_extra: oomp_symbol_power_supervisor_max6372
-  oomp_key_full: oomp_symbol_power_supervisor_max6372_3bca7c
-  oomp_key_simple: power_supervisor_max6372
+  md5: 94141303cf14fb15e93611c546df27ee
+  md5_10: 94141303cf
+  md5_5: '94141'
+  md5_6: '941413'
+  oomp_key: oomp_max6372
+  oomp_key_extra: oomp_symbol_max6372
+  oomp_key_full: oomp_symbol_max6372_941413
+  oomp_key_simple: max6372
   owner_name: kicad
-  symbol_name: power_supervisor_max6372
+  symbol_name: max6372
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

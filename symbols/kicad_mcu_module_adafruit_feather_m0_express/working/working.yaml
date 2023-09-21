@@ -1,16 +1,20 @@
+id: kicad_mcu_module_adafruit_feather_m0_express
+library: mcu_module
 library_name: MCU_Module
+name: adafruit_feather_m0_express
 oomp:
   library_name: mcu_module
-  md5: c9a63fdf6bfadd7374dcde81d14b5bce
-  md5_10: c9a63fdf6b
-  md5_5: c9a63
-  md5_6: c9a63f
-  oomp_key: oomp_mcu_module_adafruit_feather_m0_express
-  oomp_key_extra: oomp_symbol_mcu_module_adafruit_feather_m0_express
-  oomp_key_full: oomp_symbol_mcu_module_adafruit_feather_m0_express_c9a63f
-  oomp_key_simple: mcu_module_adafruit_feather_m0_express
+  md5: 2a69e12061aac2d5910462a797d116cb
+  md5_10: 2a69e12061
+  md5_5: 2a69e
+  md5_6: 2a69e1
+  oomp_key: oomp_adafruit_feather_m0_express
+  oomp_key_extra: oomp_symbol_adafruit_feather_m0_express
+  oomp_key_full: oomp_symbol_adafruit_feather_m0_express_2a69e1
+  oomp_key_simple: adafruit_feather_m0_express
   owner_name: kicad
-  symbol_name: mcu_module_adafruit_feather_m0_express
+  symbol_name: adafruit_feather_m0_express
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

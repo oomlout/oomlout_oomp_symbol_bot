@@ -1,16 +1,20 @@
+id: kicad_transistor_bjt_bd442
+library: transistor_bjt
 library_name: Transistor_BJT
+name: bd442
 oomp:
   library_name: transistor_bjt
-  md5: 7290a852c9649cad00f00d9e91845bd1
-  md5_10: 7290a852c9
-  md5_5: 7290a
-  md5_6: 7290a8
-  oomp_key: oomp_transistor_bjt_bd442
-  oomp_key_extra: oomp_symbol_transistor_bjt_bd442
-  oomp_key_full: oomp_symbol_transistor_bjt_bd442_7290a8
-  oomp_key_simple: transistor_bjt_bd442
+  md5: 319e931bacde3989c8eb70d36a816b9d
+  md5_10: 319e931bac
+  md5_5: 319e9
+  md5_6: 319e93
+  oomp_key: oomp_bd442
+  oomp_key_extra: oomp_symbol_bd442
+  oomp_key_full: oomp_symbol_bd442_319e93
+  oomp_key_simple: bd442
   owner_name: kicad
-  symbol_name: transistor_bjt_bd442
+  symbol_name: bd442
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

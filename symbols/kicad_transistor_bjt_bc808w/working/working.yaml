@@ -1,16 +1,20 @@
+id: kicad_transistor_bjt_bc808w
+library: transistor_bjt
 library_name: Transistor_BJT
+name: bc808w
 oomp:
   library_name: transistor_bjt
-  md5: 2c78fe64ee73aa18861a1905cd4e2126
-  md5_10: 2c78fe64ee
-  md5_5: 2c78f
-  md5_6: 2c78fe
-  oomp_key: oomp_transistor_bjt_bc808w
-  oomp_key_extra: oomp_symbol_transistor_bjt_bc808w
-  oomp_key_full: oomp_symbol_transistor_bjt_bc808w_2c78fe
-  oomp_key_simple: transistor_bjt_bc808w
+  md5: 54b0a4fc20447b9b2e6ada58f1cb3535
+  md5_10: 54b0a4fc20
+  md5_5: 54b0a
+  md5_6: 54b0a4
+  oomp_key: oomp_bc808w
+  oomp_key_extra: oomp_symbol_bc808w
+  oomp_key_full: oomp_symbol_bc808w_54b0a4
+  oomp_key_simple: bc808w
   owner_name: kicad
-  symbol_name: transistor_bjt_bc808w
+  symbol_name: bc808w
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

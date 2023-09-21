@@ -1,3 +1,5 @@
+id: kicad_device_sparkgap
+library: device
 library_name: Device
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_sparkgap/working
   oomp_src_flat: symbols_flat/kicad_device_sparkgap/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_sparkgap/working
-name: device_sparkgap
+name: sparkgap
 oomp:
   library_name: device
-  md5: ccec38219873efb555133cede9b31f71
-  md5_10: ccec382198
-  md5_5: ccec3
-  md5_6: ccec38
-  oomp_key: oomp_device_sparkgap
-  oomp_key_extra: oomp_symbol_device_sparkgap
-  oomp_key_full: oomp_symbol_device_sparkgap_ccec38
-  oomp_key_simple: device_sparkgap
+  md5: a7386f86f94451fc8286e6e342f9a9f5
+  md5_10: a7386f86f9
+  md5_5: a7386
+  md5_6: a7386f
+  oomp_key: oomp_sparkgap
+  oomp_key_extra: oomp_symbol_sparkgap
+  oomp_key_full: oomp_symbol_sparkgap_a7386f
+  oomp_key_simple: sparkgap
   owner_name: kicad
-  symbol_name: device_sparkgap
+  symbol_name: sparkgap
 oomp_key: oomp_kicad_device_sparkgap
 oomp_key_simple: kicad_device_sparkgap
 owner: kicad

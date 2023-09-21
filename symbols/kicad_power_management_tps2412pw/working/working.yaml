@@ -1,16 +1,20 @@
+id: kicad_power_management_tps2412pw
+library: power_management
 library_name: Power_Management
+name: tps2412pw
 oomp:
   library_name: power_management
-  md5: 71dbaae84f5f7ca3bf71a63bd817d675
-  md5_10: 71dbaae84f
-  md5_5: 71dba
-  md5_6: 71dbaa
-  oomp_key: oomp_power_management_tps2412pw
-  oomp_key_extra: oomp_symbol_power_management_tps2412pw
-  oomp_key_full: oomp_symbol_power_management_tps2412pw_71dbaa
-  oomp_key_simple: power_management_tps2412pw
+  md5: 2ebe38864bb4a87258312d8191fe15e5
+  md5_10: 2ebe38864b
+  md5_5: 2ebe3
+  md5_6: 2ebe38
+  oomp_key: oomp_tps2412pw
+  oomp_key_extra: oomp_symbol_tps2412pw
+  oomp_key_full: oomp_symbol_tps2412pw_2ebe38
+  oomp_key_simple: tps2412pw
   owner_name: kicad
-  symbol_name: power_management_tps2412pw
+  symbol_name: tps2412pw
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

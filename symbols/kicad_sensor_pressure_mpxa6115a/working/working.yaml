@@ -1,3 +1,5 @@
+id: kicad_sensor_pressure_mpxa6115a
+library: sensor_pressure
 library_name: Sensor_Pressure
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_sensor_pressure_mpxa6115a/working
   oomp_src_flat: symbols_flat/kicad_sensor_pressure_mpxa6115a/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_sensor_pressure_mpxa6115a/working
-name: sensor_pressure_mpxa6115a
+name: mpxa6115a
 oomp:
   library_name: sensor_pressure
-  md5: fe04766b3787616ae1641362f2e9f8bd
-  md5_10: fe04766b37
-  md5_5: fe047
-  md5_6: fe0476
-  oomp_key: oomp_sensor_pressure_mpxa6115a
-  oomp_key_extra: oomp_symbol_sensor_pressure_mpxa6115a
-  oomp_key_full: oomp_symbol_sensor_pressure_mpxa6115a_fe0476
-  oomp_key_simple: sensor_pressure_mpxa6115a
+  md5: 3d8623e41da714c442f16a1dd10441e7
+  md5_10: 3d8623e41d
+  md5_5: 3d862
+  md5_6: 3d8623
+  oomp_key: oomp_mpxa6115a
+  oomp_key_extra: oomp_symbol_mpxa6115a
+  oomp_key_full: oomp_symbol_mpxa6115a_3d8623
+  oomp_key_simple: mpxa6115a
   owner_name: kicad
-  symbol_name: sensor_pressure_mpxa6115a
+  symbol_name: mpxa6115a
 oomp_key: oomp_kicad_sensor_pressure_mpxa6115a
 oomp_key_simple: kicad_sensor_pressure_mpxa6115a
 owner: kicad

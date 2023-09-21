@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_spx2920u_3_3_to220
+library: regulator_linear
 library_name: Regulator_Linear
+name: spx2920u_3_3_to220
 oomp:
   library_name: regulator_linear
-  md5: 60065e64f07eb9306d66e1b88c248f57
-  md5_10: 60065e64f0
-  md5_5: '60065'
-  md5_6: 60065e
-  oomp_key: oomp_regulator_linear_spx2920u_3_3_to220
-  oomp_key_extra: oomp_symbol_regulator_linear_spx2920u_3_3_to220
-  oomp_key_full: oomp_symbol_regulator_linear_spx2920u_3_3_to220_60065e
-  oomp_key_simple: regulator_linear_spx2920u_3_3_to220
+  md5: 10aba0cedd57ff792a1c87c178659bfd
+  md5_10: 10aba0cedd
+  md5_5: 10aba
+  md5_6: 10aba0
+  oomp_key: oomp_spx2920u_3_3_to220
+  oomp_key_extra: oomp_symbol_spx2920u_3_3_to220
+  oomp_key_full: oomp_symbol_spx2920u_3_3_to220_10aba0
+  oomp_key_simple: spx2920u_3_3_to220
   owner_name: kicad
-  symbol_name: regulator_linear_spx2920u_3_3_to220
+  symbol_name: spx2920u_3_3_to220
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

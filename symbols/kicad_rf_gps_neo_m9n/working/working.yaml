@@ -1,16 +1,20 @@
+id: kicad_rf_gps_neo_m9n
+library: rf_gps
 library_name: RF_GPS
+name: neo_m9n
 oomp:
   library_name: rf_gps
-  md5: 15e35e137f1182cab6d200973ac86c4f
-  md5_10: 15e35e137f
-  md5_5: 15e35
-  md5_6: 15e35e
-  oomp_key: oomp_rf_gps_neo_m9n
-  oomp_key_extra: oomp_symbol_rf_gps_neo_m9n
-  oomp_key_full: oomp_symbol_rf_gps_neo_m9n_15e35e
-  oomp_key_simple: rf_gps_neo_m9n
+  md5: 9459a72939e34a2b6e62191c3e36ccb4
+  md5_10: 9459a72939
+  md5_5: 9459a
+  md5_6: 9459a7
+  oomp_key: oomp_neo_m9n
+  oomp_key_extra: oomp_symbol_neo_m9n
+  oomp_key_full: oomp_symbol_neo_m9n_9459a7
+  oomp_key_simple: neo_m9n
   owner_name: kicad
-  symbol_name: rf_gps_neo_m9n
+  symbol_name: neo_m9n
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

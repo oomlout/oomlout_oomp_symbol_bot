@@ -1,3 +1,5 @@
+id: kicad_mcu_st_stm32g4_stm32g441cbtx
+library: mcu_st_stm32g4
 library_name: MCU_ST_STM32G4
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_st_stm32g4_stm32g441cbtx/working
   oomp_src_flat: symbols_flat/kicad_mcu_st_stm32g4_stm32g441cbtx/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_st_stm32g4_stm32g441cbtx/working
-name: mcu_st_stm32g4_stm32g441cbtx
+name: stm32g441cbtx
 oomp:
   library_name: mcu_st_stm32g4
-  md5: 7cabbd42685c4feb9f3071dbcac37378
-  md5_10: 7cabbd4268
-  md5_5: 7cabb
-  md5_6: 7cabbd
-  oomp_key: oomp_mcu_st_stm32g4_stm32g441cbtx
-  oomp_key_extra: oomp_symbol_mcu_st_stm32g4_stm32g441cbtx
-  oomp_key_full: oomp_symbol_mcu_st_stm32g4_stm32g441cbtx_7cabbd
-  oomp_key_simple: mcu_st_stm32g4_stm32g441cbtx
+  md5: dc2bdb7ccfedd4d6e9abd8e15a02b6ba
+  md5_10: dc2bdb7ccf
+  md5_5: dc2bd
+  md5_6: dc2bdb
+  oomp_key: oomp_stm32g441cbtx
+  oomp_key_extra: oomp_symbol_stm32g441cbtx
+  oomp_key_full: oomp_symbol_stm32g441cbtx_dc2bdb
+  oomp_key_simple: stm32g441cbtx
   owner_name: kicad
-  symbol_name: mcu_st_stm32g4_stm32g441cbtx
+  symbol_name: stm32g441cbtx
 oomp_key: oomp_kicad_mcu_st_stm32g4_stm32g441cbtx
 oomp_key_simple: kicad_mcu_st_stm32g4_stm32g441cbtx
 owner: kicad

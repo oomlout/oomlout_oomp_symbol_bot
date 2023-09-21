@@ -1,16 +1,20 @@
+id: kicad_oscillator_ltc6905xs5_133
+library: oscillator
 library_name: Oscillator
+name: ltc6905xs5_133
 oomp:
   library_name: oscillator
-  md5: 0599bd8d17ba2cb12c5da9862cae96d9
-  md5_10: 0599bd8d17
-  md5_5: 0599b
-  md5_6: 0599bd
-  oomp_key: oomp_oscillator_ltc6905xs5_133
-  oomp_key_extra: oomp_symbol_oscillator_ltc6905xs5_133
-  oomp_key_full: oomp_symbol_oscillator_ltc6905xs5_133_0599bd
-  oomp_key_simple: oscillator_ltc6905xs5_133
+  md5: 90f0a8c43b1ad45f4b1f83a16039d23a
+  md5_10: 90f0a8c43b
+  md5_5: 90f0a
+  md5_6: 90f0a8
+  oomp_key: oomp_ltc6905xs5_133
+  oomp_key_extra: oomp_symbol_ltc6905xs5_133
+  oomp_key_full: oomp_symbol_ltc6905xs5_133_90f0a8
+  oomp_key_simple: ltc6905xs5_133
   owner_name: kicad
-  symbol_name: oscillator_ltc6905xs5_133
+  symbol_name: ltc6905xs5_133
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

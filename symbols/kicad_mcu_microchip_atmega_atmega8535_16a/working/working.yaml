@@ -1,16 +1,20 @@
+id: kicad_mcu_microchip_atmega_atmega8535_16a
+library: mcu_microchip_atmega
 library_name: MCU_Microchip_ATmega
+name: atmega8535_16a
 oomp:
   library_name: mcu_microchip_atmega
-  md5: b35e8dd1b71ed71b7963aa47c0d4be0e
-  md5_10: b35e8dd1b7
-  md5_5: b35e8
-  md5_6: b35e8d
-  oomp_key: oomp_mcu_microchip_atmega_atmega8535_16a
-  oomp_key_extra: oomp_symbol_mcu_microchip_atmega_atmega8535_16a
-  oomp_key_full: oomp_symbol_mcu_microchip_atmega_atmega8535_16a_b35e8d
-  oomp_key_simple: mcu_microchip_atmega_atmega8535_16a
+  md5: 0b8bb0c6af5b3b5373a66d7969a4956a
+  md5_10: 0b8bb0c6af
+  md5_5: 0b8bb
+  md5_6: 0b8bb0
+  oomp_key: oomp_atmega8535_16a
+  oomp_key_extra: oomp_symbol_atmega8535_16a
+  oomp_key_full: oomp_symbol_atmega8535_16a_0b8bb0
+  oomp_key_simple: atmega8535_16a
   owner_name: kicad
-  symbol_name: mcu_microchip_atmega_atmega8535_16a
+  symbol_name: atmega8535_16a
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

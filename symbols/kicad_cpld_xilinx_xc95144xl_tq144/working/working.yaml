@@ -1,3 +1,5 @@
+id: kicad_cpld_xilinx_xc95144xl_tq144
+library: cpld_xilinx
 library_name: CPLD_Xilinx
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_cpld_xilinx_xc95144xl_tq144/working
   oomp_src_flat: symbols_flat/kicad_cpld_xilinx_xc95144xl_tq144/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_cpld_xilinx_xc95144xl_tq144/working
-name: cpld_xilinx_xc95144xl_tq144
+name: xc95144xl_tq144
 oomp:
   library_name: cpld_xilinx
-  md5: 749f1e3e9d84f071ac9aa45108bbbe3e
-  md5_10: 749f1e3e9d
-  md5_5: 749f1
-  md5_6: 749f1e
-  oomp_key: oomp_cpld_xilinx_xc95144xl_tq144
-  oomp_key_extra: oomp_symbol_cpld_xilinx_xc95144xl_tq144
-  oomp_key_full: oomp_symbol_cpld_xilinx_xc95144xl_tq144_749f1e
-  oomp_key_simple: cpld_xilinx_xc95144xl_tq144
+  md5: e24e3dd46681bc00bcbadb89e355f5d0
+  md5_10: e24e3dd466
+  md5_5: e24e3
+  md5_6: e24e3d
+  oomp_key: oomp_xc95144xl_tq144
+  oomp_key_extra: oomp_symbol_xc95144xl_tq144
+  oomp_key_full: oomp_symbol_xc95144xl_tq144_e24e3d
+  oomp_key_simple: xc95144xl_tq144
   owner_name: kicad
-  symbol_name: cpld_xilinx_xc95144xl_tq144
+  symbol_name: xc95144xl_tq144
 oomp_key: oomp_kicad_cpld_xilinx_xc95144xl_tq144
 oomp_key_simple: kicad_cpld_xilinx_xc95144xl_tq144
 owner: kicad

@@ -1,16 +1,20 @@
+id: kicad_rf_filter_hfcn_9700
+library: rf_filter
 library_name: RF_Filter
+name: hfcn_9700
 oomp:
   library_name: rf_filter
-  md5: d93f05d0de6fcb14fbddf0fd5607e2f0
-  md5_10: d93f05d0de
-  md5_5: d93f0
-  md5_6: d93f05
-  oomp_key: oomp_rf_filter_hfcn_9700
-  oomp_key_extra: oomp_symbol_rf_filter_hfcn_9700
-  oomp_key_full: oomp_symbol_rf_filter_hfcn_9700_d93f05
-  oomp_key_simple: rf_filter_hfcn_9700
+  md5: f492f645dc05a3b3dba3cd38896c9e36
+  md5_10: f492f645dc
+  md5_5: f492f
+  md5_6: f492f6
+  oomp_key: oomp_hfcn_9700
+  oomp_key_extra: oomp_symbol_hfcn_9700
+  oomp_key_full: oomp_symbol_hfcn_9700_f492f6
+  oomp_key_simple: hfcn_9700
   owner_name: kicad
-  symbol_name: rf_filter_hfcn_9700
+  symbol_name: hfcn_9700
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

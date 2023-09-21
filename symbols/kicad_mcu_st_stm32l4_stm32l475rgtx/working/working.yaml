@@ -1,16 +1,20 @@
+id: kicad_mcu_st_stm32l4_stm32l475rgtx
+library: mcu_st_stm32l4
 library_name: MCU_ST_STM32L4
+name: stm32l475rgtx
 oomp:
   library_name: mcu_st_stm32l4
-  md5: 4e466eaa7a90c73f5681690d5dfbe4ad
-  md5_10: 4e466eaa7a
-  md5_5: 4e466
-  md5_6: 4e466e
-  oomp_key: oomp_mcu_st_stm32l4_stm32l475rgtx
-  oomp_key_extra: oomp_symbol_mcu_st_stm32l4_stm32l475rgtx
-  oomp_key_full: oomp_symbol_mcu_st_stm32l4_stm32l475rgtx_4e466e
-  oomp_key_simple: mcu_st_stm32l4_stm32l475rgtx
+  md5: b9d98295e06a061e0ed775385c92d376
+  md5_10: b9d98295e0
+  md5_5: b9d98
+  md5_6: b9d982
+  oomp_key: oomp_stm32l475rgtx
+  oomp_key_extra: oomp_symbol_stm32l475rgtx
+  oomp_key_full: oomp_symbol_stm32l475rgtx_b9d982
+  oomp_key_simple: stm32l475rgtx
   owner_name: kicad
-  symbol_name: mcu_st_stm32l4_stm32l475rgtx
+  symbol_name: stm32l475rgtx
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

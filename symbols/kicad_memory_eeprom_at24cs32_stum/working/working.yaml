@@ -1,16 +1,20 @@
+id: kicad_memory_eeprom_at24cs32_stum
+library: memory_eeprom
 library_name: Memory_EEPROM
+name: at24cs32_stum
 oomp:
   library_name: memory_eeprom
-  md5: 503b4296caea9ea5b03c0fef25e66997
-  md5_10: 503b4296ca
-  md5_5: 503b4
-  md5_6: 503b42
-  oomp_key: oomp_memory_eeprom_at24cs32_stum
-  oomp_key_extra: oomp_symbol_memory_eeprom_at24cs32_stum
-  oomp_key_full: oomp_symbol_memory_eeprom_at24cs32_stum_503b42
-  oomp_key_simple: memory_eeprom_at24cs32_stum
+  md5: 37e6ddd6dbf582230f43bbb6c77fb932
+  md5_10: 37e6ddd6db
+  md5_5: 37e6d
+  md5_6: 37e6dd
+  oomp_key: oomp_at24cs32_stum
+  oomp_key_extra: oomp_symbol_at24cs32_stum
+  oomp_key_full: oomp_symbol_at24cs32_stum_37e6dd
+  oomp_key_simple: at24cs32_stum
   owner_name: kicad
-  symbol_name: memory_eeprom_at24cs32_stum
+  symbol_name: at24cs32_stum
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

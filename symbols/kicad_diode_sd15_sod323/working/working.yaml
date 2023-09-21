@@ -1,16 +1,20 @@
+id: kicad_diode_sd15_sod323
+library: diode
 library_name: Diode
+name: sd15_sod323
 oomp:
   library_name: diode
-  md5: d3e8b640388e5a1179938af2e7dd1a8c
-  md5_10: d3e8b64038
-  md5_5: d3e8b
-  md5_6: d3e8b6
-  oomp_key: oomp_diode_sd15_sod323
-  oomp_key_extra: oomp_symbol_diode_sd15_sod323
-  oomp_key_full: oomp_symbol_diode_sd15_sod323_d3e8b6
-  oomp_key_simple: diode_sd15_sod323
+  md5: e32afca3b34bda5202158033ab894cdb
+  md5_10: e32afca3b3
+  md5_5: e32af
+  md5_6: e32afc
+  oomp_key: oomp_sd15_sod323
+  oomp_key_extra: oomp_symbol_sd15_sod323
+  oomp_key_full: oomp_symbol_sd15_sod323_e32afc
+  oomp_key_simple: sd15_sod323
   owner_name: kicad
-  symbol_name: diode_sd15_sod323
+  symbol_name: sd15_sod323
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

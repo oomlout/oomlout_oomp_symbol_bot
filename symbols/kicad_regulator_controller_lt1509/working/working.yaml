@@ -1,3 +1,5 @@
+id: kicad_regulator_controller_lt1509
+library: regulator_controller
 library_name: Regulator_Controller
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_regulator_controller_lt1509/working
   oomp_src_flat: symbols_flat/kicad_regulator_controller_lt1509/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_regulator_controller_lt1509/working
-name: regulator_controller_lt1509
+name: lt1509
 oomp:
   library_name: regulator_controller
-  md5: ec4a09a13235a8fd9e0612199310dc3b
-  md5_10: ec4a09a132
-  md5_5: ec4a0
-  md5_6: ec4a09
-  oomp_key: oomp_regulator_controller_lt1509
-  oomp_key_extra: oomp_symbol_regulator_controller_lt1509
-  oomp_key_full: oomp_symbol_regulator_controller_lt1509_ec4a09
-  oomp_key_simple: regulator_controller_lt1509
+  md5: 60fbe77614351558cdcb0e2ef31dede5
+  md5_10: 60fbe77614
+  md5_5: 60fbe
+  md5_6: 60fbe7
+  oomp_key: oomp_lt1509
+  oomp_key_extra: oomp_symbol_lt1509
+  oomp_key_full: oomp_symbol_lt1509_60fbe7
+  oomp_key_simple: lt1509
   owner_name: kicad
-  symbol_name: regulator_controller_lt1509
+  symbol_name: lt1509
 oomp_key: oomp_kicad_regulator_controller_lt1509
 oomp_key_simple: kicad_regulator_controller_lt1509
 owner: kicad

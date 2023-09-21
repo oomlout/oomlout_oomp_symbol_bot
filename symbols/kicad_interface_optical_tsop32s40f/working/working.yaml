@@ -1,3 +1,5 @@
+id: kicad_interface_optical_tsop32s40f
+library: interface_optical
 library_name: Interface_Optical
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_optical_tsop32s40f/working
   oomp_src_flat: symbols_flat/kicad_interface_optical_tsop32s40f/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_optical_tsop32s40f/working
-name: interface_optical_tsop32s40f
+name: tsop32s40f
 oomp:
   library_name: interface_optical
-  md5: b72843eef8ad865b979e76170a126b98
-  md5_10: b72843eef8
-  md5_5: b7284
-  md5_6: b72843
-  oomp_key: oomp_interface_optical_tsop32s40f
-  oomp_key_extra: oomp_symbol_interface_optical_tsop32s40f
-  oomp_key_full: oomp_symbol_interface_optical_tsop32s40f_b72843
-  oomp_key_simple: interface_optical_tsop32s40f
+  md5: 4250a797a00d67f18c81b0515d74d717
+  md5_10: 4250a797a0
+  md5_5: 4250a
+  md5_6: 4250a7
+  oomp_key: oomp_tsop32s40f
+  oomp_key_extra: oomp_symbol_tsop32s40f
+  oomp_key_full: oomp_symbol_tsop32s40f_4250a7
+  oomp_key_simple: tsop32s40f
   owner_name: kicad
-  symbol_name: interface_optical_tsop32s40f
+  symbol_name: tsop32s40f
 oomp_key: oomp_kicad_interface_optical_tsop32s40f
 oomp_key_simple: kicad_interface_optical_tsop32s40f
 owner: kicad

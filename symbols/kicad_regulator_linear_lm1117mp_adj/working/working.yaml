@@ -1,16 +1,20 @@
+id: kicad_regulator_linear_lm1117mp_adj
+library: regulator_linear
 library_name: Regulator_Linear
+name: lm1117mp_adj
 oomp:
   library_name: regulator_linear
-  md5: 3b0d4a247fcb7ef013b9701b4df101df
-  md5_10: 3b0d4a247f
-  md5_5: 3b0d4
-  md5_6: 3b0d4a
-  oomp_key: oomp_regulator_linear_lm1117mp_adj
-  oomp_key_extra: oomp_symbol_regulator_linear_lm1117mp_adj
-  oomp_key_full: oomp_symbol_regulator_linear_lm1117mp_adj_3b0d4a
-  oomp_key_simple: regulator_linear_lm1117mp_adj
+  md5: 0f454c786e7e704c8f3fd10966a0df2f
+  md5_10: 0f454c786e
+  md5_5: 0f454
+  md5_6: 0f454c
+  oomp_key: oomp_lm1117mp_adj
+  oomp_key_extra: oomp_symbol_lm1117mp_adj
+  oomp_key_full: oomp_symbol_lm1117mp_adj_0f454c
+  oomp_key_simple: lm1117mp_adj
   owner_name: kicad
-  symbol_name: regulator_linear_lm1117mp_adj
+  symbol_name: lm1117mp_adj
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

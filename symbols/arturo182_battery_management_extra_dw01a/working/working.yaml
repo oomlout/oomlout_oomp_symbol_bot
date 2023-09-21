@@ -1,3 +1,5 @@
+id: arturo182_battery_management_extra_dw01a
+library: battery_management_extra
 library_name: Battery_Management_Extra
 links:
   github_owner: arturo182
@@ -10,19 +12,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/arturo182_battery_management_extra_dw01a/working
   oomp_src_flat: symbols_flat/arturo182_battery_management_extra_dw01a/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/arturo182_battery_management_extra_dw01a/working
-name: battery_management_extra_dw01a
+name: dw01a
 oomp:
   library_name: battery_management_extra
-  md5: 9eadc22892dfae522855e240cf14809b
-  md5_10: 9eadc22892
-  md5_5: 9eadc
-  md5_6: 9eadc2
-  oomp_key: oomp_battery_management_extra_dw01a
-  oomp_key_extra: oomp_symbol_battery_management_extra_dw01a
-  oomp_key_full: oomp_symbol_battery_management_extra_dw01a_9eadc2
-  oomp_key_simple: battery_management_extra_dw01a
+  md5: 59644b1bb250c1cd23c208a2e87bf406
+  md5_10: 59644b1bb2
+  md5_5: '59644'
+  md5_6: 59644b
+  oomp_key: oomp_dw01a
+  oomp_key_extra: oomp_symbol_dw01a
+  oomp_key_full: oomp_symbol_dw01a_59644b
+  oomp_key_simple: dw01a
   owner_name: arturo182
-  symbol_name: battery_management_extra_dw01a
+  symbol_name: dw01a
 oomp_key: oomp_arturo182_battery_management_extra_dw01a
 oomp_key_simple: arturo182_battery_management_extra_dw01a
 owner: arturo182

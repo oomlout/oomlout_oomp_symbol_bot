@@ -1,3 +1,5 @@
+id: kicad_mcu_texas_tm4c1231c3pm
+library: mcu_texas
 library_name: MCU_Texas
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_texas_tm4c1231c3pm/working
   oomp_src_flat: symbols_flat/kicad_mcu_texas_tm4c1231c3pm/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_texas_tm4c1231c3pm/working
-name: mcu_texas_tm4c1231c3pm
+name: tm4c1231c3pm
 oomp:
   library_name: mcu_texas
-  md5: abf9e3dac8146c9ffe01973a3a3c076d
-  md5_10: abf9e3dac8
-  md5_5: abf9e
-  md5_6: abf9e3
-  oomp_key: oomp_mcu_texas_tm4c1231c3pm
-  oomp_key_extra: oomp_symbol_mcu_texas_tm4c1231c3pm
-  oomp_key_full: oomp_symbol_mcu_texas_tm4c1231c3pm_abf9e3
-  oomp_key_simple: mcu_texas_tm4c1231c3pm
+  md5: 194eed2bf83ac387b3ff85da690c0025
+  md5_10: 194eed2bf8
+  md5_5: 194ee
+  md5_6: 194eed
+  oomp_key: oomp_tm4c1231c3pm
+  oomp_key_extra: oomp_symbol_tm4c1231c3pm
+  oomp_key_full: oomp_symbol_tm4c1231c3pm_194eed
+  oomp_key_simple: tm4c1231c3pm
   owner_name: kicad
-  symbol_name: mcu_texas_tm4c1231c3pm
+  symbol_name: tm4c1231c3pm
 oomp_key: oomp_kicad_mcu_texas_tm4c1231c3pm
 oomp_key_simple: kicad_mcu_texas_tm4c1231c3pm
 owner: kicad

@@ -1,16 +1,20 @@
+id: kicad_timer_se556
+library: timer
 library_name: Timer
+name: se556
 oomp:
   library_name: timer
-  md5: a51891c4e25b49ef4bfa7c7e2c45c39f
-  md5_10: a51891c4e2
-  md5_5: a5189
-  md5_6: a51891
-  oomp_key: oomp_timer_se556
-  oomp_key_extra: oomp_symbol_timer_se556
-  oomp_key_full: oomp_symbol_timer_se556_a51891
-  oomp_key_simple: timer_se556
+  md5: 0c49dee4ab2fd475e057b0ce0ae136c0
+  md5_10: 0c49dee4ab
+  md5_5: 0c49d
+  md5_6: 0c49de
+  oomp_key: oomp_se556
+  oomp_key_extra: oomp_symbol_se556
+  oomp_key_full: oomp_symbol_se556_0c49de
+  oomp_key_simple: se556
   owner_name: kicad
-  symbol_name: timer_se556
+  symbol_name: se556
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

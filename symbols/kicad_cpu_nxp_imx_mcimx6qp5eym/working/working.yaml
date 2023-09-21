@@ -1,3 +1,5 @@
+id: kicad_cpu_nxp_imx_mcimx6qp5eym
+library: cpu_nxp_imx
 library_name: CPU_NXP_IMX
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_cpu_nxp_imx_mcimx6qp5eym/working
   oomp_src_flat: symbols_flat/kicad_cpu_nxp_imx_mcimx6qp5eym/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_cpu_nxp_imx_mcimx6qp5eym/working
-name: cpu_nxp_imx_mcimx6qp5eym
+name: mcimx6qp5eym
 oomp:
   library_name: cpu_nxp_imx
-  md5: 128cf0ecc54925b217e246e784f633fc
-  md5_10: 128cf0ecc5
-  md5_5: 128cf
-  md5_6: 128cf0
-  oomp_key: oomp_cpu_nxp_imx_mcimx6qp5eym
-  oomp_key_extra: oomp_symbol_cpu_nxp_imx_mcimx6qp5eym
-  oomp_key_full: oomp_symbol_cpu_nxp_imx_mcimx6qp5eym_128cf0
-  oomp_key_simple: cpu_nxp_imx_mcimx6qp5eym
+  md5: 091faab0bc33de423f0ca70b9256a232
+  md5_10: 091faab0bc
+  md5_5: 091fa
+  md5_6: 091faa
+  oomp_key: oomp_mcimx6qp5eym
+  oomp_key_extra: oomp_symbol_mcimx6qp5eym
+  oomp_key_full: oomp_symbol_mcimx6qp5eym_091faa
+  oomp_key_simple: mcimx6qp5eym
   owner_name: kicad
-  symbol_name: cpu_nxp_imx_mcimx6qp5eym
+  symbol_name: mcimx6qp5eym
 oomp_key: oomp_kicad_cpu_nxp_imx_mcimx6qp5eym
 oomp_key_simple: kicad_cpu_nxp_imx_mcimx6qp5eym
 owner: kicad

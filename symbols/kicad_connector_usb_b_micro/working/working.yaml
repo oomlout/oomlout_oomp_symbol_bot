@@ -1,3 +1,5 @@
+id: kicad_connector_usb_b_micro
+library: connector
 library_name: Connector
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_connector_usb_b_micro/working
   oomp_src_flat: symbols_flat/kicad_connector_usb_b_micro/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_connector_usb_b_micro/working
-name: connector_usb_b_micro
+name: usb_b_micro
 oomp:
   library_name: connector
-  md5: a3a59107325b74011643cf7fa4fe55bb
-  md5_10: a3a5910732
-  md5_5: a3a59
-  md5_6: a3a591
-  oomp_key: oomp_connector_usb_b_micro
-  oomp_key_extra: oomp_symbol_connector_usb_b_micro
-  oomp_key_full: oomp_symbol_connector_usb_b_micro_a3a591
-  oomp_key_simple: connector_usb_b_micro
+  md5: d384740ce23c475c7c2247a4ec375a76
+  md5_10: d384740ce2
+  md5_5: d3847
+  md5_6: d38474
+  oomp_key: oomp_usb_b_micro
+  oomp_key_extra: oomp_symbol_usb_b_micro
+  oomp_key_full: oomp_symbol_usb_b_micro_d38474
+  oomp_key_simple: usb_b_micro
   owner_name: kicad
-  symbol_name: connector_usb_b_micro
+  symbol_name: usb_b_micro
 oomp_key: oomp_kicad_connector_usb_b_micro
 oomp_key_simple: kicad_connector_usb_b_micro
 owner: kicad

@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_ka5m02659rn
+library: regulator_switching
 library_name: Regulator_Switching
+name: ka5m02659rn
 oomp:
   library_name: regulator_switching
-  md5: 9b9e87e280fb8d1b1c6c4cc20c85b662
-  md5_10: 9b9e87e280
-  md5_5: 9b9e8
-  md5_6: 9b9e87
-  oomp_key: oomp_regulator_switching_ka5m02659rn
-  oomp_key_extra: oomp_symbol_regulator_switching_ka5m02659rn
-  oomp_key_full: oomp_symbol_regulator_switching_ka5m02659rn_9b9e87
-  oomp_key_simple: regulator_switching_ka5m02659rn
+  md5: 9e7a773538e428a7c96479905be13349
+  md5_10: 9e7a773538
+  md5_5: 9e7a7
+  md5_6: 9e7a77
+  oomp_key: oomp_ka5m02659rn
+  oomp_key_extra: oomp_symbol_ka5m02659rn
+  oomp_key_full: oomp_symbol_ka5m02659rn_9e7a77
+  oomp_key_simple: ka5m02659rn
   owner_name: kicad
-  symbol_name: regulator_switching_ka5m02659rn
+  symbol_name: ka5m02659rn
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

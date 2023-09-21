@@ -1,3 +1,5 @@
+id: kicad_power_management_ltc4359_dcb
+library: power_management
 library_name: Power_Management
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_power_management_ltc4359_dcb/working
   oomp_src_flat: symbols_flat/kicad_power_management_ltc4359_dcb/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_power_management_ltc4359_dcb/working
-name: power_management_ltc4359_dcb
+name: ltc4359_dcb
 oomp:
   library_name: power_management
-  md5: 00fbdecaa2f25e557a19b3346a495e24
-  md5_10: 00fbdecaa2
-  md5_5: 00fbd
-  md5_6: 00fbde
-  oomp_key: oomp_power_management_ltc4359_dcb
-  oomp_key_extra: oomp_symbol_power_management_ltc4359_dcb
-  oomp_key_full: oomp_symbol_power_management_ltc4359_dcb_00fbde
-  oomp_key_simple: power_management_ltc4359_dcb
+  md5: d7cfd30c35b15965b2f2f84c9fa1f021
+  md5_10: d7cfd30c35
+  md5_5: d7cfd
+  md5_6: d7cfd3
+  oomp_key: oomp_ltc4359_dcb
+  oomp_key_extra: oomp_symbol_ltc4359_dcb
+  oomp_key_full: oomp_symbol_ltc4359_dcb_d7cfd3
+  oomp_key_simple: ltc4359_dcb
   owner_name: kicad
-  symbol_name: power_management_ltc4359_dcb
+  symbol_name: ltc4359_dcb
 oomp_key: oomp_kicad_power_management_ltc4359_dcb
 oomp_key_simple: kicad_power_management_ltc4359_dcb
 owner: kicad

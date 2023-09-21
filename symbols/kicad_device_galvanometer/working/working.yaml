@@ -1,3 +1,5 @@
+id: kicad_device_galvanometer
+library: device
 library_name: Device
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_galvanometer/working
   oomp_src_flat: symbols_flat/kicad_device_galvanometer/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_galvanometer/working
-name: device_galvanometer
+name: galvanometer
 oomp:
   library_name: device
-  md5: 768f01b45a86bccb9e3164cb56e2d351
-  md5_10: 768f01b45a
-  md5_5: 768f0
-  md5_6: 768f01
-  oomp_key: oomp_device_galvanometer
-  oomp_key_extra: oomp_symbol_device_galvanometer
-  oomp_key_full: oomp_symbol_device_galvanometer_768f01
-  oomp_key_simple: device_galvanometer
+  md5: 02f87319f253a4d2cf523448cbc6e900
+  md5_10: 02f87319f2
+  md5_5: 02f87
+  md5_6: 02f873
+  oomp_key: oomp_galvanometer
+  oomp_key_extra: oomp_symbol_galvanometer
+  oomp_key_full: oomp_symbol_galvanometer_02f873
+  oomp_key_simple: galvanometer
   owner_name: kicad
-  symbol_name: device_galvanometer
+  symbol_name: galvanometer
 oomp_key: oomp_kicad_device_galvanometer
 oomp_key_simple: kicad_device_galvanometer
 owner: kicad

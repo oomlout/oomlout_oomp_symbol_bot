@@ -15,7 +15,7 @@
     (property "ki_keywords" "quartz ceramic resonator oscillator" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "ki_description" "Three pin crystal, GND on pin 2" (at 0 0 0)
+    (property "ki_description" "[electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz/working)<br>[LCSC - C882605<br>](https://lcsc.com/product-detail/C882605.html)<br>[Murata - CSTNE16M0VH3C000R0](https://www.murata.com/en-eu/products/productdetail?cate=cgsubResonators&partno=CSTNE16M0VH3C000R0)" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "ki_fp_filters" "Crystal*" (at 0 0 0)

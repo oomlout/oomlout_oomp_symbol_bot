@@ -1,16 +1,20 @@
+id: kicad_mcu_nxp_lpc_lpc1224fbd64_121
+library: mcu_nxp_lpc
 library_name: MCU_NXP_LPC
+name: lpc1224fbd64_121
 oomp:
   library_name: mcu_nxp_lpc
-  md5: a7fc79d0454b1763bb9f8adc81a07753
-  md5_10: a7fc79d045
-  md5_5: a7fc7
-  md5_6: a7fc79
-  oomp_key: oomp_mcu_nxp_lpc_lpc1224fbd64_121
-  oomp_key_extra: oomp_symbol_mcu_nxp_lpc_lpc1224fbd64_121
-  oomp_key_full: oomp_symbol_mcu_nxp_lpc_lpc1224fbd64_121_a7fc79
-  oomp_key_simple: mcu_nxp_lpc_lpc1224fbd64_121
+  md5: 141db31c817b690a8b3230362d7b63ea
+  md5_10: 141db31c81
+  md5_5: 141db
+  md5_6: 141db3
+  oomp_key: oomp_lpc1224fbd64_121
+  oomp_key_extra: oomp_symbol_lpc1224fbd64_121
+  oomp_key_full: oomp_symbol_lpc1224fbd64_121_141db3
+  oomp_key_simple: lpc1224fbd64_121
   owner_name: kicad
-  symbol_name: mcu_nxp_lpc_lpc1224fbd64_121
+  symbol_name: lpc1224fbd64_121
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

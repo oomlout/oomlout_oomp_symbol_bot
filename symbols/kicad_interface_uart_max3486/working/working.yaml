@@ -1,16 +1,20 @@
+id: kicad_interface_uart_max3486
+library: interface_uart
 library_name: Interface_UART
+name: max3486
 oomp:
   library_name: interface_uart
-  md5: 0ef30e97047cfbd310002d2c6e041532
-  md5_10: 0ef30e9704
-  md5_5: 0ef30
-  md5_6: 0ef30e
-  oomp_key: oomp_interface_uart_max3486
-  oomp_key_extra: oomp_symbol_interface_uart_max3486
-  oomp_key_full: oomp_symbol_interface_uart_max3486_0ef30e
-  oomp_key_simple: interface_uart_max3486
+  md5: d907e25f44bed92b608316202fe3c70c
+  md5_10: d907e25f44
+  md5_5: d907e
+  md5_6: d907e2
+  oomp_key: oomp_max3486
+  oomp_key_extra: oomp_symbol_max3486
+  oomp_key_full: oomp_symbol_max3486_d907e2
+  oomp_key_simple: max3486
   owner_name: kicad
-  symbol_name: interface_uart_max3486
+  symbol_name: max3486
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

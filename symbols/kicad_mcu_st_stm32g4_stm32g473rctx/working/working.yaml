@@ -1,16 +1,20 @@
+id: kicad_mcu_st_stm32g4_stm32g473rctx
+library: mcu_st_stm32g4
 library_name: MCU_ST_STM32G4
+name: stm32g473rctx
 oomp:
   library_name: mcu_st_stm32g4
-  md5: 121977c2c071c6e8cd4ea28cdf86d8e0
-  md5_10: 121977c2c0
-  md5_5: '12197'
-  md5_6: '121977'
-  oomp_key: oomp_mcu_st_stm32g4_stm32g473rctx
-  oomp_key_extra: oomp_symbol_mcu_st_stm32g4_stm32g473rctx
-  oomp_key_full: oomp_symbol_mcu_st_stm32g4_stm32g473rctx_121977
-  oomp_key_simple: mcu_st_stm32g4_stm32g473rctx
+  md5: 4b7b0f276c6520e787755c0fc007d80a
+  md5_10: 4b7b0f276c
+  md5_5: 4b7b0
+  md5_6: 4b7b0f
+  oomp_key: oomp_stm32g473rctx
+  oomp_key_extra: oomp_symbol_stm32g473rctx
+  oomp_key_full: oomp_symbol_stm32g473rctx_4b7b0f
+  oomp_key_simple: stm32g473rctx
   owner_name: kicad
-  symbol_name: mcu_st_stm32g4_stm32g473rctx
+  symbol_name: stm32g473rctx
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

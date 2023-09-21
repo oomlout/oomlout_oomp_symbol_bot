@@ -1,16 +1,20 @@
+id: kicad_regulator_switching_fsbh0270a
+library: regulator_switching
 library_name: Regulator_Switching
+name: fsbh0270a
 oomp:
   library_name: regulator_switching
-  md5: a23cdf024478d8077571a8c792b89880
-  md5_10: a23cdf0244
-  md5_5: a23cd
-  md5_6: a23cdf
-  oomp_key: oomp_regulator_switching_fsbh0270a
-  oomp_key_extra: oomp_symbol_regulator_switching_fsbh0270a
-  oomp_key_full: oomp_symbol_regulator_switching_fsbh0270a_a23cdf
-  oomp_key_simple: regulator_switching_fsbh0270a
+  md5: 072ae61a607d393ff7116e3b6620f320
+  md5_10: 072ae61a60
+  md5_5: 072ae
+  md5_6: 072ae6
+  oomp_key: oomp_fsbh0270a
+  oomp_key_extra: oomp_symbol_fsbh0270a
+  oomp_key_full: oomp_symbol_fsbh0270a_072ae6
+  oomp_key_simple: fsbh0270a
   owner_name: kicad
-  symbol_name: regulator_switching_fsbh0270a
+  symbol_name: fsbh0270a
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

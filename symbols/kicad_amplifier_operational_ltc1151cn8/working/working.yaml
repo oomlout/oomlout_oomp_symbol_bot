@@ -1,3 +1,5 @@
+id: kicad_amplifier_operational_ltc1151cn8
+library: amplifier_operational
 library_name: Amplifier_Operational
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_amplifier_operational_ltc1151cn8/working
   oomp_src_flat: symbols_flat/kicad_amplifier_operational_ltc1151cn8/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_amplifier_operational_ltc1151cn8/working
-name: amplifier_operational_ltc1151cn8
+name: ltc1151cn8
 oomp:
   library_name: amplifier_operational
-  md5: 17197a7a3a78d6fcfb819cc898faf798
-  md5_10: 17197a7a3a
-  md5_5: '17197'
-  md5_6: 17197a
-  oomp_key: oomp_amplifier_operational_ltc1151cn8
-  oomp_key_extra: oomp_symbol_amplifier_operational_ltc1151cn8
-  oomp_key_full: oomp_symbol_amplifier_operational_ltc1151cn8_17197a
-  oomp_key_simple: amplifier_operational_ltc1151cn8
+  md5: e43fb88db66cd8146cef028f3c65939e
+  md5_10: e43fb88db6
+  md5_5: e43fb
+  md5_6: e43fb8
+  oomp_key: oomp_ltc1151cn8
+  oomp_key_extra: oomp_symbol_ltc1151cn8
+  oomp_key_full: oomp_symbol_ltc1151cn8_e43fb8
+  oomp_key_simple: ltc1151cn8
   owner_name: kicad
-  symbol_name: amplifier_operational_ltc1151cn8
+  symbol_name: ltc1151cn8
 oomp_key: oomp_kicad_amplifier_operational_ltc1151cn8
 oomp_key_simple: kicad_amplifier_operational_ltc1151cn8
 owner: kicad

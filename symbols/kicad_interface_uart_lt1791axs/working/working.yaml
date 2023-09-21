@@ -1,16 +1,20 @@
+id: kicad_interface_uart_lt1791axs
+library: interface_uart
 library_name: Interface_UART
+name: lt1791axs
 oomp:
   library_name: interface_uart
-  md5: 4b5de6faefe0f439b32e51f450b286d8
-  md5_10: 4b5de6faef
-  md5_5: 4b5de
-  md5_6: 4b5de6
-  oomp_key: oomp_interface_uart_lt1791axs
-  oomp_key_extra: oomp_symbol_interface_uart_lt1791axs
-  oomp_key_full: oomp_symbol_interface_uart_lt1791axs_4b5de6
-  oomp_key_simple: interface_uart_lt1791axs
+  md5: cf7cbf354c3267059df02abe9d9a8e9a
+  md5_10: cf7cbf354c
+  md5_5: cf7cb
+  md5_6: cf7cbf
+  oomp_key: oomp_lt1791axs
+  oomp_key_extra: oomp_symbol_lt1791axs
+  oomp_key_full: oomp_symbol_lt1791axs_cf7cbf
+  oomp_key_simple: lt1791axs
   owner_name: kicad
-  symbol_name: interface_uart_lt1791axs
+  symbol_name: lt1791axs
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

@@ -1,16 +1,20 @@
+id: kicad_transistor_bjt_2n3905
+library: transistor_bjt
 library_name: Transistor_BJT
+name: 2n3905
 oomp:
   library_name: transistor_bjt
-  md5: 6dbbe4476ab117d56027a7962e65163a
-  md5_10: 6dbbe4476a
-  md5_5: 6dbbe
-  md5_6: 6dbbe4
-  oomp_key: oomp_transistor_bjt_2n3905
-  oomp_key_extra: oomp_symbol_transistor_bjt_2n3905
-  oomp_key_full: oomp_symbol_transistor_bjt_2n3905_6dbbe4
-  oomp_key_simple: transistor_bjt_2n3905
+  md5: 02a209ed557f8a3dd6aed8fefaf2b134
+  md5_10: 02a209ed55
+  md5_5: 02a20
+  md5_6: 02a209
+  oomp_key: oomp_2n3905
+  oomp_key_extra: oomp_symbol_2n3905
+  oomp_key_full: oomp_symbol_2n3905_02a209
+  oomp_key_simple: 2n3905
   owner_name: kicad
-  symbol_name: transistor_bjt_2n3905
+  symbol_name: 2n3905
+owner: kicad
 repo:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
   name: kicad-symbols

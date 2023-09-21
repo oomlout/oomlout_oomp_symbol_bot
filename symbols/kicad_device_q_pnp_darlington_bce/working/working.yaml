@@ -1,3 +1,5 @@
+id: kicad_device_q_pnp_darlington_bce
+library: device
 library_name: Device
 links:
   github_src: https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
@@ -8,19 +10,19 @@ links:
   oomp_doc_github: https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_device_q_pnp_darlington_bce/working
   oomp_src_flat: symbols_flat/kicad_device_q_pnp_darlington_bce/working
   oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_device_q_pnp_darlington_bce/working
-name: device_q_pnp_darlington_bce
+name: q_pnp_darlington_bce
 oomp:
   library_name: device
-  md5: 77398ff7d0044e829c2cc12e9386ac9d
-  md5_10: 77398ff7d0
-  md5_5: '77398'
-  md5_6: 77398f
-  oomp_key: oomp_device_q_pnp_darlington_bce
-  oomp_key_extra: oomp_symbol_device_q_pnp_darlington_bce
-  oomp_key_full: oomp_symbol_device_q_pnp_darlington_bce_77398f
-  oomp_key_simple: device_q_pnp_darlington_bce
+  md5: a065ab213a28b61916065f62cf82b280
+  md5_10: a065ab213a
+  md5_5: a065a
+  md5_6: a065ab
+  oomp_key: oomp_q_pnp_darlington_bce
+  oomp_key_extra: oomp_symbol_q_pnp_darlington_bce
+  oomp_key_full: oomp_symbol_q_pnp_darlington_bce_a065ab
+  oomp_key_simple: q_pnp_darlington_bce
   owner_name: kicad
-  symbol_name: device_q_pnp_darlington_bce
+  symbol_name: q_pnp_darlington_bce
 oomp_key: oomp_kicad_device_q_pnp_darlington_bce
 oomp_key_simple: kicad_device_q_pnp_darlington_bce
 owner: kicad
