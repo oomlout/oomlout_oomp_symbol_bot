@@ -50,6 +50,7 @@ def go_through_directories():
                                     oom_git.push_to_git(count=count, directory=directory)
                                     #if running standalone
                                     #oom_git.push_to_git(count=count)
+    import oom_git
     oom_git.push_to_git(count=count)
 
 
