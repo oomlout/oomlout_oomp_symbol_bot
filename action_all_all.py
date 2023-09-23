@@ -21,7 +21,7 @@ def main(**kwargs):
     #also make the library
     oomlout_oomp_symbol_src.clone_and_copy_symbols(test=test, dir_base="tmp/data/oomlout_oomp_symbol_src")
     
-    #oomlout_oomp_symbol_src.make_symbols_readme()
+    oomlout_oomp_symbol_src.make_symbols_readme()
     
     cwd = os.getcwd()
     dir_all_symbols = f"{dir_src}/tmp/generated/oomlout_oomp_symbol_all_the_kicad_symbols"
