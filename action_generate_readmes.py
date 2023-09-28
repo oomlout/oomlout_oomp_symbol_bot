@@ -5,6 +5,7 @@ def main(**kwargs):
     go_through_directories()
 
 def go_through_directories():
+    print("Making readmes")
     # go through all directories in projects
     for root, dirs, files in os.walk("symbols"):
         #go through all files
