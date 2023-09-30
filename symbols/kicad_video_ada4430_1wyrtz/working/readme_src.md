@@ -1,15 +1,18 @@
-#  by   
-This is a harvested standardized copy of a symbol from github.  
-The original project can be found at:  
+# OOMP Symbol  
+## ada4430_1wyrtz  by kicad  
   
-The original symbol can be found in:
-
-Please consult that link for additional, details, files, and license information.  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| library_name | Video |  
-| oomp | {'library_name': 'video', 'owner_name': 'kicad', 'symbol_name': 'video_ada4430_1wyrtz'} |  
-| repo | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'name': 'libraries/kicad-symbols', 'owner': 'kicad', 'url': 'https://gitlab.com/kicad/libraries/kicad-symbols'} |  
-| repo_github | {'documentation_url': 'https://docs.github.com/rest/repos/repos#get-a-repository', 'message': 'Not Found'} |  
-
+oomp key: none  
+  
+source repo at: [https://gitlab.com/kicad/libraries/kicad-symbols](https://gitlab.com/kicad/libraries/kicad-symbols)  
+## Symbol  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| symbol name | Video | 
+| library name | Video | 
+| oomp key | none | 
+| oomp bot github |  | 
+## Images  
+  
+[![working.png](working_140.png)](working.png)  

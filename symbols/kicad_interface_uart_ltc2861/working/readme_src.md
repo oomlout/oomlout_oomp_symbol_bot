@@ -1,20 +1,18 @@
-# interface_uart_ltc2861 by arturo182  
-This is a harvested standardized copy of a symbol from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-symbols  
-The original symbol can be found in:
-https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
-Please consult that link for additional, details, files, and license information.  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| library_name | Interface_UART |  
-| links | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-symbols', 'oomp_bot': 'kicad_interface_uart_ltc2861/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_interface_uart_ltc2861/working', 'oomp_doc': 'kicad_interface_uart_ltc2861/working', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_interface_uart_ltc2861/working', 'oomp_src_flat': 'symbols_flat/kicad_interface_uart_ltc2861/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_interface_uart_ltc2861/working'} |  
-| name | interface_uart_ltc2861 |  
-| oomp | {'library_name': 'interface_uart', 'owner_name': 'kicad', 'symbol_name': 'interface_uart_ltc2861'} |  
-| oomp_key | oomp_kicad_interface_uart_ltc2861 |  
-| oomp_key_simple | kicad_interface_uart_ltc2861 |  
-| owner | arturo182 |  
-| repo | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'name': 'libraries/kicad-symbols', 'owner': 'kicad', 'url': 'https://gitlab.com/kicad/libraries/kicad-symbols'} |  
-| repo_github | {'documentation_url': 'https://docs.github.com/rest/repos/repos#get-a-repository', 'message': 'Not Found'} |  
-
+# OOMP Symbol  
+## ltc2861  by kicad  
+  
+oomp key: oomp_kicad_interface_uart_ltc2861  
+  
+source repo at: [https://gitlab.com/kicad/libraries/kicad-symbols](https://gitlab.com/kicad/libraries/kicad-symbols)  
+## Symbol  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| symbol name | Interface_UART | 
+| library name | Interface_UART | 
+| oomp key | oomp_kicad_interface_uart_ltc2861 | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_interface_uart_ltc2861/working | 
+## Images  
+  
+[![working.png](working_140.png)](working.png)  

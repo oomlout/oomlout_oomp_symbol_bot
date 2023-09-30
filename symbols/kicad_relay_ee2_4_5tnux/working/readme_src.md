@@ -1,15 +1,18 @@
-#  by   
-This is a harvested standardized copy of a symbol from github.  
-The original project can be found at:  
+# OOMP Symbol  
+## ee2_4_5tnux  by kicad  
   
-The original symbol can be found in:
-
-Please consult that link for additional, details, files, and license information.  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| library_name | Relay |  
-| oomp | {'library_name': 'relay', 'owner_name': 'kicad', 'symbol_name': 'relay_ee2_4_5tnux'} |  
-| repo | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'name': 'libraries/kicad-symbols', 'owner': 'kicad', 'url': 'https://gitlab.com/kicad/libraries/kicad-symbols'} |  
-| repo_github | {'documentation_url': 'https://docs.github.com/rest/repos/repos#get-a-repository', 'message': 'Not Found'} |  
-
+oomp key: none  
+  
+source repo at: [https://gitlab.com/kicad/libraries/kicad-symbols](https://gitlab.com/kicad/libraries/kicad-symbols)  
+## Symbol  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| symbol name | Relay | 
+| library name | Relay | 
+| oomp key | none | 
+| oomp bot github |  | 
+## Images  
+  
+[![working.png](working_140.png)](working.png)  

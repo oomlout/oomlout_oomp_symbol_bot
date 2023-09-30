@@ -1,15 +1,18 @@
-#  by   
-This is a harvested standardized copy of a symbol from github.  
-The original project can be found at:  
+# OOMP Symbol  
+## stm32l071cbyx  by kicad  
   
-The original symbol can be found in:
-
-Please consult that link for additional, details, files, and license information.  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| library_name | MCU_ST_STM32L0 |  
-| oomp | {'library_name': 'mcu_st_stm32l0', 'owner_name': 'kicad', 'symbol_name': 'mcu_st_stm32l0_stm32l071cbyx'} |  
-| repo | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'name': 'libraries/kicad-symbols', 'owner': 'kicad', 'url': 'https://gitlab.com/kicad/libraries/kicad-symbols'} |  
-| repo_github | {'documentation_url': 'https://docs.github.com/rest/repos/repos#get-a-repository', 'message': 'Not Found'} |  
-
+oomp key: none  
+  
+source repo at: [https://gitlab.com/kicad/libraries/kicad-symbols](https://gitlab.com/kicad/libraries/kicad-symbols)  
+## Symbol  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| symbol name | MCU_ST_STM32L0 | 
+| library name | MCU_ST_STM32L0 | 
+| oomp key | none | 
+| oomp bot github |  | 
+## Images  
+  
+[![working.png](working_140.png)](working.png)  

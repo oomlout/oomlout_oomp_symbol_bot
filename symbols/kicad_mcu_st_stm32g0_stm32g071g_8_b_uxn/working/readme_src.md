@@ -1,20 +1,18 @@
-# mcu_st_stm32g0_stm32g071g_8_b_uxn by arturo182  
-This is a harvested standardized copy of a symbol from github.  
-The original project can be found at:  
-https://gitlab.com/kicad/libraries/kicad-symbols  
-The original symbol can be found in:
-https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym
-Please consult that link for additional, details, files, and license information.  
-## yaml dump  
-| Key | Value |  
-| --- | --- |  
-| library_name | MCU_ST_STM32G0 |  
-| links | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-symbols', 'oomp_bot': 'kicad_mcu_st_stm32g0_stm32g071g_8_b_uxn/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_mcu_st_stm32g0_stm32g071g_8_b_uxn/working', 'oomp_doc': 'kicad_mcu_st_stm32g0_stm32g071g_8_b_uxn/working', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_symbol_doc/tree/main/kicad_mcu_st_stm32g0_stm32g071g_8_b_uxn/working', 'oomp_src_flat': 'symbols_flat/kicad_mcu_st_stm32g0_stm32g071g_8_b_uxn/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_symbol_src/tree/main/kicad_mcu_st_stm32g0_stm32g071g_8_b_uxn/working'} |  
-| name | mcu_st_stm32g0_stm32g071g_8_b_uxn |  
-| oomp | {'library_name': 'mcu_st_stm32g0', 'owner_name': 'kicad', 'symbol_name': 'mcu_st_stm32g0_stm32g071g_8_b_uxn'} |  
-| oomp_key | oomp_kicad_mcu_st_stm32g0_stm32g071g_8_b_uxn |  
-| oomp_key_simple | kicad_mcu_st_stm32g0_stm32g071g_8_b_uxn |  
-| owner | arturo182 |  
-| repo | {'github_src': 'https://gitlab.com/kicad/libraries/kicad-symbols/Video.kicad_sym', 'name': 'libraries/kicad-symbols', 'owner': 'kicad', 'url': 'https://gitlab.com/kicad/libraries/kicad-symbols'} |  
-| repo_github | {'documentation_url': 'https://docs.github.com/rest/repos/repos#get-a-repository', 'message': 'Not Found'} |  
-
+# OOMP Symbol  
+## stm32g071g_8_b_uxn  by kicad  
+  
+oomp key: oomp_kicad_mcu_st_stm32g0_stm32g071g_8_b_uxn  
+  
+source repo at: [https://gitlab.com/kicad/libraries/kicad-symbols](https://gitlab.com/kicad/libraries/kicad-symbols)  
+## Symbol  
+  
+[![working.png](working_600.png)](working.png)  
+| name | value | 
+| --- | --- | 
+| symbol name | MCU_ST_STM32G0 | 
+| library name | MCU_ST_STM32G0 | 
+| oomp key | oomp_kicad_mcu_st_stm32g0_stm32g071g_8_b_uxn | 
+| oomp bot github | https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/kicad_mcu_st_stm32g0_stm32g071g_8_b_uxn/working | 
+## Images  
+  
+[![working.png](working_140.png)](working.png)  

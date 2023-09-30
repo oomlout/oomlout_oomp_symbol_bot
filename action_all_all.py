@@ -16,8 +16,11 @@ def main(**kwargs):
     test=True
     test=False
     kwargs["test"] = test
-    kwargs["repo_filter"] = "oomlout"
-    kwargs["filter"] = "filter"
+    #kwargs["repo_filter"] = "oomlout"
+    kwargs["repo_filter"] = ""
+
+    #kwargs["filter"] = "filter"
+    kwargs["filter"] = ""
     dir_src = "tmp/data/oomlout_oomp_symbol_src"
     dir_base = "tmp/data/oomlout_oomp_symbol_src"
     kwargs["dir_src"] = dir_src
