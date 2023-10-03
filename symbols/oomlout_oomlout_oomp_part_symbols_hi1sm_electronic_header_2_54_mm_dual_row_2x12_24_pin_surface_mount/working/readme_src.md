@@ -14,3 +14,5 @@ source repo at: [https://github.com/oomlout/oomlout_oomp_part_kicad_symbols](htt
 | oomp key | oomp_oomlout_oomlout_oomp_part_symbols_hi1sm_electronic_header_2_54_mm_dual_row_2x12_24_pin_surface_mount | 
 | oomp bot github | https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/oomlout_oomlout_oomp_part_symbols_hi1sm_electronic_header_2_54_mm_dual_row_2x12_24_pin_surface_mount/working | 
 ## Images  
+  
+[![working.png](working_140.png)](working.png)  

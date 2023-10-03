@@ -14,3 +14,5 @@ source repo at: [https://github.com/oomlout/oomlout_oomp_part_templates](https:/
 | oomp key | oomp_oomlout_oomlout_oomp_part_templates_oobb_connector_basic_triple | 
 | oomp bot github | https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/oomlout_oomlout_oomp_part_templates_oobb_connector_basic_triple/working | 
 ## Images  
+  
+[![working.png](working_140.png)](working.png)  

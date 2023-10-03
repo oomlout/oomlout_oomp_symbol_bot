@@ -14,3 +14,5 @@ source repo at: [https://github.com/oomlout/oomlout_oomp_part_kicad_symbols](htt
 | oomp key | oomp_oomlout_oomlout_oomp_part_symbols_mhm6_electronic_mounting_hole_m6 | 
 | oomp bot github | https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/oomlout_oomlout_oomp_part_symbols_mhm6_electronic_mounting_hole_m6/working | 
 ## Images  
+  
+[![working.png](working_140.png)](working.png)  

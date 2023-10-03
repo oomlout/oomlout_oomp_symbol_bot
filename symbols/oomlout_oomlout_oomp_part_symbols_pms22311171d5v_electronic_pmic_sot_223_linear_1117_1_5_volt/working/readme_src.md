@@ -14,3 +14,5 @@ source repo at: [https://github.com/oomlout/oomlout_oomp_part_kicad_symbols](htt
 | oomp key | oomp_oomlout_oomlout_oomp_part_symbols_pms22311171d5v_electronic_pmic_sot_223_linear_1117_1_5_volt | 
 | oomp bot github | https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/oomlout_oomlout_oomp_part_symbols_pms22311171d5v_electronic_pmic_sot_223_linear_1117_1_5_volt/working | 
 ## Images  
+  
+[![working.png](working_140.png)](working.png)  

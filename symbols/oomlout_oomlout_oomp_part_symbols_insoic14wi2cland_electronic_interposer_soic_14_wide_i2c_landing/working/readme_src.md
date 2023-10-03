@@ -14,3 +14,5 @@ source repo at: [https://github.com/oomlout/oomlout_oomp_part_kicad_symbols](htt
 | oomp key | oomp_oomlout_oomlout_oomp_part_symbols_insoic14wi2cland_electronic_interposer_soic_14_wide_i2c_landing | 
 | oomp bot github | https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/oomlout_oomlout_oomp_part_symbols_insoic14wi2cland_electronic_interposer_soic_14_wide_i2c_landing/working | 
 ## Images  
+  
+[![working.png](working_140.png)](working.png)  
